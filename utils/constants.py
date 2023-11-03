@@ -12,12 +12,12 @@ This is an interactive interface you can use to practice diagnosing different
 medical conditions. You can 1 ask the LLM Patient Simulator:
 1. about their symptoms
 2. results of diagnostic tests/labs
-3. personal background including medical history and familial history
+3. personal background including medical history and familial history (Generic Q/A)
 
-Try it out now! Ask me something! 
+Use the buttons below to direct the flow of your conversation! 
 """
 
-TEMPLATE = """
+SYMPTOMS_TEMPLATE = """
 Pretend you are a medical patient seeking care from a doctor. You will be 
 presented with a medical condition. You are tasked to respond with 5 symptoms
 that you, as a patient, might have. Please be detailed in describing your 
