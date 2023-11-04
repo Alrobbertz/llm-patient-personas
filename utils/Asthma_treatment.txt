@@ -1,0 +1,377 @@
+GOALS OF ASTHMA TREATMENT
+The goals of chronic asthma management may be divided into two domains: achieving good control of asthma-related symptoms and minimizing future risk (asthma exacerbations, suboptimal lung function, adverse effects of medication) [1,31]. The patient’s personal goals should be incorporated into decision-making regarding asthma management.
+
+Optimizing control of asthma symptoms – Good control of asthma means reducing the intensity and frequency of asthma symptoms and maintaining normal or near normal activity levels. Specific goals for asthma control include:
+
+Freedom from frequent or troublesome symptoms of asthma (cough, chest tightness, wheezing, or shortness of breath)
+
+Few night-time awakenings (≤2 nights per month) due to asthma
+
+Minimal need (≤2 days per week) for medication for acute relief of asthma symptoms
+
+Optimized lung function
+
+Maintenance of normal daily activities, including work or school attendance and participation in athletics and exercise
+
+Satisfaction with asthma care on the part of patients and caregivers
+
+Reducing future risk – The concept of risk encompasses the various adverse outcomes associated with asthma and its treatment [1]. These include asthma exacerbations, suboptimal lung development (children), loss of lung function over time (adults) [32], and adverse effects from asthma medications. A history of ≥1 exacerbation(s) in the past year is an independent risk factor for future exacerbations, as are poor adherence to asthma medication, incorrect inhaler technique, low lung function, smoking (eg, tobacco, cannabis) or vaping, an elevated concentration of exhaled nitric oxide (fractional exhaled nitric oxide, FeNO), and blood eosinophilia [4].
+
+Specific goals for reducing risk include:
+
+Prevention of recurrent exacerbations and need for emergency department or hospital care
+
+Prevention of reduced lung growth in children and loss of lung function in adults (due to poor asthma control)
+
+Optimization of pharmacotherapy with minimal or no adverse effects
+
+PATIENT EDUCATION
+A key component of optimizing asthma control is the engagement of patients as active partners in their asthma management [4]. A successful partnership depends on robust and ongoing asthma education; a well-informed and motivated patient can assume a large measure of control over his or her asthma care.
+
+The effectiveness of direct one-on-one education by the primary clinician, in particular, is well supported by evidence [1]. Numerous additional resources are available for asthma education, such as asthma educators, pharmacists, respiratory therapists, organized programs in the community, and online sources (eg, Asthma and Allergy Foundation, American Academy of Allergy, Asthma & Immunology, American College of Allergy, Asthma & Immunology, American Lung Association, National Jewish Health). Patient education information from UpToDate is listed below. (See 'Information for patients' below.)
+
+Patient education decreases asthma exacerbations and hospitalizations and improves daily function and patient satisfaction in many, but not all, studies [33-37]. Based on limited evidence, culturally-specific asthma education may improve asthma outcomes in patients with low medical literacy or nontraditional belief systems [38].
+
+Components of asthma education and self-management — The important components of asthma education are described in detail separately and include responses to the following questions (see "Asthma education and self-management"):
+
+What is asthma and what are its symptoms?
+
+What are the asthma triggers for the individual patient and how can they be mitigated?
+
+Which medications should be used for quick relief of asthma symptoms, which are used for asthma control, and which can be used in both circumstances?
+
+What is the correct technique for each inhaler that the patient uses (table 2 and table 3 and table 4 and table 5 and table 6)?
+
+Are there barriers that prevent the patient from taking medications regularly? If so, what methods would help improve adherence?
+
+Asthma action plan — A personalized "asthma action plan" is a written document that provides instructions for the patient to follow at home. Although supportive data are limited [1,4], many asthma specialists, including ourselves, believe that written asthma action plans are useful in clarifying the medication regimen, helping patients to identify declines in asthma control, and guiding treatment adjustments in response to changes in symptoms and home measurement of peak expiratory flow (PEF) and/or forced expiratory volume in the first second of exhalation (FEV1).
+
+Symptom-based action plans are used for the majority of patients. Home monitoring of PEF and/or FEV1 may provide added benefit when incorporated into the asthma action plan, particularly for patients with moderate to severe asthma, patients who are poor perceivers of asthma control, and during pregnancy. (See 'Home monitoring' below and "Peak expiratory flow monitoring in asthma".)
+
+Several asthma action plan forms are available:
+
+National Asthma Education and Prevention Program (NAEPP) Asthma action plan (form 1)
+
+NAEPP Asthma action plan for children (form 2)
+
+American Academy of Allergy Asthma & Immunology - School based asthma management program
+
+Asthma Society of Canada
+
+Asthma UK
+
+National Asthma Council Australia
+
+Instructions for the use of asthma action plans are presented separately. (See "Asthma education and self-management".)
+
+Controlling asthma triggers — The identification and avoidance of asthma "triggers" is an important component of successful asthma management, and successful avoidance or remediation may reduce the patient's need for medication. Directed questions can help identify specific triggers (eg, allergens, fumes, cigarette smoke exposure) to asthma and to comorbid conditions (table 7). Similarly, children should be questioned about symptoms that occur in school [4]. (See "Trigger control to enhance asthma management" and "Allergen avoidance in the treatment of asthma and allergic rhinitis".)
+
+Adults should be questioned about symptoms not only in the home, but also in the workplace, as asthma can be exacerbated by both irritant and allergen exposures in occupational settings. Patterns of symptoms that suggest occupational triggers are presented in the table (table 8) [1]. (See "Occupational asthma: Definitions, epidemiology, causes, and risk factors".)
+
+Allergen-specific IgE blood testing or skin testing can be helpful to confirm a patient’s suspicion of allergic sensitivity or to clarify allergen sensitization when symptoms leave a patient uncertain as to the association with specific exposures. Allergen-specific immunotherapy may be an adjunct to standard pharmacologic treatment in selected patients with allergic asthma as described separately [2,4]. (See "Asthma in adolescents and adults: Evaluation and diagnosis", section on 'Tests for allergy' and "Subcutaneous immunotherapy (SCIT) for allergic rhinoconjunctivitis and asthma: Indications and efficacy", section on 'Allergic asthma'.)
+
+For triggers that should not be avoided, such as physical exertion, or are difficult to avoid, such as upper respiratory tract illnesses, hormonal fluctuations, and extreme emotion, patients should be taught how to adjust their asthma management to mitigate potential exacerbation of their symptoms.
+
+INITIAL ASSESSMENT
+The initial assessment of asthma severity typically occurs around the time of diagnosis. (See "Asthma in children younger than 12 years: Initial evaluation and diagnosis" and "Asthma in adolescents and adults: Evaluation and diagnosis".)
+
+Assessment of asthma severity can serve as a guide to the intensity of therapy needed to bring asthma under good control. Asthma severity is influenced by multiple factors, including airway hyperresponsiveness and predisposition to allergy ("atopy"), environmental factors (such as irritant, viral, and allergen exposures), and comorbidities (such as obesity or chronic rhinosinusitis), and so it can change over time. The criteria for asthma severity are most easily used to help categorize patients who are not yet taking medication for control of their asthma or who are taking only a short-acting bronchodilator for symptom relief. On the other hand, assessment of asthma control is applicable to all patients regardless of their medication use and should be assessed at every patient encounter. (See 'Adjusting controller medication' below.)
+
+Good asthma control is the goal of asthma management and is achievable in the great majority of patients with asthma. By expert consensus, patients meeting the following criteria have good asthma control:
+
+Symptoms of asthma requiring quick-reliever medication no more than two days per week
+
+Night-time awakenings no more than two nights per month
+
+Lung function (PEF or FEV1) within the normal range (or within 20 percent of the patient’s personal best value)
+
+No more than one exacerbation in the past year requiring urgent care and/or oral glucocorticoids
+
+Besides noting the frequency of symptoms and risk factors for exacerbations, evaluation should include assessment (and documentation) of lung function in all persons old enough to perform testing [4]. If the patient has an exacerbation at the time of the initial evaluation, assessment of lung function should be repeated following resolution of the exacerbation.
+
+The National Asthma Education and Prevention Program (NAEPP) and the Global Initiative for Asthma (GINA) base initial therapy on assessment of asthma symptoms (frequency and intensity), respiratory impairment, and risk of poor asthma outcomes [1,4], although the specific categories vary (for adults and adolescents (table 1); for children 4 to 11 years (table 9); for infants and toddlers (table 10)). NAEPP includes spirometric or peak flow values in determining asthma severity. In contrast, GINA does not use spirometric values to guide medication selection after the diagnosis of asthma is confirmed, except for a forced expiratory volume in one second (FEV1) <60 percent of predicted, which is a risk factor for exacerbations.
+
+Both asthma severity and asthma control are determined by considering the following factors (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)) [1,4]:
+
+Reported frequency and severity of daytime symptoms and nocturnal awakenings over the previous four weeks
+
+Number of exacerbations requiring oral glucocorticoids in the previous year
+
+Current level of lung function, if able to perform this testing (FEV1 and FEV1/forced vital capacity [FVC] values, or peak expiratory flow [PEF] if spirometry not available)
+
+GINA defines the severity of a patient’s asthma based upon the level of treatment required to control symptoms and exacerbations, assessed retrospectively, but incorporates symptom frequency and severity and risk of exacerbation in the approach to initiation of therapy [4]. Good asthma control is defined as having few or no asthma symptoms, normal lung function, and rare or no exacerbations, as described for intermittent asthma below. (See 'Intermittent' below.)
+
+The use of these elements to determine severity in adults and adolescents over the age of 11 years is presented in the table (table 1). The classification of severity in children aged 4 to 11 years is similar to that in adults (table 9). Severity in children under the age of four years, however, is classified somewhat differently (table 10).
+
+CATEGORIES OF ASTHMA SEVERITY
+
+Utility of severity categorization before and after treatment — Initial categorization of asthma severity may be helpful in determining the appropriate starting therapy to achieve asthma control. Recategorizing after treatment initiation has less relevance to most therapeutic decision-making, which is primarily guided by degree of asthma control. The categorization of severe asthma carries the most important clinical and therapeutic implications.
+
+Determining severity — Asthma is categorized according to the most severe element. As an example, a patient with symptoms and lung function suggesting intermittent asthma but with two or more exacerbations per year requiring oral glucocorticoids is considered to have mild persistent asthma.
+
+Rationale for intermittent versus mild persistent categories — The distinction between intermittent and mild persistent asthma is based upon the consensus opinion of experts. However, there are no known biologic differences or specific biomarkers to distinguish the two categories.
+
+The original concept (that patients with mild disease should be described in two separate categories) was developed with the purpose of encouraging medical providers to treat the chronic airway inflammation of asthma with chronic antiinflammatory therapy (rather than bronchodilators alone), even at a stage when lung function might be within the normal range (as in mild persistent asthma).
+
+Treatment recommendations from the Global Initiative for Asthma (GINA) have re-examined this understanding of asthma pathobiology and have encouraged the use of anti-inflammatory therapy in all patients with asthma, even those with intermittent asthma, arguing that chronic (mostly eosinophilic) inflammation is characteristic of all asthma, regardless of severity; persons with intermittent asthma may experience severe asthma attacks, including life-threatening ones, that can be prevented by anti-inflammatory treatment; and intermittent use of inhaled glucocorticoids, rather than daily administration, can suffice to treat the airway inflammation of intermittent asthma.
+
+Intermittent — Intermittent asthma is characterized by the following features in adults and adolescents (table 1) [1]:
+
+Daytime asthma symptoms occurring two or fewer days per week
+
+Two or fewer nocturnal awakenings per month
+
+Use of short-acting beta-agonists (SABAs) to relieve symptoms two or fewer days per week
+
+No interference with normal activities between exacerbations
+
+FEV1 measurements between exacerbations that are consistently within the normal range (ie, ≥80 percent of predicted)
+
+FEV1/FVC ratio between exacerbations that is normal (based on age-adjusted values)
+
+One or no exacerbations requiring oral glucocorticoids per year
+
+If any of the features of a patient’s asthma is more severe than those listed here, the asthma should be categorized as persistent, with its severity based on the most severe element.
+
+A person using a SABA to prevent exercise-induced asthmatic symptoms might fit into this category of intermittent asthma even if exercising more than twice per week. (See "Exercise-induced bronchoconstriction".)
+
+Equivalent tables for classifying asthma in children 0 to 3 years and 4 to 11 years are provided (table 10 and table 9).
+
+Mild persistent — Mild persistent asthma is characterized by the following (table 1):
+
+Symptoms more than twice weekly (although less than daily)
+
+Approximately three to four nocturnal awakenings per month due to asthma (but fewer than every week)
+
+Use of SABAs to relieve symptoms more than two days out of the week (but not daily)
+
+Minor interference with normal activities
+
+FEV1 measurements between exacerbations that are within normal range (≥80 percent of predicted)
+
+Two or more exacerbations per year requiring oral glucocorticoids
+
+Equivalent tables for asthma in children 0 to 3 years and 4 to 11 years are provided (table 10 and table 9). (See "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+Moderate persistent — The presence of any of the following features is considered an indication of moderate disease severity (table 1):
+
+Daily symptoms of asthma
+
+Nocturnal awakenings as often as once per week
+
+Daily need for reliever therapy for symptom relief
+
+Some limitation in normal activity
+
+FEV1 ≥60 and <80 percent of predicted and FEV1/FVC below normal
+
+Equivalent figures for asthma in children 0 to 3 years and 4 to 11 years are provided (table 10 and table 9). (See "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+Severe persistent — Severe persistent asthma, as defined by the NAEPP, is manifest by the presence of asthma symptoms throughout the day, nocturnal awakening due to asthma nightly, reliever medication needed for symptoms several times/day, or extreme activity limitation due to asthma [1,2]. Such patients need prompt initiation of asthma therapy. The response to therapy is difficult to predict at initial presentation. Intensive therapy should be begun, but some patients will achieve good asthma control long term with only low-to-medium doses of inhaled GC and no longer be considered to have severe asthma [1,4].
+
+The definition of “severe asthma” has been the focus of many expert panels and research consortia. The European Respiratory Society/American Thoracic Society (ERS/ATS) guidelines define "severe" asthma as symptoms and lung function impairment that require high-dose inhaled GC and a second controller agent (such as an inhaled long-acting beta-agonist bronchodilator [LABA]) or near continuous oral glucocorticoid therapy to achieve asthma control or may not achieve control with this therapy (table 14) [4,39,40]. (See "Evaluation of severe asthma in adolescents and adults", section on 'Definition'.)
+
+The World Health Organization has offered a definition of severe asthma that includes a useful subcategorization of patients [41]. Some patients have poor asthma control despite treatment with high-dose inhaled GC and a LABA because of confounding and potentially remediable factors, like poor medication adherence, allergen or irritant exposures in their home or work environment, or treatable comorbidities like rhinosinusitis. They are considered to have "difficult-to-treat" severe asthma. In contrast, other patients continue to have poor asthma control despite good medication adherence, modification of environmental exposures, and management of comorbidities. Such patients are considered to have "treatment-resistant" severe asthma and are likely candidates for biologic agents. (See "Enhancing patient adherence to asthma therapy" and "Treatment of severe asthma in adolescents and adults", section on 'Selecting among biologic agents'.)
+
+Equivalent parameters for asthma in children 0 to 4 years and 5 to 11 years are provided (table 10 and table 9). (See "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+INITIATING PHARMACOLOGIC TREATMENT
+Pharmacologic treatment is the mainstay of management in most patients with asthma [1,2,4]. National and international guidelines advise initiating pharmacologic therapy based on the frequency and severity of symptoms, history of exacerbations requiring systemic glucocorticoids, and results of lung function measurement (asthma severity), and subsequently adjusting therapy up or down, as needed, according to a stepwise approach, to achieve good asthma control [1,2,4].
+
+The choice of medication is based on age of the patient (eg, ≥12 years, 5 to 11 years, 0 to 4 years), symptoms, lung function, risk factors for exacerbations, patient preference, and practical issues (eg, ability to use the medication delivery device, accessibility of medication).
+
+The approach outlined here focuses on treatment of adolescent and adult patients. While management of children with asthma is similar, additional details related to initiating long-term controller medications in children under the age of 12 years, including methods to deliver inhaled medications to very young children, are reviewed separately. (See "Asthma in children younger than 12 years: Overview of initiating therapy and monitoring control" and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+Initiating therapy during an acute exacerbation — For all patients with symptoms of an asthma exacerbation, we recommend prompt administration of an inhaled short-acting beta-agonist (SABA; eg, albuterol or equivalent). Patients who present with an acute exacerbation of asthma often require an initial, brief course of systemic glucocorticoids, at the same time that long-term controller medication is initiated. Selection of the specific controller medication(s) is based on recent symptoms and may need to be adjusted ("stepped up or stepped down") once the acute exacerbation has resolved. Treatment of asthma exacerbations is reviewed separately. (See "Acute exacerbations of asthma in adults: Home and office management" and "Acute asthma exacerbations in children younger than 12 years: Overview of home/office management and severity assessment" and "Acute asthma exacerbations in children younger than 12 years: Emergency department management".)
+
+Initiating therapy in previously untreated patients — All patients with asthma should have immediate access to an inhaled bronchodilator with a rapid onset of action for prompt relief of asthma symptoms. The traditional choice is a short-acting beta-agonist (SABA; eg, albuterol or levalbuterol). An alternative, as recommended by the Global Initiative for Asthma (GINA), is to use a combination low-dose glucocorticoid-formoterol inhaler (eg, budesonide-formoterol 80 mcg-4.5 mcg or 160 mcg-4.5 mcg), one to two inhalations as needed for asthma symptoms (off-label). This recommendation is based upon the observation that formoterol has a rapid onset of action, equivalent in time course to albuterol, and therefore can be used for quick relief of symptoms (see 'Intermittent (Step 1)' below). Another alternative medication for quick-relief of asthma symptoms is a low-dose glucocorticoid-SABA combination inhaler (budesonide 80 mcg/puff with albuterol 90 mcg/puff).
+
+Initiation of controller therapy for asthma in a stable patient who is not already receiving asthma medication or who is being treated with a SABA alone is based upon the severity of the individual's asthma (for adults and adolescents (table 1); for children 4 to 11 years (table 9); for infants and toddlers (table 10)). (See 'Initial assessment' above.)
+
+Intermittent (Step 1) — Patients with intermittent asthma have traditionally been treated with a SABA, taken as needed for relief of symptoms [1,2]. A novel strategy has been recommended by the Global Initiative for Asthma (GINA): use of a combination inhaler that contains low-dose glucocorticoid and the fast-acting long-acting beta-agonist (LABA), formoterol, taken as needed for symptom relief (off-label in the United States) (table 1) [4]. Formoterol has both a rapid onset and long duration of action (up to 12 hours of bronchodilation). Alternatively, GINA recommends use of a low-dose glucocorticoid inhaler whenever a SABA is used for symptom relief. Although combination ICS-SABA inhalers are undergoing regulatory approval worldwide, including in the United States [42], lack of wide availability means that this latter strategy may require carrying two separate inhalers for intermittent, as-needed use [4]. These novel approaches seek to treat the chronic airway inflammation that is thought to be present even in intermittent asthma and to reduce the risk of severe and potentially life-threatening asthma attacks that can occur in patients with intermittent asthma who rely on treatment with a SABA alone. More extensive discussion of the rationale behind these options is addressed separately. (See "Treatment of intermittent and mild persistent asthma in adolescents and adults" and "Asthma in children younger than 12 years: Quick-relief (rescue) treatment for acute symptoms".)
+
+When triggering of asthma symptoms can be predicted (eg, exercise-induced bronchoconstriction), pretreatment with a SABA (2 inhalations) or an inhaler containing the fast-acting LABA, formoterol, and a glucocorticoid (eg, budesonide-formoterol) 1 to 2 inhalations approximately 5 to 20 minutes prior to exposure is recommended to blunt or prevent the onset of symptoms. An alternative is to use leukotriene receptor antagonists at least two hours before exercise [43], but patients treated with this approach should still carry a rescue inhaler in case of breakthrough symptoms. (See "Exercise-induced bronchoconstriction".)
+
+Mild persistent (Step 2) — For patients with mild persistent asthma, the mainstay of treatment is inhaled glucocorticoids, either as maintenance therapy or as needed for worsening symptoms.
+
+The traditional recommendation for care has been initiation of a regular (daily) low-dose inhaled glucocorticoid controller medication (for adults and adolescents (table 1); for children 4 to 11 years old (table 9); for infants and toddlers (table 10)) (table 15). Regular use of inhaled glucocorticoids reduces the frequency of symptoms (and the need for SABAs for symptom relief), improves the overall quality of life, and decreases the risk of serious exacerbations [44-46].
+
+Disadvantages to regular maintenance inhaled glucocorticoids in this group include lack of perceived symptomatic benefit after each dose of inhaled glucocorticoid, leading to preferential use of SABA bronchodilator over controller glucocorticoid; patient concerns about the long-term safety of inhaled glucocorticoids and uncertainty of their need in the absence of symptoms; and confusion about the roles and therefore proper use of two different inhalers (which once removed from their packaging do not contain preprinted instructions for use on the inhaler devices themselves). One year after prescription of a daily inhaled glucocorticoid, fewer than 50 percent of patients are using the medication regularly [47]. Alternatives proposed strategies to overcome these disadvantages of daily inhaled glucocorticoid therapy and achieve good asthma control in mild persistent asthma include as-needed use of a combination inhaled glucocorticoid and fast-acting beta-agonist (ie, formoterol or albuterol) [48]; once-daily use of a glucocorticoid-LABA combination, with as needed SABA [49]; and intermittent use of high-dose inhaled glucocorticoids guided by symptoms, with as needed SABA [4,50].
+
+Leukotriene modifiers are an alternative when avoidance of inhaled glucocorticoids is deemed necessary, but efficacy is generally less (table 1 and table 9). The US Food and Drug Administration (FDA) has placed a boxed warning on montelukast regarding potential behavior and mood-related changes. (See "Antileukotriene agents in the management of asthma", section on 'Adverse effects'.)
+
+The pharmacologic management of mild persistent asthma is presented in greater detail elsewhere. (See "Treatment of intermittent and mild persistent asthma in adolescents and adults" and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+Moderate persistent (Step 3) — For moderate persistent asthma, the preferred controller therapy is a combination low-dose inhaled glucocorticoid and LABA in a single inhaler (for adults and adolescents (table 1); for children 4 to 11 (table 9); for infants and toddlers (table 10)) along with both inhaled glucocorticoid and reliever therapy as needed for acute symptoms.
+
+Because of the rapid onset of action of formoterol, a combination budesonide-formoterol inhaler can be used both for daily controller therapy and for quick relief of symptoms, one recommended strategy is referred to as SMART (Single inhaler Maintenance and Reliever Therapy). It is likely that a combination mometasone-formoterol inhaler can be used in the same way (for both maintenance therapy and for acute relief of symptoms), but fewer data are available with this combination.
+
+This strategy (SMART) has the advantages of: (1) patients are required to master the use of and keep with them one inhaler rather than two; and (2) additional inhaled glucocorticoid is administered when symptoms flare and acute relief of symptoms is needed.
+
+Alternatively, patients can use a low-dose inhaled glucocorticoid-LABA combination inhaler daily and inhaled glucocorticoid and SABA for acute relief of symptoms (for adults (table 16); for children (table 17)). Evidence supports the use of a SABA together with a glucocorticoid, compared with SABA alone, for acute relief of symptoms in patients with moderate persistent asthma on regular controller therapy with combination glucocorticoid-LABA, achieving improved asthma control and a reduced frequency of asthma exacerbations [51,52]. Because use of ICS and SABA together may require two rescue inhalers (until wider available of ICS-SABA combination therapy), use of SABA alone is a frequent alternative. However, this approach is probably suboptimal for maintaining good asthma control.
+
+While LABA use was at one time thought to be associated with an increased risk of severe and life-threatening asthma attacks, subsequent large-scale, randomized trials regarding the use of combination inhalers containing inhaled glucocorticoid and a LABA found no such association, and the "boxed" warning (also called black box warning) that had been included in the package inserts of all LABA products was removed. It remains true that LABAs by themselves should not be used to treat asthma in the absence of concomitant anti-inflammatory therapy, typically an inhaled glucocorticoid. (See "Beta agonists in asthma: Acute administration and prophylactic use", section on 'Long-term maintenance therapy with LABAs'.)
+
+Addition of an inhaled long-acting muscarinic antagonist (LAMA; tiotropium) to an inhaled glucocorticoid has proven equally effective compared to the combination of an inhaled glucocorticoid and LABA [2]. This option is appropriate for any patient intolerant of LABAs or in whom even limited sympathomimetic stimulation is contraindicated, but it requires two separate inhaler devices with distinct inhaler techniques.
+
+An alternative, but overall less effective strategy is addition of a leukotriene modifier (eg, montelukast, zafirlukast) to low-dose inhaled glucocorticoids. We rarely initiate theophylline in the modern treatment of asthma.
+
+The pharmacologic management of moderate persistent asthma is presented in more detail elsewhere. (See "Treatment of moderate persistent asthma in adolescents and adults" and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+Severe persistent (Step 4 or 5) — For severe persistent asthma, the preferred controller treatments are medium (Step 4) or high (Step 5) doses of an inhaled glucocorticoid in combination with a LABA (for adults and adolescents (table 1), for children 4 to 11 (table 9), for infants and toddlers (table 10)). Medium to high doses of inhaled glucocorticoids (table 15) require more careful monitoring for adverse effects (see "Major side effects of inhaled glucocorticoids"). As in moderate persistent asthma, the use of a SABA together with a glucocorticoid for acute relief of symptoms in patients with severe persistent asthma may improve asthma control and reduce the frequency of asthma exacerbations compared with SABA alone [51,52].
+
+Additional therapy with a leukotriene modifier, LAMA, or biologic agent may be needed, guided by the treatment response. A triple combination inhaler containing an inhaled glucocorticoid, LABA, and LAMA (eg, fluticasone furoate-vilanterol-umeclidinium) has been approved for treatment of severe persistent asthma.
+
+On rare occasion, daily or alternate-day systemic glucocorticoids are needed to treat severe, refractory asthma. The long-term adverse side effects of systemic glucocorticoids are myriad and often devastating. The availability of targeted monoclonal antibodies ("biologics") to treat severe persistent asthma has fortunately made this subset of "steroid-dependent" patients progressively smaller. (See "Major side effects of systemic glucocorticoids".)
+
+Treatment options for severe asthma are discussed in greater detail separately. (See 'Stepping up therapy in poorly controlled asthma' below and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies", section on 'Moderate-to-severe, persistent asthma' and "Treatment of severe asthma in adolescents and adults" and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies", section on 'Step-up therapy for severe asthma'.)
+
+FOLLOW-UP MONITORING
+Effective asthma management requires a proactive, preventive approach, similar to the treatment of hypertension or diabetes.
+
+Approach to monitoring — Routine follow-up visits for patients with active asthma are recommended, at a frequency of every one to six months, depending upon the severity of asthma and adequacy of control. Follow-up visits should be used to assess asthma control, lung function, exacerbations, inhaler technique, adherence, medication adverse effects, quality of life, and patient satisfaction with care [3].
+
+By consensus from panels of asthma experts, well-controlled asthma is characterized by daytime symptoms no more than twice per week and nighttime awakening due to asthma no more than twice per month [4]. Asthma symptoms requiring reliever medication (eg, short-acting beta-agonist [SABA]) should occur at most two days out of the week (not including pretreatment before exercise), and there should be no interference with normal activity. Pretreatment with a SABA to prevent exercise-induced bronchoconstriction is generally not counted, although the need for daily SABA to prevent exercise-induced bronchoconstriction suggests suboptimal control that often warrants addition of controller medication [4,53]. (See "Exercise-induced bronchoconstriction", section on 'Persistent EIB symptoms despite premedication'.)
+
+Peak expiratory flow and spirometry should remain normal or near normal (or, when a patient’s optimal baseline lung function is abnormal, at or close to the individual’s personal best peak flow or forced expiratory volume in one second [FEV1]). Oral glucocorticoid courses and/or urgent care visits should be needed no more than once per year [54]. Approaches to assessment of asthma control in adults and children are summarized in the tables (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)).
+
+Symptom and risk assessment — Symptoms over the past four weeks should be assessed at each visit. Assessment should address daytime symptoms, nighttime awakening due to asthma symptoms, frequency of use of SABAs to relieve symptoms, and difficulty in performing normal activities and exercise (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)). Several quick and validated questionnaires, like the Asthma Control Test for children (figure 1) and adults (form 3), provide standardized methods for scoring asthma control and recording changes over time [4,55-65].
+
+Assessment of impairment – The following questions are representative of those used in validated questionnaires to assess asthma control:
+
+How often has your asthma awakened you at night or in the early morning?
+
+How often have you been needing to use your quick-acting relief medication for symptoms of cough, shortness of breath, or chest tightness?
+
+Have you needed any unscheduled care for your asthma, including calling in, an office or urgent care visit, or an emergency department visit?
+
+Have you been able to participate in school/work and recreational activities as desired?
+
+If you are measuring your peak flow, has it been lower than your personal best? Home monitoring of peak flow measurements is reviewed in detail separately. (See "Peak expiratory flow monitoring in asthma".)
+
+Assessment of risk – The following questions can be used to address the most important risk factors for future exacerbations [1]. A discussion of the risk factors for fatal and near-fatal asthma is provided separately. (See "Identifying patients at risk for fatal asthma", section on 'Identifying high-risk patients'.)
+
+Have you taken oral glucocorticoids ("steroids") for your asthma in the past year?
+
+Have you been hospitalized for your asthma? If yes, how many times have you been hospitalized in the past year?
+
+Have you been admitted to the intensive care unit or been intubated because of your asthma? If yes, did this occur within the past five years?
+
+Do you currently vape or smoke cigarettes or does anyone in your household? If so, how many each day?
+
+Other factors that are also associated with fatal asthma (eg, aeroallergen exposure, food allergy, illicit drug use) may increase risk in individual patients. (See "Identifying patients at risk for fatal asthma", section on 'Minor risk factors'.)
+
+Follow-up visits should also include inquiry about any adverse effects from or concerns about asthma medications. It is worth regularly revisiting the patient’s use of inhaled medications to ensure that they are not empty or expired, are being inhaled properly, and where appropriate (especially with the use of inhaled glucocorticoids via metered-dose inhalers), include use of a valved-holding chamber ("spacer") to optimize medication delivery to the airways and minimize deposition in the oropharynx.
+
+Pulmonary function — Spirometry is the preferred method for monitoring pulmonary function in children older than approximately five years of age and adults; assessing peak expiratory flow (PEF) with a peak flow meter is an alternative. Guidelines prefer use of spirometry over peak flow in medical offices, when available, due to greater accuracy of the measurement, when carefully performed by skilled technical staff [1]. Spirometry cannot be performed reliably by most children younger than six years. It is our practice to obtain a measurement of lung function (peak flow or spirometry) at every visit in our patients with asthma.
+
+Office monitoring — Spirometry, which measures FEV1 and forced vital capacity (FVC), is a sensitive and reproducible method for assessing airflow limitation, defined as a reduced FEV1/FVC ratio. Spirometry can detect reductions in lung function, indicating loss of asthma control and risk of a severe asthma exacerbation, particularly in patients who have few symptoms or physical findings of asthma [66,67]. We typically obtain spirometry approximately every one to two years when asthma is stable, but more frequently if asthma is not well-controlled or medications are being adjusted. Hand-held spirometers with disposable mouthpieces may allow expanded use in office settings. (See "Office spirometry" and "Pulmonary function testing in asthma" and "Overview of pulmonary function testing in children", section on 'Use of spirometry in asthma'.)
+
+In patients with asthma in whom airway obstruction has been established by spirometry, peak flow measurement using handheld peak flow meters can be used as an alternative for longitudinal monitoring. Peak flow monitoring is best used to assess changes over time and for detecting severe obstruction in a patient who may not have wheezing or complain of troublesome symptoms. Reliable PEF measurements can be made with minimal training; the costs in terms of equipment, staff, and time are minimal. Periodically, PEF values measured by peak flow meter should be correlated with peak flow measurement made via spirometry. Normal values for men, women, and adolescents are listed in the table or can be calculated (table 18 and table 19) (calculator 1 and calculator 2); normal values for children can be calculated (calculator 3 and calculator 4).
+
+It is important to understand the limitations of PEF. A reduced peak flow is not synonymous with airway obstruction. Spirometry is needed to differentiate an obstructive from restrictive abnormality [68]. Peak flow may underestimate the severity of airflow obstruction as revealed by spirometry (figure 2). Also, the accuracy of a single peak flow measurement to detect the presence of airflow obstruction is limited, given the large variability of PEF among healthy individuals of the same age, height, and sex (±20 percent) [68]. The use of PEF monitoring and its limitations are presented in more detail separately. (See "Peak expiratory flow monitoring in asthma".)
+
+Home monitoring — Home monitoring with repeated measurements of PEF or FEV1 over time may be useful for determining relative changes or trends in asthma control in adults and adolescents with moderate to severe persistent asthma, but is rarely used for children [1,4]. Home monitoring may be particularly helpful in patients who have poor perception of airflow limitation. These individuals cannot be easily identified at the outset of care, although over time they display a lack of awareness of increasing impairment, and typically seek care for exacerbations only after symptoms have become severe [69,70]. (See "Identifying patients at risk for fatal asthma".)
+
+Peak flow meters for individual use are widely available, inexpensive (approximately $20), and easy to use. However, measurements are highly dependent upon the patient's technique. It is therefore important that the patient's technique be assessed in the office and any mistakes in technique corrected. Instructions for use of a PEF meter are provided separately. (See "Patient education: How to use a peak flow meter (Beyond the Basics)".)
+
+Ideally, the patient should establish a baseline value of peak flow or FEV1, using morning and evening measurements over the course of a week or two when feeling entirely well: the "personal best" peak flow value. A chart for recording PEF values at home is available for download. The personal best PEF is then used to determine the normal PEF range, which is between 80 and 100 percent of the patient's personal best. Readings below this normal range indicate airway narrowing, a change that may occur before symptoms are perceived by the patient. (See 'Asthma action plan' above.)
+
+Other
+
+Airway inflammation – Methods to assess airway inflammation, such as blood and sputum eosinophil counts, total serum immunoglobulin E (IgE), and fractional exhaled nitric oxide (FENO), are less widely employed for disease monitoring. These tests are used in selected patients to determine the likelihood of response to a change in inhaled glucocorticoid dose or candidacy for one of the biologic therapies (eg, monoclonal antibodies targeting IgE, interleukin [IL]-5 or its receptor, or the alpha subunit of the IL-4 receptor). Studies have reached conflicting conclusions about whether regularly measuring markers such as FENO might help optimize asthma management. The use of expectorated sputum eosinophilia and exhaled nitric oxide analysis in the management of asthma are discussed in more detail separately. (See "Evaluation of severe asthma in adolescents and adults", section on 'Airway inflammation' and "Exhaled nitric oxide analysis and applications".)
+
+Comorbid conditions – Comorbid conditions can contribute to asthma symptoms, depending on the specific condition. In adults, these conditions include rhinitis/sinusitis, chronic obstructive pulmonary disease (COPD)/emphysema, allergic bronchopulmonary aspergillosis, gastroesophageal reflux, obesity, obstructive sleep apnea, inducible laryngeal obstruction (also called vocal cord dysfunction), and depression/chronic stress. In addition, there is increasing awareness about the impact of the social determinants of health (including poor housing conditions, increased exposure to air pollution, and lack of ready access to medications and medical care) on the course of asthma. These conditions are reviewed separately. (See "An overview of rhinitis" and "Chronic rhinosinusitis: Clinical manifestations, pathophysiology, and diagnosis" and "Chronic obstructive pulmonary disease: Diagnosis and staging" and "Clinical manifestations and diagnosis of allergic bronchopulmonary aspergillosis" and "Gastroesophageal reflux and asthma" and "Obesity and asthma" and "Clinical presentation and diagnosis of obstructive sleep apnea in adults" and "Inducible laryngeal obstruction (paradoxical vocal fold motion)".)
+
+ADJUSTING CONTROLLER MEDICATION
+For patients already taking one or more controller medications, therapy is adjusted in a stepwise fashion, increasing medication until asthma is controlled and then decreasing medication when possible to minimize adverse effects. The therapeutic tiers, or "steps," are as described in the National Asthma Education and Prevention Program (NAEPP) and Global Initiative for Asthma (GINA) guidelines (for adults and adolescents (table 1); for children 4 to 11 (table 9); for infants and toddlers (table 10)). Stepping up and down is based on the degree of asthma control and risk for future exacerbations as described above (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)). (See 'Follow-up monitoring' above.)
+
+Therapy should be reassessed at each visit because asthma is an inherently variable condition, and the management of asthma is a dynamic process that changes over time in accordance with the patient's needs.
+
+Asthma control is assessed based on impairment over the past two to four weeks (as determined by history or a validated questionnaire), current forced expiratory volume in one second (FEV1) or peak flow, and estimates of risk [1,71].
+
+Adjusting therapy in children younger than 12 years is reviewed in more detail separately. (See 'Follow-up monitoring' above and "Asthma in children younger than 12 years: Overview of initiating therapy and monitoring control", section on 'Monitoring and dosing adjustment' and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies".)
+
+Stepping up therapy in poorly controlled asthma — In patients with poorly controlled asthma (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)), treatment should be "stepped up" according to NAEPP or GINA tiers (for adults and adolescents (table 1); for children 4 to 11 (table 9); for infants and toddlers (table 10)) [4]. In patients with very poorly controlled asthma, it may be necessary to escalate therapy more than one step, and then "step-down" again once good control is achieved.
+
+In treating severe asthma, many providers add a long-acting muscarinic antagonist (LAMA; eg, tiotropium) and/or a leukotriene modifier to the combination inhaled glucocorticoid and long-acting beta-agonist (LABA). Patients with severe asthma should be referred to an asthma specialist, if available. If these patients remain poorly controlled, a biologic therapy may be considered to avoid oral glucocorticoids. Severe asthma is reviewed in more detail separately. (See "Treatment of severe asthma in adolescents and adults".)
+
+The availability of monoclonal antibodies targeting key molecules involved in airway inflammation in asthma has revolutionized the treatment of patients with severe asthma. These are reviewed briefly here and discussed in greater detail separately. (See "Treatment of severe asthma in adolescents and adults", section on 'Selecting among biologic agents'.)
+
+Anti-IgE therapy – For patients whose asthma is inadequately controlled on medium- to high-dose inhaled glucocorticoids and LABAs, the anti-immunoglobulin E (IgE) therapy omalizumab may be considered if there is objective evidence of sensitivity to a perennial allergen (by allergy skin tests or in vitro measurements of allergen-specific IgE) and if the serum total IgE level is within the established target range (based on patient weight and serum total IgE level). (See "Anti-IgE therapy".)
+
+Anti-eosinophilic therapy – Interleukin 4 (IL-4), IL-5, and IL-13 promote pulmonary eosinophilia through distinct mechanisms, including selective recruitment and cellular survival pathways. IL-4 also stimulates the production of IgE by its action on B cells. Monoclonal antibodies against IL-5 (mepolizumab and reslizumab), IL-5 receptor alpha (benralizumab), and IL-4 receptor alpha subunit (dupilumab) are available for treatment of severe eosinophilic asthma that is poorly-controlled with conventional therapy. (See "Treatment of severe asthma in adolescents and adults", section on 'Anti-IL-5 therapy' and "Treatment of severe asthma in adolescents and adults", section on 'Anti-lL-4 receptor alpha subunit antibody (dupilumab)'.)
+
+Anti-thymic stomal lymphopoietin therapy – Thymic stromal lymphopoietin (TSLP) promotes type 2 inflammation in asthma. Anti-TSLP is approved for adolescents and adults with severe asthma irrespective of peripheral blood eosinophil count, although patients with higher eosinophil counts tend to have a better response. (See "Treatment of severe asthma in adolescents and adults", section on 'Anti-thymic stromal lymphopoietin (tezepelumab)'.)
+
+Bronchial thermoplasty is a device-based intervention available in specialized centers to treat severe asthma. Using a special catheter introduced via a fiberoptic bronchoscope, thermal energy is applied to bronchial walls in an effort to impair bronchial smooth muscle contractility. The role of bronchial thermoplasty in managing severe asthma remains debated. The 2020 Focused Updates of the NAEPP recommends against the use of bronchial thermoplasty outside of a clinical trial or database registry [2]. (See "Treatment of severe asthma in adolescents and adults", section on 'Bronchial thermoplasty'.)
+
+Stepping down therapy — For patients whose asthma has been well-controlled for three to six months on a stable regimen (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)), controller medications can be reduced in a step-wise fashion based on NAEPP or GINA tiers (for adults and adolescents (table 1); for children 4 to 11 (table 9); for infants and toddlers (table 10)). Besides minimizing expense, inconvenience, and potential immediate adverse effects, the purpose of stepping down therapy in some patients is reducing long-term exposure to high doses of inhaled glucocorticoids, with their potential for systemic absorption and adverse effects on organs such as bones, eyes, and skin. Careful monitoring as therapy is stepped down is needed to identify, and respond to, any deterioration in control. Complete cessation of inhaled glucocorticoids should be approached with caution, as it is likely to lead to clinical deterioration in patients with persistent asthma [31]. Alternatively, in follow-up of well-controlled asthma, medications can be continued unchanged, especially if history reveals serious exacerbations in the past or a high risk of future exacerbation.
+
+WHEN TO REFER
+Both pulmonologists and allergists/immunologists have specialty training in asthma care. Referral for consultation or comanagement depends on the level of experience and comfort of the primary care provider with asthma care, but is generally advisable when any of the following circumstances arise [1,4]:
+
+Difficulty confirming a diagnosis of asthma
+
+History of a life-threatening asthma exacerbation (eg, intensive care unit admission, mechanical ventilation for asthma)
+
+Hospitalization for asthma, more than two courses of oral glucocorticoids in a year, or inability to discontinue oral glucocorticoids
+
+Need for step 5 care or higher
+
+Poor asthma control after three to six months of active therapy and appropriate monitoring
+
+Anaphylaxis or confirmed food allergy in a patient with asthma
+
+Presence of complicating comorbidity (eg, aspirin-exacerbated respiratory disease (AERD), nasal polyposis, chronic rhinosinusitis, allergic bronchopulmonary aspergillosis (ABPA), chronic obstructive pulmonary disease (COPD), inducible laryngeal obstruction [also called vocal cord dysfunction])
+
+Need for additional diagnostic tests (eg, allergy skin testing, bronchoscopy, complete pulmonary function tests)
+
+Consideration of allergen immunotherapy (see "Subcutaneous immunotherapy (SCIT) for allergic rhinoconjunctivitis and asthma: Indications and efficacy")
+
+Potential candidacy for therapy with biologics (benralizumab, dupilumab, mepolizumab, omalizumab, reslizumab, tezepelumab) or bronchial thermoplasty
+
+Other possible indications for referral include [1,4]:
+
+Need for step 4 care in an adult or child older than five years
+
+Need for step 2 care or higher in a child under five years
+
+Evaluate potential occupational triggers
+
+Patients in whom psychosocial or psychiatric problems are interfering with asthma management and in whom referral to other appropriate specialists may be required
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Asthma in adolescents and adults" and "Society guideline links: Severe asthma in adolescents and adults" and "Society guideline links: Asthma in children" and "Society guideline links: Exercise-induced bronchoconstriction".)
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, “The Basics” and “Beyond the Basics.” The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on “patient info” and the keyword(s) of interest.)
+
+Basics topics (see "Patient education: How to use your child's dry powder inhaler (The Basics)" and "Patient education: Asthma in children (The Basics)" and "Patient education: How to use your child's metered dose inhaler (The Basics)" and "Patient education: Asthma and pregnancy (The Basics)" and "Patient education: How to use your dry powder inhaler (adults) (The Basics)" and "Patient education: How to use your metered dose inhaler (adults) (The Basics)" and "Patient education: How to use your soft mist inhaler (adults) (The Basics)" and "Patient education: Asthma in adults (The Basics)" and "Patient education: Avoiding asthma triggers (The Basics)" and "Patient education: Medicines for asthma (The Basics)" and "Patient education: Coping with high drug prices (The Basics)" and "Patient education: Inhaled corticosteroid medicines (The Basics)")
+
+Beyond the Basics topics (see "Patient education: Asthma inhaler techniques in children (Beyond the Basics)" and "Patient education: Asthma treatment in children (Beyond the Basics)" and "Patient education: Asthma and pregnancy (Beyond the Basics)" and "Patient education: Asthma symptoms and diagnosis in children (Beyond the Basics)" and "Patient education: How to use a peak flow meter (Beyond the Basics)" and "Patient education: Inhaler techniques in adults (Beyond the Basics)" and "Patient education: Asthma treatment in adolescents and adults (Beyond the Basics)" and "Patient education: Exercise-induced asthma (Beyond the Basics)" and "Patient education: Trigger avoidance in asthma (Beyond the Basics)" and "Patient education: Coping with high prescription drug prices in the United States (Beyond the Basics)")
+
+SUMMARY AND RECOMMENDATIONS
+
+Goals of treatment – The goals of asthma treatment are to reduce impairment from symptoms, attenuate the risk of adverse outcomes associated with asthma (eg, hospitalizations, loss of lung function), and minimize adverse effects from asthma medications. (See 'Goals of asthma treatment' above.)
+
+Patient education and action plan – Patients should learn to monitor asthma control at home, including the frequency and severity of dyspnea, cough, chest tightness, and the need for quick-relief medication. The technique for using each type of inhaler should be demonstrated and reviewed with the patient. Adult and adolescent patients with moderate to severe asthma and those with poor perception of increasing asthma symptoms may benefit from measurement of their peak expiratory flow (PEF) or forced expiratory volume in first second of exhalation (FEV1) at home. (See 'Components of asthma education and self-management' above and "Asthma education and self-management".)
+
+A personalized asthma action plan should be provided with detailed instructions about adjusting asthma medications based upon changes in symptoms and/or lung function (form 1 and form 2). (See 'Asthma action plan' above.)
+
+Environmental triggers (table 7) and coexisting conditions that interfere with good asthma control should be identified and addressed for each patient. (See 'Controlling asthma triggers' above and 'Other' above and "Trigger control to enhance asthma management" and "Allergen avoidance in the treatment of asthma and allergic rhinitis" and "Subcutaneous immunotherapy (SCIT) for allergic rhinoconjunctivitis and asthma: Indications and efficacy".)
+
+Initiating pharmacologic therapy – Pharmacologic therapy is determined by the degree of asthma severity and asthma control.
+
+Quick-relief medication – All patients with asthma should have immediate access to an inhaled bronchodilator with a rapid onset of action for prompt relief of asthma symptoms. The traditional choice, most appropriate for patients with mild disease, infrequent symptoms, and absence of serious exacerbations, is a short-acting beta-agonist (SABA; eg, albuterol or levalbuterol). An alternative approach, most appropriate for patients for patients with moderate or severe persistent asthma and for patients with intermittent or mild persistent asthma but a history of serious exacerbations or erratic medical care, is to use a low-dose glucocorticoid together with a fast-acting beta-agonist (formoterol, albuterol, or levalbuterol). Combination inhalers (eg, budesonide-formoterol, mometasone-formoterol, budesonide-albuterol) are available. (See 'Initiating therapy in previously untreated patients' above and "Asthma in children younger than 12 years: Overview of initiating therapy and monitoring control" and "Asthma in children younger than 12 years: Quick-relief (rescue) treatment for acute symptoms" and "Treatment of intermittent and mild persistent asthma in adolescents and adults".)
+
+Controller medication – Initial maintenance therapy is based on assessment of asthma severity (for adults and adolescents (table 1); for children 4 to 11 (table 9); for infants and toddlers (table 10)), whereas adjustment of therapy is based on asthma control, which includes components of current impairment and future risk (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)). Asthma control can be judged, irrespective of medication use, based on the current level of symptoms, forced expiratory volume in one second (FEV1) or PEF values, and number of exacerbations requiring oral glucocorticoids in the preceding year. National (NAEPP) and international (GINA) guidelines offer a step-care approach to escalating medications until good asthma control is achieved. In well-controlled asthma, it may be possible to "step-down" the intensity of medical treatment without loss of asthma control, with a particular goal of minimizing long-term exposure to high-dose inhaled glucocorticoids. (See 'Initial assessment' above and 'Initiating pharmacologic treatment' above and "Asthma in children younger than 12 years: Overview of initiating therapy and monitoring control" and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies" and "Treatment of intermittent and mild persistent asthma in adolescents and adults" and "Treatment of moderate persistent asthma in adolescents and adults" and "Treatment of severe asthma in adolescents and adults".)
+
+Follow-up monitoring – Effective asthma management requires a preventive approach, with regularly scheduled visits during which symptoms are assessed, pulmonary function measured, control of exposure to asthma triggers and impact of comorbid conditions reviewed, medications adjusted, and ongoing education provided. (See 'Follow-up monitoring' above.)
+
+Therapy is adjusted up or down as needed based on assessment of asthma control regimen (for adults and adolescents (table 11); for children 4 to 11 (table 12); for infants and toddlers (table 13)) using the GINA or NAEPP step-wise regimens (for adults and adolescents (table 1); for children 4 to 11 (table 9); for infants and toddlers (table 10)). Detailed management of therapeutic adjustment are discussed separately. (See 'Adjusting controller medication' above and "Asthma in children younger than 12 years: Overview of initiating therapy and monitoring control", section on 'Monitoring and dosing adjustment' and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies", section on 'Step-up therapy for mild-to-moderate asthma' and "Asthma in children younger than 12 years: Management of persistent asthma with controller therapies", section on 'Step-up therapy for severe asthma' and "Treatment of intermittent and mild persistent asthma in adolescents and adults", section on 'Long-term management' and "Treatment of moderate persistent asthma in adolescents and adults", section on 'Adjusting therapy' and "Treatment of severe asthma in adolescents and adults", section on 'Adjusting controller therapy' and "Treatment of severe asthma in adolescents and adults", section on 'Persistently uncontrolled asthma'.)
+
+Specialist referral – Guidelines for specialist referral to a pulmonologist or allergist/immunologist include uncertainty about the diagnosis of asthma, poorly-controlled asthma, an episode of near-fatal asthma, need for specialized diagnostic studies (eg, allergy skin testing, bronchoscopy), potential treatment with biologics, or treatment of comorbid conditions. (See 'When to refer' above.)
+

@@ -1,0 +1,433 @@
+Female 17-hydroxyprogesterone, serum follicular: <80 ng/dL; <2.5 nmol/L (SI) 
+Female 17-hydroxyprogesterone, serum, luteal: <285 ng/dL; <9 nmol/L (SI)
+Female 17-hydroxyprogesterone, serum, postmenopausal: <51 ng/dL; <1.6 nmol/L (SI)
+5-hydroxyindoleacetic acid, urine: 2 to 9 mg/24-hour collection; 10 to 47 micromol/24-hour collection (SI)
+6-thioguanine, whole blood: 230 to 400 pmol/800 million (8 x 108) red blood cells
+A1C (hemoglobin A1C, glycohemoglobin): 4 to 5.6 percent; 20.2 to 37.7 mmol/mol (SI)
+Acid phosphatase, serum: Total: 0.5 to 2 (Bodansky) units/mL, Prostatic fraction: 0.1 to 0.4 units/mL
+ACTH (Adrenocorticotropic hormone), plasma: 10 to 60 pg/mL; 2.2 to 13.2 pmol/L (SI)
+Activated partial thromboplastin time (aPTT): 25 to 35 seconds
+Albumin, serum: 3.5 to 5.5 g/dL; 35 to 55 g/L (SI)
+Albumin, urine: <25 mg/24-hour collection
+Albumin-to-creatinine ratio, urine: <30 mg albumin/gram creatinine
+Aldolase, serum: 0.8 to 3 international units/mL
+Supine or seated Aldosterone, plasma: ≤10 ng/dL; ≤0.3 nmol/L (SI)
+Standing Aldosterone, plasma: <21 ng/dL; <0.6 nmol/L (SI)
+Low-sodium diet (supine) Aldosterone, plasma: ≤30 ng/dL; ≤0.8 nmol/L (SI)
+Aldosterone, urine: 5 to 19 microg/24 hour; 13.8 to 52.6 nmol/day (SI)
+Alkaline phosphatase, serum: 30 to 120 units/L
+Alpha-1 antitrypsin (AAT), serum: 150 to 350 mg/dL; 1.5 to 3.5 g/L or 27.6 to 64.5 micromol/L (SI)
+Alpha-2-antiplasmin activity, plasma: 75 to 115 percent
+Alpha-amino nitrogen, urine: 100 to 290 mg/24 hour
+Alpha-fetoprotein, serum: <10 ng/mL; <10 microg/L (SI)
+Amino acids, urine: 200 to 400 mg/24-hour collection
+Aminotransferase, serum alanine (ALT, SGPT): 10 to 40 units/L
+Aminotransferase, serum aspartate (AST, SGOT): 10 to 40 units/L
+Ammonia, plasma: 40 to 70 microg/dL; 23.5 to 41.1 micromol/L (SI)
+Amylase, serum: 25 to 125 units/L (80 to 180 [Somogyi] units/dL)
+Amylase, urine: 1 to 17 units/hour
+Duffy-null ANC (absolute neutrophil count): 1210 to 5390/microL; 1.21 to 5.39 x 109/L (SI)
+Non-Duffy-null ANC (absolute neutrophil count): 2000 to 8250/microL; 2 to 8.25 x 109/L (SI)
+Female Androstenedione, serum: 30 to 200 ng/dL; 1 to 7 nmol/L (SI)
+Angiotensin-converting enzyme, serum: 8 to 53 units/L
+Anion gap, serum: 7 to 13 mEq/L; 7 to 13 mmol/L (SI)
+Anti-double-stranded DNA antibodies: 0 to 7 international units/mL
+Anticardiolipin antibodies: IgG: <20 GPL units, IgM: <20 MPL units
+Anti-cyclic citrullinated peptide, antibodies: <20 units
+Antideoxyribonuclease B: <280 units
+Anti-F-actin antibodies, serum: ≤1:80
+Antihistone antibodies: <1:16
+Anti-liver-kidney microsomal (anti-LKM) antibodies: <1:20
+Antimitochondrial antibodies: ≤1:5
+Anti-myelin associated glycoprotein antibody: <1:1600
+Anti-myeloperoxidase antibodies: <1 unit/mL
+Antinuclear antibodies: ≤1:40
+Anti-smooth muscle antibodies: ≤1:80
+Antistreptolysin O titer: <200 Todd units
+Antithrombin activity: 80 to 120 percent
+Antithyroglobulin antibodies: <20 units/mL
+Anti-thyroid peroxidase antibodies: <2 units/mL
+Ascorbic acid (vitamin C), blood: 0.4 to 1.5 mg/dL; 22.7 to 85.2 micromol/L (SI)
+Ascorbic acid, leukocyte: 16.5 ± 5.1 mg/dL of leukocytes
+(1,3)-beta-D-glucan, serum: <60 pg/mL
+Female Beta-human chorionic gonadotropin (beta-hCG), serum, premenopausal nonpregnant: <1 milli-international unit/mL; <1 international unit/L (SI)
+Female Beta-human chorionic gonadotropin (beta-hCG), serum, postmenopausal: <7 milli-international units/mL; <7 international units/L (SI)
+Beta-human chorionic gonadotropin (beta-hCG), urine: <2 milli-international units/24 hour
+Beta-2-glycoprotein I antibodies: IgG: <21 standard IgG units (SGU), IgM: <21 standard IgM units (SMU)
+Beta-hydroxybutyrate, serum: <4.2 mg/dL; <0.4 mmol/L (SI)
+Beta-2-microglobulin, serum: 0.54 to 2.75 mg/L
+Bicarbonate, serum: 23 to 28 mEq/L; 23 to 28 mmol/L (SI)
+Total Bilirubin, serum: 0.3 to 1 mg/dL; 5.1 to 17.1 micromol/L (SI)
+Direct Bilirubin, serum: 0.1 to 0.3 mg/dL; 1.7 to 5.1 micromol/L (SI)
+Indirect Bilirubin, serum: 0.2 to 0.7 mg/dL; 3.4 to 12 micromol/L (SI)
+Bleeding time (template): <8 minutes
+pH Arterial Blood gas: 7.38 to 7.44
+pCO2 Arterial Blood gas: 38 to 42 mmHg; 5.1 to 5.6 kPa (SI) 
+pO2 Arterial Blood gas: 75 to 100 mmHg; 10 to 13.3 kPa (SI) 
+Bicarbonate Arterial Blood gas: 23 to 26 mEq/L; 23 to 26 mmol/L (SI)
+Oxygen saturation (SaO2) Arterial Blood gas: ≥95 percent
+Methemoglobin Arterial Blood gas: 0.5 to 3 percent
+pH Venous Blood gas, mixed blood: 7.32 to 7.41
+pCO2 Venous Blood gas, mixed blood: 42 to 53 mmHg; 5.6 to 7.1 kPa (SI)
+pO2 Venous Blood gas, mixed blood: 35 to 42 mmHg; 4.7 to 5.6 kPa (SI)
+Bicarbonate Venous Blood gas, mixed blood: 24 to 28 mEq/L; 24 to 28 mmol/L (SI)
+Oxygen saturation (SvO2) Venous Blood gas, mixed blood: 65 to 75 percent
+Blood urea nitrogen (BUN), serum or plasma: 8 to 20 mg/dL; 2.9 to 7.1 mmol/L (SI)
+Female Bone-specific alkaline phosphatase, serum, premenopausal: 4.5 to 16.9 microg/L
+Female Bone-specific alkaline phosphatase, serum, postmenopausal: 7 to 22.4 microg/L 
+B-type natriuretic peptide, plasma: <100 pg/mL; <28 pmol/L (SI)
+C peptide, serum: 0.8 to 3.1 ng/mL; 0.3 to 1 nmol/L (SI)
+Female Calcitonin, serum: ≤5 pg/mL; ≤1.5 pmol/L (SI)
+Calcium, ionized, serum: 4.5 to 4.9 mg/dL; 1.12 to 1.23 mmol/L (SI)
+Calcium, serum: 8.6 to 10.2 mg/dL; 2.2 to 2.6 mmol/L (SI)
+Female Calcium, urine: <250 mg/24 hour; <6.3 mmol/day (SI) 
+Carbohydrate antigen tumor markers, serum, CA 19-9: 0 to 37 units/mL
+Carbohydrate antigen tumor markers, serum, CA 27-29: <38 units/mL
+Carbohydrate antigen tumor markers, serum, CA 125: <35 units/mL
+Carbon dioxide, serum: 23 to 30 mEq/L; 23 to 30 mmol/L (SI)
+Carboxyhemoglobin, blood: <5 percent
+Carcinoembryonic antigen, plasma: <2.5 ng/mL; <2.5 microg/L (SI)
+Carotene, serum: 75 to 300 microg/dL; 1.4 to 5.6 micromol/L (SI)
+Dopamine, plasma: <30 pg/mL; <195 pmol/L (SI)
+Supine Epinephrine, plasma: <50 pg/mL; <275 pmol/L (SI)
+Standing Epinephrine, plasma: <95 pg/mL; <520 pmol/L (SI)
+Supine Norepinephrine, plasma: 112 to 658 pg/mL; 662 to 3890 pmol/L (SI)
+Standing Norepinephrine, plasma: 217 to 1109 pg/mL; 1280 to 6550 pmol/L (SI)
+Dopamine, urine: 65 to 400 microg/24 hour; 424 to 2610 nmol/24 hour (SI)
+Epinephrine, urine: 2 to 24 microg/24 hour; 10.9 to 131 nmol/24 hour (SI)
+Norepinephrine, urine: 15 to 100 microg/24 hour; 88.7 to 590 nmol/24 hour (SI)
+CD4 T lymphocyte count: 530 to 1570 cells/microL
+Leukocytes, cerebrospinal fluid (white blood cells): 0 to 5 cells/microL
+Erythrocytes, cerebrospinal fluid (red blood cells): 0 cells/microL
+cerebrospinal fluid chloride: 120 to 130 mEq/L; 120 to 130 mmol/L (SI)
+cerebrospinal fluid gamma globulin: 6.1 to 8.3 mg/dL; 0.06 to 0.08 g/L (SI)
+cerebrospinal fluid glucose: 50 to 75 mg/dL; 2.8 to 4.2 mmol/L (SI)
+cerebrospinal fluid opening pressure: 70 to 180 mm cerebrospinal fluid; 70 to 180 mm H2O (7 to 18 cm H20)
+cerebrospinal fluid total protein: 15 to 45 mg/dL
+Ceruloplasmin, serum (plasma): 25 to 43 mg/dL; 250 to 430 mg/L (SI)
+Chloride, serum: 98 to 106 mEq/L; 98 to 106 mmol/L (SI)
+Chloride, urine: Random/spot: mEq/L (variable), 24-hour collection: mEq/L (varies with intake)
+Desirable Total Cholesterol, serum: <200 mg/dL; <5.2 mmol/L (SI)
+Borderline-high Total Cholesterol, serum: 200 to 239 mg/dL; 5.2 to 6.2 mmol/L (SI)
+High Total Cholesterol, serum: >239 mg/dL; >6.2 mmol/L (SI)
+Female High-density lipoprotein Cholesterol, serum: <50 mg/dL; <1.3 mmol/L (SI) 
+Optimal Low-density lipoprotein Cholesterol, serum: <100 mg/dL; <2.6 mmol/L (SI)
+Near-optimal Low-density lipoprotein Cholesterol, serum: 100 to 129 mg/dL; 2.6 to 3.3 mmol/L (SI)
+Borderline-high Low-density lipoprotein Cholesterol, serum: 130 to 159 mg/dL; 3.4 to 4.1 mmol/L (SI)
+High Low-density lipoprotein Cholesterol, serum: 160 to 189 mg/dL; 4.1 to 4.9 mmol/L (SI)
+Very high Low-density lipoprotein Cholesterol, serum: >189 mg/dL; >4.9 mmol/L (SI)
+Cholinesterase: Serum (pseudocholinesterase): ≥0.5 pH units/hour, Packed cells: ≥0.7 pH units/hour
+Chromogranin A, serum: <93 ng/mL
+Citrate, urine: 250 to 1000 mg/24 hour
+Coagulation Factor I (fibrinogen): 200 to 400 mg/dL; 5.8 to 11.8 micromol/L (SI)
+Coagulation Factor II (prothrombin): 60 to 130 percent
+Coagulation Factor V (accelerator globulin): 60 to 130 percent
+Coagulation Factor VII (proconvertin): 60 to 130 percent
+Coagulation Factor VIII (antihemophilic globulin): 50 to 150 percent
+Coagulation Factor IX (plasma thromboplastin component): 60 to 130 percent
+Coagulation Factor X (Stuart factor): 60 to 130 percent
+Coagulation Factor XI (plasma thromboplastin antecedent): 60 to 130 percent
+Coagulation Factor XII (Hageman factor): 60 to 130 percent
+Coagulation Factor XIII: 57 to 192 percent
+Cold agglutinin titer: <1:64 (requires clinical correlation) 
+Complement components, serum C3: 100 to 233 mg/dL; 1 to 2.3 g/L (SI)
+Complement components, serum C4: 14 to 48 mg/dL; 0.1 to 0.5 g/L (SI)
+Complement components, serum CH50: 110 to 190 units/mL
+Copper, serum: 100 to 200 microg/dL; 15.7 to 31.4 micromol/L (SI)
+Copper, urine: 0 to 100 microg/24 hours; 0 to 1.57 micromol/24 hours (SI)
+Coproporphyrin, urine: 50 to 250 microg/24-hour collection; 76.4 to 382 nmol/24 hour (SI)
+Cortisol, free, urine: 4 to 50 microg/24-hour collection; 11 to 140 nmol/24 hour (SI)
+Cortisol, plasma 8 AM: 5 to 25 microg/dL; 140 to 690 nmol/L (SI)
+Cortisol, plasma 4 PM: <10 microg/dL; <276 nmol/L (SI)
+Cortisol, plasma 1 hour after cosyntropin: ≥18 microg/dL; ≥496.58 nmol/L (SI)
+Cortisol, plasma Overnight suppression test (1 mg): <1.8 microg/dL; <49.66 nmol/L (SI)
+Cortisol, plasma Overnight suppression test (8 mg): >50 percent reduction
+Cortisol, saliva 11 pm to midnight (23:00 to 24:00 hours): <0.09 microg/dL
+C-reactive protein, serum: ≤0.8 mg/dL; ≤76.2 nmol/L (SI)
+C-reactive protein (high sensitivity), serum Low risk: <1 mg/L; <9.5 nmol/L (SI)
+C-reactive protein (high sensitivity), serum Average risk: 1 to 3 mg/L; 9.5 to 28.6 nmol/L (SI)
+C-reactive protein (high sensitivity), serum High risk: >3 mg/L; >28.6 nmol/L (SI)
+Total Female Creatine kinase, serum: 30 to 135 units/L; 0.5 to 2.3 mckat/L (SI)
+Creatine kinase, serum MB isoenzymes: <5 percent of total
+Creatine, urine: Female: 0 to 100 mg/24 hour, Male: 0 to 40 mg/24 hour
+Creatinine clearance, urine: 90 to 140 mL/minute/1.73 m2; 1.5 to 2.3 mL/second/1.73 m2 (SI)
+Female Creatinine, serum: 0.50 to 1.10 mg/dL; 44 to 97 micromol/L (SI)
+Random/spot Creatinine, urine: mg/dL (variable)
+24-hour collection Creatinine, urine: 15 to 25 mg/kg bodyweight/24 hours
+D-dimer, plasma: <0.5 microg/mL; <0.5 mg/L; <3 nmol/L (SI)
+Female Dehydroepiandrosterone sulfate (DHEA-S), serum: 44 to 332 microg/dL; 1.2 to 9 micromol/L (SI)
+Delta-aminolevulinic acid, serum: <20 microg/dL; 1.53 micromol/L (SI)
+Therapeutic Digoxin, serum: 1 to 2 ng/mL; 1.3073 to 2.6146 nmol/L (SI)
+Patients with heart failure Digoxin, serum: <1.2 ng/mL; <1.5688 nmol/L (SI)
+Dihydrotestosterone, serum: Adult male: 20 to 80 ng/dL; 0.69 nmol/L to 2.78 nmol/L (SI)
+Dopamine, plasma: <30 pg/mL; <195.84 pmol/L (SI)
+Dopamine, urine: 65 to 400 microg/24 hour
+Serum D-Xylose absorption After ingestion of 25 g of D-xylose: 25 to 40 mg/dL
+Urinary excretion D-Xylose absorption After ingestion of 25 g of D-xylose: 4.5 to 7.5 g during a 5-hour period
+Sodium Electrolytes, serum: 136 to 145 mEq/L
+Potassium Electrolytes, serum: 3.5 to 5.0 mEq/L
+Chloride Electrolytes, serum: 98 to 106 mEq/L
+Bicarbonate Electrolytes, serum: 23 to 28 mEq/L
+Supine Epinephrine, plasma: <110 pg/mL; <600.5 pmol/L (SI)
+Standing Epinephrine, plasma: <140 pg/mL; <765 pmol/L (SI)
+Epinephrine, urine: <20 microg/24 hour; <110 nmol/24 hour (SI)
+Erythrocyte count: 4.2 to 5.9 million red blood cells/microL
+Female Erythrocyte sedimentation rate (Westergren): 0 to 20 mm/hour
+Erythrocyte survival rate (51Cr): T ½ = 28 days
+Erythropoietin, serum: 4 to 26 milliunits/mL; 4 to 26 milliunits/mL (SI)
+Female Estradiol, serum, follicular: 10 to 180 pg/mL; 36.7 to 660 pmol/L (SI)
+Midcycle peak Estradiol, serum: 100 to 300 pg/mL; 367 to 1100 pmol/L (SI)
+Luteal Estradiol, serum: 40 to 200 pg/mL; 147 to 735 pmol/L (SI)
+Postmenopausal Estradiol, serum: <10 pg/mL; <36.7 pmol/L (SI)
+Male Estradiol, serum: 20 to 50 pg/mL; 73.4 to 184 pmol/L (SI)
+Estriol, urine: >12 mg/24 hour
+Estrogen receptor protein: Negative: <10 fmol/mg protein
+Estrone, serum: 10 to 60 pg/mL; 37 to 222 pmol/L (SI)
+Ethanol, blood: <0.005 percent (<5 mg/dL); <1.1 mmol/L (SI)
+Coma level Ethanol, blood: >0.5 percent (>500 mg/dL); >110 mmol/L (SI)
+Intoxication Ethanol, blood: ≥0.08 to 0.1 percent (≥80 to 100 mg/dL); ≥17.4 to 21.7 mmol/L (SI)
+Euglobulin clot lysis time: 2 to 4 hours at 37.0°C
+Therapeutic Everolimus, whole blood (trough): 3 to 8 ng/mL
+Factor XIII, B subunit, plasma: 60 to 130 units/dL
+Fecal fat: <7 g/24 hour
+Fecal nitrogen: <2 g/24 hour
+Fecal pH: 7 to 7.5
+Fecal weight: <250 g/24 hour
+Female Ferritin, serum: 24 to 307 ng/mL; 54 to 690 pmol/L (SI)
+Fibrin degradation products: <10 microg/mL; <10 mg/L (SI)
+Fibrinogen, plasma: 200 to 400 mg/dL; 5.9 to 11.8 micromol/L (SI)
+Fibroblast growth factor-23, serum: 30 to 80 RU/mL
+Flecainide, serum: Therapeutic: 0.2 to 1 microg/mL; 0.48 to 2.41 micromol/L (SI)
+Folate, red cell: 150 to 450 ng/mL of packed cells; 340 to 1020 nmol/L of packed cells (SI)
+Folate, serum: 1.8 to 9 ng/mL; 4.1 to 20.4 nmol/L (SI)
+Female Follicle-stimulating hormone, serum, follicular/luteal: 2 to 9 milli-international units/mL (2 to 9 international units/L)
+Female Follicle-stimulating hormone, serum, midcycle peak: 4 to 22 milli-international units/mL (4 to 22 international units/L)
+Female Follicle-stimulating hormone, serum, postmenopausal: >30 milli-international units/mL (>30 international units/L)
+Free kappa light chain, serum: 3.3 to 19.4 mg/L
+Free kappa-to-free lambda light chain ratio, serum: 0.26 to 1.65
+Free lambda light chain, serum: 5.7 to 26.3 mg/L
+Female Gamma-glutamyl transferase (transpeptidase), serum: 8 to 40 units/L; 8 to 40 units/L (SI)
+Gastrin, serum: <100 pg/mL; <100 ng/L (SI)
+Glucose, plasma (fasting): 70 to 99 mg/dL; 3.9 to 5.5 mmol/L (SI)
+Glucose-6-phosphate dehydrogenase, blood: 5 to 15 units/g of hemoglobin; 0.08 to 0.25 nkat/g hemoglobin (SI)
+Glycoprotein alpha-subunit, serum: <1 ng/mL
+At rest Growth hormone, serum: <5 ng/mL; <5 microg/L (SI)
+Response to provocative stimuli Growth hormone, serum: >7 ng/mL; >7 microg/L (SI)
+Haptoglobin, serum: 83 to 267 mg/dL; 830 to 2670 mg/L (SI)
+Female Hematocrit, blood: 37 to 47 percent
+Female Hemoglobin, blood: 12 to 16 g/dL; 120 to 160 g/L (SI)
+Hemoglobin fractionation Hb A: 96 to 98 percent
+Hemoglobin fractionation Hb A2: 1.5 to 3.5 percent
+Hemoglobin fractionation Hb F: <1 percent
+Hemoglobin (free), plasma: <5 mg/dL
+Heparin-anti-factor Xa assay, plasma: Therapeutic range for unfractionated heparin: 0.3 to 0.7 international units/mL
+Heparin-platelet factor 4 antibody, serum: Positive: >0.4 optical density units (varies depending on assay)
+Hepatic copper: 25 to 40 mg/g dry weight
+Hepatic iron index: <1
+Histamine excretion, urine: 20 to 50 microg/24 hour
+Homocysteine, plasma: 0.68 to 2 mg/L; 5 to 15 micromol/L (SI)
+Female Beta-human chorionic gonadotropin (beta-hCG), serum, premenopausal nonpregnant: <1 units/L
+Female Beta-human chorionic gonadotropin (beta-hCG), serum, postmenopausal: <7 units/L
+Beta-human chorionic gonadotropin (beta-hCG), urine: <2 milli-international units/24 hour
+Hydroxyproline, urine: 10 to 30 mg/sq meter of body surface/24 hour
+Immature platelet fraction: 1 to 5 percent of platelet count
+Immune complexes, serum: 0 to 50 microg/dL
+IgA, serum: 90 to 325 mg/dL; 0.9 to 3.3 g/L (SI)
+IgE, serum: <380 international units/mL; <0.9 g/L (SI)
+IgG, serum: 800 to 1500 mg/dL; 8 to 15 g/L (SI)
+IgM, serum: 45 to 150 mg/dL; 0.5 to 1.5 g/L (SI)
+Kappa Immunoglobulin free light chains, serum: 3.3 to 19.4 mg/L
+Lambda Immunoglobulin free light chains, serum: 5.7 to 26.3 mg/L
+Kappa‐to‐lambda ratio: 0.26 to 1.65
+Insulin, serum (fasting): <20 microunits/mL; <138.9 pmol/L (SI)
+Insulin-like growth factor 1 (IGF-1; somatomedin-C), serum Ages 16 to 24: 182 to 780 ng/mL; 23.8 to 102.2 nmol/L (SI)
+Insulin-like growth factor 1 (IGF-1; somatomedin-C), serum Ages 25 to 39: 114 to 492 ng/mL; 14.9 to 64.5 nmol/L (SI)
+Insulin-like growth factor 1 (IGF-1; somatomedin-C), serum Ages 40 to 54: 90 to 360 ng/mL; 11.8 to 47.2 nmol/L (SI)
+Insulin-like growth factor 1 (IGF-1; somatomedin-C), serum Ages 55 and older: 71 to 290 ng/mL; 9.3 to 38 nmol/L (SI)
+Iodine, urine: Random ("spot"): microg/L (variable)
+Iron, serum: 50 to 150 microg/dL; 9 to 27 micromol/L (SI)
+Iron-binding capacity, serum (total): 250 to 310 microg/dL; 44.8 to 55.5 micromol/L (SI)
+Lactate dehydrogenase, serum: 80 to 225 units/L; 1.3 to 3.8 mckat/L (SI)
+Lactate, arterial blood: <12 mg/dL; <1.3 mmol/L (<1.3 mEq/L) (SI)
+Lactate, serum or plasma: 6.3 to 18.9 mg/dL; 0.7 to 2.1 mmol/L (SI)
+Lactate, venous blood: 6 to 16 mg/dL; 0.7 to 1.8 mmol/L (0.7 to 1.8 mEq/L) (SI)
+Lactic acid, serum: 6 to 19 mg/dL; 0.7 to 2.1 mmol/L (SI)
+Lactose tolerance test, gastrointestinal: Increase in plasma glucose: >15 mg/dL
+Lead, blood: <5 microg/dL; <0.2 micromol/L (SI)
+Leukocyte count: 4000 to 11,000/microL; 4.5 to 11 x 109/L (SI)
+Segmented neutrophils: 50 to 70 percent
+Band forms: 0 to 5 percent
+Lymphocytes: 30 to 45 percent
+Monocytes: 0 to 6 percent
+Basophils: 0 to 1 percent
+Eosinophils: 0 to 3 percent
+Lipase, serum: 10 to 140 units/L; 0.2 to 2.3 mckat/L (SI)
+Lipoprotein(a), serum: Desirable: <30 mg/dL; <0.8 mmol (SI)
+Therapeutic Lithium, plasma: 0.6 to 1.2 mEq/L; 0.6 to 1.2 mmol/L (SI)
+Toxic level Lithium, plasma: >2 mEq/L; >2 mmol/L (SI)
+Luteinizing hormone (LH), serum Female, follicular/luteal: 1 to 12 milli-international units/mL; 1 to 12 international units/L (SI)
+Luteinizing hormone (LH), serum Female, midcycle peak: 9 to 80 milli-international units/mL; 9 to 80 international units/L (SI)
+Luteinizing hormone (LH), serum Female, postmenopausal: >30 milli-international units/mL; >30 international units/L (SI)
+Luteinizing hormone (LH), serum Child (Tanner stages 1, 2, 3): <9 milli-international units/mL; <0.009 international units/L (SI)
+Luteinizing hormone (LH), serum Child (Tanner stages 4, 5): 1 to 15 milli-international units/mL; 0.001 to 0.015 international units/L (SI)
+Lymphocyte CD3: 900 to 3245 cells/microL; 0.9 to 3.25 x 109 cells/L (SI)
+Lymphocyte CD4: 530 to 1570 cells/microL; 0.5 to 1.6 x 109 cells/L (SI)
+Lymphocyte CD8: 430 to 1060 cells/microL; 0.4 to 1.1 x 109 cells/L (SI)
+Lymphocyte CD19: 208 to 590 cells/microL; 0.2 to 0.6 x 109 cells/L (SI)
+Lymphocyte CD56: 40 to 500 cells/microL; 0.04 to 0.5 x 109 cells/L (SI)
+Magnesium, serum: 1.6 to 2.6 mg/dL; 0.66 to 1.07 mmol/L (SI)
+Magnesium, urine: 14 to 290 mg/24 hour; 0.5754 to 11.919 mmol/day (SI)
+Mean corpuscular hemoglobin: 28 to 32 pg/cell; 28 to 32 pg/cell (SI)
+Mean corpuscular hemoglobin concentration: 33 to 36 g/dL; 330 to 370 g/L (SI)
+Mean corpuscular volume: 80 to 98 microm3; 80 to 98 fL (SI)
+Mean platelet volume: 7 to 9 fL
+Metanephrine, fractionated, plasma: <0.5 nmol/L
+Normetanephrine, fractionated, plasma: <0.9 nmol/L
+Metanephrine, fractionated, 24-hour urine: <400 microg/24 hour; <2 micromol/24 hour (SI)
+Normetanephrine, fractionated, 24-hour urine: <900 microg/24 hour; <5 micromol/24 hour (SI)
+Methylmalonic acid (MMA), serum: 0.00 to 0.40 micromol/L (SI)
+Myoglobin, serum: <100 microg/L; <5.7 nmol/L (SI)
+Supine Norepinephrine, plasma: 70 to 750 pg/mL; 400 to 4400 pmol/L (SI)
+Standing Norepinephrine, plasma: 200 to 1700 pg/mL; 1180 to 10,000 pmol/L (SI)
+Norepinephrine, urine: 0 to 100 microg/24 hour; 0 to 590 nmol/24 hour (SI)
+Normetanephrine, fractionated, plasma: <0.9 nmol/L; <4.9 pmol/L (SI)
+Normetanephrine, fractionated, 24-hour urine: <900 microg; <4900 nmol/24 hour (SI)
+N-telopeptide, urine Female: 11 to 48 nmol bone collagen equivalents (BCE)/mmol creatinine
+18 to 49 years of age if eGFR is >60 mL/minute/1.73m2 (NT-pro-BNP), serum or plasma Heart failure unlikely: ≤300 pg/mL; ≤35.47 pmol/L (SI)
+18 to 49 years of age if eGFR is >60 mL/minute/1.73m2 (NT-pro-BNP), serum or plasma High probability of heart failure: ≥450 pg/mL
+50 to 75 years of age if eGFR is >60 mL/minute/1.73m2 (NT-pro-BNP), serum or plasma Heart failure unlikely: ≤300 pg/mL
+50 to 75 years of age if eGFR is >60 mL/minute/1.73m2 (NT-pro-BNP), serum or plasma High probability of heart failure: ≥900 pg/mL
+>75 years of age (NT-pro-BNP), serum or plasma Heart failure unlikely: ≤300 pg/mL
+>75 years of age (NT-pro-BNP), serum or plasma High probability of heart failure ≥1800 pg/mL
+≥18 years If eGFR is <60 mL/minute/1.73m2 (NT-pro-BNP), serum or plasma High probability of heart failure: ≥1200 pg/mL
+Osmolality, serum: 275 to 295 mOsm/kg H2O
+Osmolality, urine: 38 to 1400 mOsm/kg H2O
+Osmotic fragility of erythrocytes Increased if hemolysis occurs in over 0.5 percent NaCl
+Osmotic fragility of erythrocytes Decreased if hemolysis is incomplete in 0.3 percent NaCl
+Female Osteocalcin, serum: 7.2 to 27.9 ng/mL; 7.2 to 27.9 microg/L (SI)
+Oxalate, urine: <40 mg/24 hour; <450 micromol/24 hour (SI)
+Oxygen consumption: 225 to 275 mL/minute
+Oxygen saturation, arterial blood: ≥95 percent
+C-terminal Parathyroid hormone, serum: 150 to 350 pg/mL; 150 to 350 ng/L (SI)
+Intact Parathyroid hormone, serum: 10 to 65 pg/mL; 10 to 65 ng/L (SI)
+Intact (dialysis patients only) Parathyroid hormone, serum: Target 130 to 585 pg/mL; 130 to 585 ng/L (SI)
+Parathyroid hormone-related protein, serum: <1.5 pmol/L
+Partial thromboplastin time, activated (aPTT): 25 to 35 seconds
+pH, urine: 4.5 to 8
+Phenolsulfonphthalein, urine: At least 25 percent excreted by 15 minutes, 40 percent by 30 minutes, 60 percent by 120 minutes
+Total Phosphatase (acid), serum: 0.5 to 2 (Bodansky) units/mL
+Prostatic fraction Phosphatase (acid), serum: 0.1 to 0.4 units/mL
+Phosphatase (alkaline), serum: 30 to 120 units/L; 0.5 to 2 microkat/L (SI)
+Phospholipids, serum (total): 200 to 300 mg/dL; 2 to 3 g/L (SI)
+Phosphorus (phosphate), serum — Serum phosphate (PO4) is measured, but the result is often reported as serum phosphorus: 3 to 4.5 mg/dL; 0.97 to 1.45 mmol/L (SI)
+Phosphorus, urine: 500 to 1200 mg/24 hour; 16.15 to 38.76 mmol/day (SI)
+Platelet count: 150,000 to 450,000/microL; 150 to 450 x 109/L (SI)
+Platelet function analysis (PFA-100) Collagen–epinephrine closure time: 60 to 143 seconds
+Platelet function analysis (PFA-100) Collagen–adenosine diphosphate (ADP) closure time: 58 to 123 seconds
+Platelet survival rate (51Cr): 10 days
+Potassium, fecal: <10 mEq/L; <10 mmol/L (SI)
+Potassium, serum: 3.5 to 5 mEq/L; 3.5 to 5 mmol/L (SI)
+Potassium, urine: Random ("spot"): mEq/L (varies), 24‐hour measurement: mEq/24 hour (varies with intake)
+Prealbumin, serum: 16 to 30 mg/dL; 160 to 300 mg/L or 2.91 to 5.45 micromol/L (SI)
+Pregnanetriol, urine: 0.2 to 3.5 mg/24 hour; 0.59 to 10.40 micromol/day (SI)
+Procalcitonin, serum: ≤0.10 ng/mL; ≤0.10 microg/L (SI)
+Progesterone, serum, Female, follicular: 0.02 to 0.9 ng/mL; 0.06 to 2.9 nmol/L (SI)
+Progesterone, serum, Female, luteal: 2 to 30 ng/mL; 6.4 to 95.4 nmol/L (SI)
+Proinsulin, serum: 3 to 20 pmol/L
+Prolactin, serum: <20 ng/mL; <20 microg/L (SI)
+Prostate-specific antigen (PSA), serum: ng/mL; no specific normal or abnormal level
+Protein C activity, plasma: 65 to 150 percent
+Protein C antigen, plasma: 70 to 140 percent
+Protein catabolic rate, urine: Goal: 1 to 1.2 g/kg/24 hour
+Protein S activity, plasma: 57 to 131 percent
+Total Protein S antigen, plasma: 60 to 140 percent
+Free Protein S antigen, plasma: 60 to 130 percent
+Protein, urine Random/spot: mg/dL (variable)
+Protein, urine 24-hour collection: <100 mg/24 hour; <0.1 g/24 hour (SI)
+Total Proteins, serum: 5.5 to 9 g/dL; 55 to 90 g/L (SI)
+Albumin Proteins, serum: 3.5 to 5.5 g/dL; 35 to 55 g/L (SI)
+Globulin Proteins, serum: 2 to 3.5 g/dL; 20 to 35 g/L (SI)
+Alpha1 Globulin Proteins, serum: 0.2 to 0.4 g/dL; 2 to 4 g/L (SI)
+Alpha2 Globulin Proteins, serum: 0.5 to 0.9 g/dL; 5 to 9 g/L (SI)
+Beta Globulin Proteins, serum: 0.6 to 1.1 g/dL; 6 to 11 g/L (SI)
+Gamma Globulin Proteins, serum: 0.7 to 1.7 g/dL; 7 to 17 g/L (SI)
+Protein-to-creatinine ratio, urine: <0.2 mg/mg
+Prothrombin time, plasma: 11 to 13 seconds
+Pyruvic acid, blood: 0.08 to 0.16 mmol/L
+Red cell distribution width (RDW): 9.0 to 14.5 percent
+Female Red cell mass: 22.7 to 27.9 mL/kg
+Supine angiotensin-I radioimmunoassay Peripheral plasma, normal diet: 0.3 to 2.5 ng/mL/hour; 7.11 to 59.25 pmol/L (SI)
+Upright angiotensin-I radioimmunoassay Peripheral plasma, normal diet: 0.2 to 3.6 ng/mL/hour; 4.74 to 85.32 pmol/L (SI)
+Supine angiotensin-I radioimmunoassay Peripheral plasma, low sodium diet: 0.9 to 4.5 ng/mL/hour; 21.33 to 106.65 pmol/L (SI)
+Upright angiotensin-I radioimmunoassay Peripheral plasma, low sodium diet: 4.1 to 9.1 ng/mL/hour; 97.17 to 215.67 pmol/L (SI)
+angiotensin-I Peripheral plasma, diuretics and low sodium diet: 6.3 to 13.7 ng/mL/hour; 149.31 to 324.69 pmol/L (SI)
+Renal vein concentration: Normal ratio (high:low): <1.5
+Reptilase time: 10 to 12 seconds
+Reticulocyte count: 0.5 to 1.5 percent of red blood cells
+Reticulocyte count, absolute: 25,000 to 100,000/microL; 25 to 100 x 109/L (SI)
+Rheumatoid factor (nephelometry): <24 international units/mL
+Rheumatoid factor, latex test for: ≤1:80
+Ristocetin cofactor activity of plasma: 50 to 150 percent
+Russell viper venom time, dilute: 33 to 44 seconds
+Salicylate, plasma: Therapeutic: 20 to 30 mg/dL; 144800 to 217200 micromol/L (SI)
+Female Sex hormone-binding globulin, nonpregnant: 2.02 to 16.19 microg/mL; 18 to 144 nmol/L (SI)
+Sodium, fecal: <10 mEq/L; <10 mmol/L (SI)
+Sodium, serum: 136 to 145 mEq/L; 136 to 145 mmol/L (SI)
+Sodium, urine: Random ("spot"): mEq/L (variable), 24‐hour collection: mEq/24 hour (varies with intake)
+Specific gravity, urine: 1.002 to 1.03
+Sperm density: 10 to 150 million/mL
+Sweat test for sodium and chloride: <60 mEq/L
+T3 resin uptake (T3RU): 25 to 35 percent
+T lymphocyte count, CD4: 530 to 1570/microL
+Female Testosterone, serum: 18 to 54 ng/dL; 0.6 to 1.9 nmol/L (SI)
+Female, age 18 to 69 years Testosterone, bioavailable, serum: 0.5 to 8.5 ng/dL; 0.02 to 0.29 nmol/L (SI)
+Thrombin time: 17 to 23 seconds
+T3 resin uptake: 25 to 35 percent
+Thyroglobulin, serum: <20 ng/mL; <20 microg/L (SI)
+Thyroidal iodine (123I) uptake: 5 to 30 percent of administered dose at 24 hours
+Thyroid-stimulating hormone (TSH), serum: 0.5 to 4 microunits/mL; 0.5 to 4 milliunits/L (SI)
+Thyroid‐stimulating immunoglobulin (TSI): <130 percent
+Thyroxine-binding globulin, serum: 12 to 27 microg/mL; 205 to 461.5 nmol/L (SI)
+Thyroxine index, free (estimate): 5 to 12
+Total Thyroxine (T4), serum: 5 to 12 microg/dL; 64.4 to 154.4 nmol/L (SI)
+Free Thyroxine (T4), serum: 0.8 to 1.8 ng/dL; 10.3 to 23.2 pmol/L (SI)
+Total Triiodothyronine (T3), serum: 80 to 180 ng/dL; 1.2 to 2.8 nmol/L (SI)
+Reverse Triiodothyronine (T3), serum: 20 to 40 ng/dL
+Free Triiodothyronine (T3), serum: 2.3 to 4.2 pg/mL; 3.5 to 6.5 pmol/L (SI)
+Tissue transglutaminase antibody, IgA By chemiluminescence method: <20 AU
+Tissue transglutaminase antibody, IgA By enzyme-linked immunosorbent assay (ELISA): <4 units/mL
+Tissue transglutaminase antibody, IgG By chemiluminescence method: <20 AU
+Tissue transglutaminase antibody, IgG By enzyme-linked immunosorbent assay (ELISA): <6 units/mL
+Transferrin saturation: 20 to 50 percent
+Transferrin, serum: 200 to 400 mg/dL; 26 to 50 micromol/L (SI)
+Optimal Triglycerides, serum (fasting): <100 mg/dL; <1.1 mmol/L (SI)
+Normal Triglycerides, serum (fasting): <150 mg/dL; <1.7 mmol/L (SI)
+Borderline-high Triglycerides, serum (fasting): 150 to 199 mg/dL; 1.7 to 2.2 mmol/L (SI)
+High Triglycerides, serum (fasting): 200 to 499 mg/dL; 2.3 to 5.6 mmol/L (SI)
+Very high Triglycerides, serum (fasting): >499 mg/dL; >5.6 mmol/L (SI)
+Troponin I, cardiac, serum: ≤0.04 ng/mL; ≤0.04 microg/L (SI)
+Troponin T, cardiac, serum: ≤0.01 ng/mL; ≤0.01 microg/L (SI)
+Tryptase, serum: <11.5 ng/mL
+Standard Urea clearance, urine: 40 to 60 mL/minute
+Maximal Urea clearance, urine: 60 to 100 mL/minute
+Urea nitrogen, blood: 8 to 20 mg/dL; 2.9 to 7.1 mmol/L (SI)
+Urea nitrogen, urine: 12 to 20 g/24 hour
+Uric acid, serum: 3 to 7 mg/dL; 178.5 to 416.5 micromol/L (SI)
+Uric acid, urine: 250 to 750 mg/24 hour; 1.6 to 4.8 mmol/24 hour (SI)
+Uroporphyrin, urine: 10 to 30 microg/24 hour
+Urobilinogen, fecal: 40 to 280 mg/24 hour
+Vanillylmandelic acid, urine: <9 mg/24 hour; <45 micromol/24 hour (SI)
+Venous oxygen content, mixed: 14 to 16 mL/dL
+Viscosity, serum: 1.4 to 1.8 centipoise (cp)
+Adult Vitamin A, serum: 32.5 to 78 microg/dL; 1.1 to 2.7 micromol/L (SI)
+Pediatric, age 1 to 2 years (retinol) Vitamin A, serum: 20 to 43 microg/dL; 0.7 to 1.5 micromol/L (SI)
+Vitamin B12, serum: 200 to 800 pg/mL; 147.5 to 590 pmol/L (SI)
+Vitamin D metabolites, serum 1,25-dihydroxyvitamin D (1,25-dihydroxycholecalciferol): 15 to 60 pg/mL; 39 to 156 pmol/L (SI)
+Vitamin D metabolites, serum 25-hydroxyvitamin D (25-hydroxycholecalciferol): 30 to 60 ng/mL; 75 to 150 nmol/L (SI)
+Adult Vitamin E, serum: 5.5 to 17 mg/L; 12.8 to 39.5 micromol/L (SI)
+Pediatric Vitamin E, serum: age 1 to 2 years (alpha tocopherol) 2.9 to 16.6 mg/L; 6.73 to 38.55 micromol/L (SI)
+Female Plasma Volume, blood: 43 mL/kg body weight
+Female Red blood cell Volume, blood: 20 to 30 mL/kg body weight
+Ristocetin cofactor activity: 50 to 150 percent
+von Willebrand factor antigen, plasma: 50 to 150 percent
+Zinc, serum: 75 to 140 microg/dL; 11.5 to 21.4 micromol/L (SI)
