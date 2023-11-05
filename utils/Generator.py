@@ -12,6 +12,7 @@ from Prompts import *
 class Patient:
     condition = random.choice(['Asthma'])
     gender = random.choice(['Male', 'Female'])
+    demeanor = random.choice(['very kind, outgoing, has a tendency to overshare'])
 
     def __init__(self):
         self.query_dict = {
