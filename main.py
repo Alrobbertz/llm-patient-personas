@@ -1,12 +1,8 @@
 import os
 import logging
-import random
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
-from langchain.llms import OpenAI
 import chainlit as cl
-from utils.constants import openai_key, SYMPTOMS_TEMPLATE, INTRODUCTION
-
+from utils.constants import openai_key, INTRODUCTION
+from utils.Generator import Patient, LabGenerator
 
 logging.info("Starting LLM App")
 logging.info(f"Using OpenAI API Key: {openai_key}")
@@ -26,8 +22,9 @@ actions = [
 # One of {"QA", "LAB", "DIAG"}
 STATE = "QA"
 
-# String description/representation of a medical condition
-CONDITION = None
+# Current Patient Model
+PATIENT = None
+LAB_GEN = None
 
 # =========================================================
 #                       CALLBACKS 
@@ -38,11 +35,14 @@ async def on_action(action):
     global STATE
     await cl.Message(content=f"Restarting Conversation ....").send()
     
+    # Start new interaction
+    PATIENT = Patient()
+    await cl.Message(content=f"I'll present a new set of symptoms").send()
+    res =  await PATIENT.get_patient_info()
+    await cl.Message(content=res).send()
+    
     # RESET STATE
     STATE = "QA"
-    
-    # Start new interaction
-    await reset_restart()
 
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Generic Question/Answer").send()
@@ -83,33 +83,20 @@ async def on_action(action):
 
 @cl.on_chat_start
 async def main():
-    # Create Templates
-    symptoms_prompt = PromptTemplate(template=SYMPTOMS_TEMPLATE, input_variables=["condition"])
-    # qa_template = PromptTemplate()        # Generic Question/Answer? 
-    # lab_template = PromptTemplate()       # Running Diagnostic/ Lab Tests? 
-    # diag_template = PromptTemplate()      # Evaluating Final Diagnosis? 
-    
-    # Create Chains
-    symptoms_chain = LLMChain(
-        prompt=symptoms_prompt, 
-        llm=OpenAI(temperature=0),
-        verbose=True
-    )
-    # qa_chain = LLMChain()
-    # lab_chain = LLMChain()
-    # diag_chain = LLMChain()
-    
-    # Store the chain in the user session
-    cl.user_session.set("symptoms_chain", symptoms_chain)
-    # cl.user_session.set("qa_chain", qa_chain)
-    # cl.user_session.set("lab_chain", lab_chain)
-    # cl.user_session.set("diag_chain", diag_chain)
-    
+    global PATIENT
+    global LAB_GEN
+   
+    await cl.Message(content="Setting Up Patient Backend...").send()
+    PATIENT = Patient()
+    res =  await PATIENT.get_patient_info()
+    LAB_GEN = LabGenerator(patient=PATIENT)
+   
     # Create Starting Interface/User Directions
     await cl.Message(content=INTRODUCTION).send()
     
     # Create new Random Condition and Symptoms
-    await reset_restart()
+    await cl.Message(content=f"I'll present a new set of symptoms").send()
+    await cl.Message(content=res).send()
     
     # Add Buttons
     await cl.Message(content="Use these buttons to direct the conversation:", actions=actions).send()
@@ -119,54 +106,23 @@ async def main():
 async def main(message: cl.Message):
     # Should Check here what STATE we're in - I'm imagining a finite state machine 
     # Select the Chain we want to use based on the STATE we're in. 
-    logging.info(f"Selecting Chain for STATE: {SYMPTOMS_TEMPLATE}")
+    logging.info(f"Selecting Chain for STATE: {STATE}")
     match STATE:
         case "QA":
-            state_chain = "qa_chain"
+            # Just for Demo TODO: Remove once Chains are implemented
+            res = f"QA Chain Not Implemented"
         case "LAB":
-            state_chain = "lab_chain"
+            res = LAB_GEN.generate_lab_value(message.content)
         case "DIAG":
-            state_chain = "diag_chain"            
-
-    # Retrieve the chain from the user session
-    llm_chain = cl.user_session.get(state_chain)  # type: LLMChain
-    
-    # Call the chain asynchronously # TODO - Uncomment once Chains are implemented
-    # res = await llm_chain.acall(
-    #     message.content, 
-    #     callbacks=[cl.AsyncLangchainCallbackHandler()]
-    # )
-    
-    # Just for Demo TODO: Remove once Chains are implemented
-    res = {
-        "text": f"Chain {state_chain} Not Implemented"
-    }
+            # Just for Demo TODO: Remove once Chains are implemented
+            res = f"Diagnostic Chain Not Implemented"      
 
     # Do any post processing here
-    # "res" is a Dict. For this chain, we get the response by reading the "text" key.
-    # This varies from chain to chain, you should check which key to read.
-    message = res["text"]
+    message = res
 
     # Send the message response
     await cl.Message(content=message).send()
     await cl.Message(content="Use these buttons to direct the conversation:", actions=actions).send()
     
 
-# =========================================================
-#                       HELPERS
-# =========================================================
-
-def get_random_condition():
-    condition = random.sample(["Asthma", "Flu", ""], 1)[0]
-    logging.info(f"Selected Random Condition: {condition}")
-    return condition
-    
-async def reset_restart():
-    global CONDITION
-    await cl.Message(content=f"I'll present a new set of symptoms").send()
-    CONDITION = get_random_condition()
-    symptoms_chain = cl.user_session.get("symptoms_chain")
-    res = await symptoms_chain.acall(CONDITION, callbacks=[cl.AsyncLangchainCallbackHandler()])
-    await cl.Message(content=res["text"]).send()
-    
 logging.info("Completed Setup")

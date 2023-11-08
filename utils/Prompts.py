@@ -1,3 +1,12 @@
+__all__ = [
+    "patient_template",
+    "physical_template",
+    "diagnostic_template",
+    "treatment_template",
+    "labs_template",
+    "persona_template"
+]
+
 patient_template = """You are a patient generator for simulating {gender} medical patients with {disease_state}.
                     You will use the disease context below to help you create a {gender} virtual medical patient with 
                     {disease_state}. The virtual patient has not been diagnosed with {disease_state} yet, so do not 

@@ -1,12 +1,14 @@
 import os
 import random
+from pathlib import Path
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.prompts.chat import ChatPromptTemplate
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
-from Prompts import *
+import utils
+from utils.Prompts import *
 
 
 class Patient:
@@ -21,22 +23,52 @@ class Patient:
             'diagnostic': f'diagnostic exam findings or diagnostic evaluation findings for {self.condition}',
             'treatment': f'treatment plan and medications used for {self.condition}'
         }
-        self.patient_info = self.generator(0.9, patient_template, 'patient_info', 2)
-        self.physical_exam = self.generator(0.0, physical_template, 'physical', 2)
-        self.diagnostic_exam = self.generator(0.0, diagnostic_template, 'diagnostic', 2)
-        self.treatment_plan = self.generator(0.0, treatment_template, 'treatment', 3)
+        self._patient_info = None
+        self._physical_exam = None
+        self._diagnostic_exam = None
+        self._treatment_plan = None
         self.labs = []
+        
+    async def get_patient_info(self):
+        if self._patient_info is None:
+            self._patient_info = await self.generator(0.9, patient_template, 'patient_info', 2)
+        return self._patient_info
+    
+    async def get_physical_exam(self):
+        if self._physical_exam is None:
+            self._physical_exam = await self.generator(0.0, physical_template, 'physical', 2)
+        return self._physical_exam
+    
+    async def get_diagnostic_exam(self):
+        if self._diagnostic_exam is None:
+            self._diagnostic_exam = await self.generator(0.0, diagnostic_template, 'diagnostic', 2)
+        return self._diagnostic_exam
+            
+    async def get_treatment_plan(self):
+        if self._treatment_plan is None:
+            self._treatment_plan = await self.generator(0.0, treatment_template, 'treatment', 3)
+        return self._treatment_plan
 
-    def generator(self, temperature, template, purpose, k):
+    async def generator(self, temperature, template, purpose, k):
         # Instantiate LM
         gpt_3_5 = ChatOpenAI(model_name='gpt-3.5-turbo-16k', openai_api_key=os.environ['OPENAI_API_KEY'],
                              temperature=temperature)
+        
         # Load condition information
         if purpose != 'treatment':
-            loader = TextLoader(f"{self.condition}_symptoms_diagnosis.txt", encoding='utf-8')
+            loader = TextLoader(
+                Path(utils.__file__).parent
+                / "data"
+                / f"{self.condition}_symptoms_diagnosis.txt", encoding='utf-8'
+            )
         else:
-            loader = TextLoader(f"{self.condition}_treatment.txt", encoding='utf-8')
+            loader = TextLoader(
+                Path(utils.__file__).parent
+                / "data"
+                / f"{self.condition}_treatment.txt", encoding='utf-8'
+            )
         context = loader.load()
+        
         # Load relevant text into context and format
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=50, length_function=len,
                                                        is_separator_regex=False)
@@ -65,7 +97,7 @@ class Patient:
                                     'gender': self.gender}}
         chat_prompt = ChatPromptTemplate.from_messages([("system", template)])
         chain = chat_prompt | gpt_3_5
-        output = chain.invoke(chain_dict[purpose])
+        output = await chain.ainvoke(chain_dict[purpose])
         return output.content
 
 
@@ -75,8 +107,13 @@ class LabGenerator:
         self.patient = patient
         self.labs_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k', openai_api_key=os.environ['OPENAI_API_KEY'],
                                      temperature=0.0)
+        
         # Load the document, split by \n, load into retriever
-        loader = TextLoader(f"{patient.gender}_reference_ranges.txt", encoding='utf-8')
+        loader = TextLoader(
+            Path(utils.__file__).parent
+            / "data"
+            / f"{patient.gender}_reference_ranges.txt", encoding='utf-8'
+        )
         normal_labs = loader.load()
         normal_labs = normal_labs[0].page_content.split('\n')
         self.retriever = Chroma.from_texts(normal_labs,
