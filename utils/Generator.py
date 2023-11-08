@@ -119,12 +119,12 @@ class LabGenerator:
         self.retriever = Chroma.from_texts(normal_labs,
                                            embedding=OpenAIEmbeddings()).as_retriever(search_kwargs={"k": 1})
 
-    def generate_lab_value(self, lab):
+    async def generate_lab_value(self, lab):
         # Retrieve relevant lab value
         relevant_lab = self.retriever.get_relevant_documents(lab)
         # Instantiate template variables and prompt, create chain and invoke
         chat_prompt = ChatPromptTemplate.from_messages([("system", labs_template)])
         chain = chat_prompt | self.labs_model
-        lab_out = chain.invoke({"disease_state": self.patient.condition, "lab": lab,
+        lab_out = await chain.ainvoke({"disease_state": self.patient.condition, "lab": lab,
                                 "context": relevant_lab[0].page_content, 'gender': self.patient.gender})
         return lab_out.content

@@ -112,7 +112,7 @@ async def main(message: cl.Message):
             # Just for Demo TODO: Remove once Chains are implemented
             res = f"QA Chain Not Implemented"
         case "LAB":
-            res = LAB_GEN.generate_lab_value(message.content)
+            res = await LAB_GEN.generate_lab_value(message.content)
         case "DIAG":
             # Just for Demo TODO: Remove once Chains are implemented
             res = f"Diagnostic Chain Not Implemented"      
