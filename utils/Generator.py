@@ -34,7 +34,7 @@ class Patient:
         self._diagnostic_exam = None
         self._treatment_plan = None
         self.labs = []
-        self._chatbot = None
+        self.chatbot = None
         
     async def get_patient_info(self):
         if self._patient_info is None:
@@ -57,9 +57,9 @@ class Patient:
         return self._treatment_plan
 
     async def get_chatbot(self):
-        if self._chatbot is None and self._patient_info is not None:
-            self._chatbot = await self.patient_chat(0.99, persona_template)
-        return self._chatbot
+        if self.chatbot is None and self._patient_info is not None:
+            self.chatbot = await self.patient_chat(0.99, persona_template)
+        return self.chatbot
 
     async def generator(self, temperature, template, purpose, k):
         # Instantiate LM
