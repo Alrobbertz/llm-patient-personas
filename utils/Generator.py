@@ -4,9 +4,15 @@ from pathlib import Path
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.prompts.chat import ChatPromptTemplate
+from langchain.prompts import (HumanMessagePromptTemplate,
+                               MessagesPlaceholder,
+                               PromptTemplate)
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
+from langchain.chains import ConversationChain, LLMChain
+from langchain.memory import ConversationSummaryBufferMemory
+from langchain.schema import SystemMessage
 import utils
 from utils.Prompts import *
 
@@ -28,6 +34,7 @@ class Patient:
         self._diagnostic_exam = None
         self._treatment_plan = None
         self.labs = []
+        self._chatbot = None
         
     async def get_patient_info(self):
         if self._patient_info is None:
@@ -48,6 +55,11 @@ class Patient:
         if self._treatment_plan is None:
             self._treatment_plan = await self.generator(0.0, treatment_template, 'treatment', 3)
         return self._treatment_plan
+
+    async def get_chatbot(self):
+        if self._chatbot is None:
+            self._chatbot = await self.patient_chat(0.99, persona_template)
+        return self._chatbot
 
     async def generator(self, temperature, template, purpose, k):
         # Instantiate LM
@@ -99,6 +111,17 @@ class Patient:
         chain = chat_prompt | gpt_3_5
         output = await chain.ainvoke(chain_dict[purpose])
         return output.content
+        
+    async def patient_chat(self, temperature, template):
+        patient_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k', openai_api_key=os.environ['OPENAI_API_KEY'],
+                                   temperature=temperature)
+        template = template.format(patient=self._patient_info, demeanor=self.demeanor)
+        memory = ConversationSummaryBufferMemory(llm=patient_model, max_token_limit=200, memory_key='chat_summary', return_messages=True)
+        prompt = ChatPromptTemplate.from_messages([SystemMessage(content=persona_template),
+                                                   MessagesPlaceholder(variable_name='chat_summary'), 
+                                                   HumanMessagePromptTemplate.from_template("{human_input}")])
+        llm_chain = LLMChain(llm=patient_model, prompt=prompt, verbose=True, memory=memory)
+        return llm_chain
 
 
 class LabGenerator:
