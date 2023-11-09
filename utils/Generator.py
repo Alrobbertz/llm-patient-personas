@@ -57,7 +57,7 @@ class Patient:
         return self._treatment_plan
 
     async def get_chatbot(self):
-        if self._chatbot is None:
+        if self._chatbot is None and self._patient_info is not None:
             self._chatbot = await self.patient_chat(0.99, persona_template)
         return self._chatbot
 
