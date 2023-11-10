@@ -87,6 +87,7 @@ async def main():
     global LAB_GEN
    
     await cl.Message(content="Setting Up Patient Backend...").send()
+    await cl.Message(content="This may take a couple minutes, please be patient...").send()
     PATIENT = Patient()
     res =  await PATIENT.get_patient_info()
     LAB_GEN = LabGenerator(patient=PATIENT)
@@ -110,7 +111,8 @@ async def main(message: cl.Message):
     match STATE:
         case "QA":
             # Just for Demo TODO: Remove once Chains are implemented
-            res = f"QA Chain Not Implemented"
+            chatbot = await PATIENT.get_chatbot()
+            res = chatbot.predict(human_input=message.content)
         case "LAB":
             res = await LAB_GEN.generate_lab_value(message.content)
         case "DIAG":
