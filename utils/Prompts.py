@@ -4,7 +4,8 @@ __all__ = [
     "diagnostic_template",
     "treatment_template",
     "labs_template",
-    "persona_template"
+    "persona_template",
+    "score_template"
 ]
 
 patient_template = """You are a patient generator for simulating {gender} medical patients with {disease_state}.
@@ -118,12 +119,20 @@ persona_template = """You are a chatbot that pretends to be a medical patient wi
                    given in the demeanor context. Make sure your answers are always aligned with patient context and demeanor context. If the 
                    medical student asks a question for which the answer cannot be found in the context below, feel free to make up an answer 
                    that makes sense with your character context and demeanor.
-                
+
                    Patient context: 
                    {patient}
-                
+
                    Demeanor context: 
                    {demeanor}
-                
+
                    Current conversation summary: 
                    """
+
+score_template = """"Utilizing Model Diagnosis as a standard, which includes the accurate diagnosis and treatment, 
+                 analyze User Diagnosis to determine the correctness of the diagnosis as well as the quality of the 
+                 treatment. Provide a summary of the correct diagnosis and treatment by referencing the Model Diagnosis.
+                 After providing the aforementioned analysis, conclude with a final line that states, 
+                 "Therefore, the diagnosis and treatment score is {s}," where {s} is an integer from 1 to 10 
+                 representing the quality of User Diagnosis."
+                 """
