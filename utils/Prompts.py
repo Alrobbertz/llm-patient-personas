@@ -134,5 +134,7 @@ score_template = """"Utilizing Model Diagnosis as a standard, which includes the
                  treatment. Provide a summary of the correct diagnosis and treatment by referencing the Model Diagnosis.
                  After providing the aforementioned analysis, conclude with a final line that states, 
                  "Therefore, the diagnosis and treatment score is {s}," where {s} is an integer from 1 to 10 
-                 representing the quality of User Diagnosis."
+                 representing the quality of User Diagnosis. Assign a score of at least 5 if the diagnosis is correct
+                 and assign a score greater than 7 if both the diagnosis and treatment are correct. If the diagnosis is 
+                 incorrect but closely related to the correct answer, allocate a score between 3 to 5.
                  """
