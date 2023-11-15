@@ -119,7 +119,7 @@ async def main(message: cl.Message):
     match STATE:
         case "QA":
             chatbot = await PATIENT.get_chatbot()
-            res = chatbot.predict(human_input=message.content)
+            res = await chatbot.predict(human_input=message.content)
         case "LAB":
             res = await LAB_GEN.generate_lab_value(message.content)
         case "DIAG":
