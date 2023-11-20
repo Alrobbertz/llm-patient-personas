@@ -2,7 +2,7 @@ import os
 import logging
 import chainlit as cl
 from utils.constants import openai_key, INTRODUCTION
-from utils.Generator import Patient, LabGenerator, Diagnosis
+from utils.Generator import Patient
 
 logging.info("Starting LLM App")
 logging.info(f"Using OpenAI API Key: {openai_key}")
@@ -15,18 +15,14 @@ os.environ["OPEN_AI_KEY"] = openai_key
 actions = [
     cl.Action(name="reset_restart", value="example_value", label="Restart/Reset Chat", description="Restart/Reset"),
     cl.Action(name="question_answer", value="example_value", label="Generic Question/Answer", description="QA"),
-    cl.Action(name="run_labs", value="example_value", label="Run Diagnostics/Labs", description="Labs"),
     cl.Action(name="score_diagnosis", value="example_value", label="Test Your Diagnosis", description="Diagnosis"),
 ]
 
-# One of {"QA", "LAB", "DIAG"}
+# One of {"QA", "DIAG"}
 STATE = "QA"
 
 # Current Patient Model
 PATIENT = None
-LAB_GEN = None
-DIAG = None
-
 
 # =========================================================
 #                       CALLBACKS
@@ -52,7 +48,6 @@ async def on_action(action):
     # await action.remove()
     await cl.Message(content="Use these buttons to direct the conversation:", actions=actions).send()
 
-
 @cl.action_callback("question_answer")
 async def on_action(action):
     global STATE
@@ -61,17 +56,6 @@ async def on_action(action):
     STATE = "QA"
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Generic Question/Answer").send()
-
-
-@cl.action_callback("run_labs")
-async def on_action(action):
-    global STATE
-
-    # SET STATE
-    STATE = "LAB"
-    logging.info(f"Updated State to: {STATE}")
-    await cl.Message(content=f"Switching to Run Diagnostics/Lab").send()
-
 
 @cl.action_callback("score_diagnosis")
 async def on_action(action):
@@ -90,15 +74,12 @@ async def on_action(action):
 @cl.on_chat_start
 async def main():
     global PATIENT
-    global LAB_GEN
-    global DIAG
 
-    await cl.Message(content="Setting Up Patient Backend...").send()
-    await cl.Message(content="This may take a couple minutes, please be patient...").send()
+    await cl.Message(
+        content="Setting Up Patient Backend. This may take a couple minutes, please be patient..."
+    ).send()
     PATIENT = Patient()
     res = await PATIENT.get_patient_info()
-    LAB_GEN = LabGenerator(patient=PATIENT)
-    DIAG = Diagnosis(patient=PATIENT)
 
     # Create Starting Interface/User Directions
     await cl.Message(content=INTRODUCTION).send()
@@ -119,12 +100,10 @@ async def main(message: cl.Message):
     match STATE:
         case "QA":
             chatbot = await PATIENT.get_chatbot()
-            res = await chatbot.predict(human_input=message.content)
-        case "LAB":
-            res = await LAB_GEN.generate_lab_value(message.content)
+            res = await chatbot.ainvoke({"input": message.content})
+            res = res["output"]
         case "DIAG":
-            # res = f"Diagnostic Chain Not Implemented"
-            res = await DIAG.score_diag(message.content)
+            res = await PATIENT.score_diag(message.content)
 
             # res = await DIAG.assess()
     # Do any post processing here

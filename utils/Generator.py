@@ -4,15 +4,17 @@ from pathlib import Path
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.prompts.chat import ChatPromptTemplate
-from langchain.prompts import (HumanMessagePromptTemplate,
-                               MessagesPlaceholder,
-                               PromptTemplate)
+from langchain.prompts import PromptTemplate
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
-from langchain.chains import ConversationChain, LLMChain
-from langchain.memory import ConversationSummaryBufferMemory
-from langchain.schema import SystemMessage
+from langchain.agents import Tool
+from langchain.llms import OpenAI
+from langchain.memory import ConversationBufferMemory
+from langchain.agents.format_scratchpad import format_log_to_str
+from langchain.agents.output_parsers import ReActSingleInputOutputParser
+from langchain.tools.render import render_text_description
+from langchain.agents import AgentExecutor
 import utils
 from utils.Prompts import *
 
@@ -35,8 +37,29 @@ class Patient:
         self._treatment_plan = None
         self.labs = []
         self.chatbot = None
+        
+        # Lab Generator
+        self.lab_generator = LabGenerator(patient=self)
+        
+        # Agent Tools
+        self.tools = [
+            Tool.from_function(
+                coroutine=self.lab_generator.generate_lab_value,
+                func=None,
+                description="Used to run diagnostics and labs for a given medical patient.",
+                name="Lab",
+                return_direct=False,
+            ),
+            Tool.from_function(
+                coroutine=self.score_diag,
+                func=None,
+                description="Used when presented with a diagnosis for a medical condition.",
+                name="Diag",
+                return_direct=True,
+            ),
+        ]
 
-    async def get_patient_info(self):
+    async def get_patient_info(self, text=None):
         if self._patient_info is None:
             self._patient_info = await self.generator(0.9, patient_template, 'patient_info', 2)
         return self._patient_info
@@ -57,8 +80,10 @@ class Patient:
         return self._treatment_plan
 
     async def get_chatbot(self):
-        if self.chatbot is None and self._patient_info is not None:
-            self.chatbot = await self.patient_chat(0.99, persona_template)
+        if self.chatbot is None:
+            if self._patient_info is None:
+                _ = await self.get_patient_info()
+            self.chatbot = await self.patient_chat(temperature=0.99)
         return self.chatbot
 
     async def generator(self, temperature, template, purpose, k):
@@ -90,41 +115,107 @@ class Patient:
         relevant = retriever.get_relevant_documents(self.query_dict[purpose])
         context_doc = [d.page_content for d in relevant]
         context_doc = ' '.join(context_doc)
+        
         # Instantiate and invoke chain for specific purpose
-        chain_dict = {'patient_info': {'disease_state': self.condition,
-                                       'context': context_doc,
-                                       'gender': self.gender},
-                      'physical': {'disease_state': self.condition,
-                                   'patient_template': self._patient_info if purpose == 'physical' else None,
-                                   'context': context_doc,
-                                   'gender': self.gender},
-                      'diagnostic': {'disease_state': self.condition,
-                                     'patient_template': self._patient_info if purpose == 'diagnostic' else None,
-                                     'context': context_doc,
-                                     'gender': self.gender},
-                      'treatment': {'disease_state': self.condition,
-                                    'context': context_doc,
-                                    'patient': ' '.join(
-                                        [str(i) for i in
-                                         [self._patient_info, self._physical_exam, self._diagnostic_exam]]) \
-                                        if purpose == 'treatment' else None,
-                                    'gender': self.gender}}
+        chain_dict = {
+            'patient_info': {
+                'disease_state': self.condition,
+                'context': context_doc,
+                'gender': self.gender
+            },
+            'physical': {
+                'disease_state': self.condition,
+                'patient_template': self._patient_info if purpose == 'physical' else None,
+                'context': context_doc,
+                'gender': self.gender
+            },
+            'diagnostic': {
+                'disease_state': self.condition,
+                'patient_template': self._patient_info if purpose == 'diagnostic' else None,
+                'context': context_doc,
+                'gender': self.gender
+            },
+            'treatment': {
+                'disease_state': self.condition,
+                'context': context_doc,
+                'patient': ' '.join(
+                    [str(i) for i in
+                        [self._patient_info, self._physical_exam, self._diagnostic_exam]]) \
+                    if purpose == 'treatment' else None,
+                'gender': self.gender
+                }
+            }
+        
         chat_prompt = ChatPromptTemplate.from_messages([("system", template)])
         chain = chat_prompt | gpt_3_5
         output = await chain.ainvoke(chain_dict[purpose])
         return output.content
 
-    async def patient_chat(self, temperature, template):
-        patient_model = ChatOpenAI(model_name='gpt-3.5-turbo-16k', openai_api_key=os.environ['OPENAI_API_KEY'],
-                                   temperature=temperature)
-        template = template.format(patient=self._patient_info, demeanor=self.demeanor)
-        memory = ConversationSummaryBufferMemory(llm=patient_model, max_token_limit=200, memory_key='chat_summary',
-                                                 return_messages=True)
-        prompt = ChatPromptTemplate.from_messages([SystemMessage(content=persona_template),
-                                                   MessagesPlaceholder(variable_name='chat_summary'),
-                                                   HumanMessagePromptTemplate.from_template("{human_input}")])
-        llm_chain = LLMChain(llm=patient_model, prompt=prompt, verbose=True, memory=memory)
-        return llm_chain
+    async def patient_chat(self, temperature=1):
+        # Create Prompt Template
+        prompt = PromptTemplate(
+            template = agent_template,
+            input_variables=[
+                "patient",
+                "demeanor",
+                "tools",
+                "tool_names",
+                "chat_history",
+                "human_input",
+                "agent_scratchpad"
+            ]
+        )
+        
+        # Partially Fill-In Members of the Prompt Template
+        prompt = prompt.partial(
+            patient=await self.get_patient_info(),
+            demeanor=self.demeanor,
+            tools=render_text_description(self.tools),
+            tool_names=", ".join([t.name for t in self.tools]),
+        )
+        
+        # Create Main LLM
+        llm = OpenAI(temperature=temperature)
+        llm_with_stop = llm.bind(stop=["\nObservation"])
+        
+        # Create Agent
+        agent = (
+            {
+                "human_input": lambda x: x["input"],
+                "agent_scratchpad": lambda x: format_log_to_str(x["intermediate_steps"]),
+                "chat_history": lambda x: x["chat_history"],
+            }
+            | prompt
+            | llm_with_stop
+            | ReActSingleInputOutputParser()
+        )
+        
+        # Create Executor
+        memory = ConversationBufferMemory(memory_key="chat_history")
+        agent_executor = AgentExecutor(
+            agent=agent, 
+            tools=self.tools, 
+            verbose=True, 
+            memory=memory, 
+            handle_parsing_errors=True
+        )
+        return agent_executor
+
+    async def score_diag(self, user_diagnosis):
+        # Create Model
+        model = ChatOpenAI(
+            model_name='gpt-3.5-turbo-16k', 
+            openai_api_key=os.environ['OPENAI_API_KEY']
+        )
+        # Fetch Recommended Diagnosis and Treatment
+        llm_diagnosis = await self.get_diagnostic_exam()
+        llm_treatment = await self.get_treatment_plan()
+
+        # Construct Prompt
+        score_diagnosis_prompt = score_template + "\n User Diagnosis: " + user_diagnosis + "\n Model Diagnosis: " \
+                                + llm_diagnosis + '. \n' + llm_treatment
+        # Run Model
+        return model.predict(score_diagnosis_prompt)
 
 
 class LabGenerator:
@@ -155,17 +246,3 @@ class LabGenerator:
                                        "context": relevant_lab[0].page_content, 'gender': self.patient.gender})
         return lab_out.content
 
-
-class Diagnosis:
-
-    def __init__(self, patient: Patient):
-        self.model = ChatOpenAI(model_name='gpt-3.5-turbo-16k', openai_api_key=os.environ['OPENAI_API_KEY'])
-        self.patient = patient
-
-    async def score_diag(self, user_diagnosis):
-        llm_diagnosis = await self.patient.get_diagnostic_exam()
-        llm_treatment = await self.patient.get_treatment_plan()
-
-        score_diagnosis_prompt = score_template + "\n User Diagnosis: " + user_diagnosis + "\n Model Diagnosis: " \
-                                + llm_diagnosis + '. \n' + llm_treatment
-        return self.model.predict(score_diagnosis_prompt)
