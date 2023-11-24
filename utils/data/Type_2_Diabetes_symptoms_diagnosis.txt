@@ -1,0 +1,170 @@
+INTRODUCTION
+The term diabetes mellitus describes diseases of abnormal carbohydrate metabolism that are characterized by hyperglycemia. It is associated with a relative or absolute impairment in insulin secretion, along with varying degrees of peripheral resistance to the action of insulin. Every few years, the diabetes community reevaluates the current recommendations for the classification, diagnosis, and screening of diabetes, reflecting new information from research and clinical practice.
+
+This topic will review the clinical presentation, diagnosis, and initial evaluation of diabetes in nonpregnant adults. Screening for and prevention of diabetes, the etiologic classification of diabetes mellitus, the treatment of diabetes, as well as diabetes during pregnancy are discussed separately.
+
+CLINICAL PRESENTATION
+
+Type 2 diabetes – Type 2 diabetes is by far the most common type of diabetes in adults (>90 percent) and is characterized by hyperglycemia usually due to progressive loss of insulin secretion from the beta cell superimposed on a background of insulin resistance, resulting in relative insulin deficiency. The majority of patients are asymptomatic at presentation, with hyperglycemia noted on routine laboratory evaluation, prompting further testing. The frequency of symptomatic diabetes has been decreasing in parallel with improved efforts to diagnose diabetes earlier through screening. (See "Screening for type 2 diabetes mellitus".)
+
+The classic symptoms of hyperglycemia (including polyuria, polydipsia, nocturia, blurred vision, and weight loss) are often noted only in retrospect after a blood glucose value has been shown to be elevated. Polyuria occurs when the serum glucose concentration rises significantly above 180 mg/dL (10 mmol/L), exceeding the renal threshold for glucose reabsorption, which leads to increased urinary glucose excretion. Glycosuria causes osmotic diuresis (ie, polyuria) and hypovolemia, which in turn can lead to polydipsia. Patients who replete their volume losses with concentrated sugar drinks, such as non-diet sodas, exacerbate their hyperglycemia and osmotic diuresis.
+
+Rarely adults with type 2 diabetes can present with a hyperosmolar hyperglycemic state, characterized by marked hyperglycemia, severe dehydration, and obtundation, but without ketoacidosis. Diabetic ketoacidosis (DKA) as the presenting symptom of type 2 diabetes is also uncommon in adults but may occur under certain circumstances (usually severe infection or other acute illness). (See "Diabetic ketoacidosis and hyperosmolar hyperglycemic state in adults: Clinical features, evaluation, and diagnosis" and "Syndromes of ketosis-prone diabetes mellitus".)
+
+Type 1 diabetes – Type 1 diabetes is characterized by autoimmune destruction of the pancreatic beta cells, leading to absolute insulin deficiency. Type 1 diabetes accounts for approximately 5 to 10 percent of diabetes in adults.
+
+DKA may be the initial presentation in approximately 25 percent of adults with newly diagnosed type 1 diabetes. Compared with children, the loss of insulin secretory capacity usually is less rapid over time in adults with type 1 diabetes [1]. Thus, adults with type 1 diabetes typically have a longer estimated period prior to diagnosis and are likely to have more protracted symptoms of hyperglycemia (polyuria, polydipsia, fatigue) than children [2]. In 2 to 12 percent of adults, the clinical presentation is similar to that of type 2 diabetes (older-age onset and not initially insulin dependent), with autoimmune-mediated insulin deficiency developing later in the course of disease [1]. This is sometimes referred to as latent autoimmune diabetes of adults (LADA). (See "Classification of diabetes mellitus and genetic diabetic syndromes", section on 'Latent autoimmune diabetes in adults (LADA)'.)
+
+DIAGNOSTIC CRITERIA
+Fasting plasma glucose (FPG), two-hour plasma glucose during a 75 g oral glucose tolerance test (OGTT), or glycated hemoglobin (A1C) may be used for diagnostic testing. OGTT is not commonly used (except during pregnancy) owing to its inconvenience. (See "Gestational diabetes mellitus: Screening, diagnosis, and prevention", section on 'Screening for GDM at 24 to 28 weeks'.)
+
+The following definitions are consistent with guidelines from the American Diabetes Association (ADA) (table 1 and table 2) [3] and the World Health Organization [4]. The diagnostic criteria were developed based upon the observed association between the glycemic thresholds and the risk for developing retinopathy [5].
+
+Diabetes
+
+Symptomatic hyperglycemia — The diagnosis of diabetes mellitus is easily established when a patient presents with classic symptoms of hyperglycemia (thirst, polyuria, weight loss, blurry vision) and has a random blood glucose value of 200 mg/dL (11.1 mmol/L) or higher. Most patients with type 1 diabetes are symptomatic and have plasma glucose concentrations well above ≥200 mg/dL. Some patients with type 2 diabetes also present with symptomatic hyperglycemia and blood glucose ≥200 mg/dL. (See 'Differentiating the cause' below.)
+
+Asymptomatic hyperglycemia — The diagnosis of diabetes in an asymptomatic individual (generally type 2 diabetes) can be established with any of the following criteria (table 1) [3,6]:
+
+FPG values ≥126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least eight hours.
+
+Two-hour plasma glucose values of ≥200 mg/dL (11.1 mmol/L) during a 75 g OGTT.
+
+A1C values ≥6.5 percent (48 mmol/mol).
+
+In the absence of unequivocal symptomatic hyperglycemia, the diagnosis of diabetes must be confirmed on a subsequent day by repeat measurement, repeating the same test for confirmation. However, if two different tests (eg, FPG and A1C) are available and are concordant for the diagnosis of diabetes, additional testing is not needed [7]. If two different tests are discordant, the test that is diagnostic of diabetes should be repeated to confirm the diagnosis [3]. (Related Pathway(s): Diabetes: Diagnosis of diabetes mellitus or prediabetes in non-pregnant adults.)
+
+Additional testing may be warranted to understand the possible reason for discordance. Common reasons for discordance include those conditions that can interfere with any of the test results. For glucose levels, these conditions include delayed or improper sample handling (samples should be collected in tubes that inhibit glycolysis and should not be left at room temperature prior to assay), inadequate duration of fasting, recent illness or physical activity, acute stress, and certain medications. For A1C, factors that can influence test results include hemoglobinopathies, or conditions that alter hemoglobin or red blood cell lifespan. (Related Lab Interpretation Monograph(s): "High glycated hemoglobin (A1C) in nonpregnant adults".) (See "Measurements of chronic glycemia in diabetes mellitus", section on 'Unexpected or discordant values'.)
+
+The importance of confirming the diagnosis by repeat measurement on a subsequent day, especially when the diagnosis is based upon plasma glucose measurements, is illustrated by a report from the National Health and Nutrition Examination Survey (NHANES) III Second Examination [8]. The prevalence of diabetes based upon either FPG or two-hour, post-OGTT plasma glucose concentration significantly decreased when the diagnosis was contingent upon having two abnormal measurements rather than a single abnormal measurement.
+
+Prediabetes — The same tests used to screen for and diagnose diabetes can also be used to identify individuals with prediabetes (meaning at high risk for subsequently developing diabetes) (related Pathway(s): Diabetes: Diagnosis of diabetes mellitus or prediabetes in non-pregnant adults). The ADA criteria to diagnose prediabetes are as follows (table 2) [3]:
+
+Impaired fasting glucose (IFG) – FPG between 100 and 125 mg/dL (5.6 to 6.9 mmol/L). The World Health Organization (WHO) defines IFG as an FPG of 110 to 125 mg/dL (6.1 to 6.9 mmol/L) [9]. Fasting is defined as no caloric intake for at least eight hours.
+
+Impaired glucose tolerance (IGT) – Two-hour plasma glucose value during a 75 g OGTT between 140 and 199 mg/dL (7.8 to 11.0 mmol/L). The WHO defines IGT as a two-hour, post-OGTT glucose ≥140 mg/dL (7.8 mmol/L) but <200 mg/dL (11.1 mmol/L) and a FPG <126 (7.0 mmol/L) [9].
+
+A1C – Persons with A1C 5.7 to <6.5 percent (39 to 48 mmol/mol; 6.0 to <6.5 percent [42 to 48 mmol/mol] in the International Expert Committee report [10]) are at highest risk, although there is a continuum of increasing risk across the entire spectrum of A1C levels less than 6.5 percent (48 mmol/mol).
+
+If the diagnostic test is consistent with prediabetes, it should be repeated annually.
+
+Diabetes is a common condition, and it has significant clinical and public health burden. Early detection of glucose abnormalities and effective interventions that prevent progression from prediabetes to diabetes are likely to be important since the duration of hyperglycemia is a strong predictor of adverse outcomes. However, the data supporting the role of diabetes prevention on long-term complications are inconsistent [11]. Our approach to identifying candidates for diabetes prevention is reviewed separately. (See "Prevention of type 2 diabetes mellitus", section on 'Our approach'.)
+
+DIAGNOSTIC TESTS
+Fasting plasma glucose (FPG), oral glucose tolerance test (OGTT), and A1C represent different physiologic phenomena, and each of the tests will identify different proportions of the population with diabetes [12-14]. Compared with A1C and FPG cutpoints, the OGTT diagnoses more people with prediabetes and diabetes [15]. However, A1C and FPG are more convenient, the former perhaps the most convenient since fasting is not required. Because of its inconvenience, the OGTT is not commonly used clinically, except in pregnancy. OGTT is also used in research trials of diabetes prevention owing to its greater sensitivity. (See "Type 1 diabetes mellitus: Prevention and disease-modifying therapy" and "Prevention of type 2 diabetes mellitus".)
+
+Fasting and two-hour plasma glucose — The correlations between FPG, two-hour plasma glucose during an OGTT, and A1C are far from perfect. As an example, in a study of 6890 adults without a history of diabetes participating in the National Health and Nutrition Examination Survey (NHANES; 1999 to 2006), the prevalence of diabetes using A1C versus FPG criteria was 2.3 versus 3.6 percent, respectively. Nonetheless, overall, the A1C and FPG criteria resulted in the same classification for 98 percent of the population studied [12].
+
+Although the natural histories of impaired fasting glucose (IFG) and impaired glucose tolerance (IGT) are variable, approximately 25 percent of individuals with either will progress to type 2 diabetes over three to five years [16]. The risk for developing type 2 diabetes follows a continuum across the entire spectrum of "subdiabetic" glycemic values. Higher fasting or two-hour OGTT plasma glucose values (or higher A1C values) confer higher risk than lower values within the prediabetes range. Individuals with additional diabetes risk factors, including obesity and family history, are more likely to develop diabetes. (See "Type 2 diabetes mellitus: Prevalence and risk factors", section on 'Abnormal glucose metabolism'.)
+
+A1C — A1C values were not previously recommended to diagnose diabetes, because of variation in A1C assays. However, the National Glycohemoglobin Standardization Program (NGSP) has standardized more than 99 percent of the assays used in the United States to the Diabetes Control and Complications Trial (DCCT) standard. A strict quality control program has improved precision and accuracy of assays in the United States and many international assays. (See "Measurements of chronic glycemia in diabetes mellitus", section on 'Standardization of the assay'.)
+
+There are also several technical advantages of the A1C assay over plasma glucose testing, increased patient convenience (since there is no special preparation or timing required for the A1C test), and the correlation of A1C levels with mean glucose concentrations and diabetes complications [10,17-19]. Point-of-care devices to measure A1C in the clinician’s office are not recommended for diagnosis of diabetes or prediabetes, but play a valuable role in monitoring diabetes management in clinical settings as they can provide immediate availability of A1C results at the time of the patient visit. (See "Measurements of chronic glycemia in diabetes mellitus", section on 'Point-of-care testing'.)
+
+The diagnostic threshold for A1C is based upon the observed association between A1C and the prevalence of retinopathy [20-22]. As an example, in the 2005 to 2006 NHANES, 1066 individuals aged ≥40 years had retinal fundus photography and measurements of A1C and FPG concentration [23]. The prevalence of retinopathy increased above an A1C of 5.5 percent and an FPG of 104 mg/dL (5.8 mmol/L). A1C was more predictive than FPG in identifying cases of retinopathy.
+
+A1C criteria for identifying patients with impaired glucose regulation were derived using data from the NHANES 2005 to 2006 [17]. Compared with other cutpoints, an A1C cutpoint of 5.7 percent (39 mmol/mol) had the best sensitivity (39 percent) and specificity (91 percent) for identifying cases of IFG (FPG ≥100 mg/dL [5.6 mmol/L]).
+
+If the A1C is either unavailable or uninterpretable (for example, owing to rapid red cell turnover in a patient with certain forms of anemia), glucose testing (FPG, two-hour OGTT), should be used. The A1C assay, racial variation, and potential sources of error are reviewed separately. (See "Measurements of chronic glycemia in diabetes mellitus", section on 'Glycated hemoglobin (A1C)'.)
+
+A1C, FPG, and OGTT as predictors of cardiovascular risk — Epidemiologic analyses (observational studies or secondary analyses of trials) strongly support a correlation between chronic hyperglycemia and higher rates of cardiovascular disease (CVD). There is consistent evidence that the relationship between blood glucose levels and cardiovascular risk extends into the nondiabetic range. Therefore, individuals with prediabetes should be evaluated and treated for other cardiovascular risk factors [3]. In a meta-analysis of 97 prospective cohort studies with median follow-up of 9.8 years, prediabetes (IFG, IGT, or increases in A1C in the nondiabetic range [5.7 to 6.4 percent or 6.0 to 6.4 percent]) compared with normoglycemia was associated with an increased risk of overall mortality (absolute risk difference 7.36 per 10,000 person-years, relative risk [RR] 1.13, 95% CI 1.10-1.17), coronary heart disease (CHD; 6.59 per 10,000 person-years, RR 1.16, 95% CI 1.11-1.21), and stroke (3.68 per 10,000 person-years, RR 1.14, 95% CI 1.08-1.20) [24,25].
+
+Although there is a correlation between measures of glycemia and cardiovascular risk, their addition to conventional cardiovascular risk factors is not associated with a clinically meaningful improvement in prediction of risk in type 2 diabetes. An analysis of individual patient data from 73 prospective studies (294,998 participants) showed that the addition of A1C to prognostic models containing conventional cardiovascular risk factors (age, sex, blood pressure, total and high-density lipoprotein [HDL] cholesterol, smoking) significantly improved the models' ability to predict the development of CVD [26]; however, the incremental improvement was small and of little clinical relevance. The improvement provided by A1C was at least equal to estimated improvements for measurement of fasting, random, or post-load glucose levels. These findings suggest that in individuals without known CVD or diabetes, traditional cardiovascular risk factors are much stronger predictors of CVD than measures of glycemia. The co-incidence of and relationship between hyperglycemia and traditional risk factors makes the analysis of their individual contributions particularly challenging. Moreover, there is little evidence that treating mild hyperglycemia in the prediabetic range reduces CVD risk. In type 1 diabetes, glycemia as measured by A1C plays a much more dominant role in CVD risk, only following age in the hierarchy of risk factors [27].
+
+DIFFERENTIAL DIAGNOSIS
+
+Other causes of hyperglycemia — There are few causes of persistent hyperglycemia in adults other than diabetes mellitus. Transient hyperglycemia may occur during severe illness in adults without known diabetes mellitus. This is sometimes referred to as "stress hyperglycemia" and is a consequence of many factors, including increased serum concentrations of cortisol, catecholamines, glucagon, growth hormone, leading to increased gluconeogenesis and glycogenolysis and insulin resistance. Uncontrolled hyperglycemia associated with critical illness has been associated with poor outcomes, possibly because the hyperglycemia is an index of the severity of the underlying illness; however, an alternative explanation is that hyperglycemia and hypoinsulinemia have pernicious effects in the acutely ill patient. (See "Glycemic control in critically ill adult and pediatric patients".)
+
+Stress hyperglycemia may also be a marker of underlying abnormal glucose tolerance and increased risk for developing diabetes. However, not all patients who experience stress hyperglycemia show progressive deterioration in glycemia to the point of diabetes [28,29]. In a prospective study of 2124 patients without known diabetes admitted to a hospital with pneumonia, 1418 (67 percent) had varying degrees of stress hyperglycemia (admission plasma glucose 110 to 360 mg/dL [6.1 to 20 mmol/L]) [30]. Over five years, a greater proportion of patients with stress hyperglycemia subsequently developed diabetes (14 versus 6 percent of patients with normal glycemia). The risk of a new diagnosis of diabetes increased with increasing degrees of stress hyperglycemia: 7, 18, and 47 percent for mild (110 to 139 mg/dL [6.1 to 7.7 mmol/L]), moderate (140 to 198 mg/dL [7.8 to 11.0 mmol/L]), and severe (200 to 360 mg/dL [11.1 to 20.0 mmol/L]) hyperglycemia, respectively. In most patients with severe stress hyperglycemia, diabetes mellitus was diagnosed within one year. Thus, patients with stress hyperglycemia require follow-up testing after discharge to identify underlying diabetes.
+
+Classification of diabetes — The differential diagnosis for new-onset diabetes in adults includes type 2 diabetes, type 1 diabetes, diseases of the exocrine pancreas, drug-induced diabetes, and rarer causes, such as monogenic diabetes (formerly called maturity onset diabetes of the young [MODY]) (table 3) [31]. Type 2 diabetes accounts for over 90 percent of cases of diabetes in the United States, Canada, and Europe, and type 1 for another 5 to 10 percent. The etiologic classification of diabetes, including distinguishing type 2 from type 1 diabetes, and monogenic forms of diabetes from type 1 and type 2 diabetes, is reviewed briefly below and in more detail elsewhere. (See 'Differentiating the cause' below and "Classification of diabetes mellitus and genetic diabetic syndromes".)
+
+EVALUATION
+
+Comprehensive history — Patients with newly diagnosed diabetes require a history and physical examination to assess the characteristics of onset of diabetes (asymptomatic laboratory finding or symptomatic polyuria and polydipsia), nutrition and weight history, assessment of physical activity, cardiovascular risk factors, history of diabetes-related complications, diabetic ketoacidosis (DKA) frequency (typically type 1 diabetes), family history, and current management. Although the more diabetes-specific microvascular complications are related to duration and degree of hyperglycemia, such complications may be present in newly diagnosed patients with type 2 diabetes owing largely to delays in diagnosis.
+
+Biochemical testing
+
+If not measured in the past two to three months, we measure A1C (see "Measurements of chronic glycemia in diabetes mellitus", section on 'Glycated hemoglobin (A1C)')
+
+If not measured in the past one year, we measure:
+
+Fasting lipid profile
+
+Liver function tests
+
+Urine albumin-to-creatinine ratio (spot urine)
+
+Serum creatinine (with estimated glomerular filtration rate [eGFR])
+
+In patients with type 1 diabetes we also measure, periodically:
+
+Serum thyroid-stimulating hormone (TSH)
+
+Celiac antibodies to screen for celiac disease, which can be asymptomatic [32]
+
+Differentiating the cause
+
+Type 2 versus type 1 diabetes – Type 2 diabetes can usually be differentiated from other causes of diabetes based upon the clinical presentation of the patient (table 3). When the diagnosis of type 1 or type 2 diabetes is uncertain by clinical presentation, we obtain additional tests.
+
+We measure islet autoantibodies (eg, glutamic acid decarboxylase [GAD]-65, insulin, tyrosine phosphatase 2 [IA-2], zinc transporter 8) [6]. Measuring more than one autoantibody increases the likelihood of a positive value, though it is more costly. A common approach is to measure two or three antibodies (GAD65 and one or two others).
+
+Clinical presentations that may warrant measurement of autoantibodies include:
+
+-Catabolic presentation (eg, weight loss, ketonuria)
+
+-Lean body habitus with no features of metabolic syndrome
+
+-Personal history of autoimmune diseases
+
+-Strong family history of autoimmune disease, including type 1 diabetes
+
+-Adolescents or young adults with overweight or obesity who present with apparent type 2 diabetes, who may have type 1 diabetes that has not yet progressed to insulin deficiency
+
+We sometimes measure a paired fasting C-peptide and glucose level to get a sense of the degree of insulin deficiency. Although these levels are not standardized, a nonstimulated low C-peptide in association with hyperglycemia in the nonacute setting is consistent with type 1 diabetes. Glucagon-stimulated C-peptide is not routinely used in clinical practice, but a level less than 0.2 nmol/L is suggestive of type 1 diabetes mellitus [33].
+
+Pancreatic diabetes – Any disease that damages the pancreas, or surgical removal of pancreatic tissue, can result in diabetes. (See "Classification of diabetes mellitus and genetic diabetic syndromes", section on 'Diseases of the exocrine pancreas'.)
+
+Routine screening for pancreatic cancer in patients with new-onset type 2 diabetes is not recommended but can be considered in atypical patients such as older individuals with lean body habitus especially in the settings of weight loss, abdominal pain or nausea, or abnormal liver tests indicating cholestasis. (See "Epidemiology and nonfamilial risk factors for exocrine pancreatic cancer", section on 'Diabetes mellitus, glucose metabolism, and insulin resistance'.)
+
+Genetic causes – The etiologic classification of diabetes and testing for specific genetic causes of diabetes, including monogenic diabetes (formerly called maturity onset diabetes of the young [MODY]), is reviewed separately. (See "Classification of diabetes mellitus and genetic diabetic syndromes", section on 'Genetic variants'.)
+
+Diabetes-related complications and comorbid conditions — Patients with diabetes require ongoing evaluation for diabetes-related complications and comorbid conditions. (See "Overview of general medical care in nonpregnant adults with diabetes mellitus", section on 'Diabetes-related complications' and "Overview of general medical care in nonpregnant adults with diabetes mellitus", section on 'Comorbid conditions'.)
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Diabetes mellitus in adults".)
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, "The Basics" and "Beyond the Basics." The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+Basics topics (see "Patient education: Type 1 diabetes (The Basics)" and "Patient education: Type 2 diabetes (The Basics)" and "Patient education: Hemoglobin A1C tests (The Basics)")
+
+Beyond the Basics topics (see "Patient education: Type 1 diabetes: Overview (Beyond the Basics)" and "Patient education: Type 2 diabetes: Overview (Beyond the Basics)")
+
+SUMMARY AND RECOMMENDATIONS
+
+Clinical presentation
+
+Type 2 diabetes – Type 2 diabetes is by far the most common type of diabetes in adults (>90 percent) and is characterized by hyperglycemia and variable degrees of insulin resistance and deficiency. The majority of patients with type 2 diabetes are asymptomatic, and hyperglycemia is noted on routine laboratory evaluation, prompting further testing. Classic symptoms of hyperglycemia include polyuria, polydipsia, nocturia, blurred vision, and weight loss. These symptoms are often noted only in retrospect after an elevated blood glucose value has been detected. (See 'Clinical presentation' above.)
+
+Type 1 diabetes – Type 1 diabetes is characterized by autoimmune destruction of the pancreatic beta cells, leading to absolute insulin deficiency. Diabetic ketoacidosis may be the initial presentation in approximately 25 percent of adults with newly diagnosed type 1 diabetes. Compared with children, the loss of insulin secretory capacity usually is less pronounced in adults with type 1 diabetes, and therefore, adults with type 1 diabetes typically have a longer symptomatic period (polyuria, polydipsia, weight loss, fatigue) prior to diagnosis than children. In some adults, the clinical presentation is similar to that of type 2 diabetes (ie, they are not initially insulin dependent), with autoimmune-mediated insulin deficiency only developing later in the course of disease. (See 'Clinical presentation' above.)
+
+Diagnosis
+
+Symptomatic individuals – The diagnosis of diabetes mellitus is easily established when a patient presents with classic symptoms of hyperglycemia (increased thirst, polyuria, weight loss, blurry vision) and has a random plasma glucose value of 200 mg/dL (11.1 mmol/L) or higher. (See 'Symptomatic hyperglycemia' above.)
+
+Asymptomatic individuals – The diagnosis of diabetes in an asymptomatic individual (generally type 2 diabetes) can be established based on the American Diabetes Association (ADA) criteria (table 1). In the absence of unequivocal symptomatic hyperglycemia, the diagnosis of diabetes must be confirmed on a subsequent day by repeat measurement, repeating the same test for confirmation. However, if two different tests (eg, fasting plasma glucose [FPG] and glycated hemoglobin [A1C]) are available and are concordant for the diagnosis of diabetes, additional testing is not needed. If two different tests are discordant, the test that is diagnostic of diabetes should be repeated to confirm the diagnosis. (See 'Asymptomatic hyperglycemia' above.)
+
+Prediabetes – The diagnosis of prediabetes can be established based on the ADA criteria (table 2). (See 'Prediabetes' above.)
+
+Differential diagnosis – There are few causes of persistent hyperglycemia in adults other than diabetes mellitus. Transient "stress" hyperglycemia may occur during severe illness in adults without known diabetes mellitus. (See 'Differential diagnosis' above.)
+
+Evaluation
+
+History and biochemical testing – Patients with newly diagnosed diabetes require a history and physical examination to assess the characteristics of onset of diabetes as well as initial laboratory testing. (See 'Comprehensive history' above and 'Biochemical testing' above.)
+
+Differentiating the type of diabetes – Type 2 diabetes can usually be differentiated from other causes of diabetes based upon the clinical presentation of the patient (table 3). When the diagnosis of type 1 or type 2 diabetes is uncertain by clinical presentation, we measure two or three islet autoantibodies (eg, glutamic acid decarboxylase [GAD]-65, insulin, tyrosine phosphatase 2 [IA-2], zinc transporter 8). We sometimes measure a paired C-peptide and glucose level to get a sense of the degree of insulin deficiency. (See 'Differentiating the cause' above and "Classification of diabetes mellitus and genetic diabetic syndromes".)
+
+Diabetes-related complications – Patients with diabetes require ongoing evaluation for diabetes-related complications. (See "Overview of general medical care in nonpregnant adults with diabetes mellitus", section on 'Diabetes-related complications'.)

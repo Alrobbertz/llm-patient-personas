@@ -1,0 +1,495 @@
+INTRODUCTION
+Rheumatoid arthritis (RA) is a chronic, systemic, autoimmune, inflammatory disorder of unknown etiology that primarily involves synovial joints. The arthritis is typically symmetrical, and usually leads, if uncontrolled, to destruction of joints due to erosion of cartilage and bone, causing joint deformities. The disease usually progresses from the periphery to more proximal joints and results in significant locomotor disability within 10 to 20 years in patients whose disease does not respond to treatment.
+
+The major clinical features of RA, including the articular manifestations, are reviewed here. The systemic and extraarticular features and the diagnosis and differential diagnosis of RA are discussed in detail separately. (See "Overview of the systemic and nonarticular manifestations of rheumatoid arthritis" and "Diagnosis and differential diagnosis of rheumatoid arthritis".)
+
+INITIAL CLINICAL PRESENTATION
+Rheumatoid arthritis (RA) most typically presents as polyarticular disease and with a gradual onset, but some patients can present with acute onset, with intermittent or migratory joint involvement, or with monoarticular disease. (See 'Typical 'classic' RA' below and 'Palindromic rheumatism' below and 'Monoarthritis' below.)
+
+The symptoms of RA can affect patients' capacity to perform the activities of daily living (eg, walking, stairs, dressing, use of a toilet, getting up from a chair, opening jars, doors, typing) and those required in their occupation.
+
+Systemic symptoms may also be present in these patients, particularly those with disease onset after age 60 (historically termed "elderly-onset RA"); in up to one-third of patients, the acute onset of polyarthritis is associated with prominent myalgia, fatigue, low-grade fever, weight loss, and depression. Less often, extraarticular manifestations such as nodules or episcleritis may also be present. (See 'Extraarticular involvement' below.)
+
+Articular disease
+
+Typical 'classic' RA — The disease onset in RA is usually insidious, with the predominant symptoms being pain, stiffness (especially morning stiffness), and swelling of many joints [1]. Typically, the metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints of the fingers, the interphalangeal joints of the thumbs, the wrists, and the metatarsophalangeal (MTP) joints of the toes are sites of arthritis early in the disease. Other synovial joints of the upper and lower limbs, such as the elbows, shoulders, ankles, and knees, are also commonly affected [2,3].
+
+Morning stiffness is a common feature of those with active RA; it can be defined as "slowness or difficulty moving the joints when getting out of bed or after staying in one position too long, which involves both sides of the body and gets better with movement" [4]. Morning stiffness lasting more than one hour reflects a severity of joint inflammation that rarely occurs outside of active inflammatory arthritis. Morning stiffness, or stiffness after any prolonged period of inactivity (“gelling phenomenon”), is seen in virtually all inflammatory arthropathies [5].
+
+Occasionally, features suggesting polymyalgia rheumatica (PMR) may be present in addition to features of polyarticular RA, and some patients who subsequently develop RA may present with typical PMR. When this occurs in the absence of clinically detectable synovitis, the distinctive clinical features of RA may not develop until months or even years later. (See "Clinical manifestations and diagnosis of polymyalgia rheumatica", section on 'Clinical features' and "Clinical manifestations and diagnosis of polymyalgia rheumatica", section on 'Differential diagnosis'.)
+
+Palindromic rheumatism — The onset of RA is episodic in a few patients, with one to several joint areas being affected sequentially for hours to days, alternating with symptom-free periods that may last from days to months; this episodic pattern is referred to as "palindromic rheumatism." Patients with palindromic rheumatism have similar predisposing genetic risk factors to patients with a more typical persistent presentation of RA and exhibit a similar dose effect of carriage of certain human leukocyte antigen (HLA) alleles [6]. (See "Epidemiology of, risk factors for, and possible causes of rheumatoid arthritis", section on 'Familial and genetic risk factors'.)
+
+The proportion of patients presenting with palindromic rheumatism who progress to develop RA or another well-defined disease varies between studies. In one study of 60 patients with palindromic rheumatism followed over 20 years, 40 (67 percent) developed RA [7]. In another study, among 147 such patients seen in a tertiary referral center, 41 were eventually diagnosed with RA (28 percent) and four with other disorders (three with systemic lupus erythematosus and one with Behçet syndrome) [6].
+
+The presence of anti-citrullinated peptide/protein antibodies (ACPA), a serologic finding that is common in RA, might predict progression of palindromic rheumatism to RA, but evidence evaluating this possibility has been mixed [8]. In one study, involving 61 patients followed for a mean of five-and-a-half years, ACPA testing was performed within a year of symptom onset and antibodies were present in 83 percent of patients who progressed to definite RA, but only 19 percent of those whose disease did not [9,10]. However, in another study, a majority of those with palindromic rheumatism also had ACPA, but there was no significant difference in the frequency of ACPA between patients with persistent palindromic rheumatism and those who subsequently developed RA [11]. (See "Biologic markers in the assessment of rheumatoid arthritis", section on 'Anti-citrullinated peptide antibodies'.)
+
+A response among patients with palindromic rheumatism to hydroxychloroquine, which is also used for the treatment of RA, further supports the possibility that palindromic rheumatism can be a presenting feature of RA. The use of hydroxychloroquine in such patients may also reduce the risk of progression to RA. One retrospective study of 113 patients with palindromic rheumatism found that those who received hydroxychloroquine were 20 percent less likely to develop a chronic rheumatic disease [12].
+
+Monoarthritis — Persistent single joint arthritis (monoarthritis), frequently of a large joint such as the wrist, knee, shoulder, hip, or ankle, may be the sole manifestation of RA or may herald the onset of polyarticular disease. There may be a history of joint trauma as an apparent initiating event. The interval between monoarthritis and polyarthritis may extend from days to several weeks in patients whose disease progresses. Until polyarthritis develops, the approach to such patients is that for any patient with monoarticular arthritis. (See "Monoarthritis in adults: Etiology and evaluation".)
+
+Extraarticular involvement — A proportion of patients complain of a constellation of persistent extraarticular symptoms, which may antedate the onset of polyarthritis by many months; these include generalized aching, stiffness, symptoms of bilateral carpal tunnel syndrome, loss of weight, depression, and fatigue (the last simulating chronic fatigue syndrome [CFS], also known as myalgic encephalomyelitis/chronic fatigue syndrome [ME/CFS]).
+
+Involvement of the musculoskeletal system other than joints (eg, bone and muscle) and of extraarticular organs (eg, skin, eyes, lungs, heart, and others) occurs in approximately 40 percent of patients with rheumatoid arthritis (RA) over the course of the disease. In addition, patients may rarely present with extraarticular disease in the absence of clinical arthritis.
+
+The systemic and extraarticular manifestations of RA are discussed in detail separately. (See 'Symptoms and physical findings' below and "Overview of the systemic and nonarticular manifestations of rheumatoid arthritis".)
+
+SYMPTOMS AND PHYSICAL FINDINGS
+Joint pain and swelling, especially of the small joints of the hands, wrist, and forefoot are common, along with morning stiffness and decreased grip strength, although all peripheral joints and, to a lesser degree, the more proximal joints of the extremities can be affected. The axial skeleton is usually spared, other than the cervical spine (particularly C1 to C2), where severe disease may cause serious neurologic compromise, generally in patients with longstanding disease. Patients with poorly controlled disease typically experience progressive joint damage, which may result in significant joint deformities and functional impairment (see 'Physical findings of joint inflammation' below and 'Distribution of involved joints' below and 'Upper extremity' below and 'Lower extremity' below and 'Axial skeleton' below and 'Cricoarytenoid joint' below). Disease outcome and functional impairment in rheumatoid arthritis (RA) are reviewed in detail separately. (See "Disease outcome and functional capacity in rheumatoid arthritis".)
+
+Symptoms and findings of systemic and extraarticular manifestations may include generalized aching, stiffness, weight loss, depression, and fatigue. Most patients with extraarticular features of RA have longstanding and severe disease; these features, which are discussed in more detail separately, include anemia, fatigue, subcutaneous ("rheumatoid") nodules, pleuropericarditis, airway and parenchymal lung diseases, neuropathy, episcleritis, scleritis, splenomegaly, Sjögren's disease, vasculitis, and others. (See "Overview of the systemic and nonarticular manifestations of rheumatoid arthritis".)
+
+Physical findings of joint inflammation — The key features of early rheumatoid inflammation are pain and swelling of the affected joints. Painful inflammation is demonstrated either by local tenderness from pressure applied on the joint or by pain on moving the joint. Swelling may be due to synovial hypertrophy or effusion. Synovial thickening is detected by a "boggy" feel to a swollen joint, and effusion by demonstrating fluctuance. Heat and redness are not prominent features of RA, although an involved joint is often perceptibly warmer on careful examination. Synovitis of the wrist may present as carpal tunnel syndrome even in very early disease when swelling may not be particularly evident. The characteristic joint deformities are late manifestations of disease that result from the physical stresses and damage to the local anatomy of involved joints.
+
+Distribution of involved joints — RA eventually affects the peripheral joints in almost all patients. Involvement of axial and central joints is less common, occurring in 20 to 50 percent of patients; such joints include the interfacetal and atlantoaxial joints of the neck; the acromioclavicular [13], sternoclavicular, temporomandibular, and cricoarytenoid joints; and the shoulders and hips. Lumbar spine facet joint synovitis may occur, but the frequency of such involvement is rare.
+
+Symmetrical involvement of joints is a characteristic feature, although this may be less apparent early in the disease. The severity of joint disease and consequent deformity is sometimes notably asymmetrical, an observation that may be attributed to increased structural damage to joints related to unilateral overuse of a dominant limb, or joint protection of a limb resulting from neurologic disease. Squeeze tenderness at the metacarpophalangeal (MCP) and metatarsophalangeal (MTP) joints and palpable synovial thickening at these joints are characteristic of RA.
+
+Upper extremity
+
+Hands — The main signs of disease can often be found in the hands early in the course of RA [14]. Symmetrical effusions and soft tissue swelling around the MCP and proximal interphalangeal (PIP) joints typically occur. These joints are tender to the touch and exhibit a restricted range of movement (eg, inability to make a fist). Reduced grip strength is a sensitive but nonspecific feature of disease activity affecting the hands and wrists. Palmar erythema may be present (as with any peripheral arthritis).
+
+Occasionally, thickening of the flexor tendons can be detected by palpation of the palm; this finding is due to synovitis of the tendon sheaths ("tenosynovitis"). Nodules may form along the palmar tendon sheaths, resulting in the tendon sheath catching (or triggering) and in an inability to fully extend the finger. The nodules may cause tendon rupture, especially of the extensor pollicis longus (extensor of the distal interphalangeal [DIP] joint of the thumb).
+
+Other physical signs include:
+
+Reduced grip strength, which is common, can be a surprisingly sensitive indicator of early disease, as well as a useful parameter in the evaluation of disease activity and progression. However, the multiplicity of factors (joint pain, tendon involvement, nerve compression, and muscle wasting) that contribute to a weak grip makes this assessment rather nonspecific.
+
+The whole hand may be swollen in very acute RA, with pitting edema over the dorsum giving rise to the "boxing glove" appearance. The range of movement of involved joints is restricted, and loss of active flexion may be so severe that the patient is unable to oppose the fingertips to the palm.
+
+Between 1 and 5 percent of patients present with carpal tunnel syndrome. Affected patients develop dysesthesia and muscle weakness of the first three fingers and the radial side of the fourth finger. A positive Tinel's or Phalen's sign is usually present. (See "Carpal tunnel syndrome: Clinical manifestations and diagnosis".)
+
+The characteristic joint deformities appear in more established chronic RA. These findings include MCP subluxation, ulnar deviation or "ulnar drift", swan neck and Boutonniere deformities of the fingers (picture 1A-C), and the "bow string" sign (prominence of the tendons in the extensor compartment of the hand). Occasionally, patients present with extensor tendon rupture, most commonly affecting the thumb or little or ring fingers of either hand. The nails and fingertips may show evidence of digital infarcts in patients with rheumatoid vasculitis. (See "Clinical manifestations and diagnosis of rheumatoid vasculitis", section on 'Cutaneous vasculitis'.)
+
+Wrists, elbows, and shoulders — All of the upper extremity joints may be involved in RA, including the wrists, elbows, and shoulders. Wrist involvement is often seen early in the disease course.
+
+Wrists – The wrist is probably the most common upper extremity joint to be involved other than the small joints in the hand. Early in the disease there is a loss of extension. Late changes due to erosive damage lead to volar subluxation and radial drift of the carpus, resulting in increasing prominence of the ulnar styloid and lateral deviation [15]. Tendon rupture can also occur at the wrist.
+
+Elbows – The elbow is frequently affected, with loss of extension (fixed flexion) both in early and late disease (image 1). An effusion or synovitis may be detected as a bulge between the head of the radius and the olecranon. A compressive neuropathy of the ulnar nerve, with dysesthesias of the fourth and fifth fingers, can result from elbow synovitis. Olecranon bursitis is also common. Destruction of the joint may occur due to erosion of cartilage and bone.
+
+The extensor surface of the elbow is the most common site for subcutaneous rheumatoid nodules (picture 2). These should always be visually examined and palpated for in view of their diagnostic and prognostic importance. (See "Rheumatoid nodules".)
+
+Shoulders – The shoulder, being more proximal, tends to be involved later in the disease. A prospective study performed prior to the widespread availability of biologic agents assessed shoulder involvement over time in 74 patients with RA [16]. At 15 years, 55 percent had developed radiographic evidence of erosive glenohumeral joint disease [16]. The most common site for erosions was the superolateral aspect of the humerus.
+
+Disease in the glenohumeral joint leads to painful restriction of movement resembling a capsulitis, and can result in the development of a "frozen" shoulder. This will typically cause pain at night, when the patient lies on the affected shoulder and marked restriction of range of motion due to the accompanying pain. Rotator cuff injury is common. Effusions are relatively rare, but when they occur, they may be detected in the anterior glenohumeral joint as a filling of the depression under the clavicle anterior to the head of the humerus.
+
+Lower extremity — Lower extremity joints are often involved in RA, particularly in the forefoot and ankles; the knees and hips may also be affected, but hip involvement tends to occur in more severe or longstanding disease. Synovitis in the knee may predispose to the development of popliteal (Baker's) cysts.
+
+Feet and ankles – Foot involvement, especially of the MTP joints, is common in early disease, with a pattern that mirrors that occurring in the hand. Involvement of the feet is typically under-recognized, making it imperative for the clinician to closely inspect the bare feet.
+
+Tenderness of the MTP joints may be marked, resulting in the tendency to bear weight on the heels and hyperextend the toes. The fifth MTP is the most frequently involved, and swelling of this joint may be most readily appreciated on examination.
+
+Erosive damage results in lateral drift of the toes and plantar subluxation of the metatarsal heads (picture 3), resulting in "cock-up" deformities. The latter may be palpable as bony lumps on the sole with associated callosities.
+
+Involvement of the tarsus and the associated tendon sheaths is also common, leading to pain on inversion or eversion of the foot and diffuse edema and erythema over the dorsum of the foot.
+
+Heel pain may be associated with retrocalcaneal bursitis or tarsal tunnel syndrome, caused by impingement of the posterior tibial nerve. Tarsal tunnel syndrome is also associated with paresthesia of the toes and is important because it can be diagnosed by ultrasound and treated by local injection or surgical release. (See "Overview of lower extremity peripheral nerve syndromes", section on 'Tarsal tunnel syndrome'.)
+
+Arthritis of the ankle can lead to a diffuse swelling around the tibiotalar joints, which may be red and edematous. These findings may be wrongly attributed to fluid retention or an infective cellulitis of the skin.
+
+Knees – The knee manifests many changes in RA. Synovial thickening is easily detected at the knee, extending the suprapatellar recess around the patella. Effusion is a common feature of knee involvement and can be elicited by patellar tap. Restriction of movement, particularly flexion, is also a common physical finding. If knee synovitis is not controlled, ligamentous laxity leading to deformities and quadriceps atrophy may occur. Erosion of the femoral condyles and tibial plateau can result in either genu varus or genu valgus.
+
+Patients with RA may develop popliteal (Baker's) cysts, which can be detected by inspection and palpation of the popliteal fossa [17]. Ruptured Baker's cysts extending down the calf are of clinical importance because they can resemble a deep vein thrombosis or acute thrombophlebitis [18]. A history of arthritis, morning stiffness, lack of a palpable occluded venous cord, and edema below the posterior of the knee all suggest a Baker's cyst. Ultrasonography is generally used for the detection of intact or ruptured Baker's cysts (image 2A-B), and they can be readily imaged by magnetic resonance imaging (MRI), although historically a ruptured Baker's cyst was usually demonstrated using arthrography (picture 4) [19]. (See "Popliteal (Baker's) cyst".)
+
+Hips – Involvement of the hips typically occurs only in well-established disease. Hip disease is most frequently manifested as pain in the groin, thigh, or low back, or referred to the knee on standing or movement. Restriction of movement, detected by "log rolling the leg" or rotation of the hip, also may be seen. Pain in the lateral thigh suggests trochanteric bursitis. (See "Greater trochanteric pain syndrome (formerly trochanteric bursitis)".)
+
+Axial skeleton — Cervical spine involvement is relatively common in RA, especially in longstanding disease, compared with the very infrequent involvement that occurs in the thoracolumbar spine or sacroiliac joints. Symptoms of pain and stiffness in the neck are the most typical manifestation, but disease affecting the joints of the cervical spine can be of critical clinical importance, as longstanding disease may lead to instability and cause symptoms related to subluxation such as neck pain, stiffness, and radicular pain. If the subluxation is causing spinal cord compression, there may be signs of long tract involvement such as hyperreflexia or up going toes on Babinski testing. The clinical manifestations of cervical spine subluxation and the approach to diagnosis and management are discussed in detail separately. (See "Cervical subluxation in rheumatoid arthritis".)
+
+Involvement of the facet joints of the lumbar spine and occasionally discitis has been reported to occur in RA, both from radiographic and post-mortem studies [20]. However, in clinical practice, it is important to exclude more common and serious causes of back pain, such as vertebral compression fractures associated with low bone mass, before attributing back pain to rheumatoid involvement of the lumbar spine.
+
+Cricoarytenoid joint — Approximately 30 percent of patients with RA have involvement of the cricoarytenoid joint demonstrated by indirect laryngoscopy, with the prevalence increasing when advanced imaging techniques are used. As an example, one study from 1984, involving 45 patients with RA, found laryngeal involvement in 32 percent by laryngoscopy and 54 percent by computed tomography (CT) [21]; symptoms may include hoarseness and an inspiratory stridor.
+
+LABORATORY FINDINGS
+A number of abnormalities are present in the blood and synovial fluid of patients with rheumatoid arthritis (RA) that reflect the presence of systemic and intraarticular inflammation and the autoimmune features of the disorder; these include inflammatory joint fluid, anemia of chronic inflammation, the presence of rheumatoid factor (RF) and anti-citrullinated peptide/protein antibodies (ACPA), and evidence of an acute phase response that tends to correlate with the degree of disease activity.
+
+Synovial fluid – Synovial fluid examination in affected joints usually reveals an inflammatory effusion, with a leukocyte count typically between 1500 and 25,000/cubic mm characterized by a predominance of polymorphonuclear cells [22]. Cell counts in excess of 25,000 may occur in very active disease, but levels over 25,000 should alert the clinician to the increased possibility of coexisting infection [23,24]. Additional findings in RA synovial fluid are low C3 and C4 complement levels in contrast to higher levels found in the blood. Historically, synovial fluid glucose levels in RA have been noted to be low relative to simultaneous blood glucose measurement, but such testing is not useful in clinical practice. (See "Synovial fluid analysis" and "Diagnosis and differential diagnosis of rheumatoid arthritis", section on 'Evaluation and diagnosis'.)
+
+Hematologic – Common hematologic abnormalities associated with active disease include anemia of chronic inflammation, thrombocytosis, and sometimes a mild leukocytosis. There is an increased risk of lymphoproliferative disease, including non-Hodgkin lymphoma. Felty syndrome, with neutropenia and splenomegaly, and large granular lymphocyte leukemia are very infrequent. The hematologic features of RA are described in detail separately. (See "Hematologic complications of rheumatoid arthritis" and "Clinical manifestations and diagnosis of Felty syndrome" and "Large granular lymphocyte leukemia in rheumatoid arthritis".)
+
+Autoantibodies – About 75 to 80 percent of patients with RA test positive for RF, ACPA, or both; patients with RA and such antibodies are defined as having "seropositive RA" and the presence of the antibodies has diagnostic, therapeutic, and prognostic implications. About a quarter to a third of patients have antinuclear antibodies as well. Other autoantibody responses to post-translationally modified proteins have been observed in RA, though their clinical utility has not been defined. These serologic features of RA are reviewed in detail separately. (See "Biologic markers in the assessment of rheumatoid arthritis" and "Diagnosis and differential diagnosis of rheumatoid arthritis", section on 'Evaluation and diagnosis'.)
+
+Acute phase response – Measures of the acute phase response, including the erythrocyte sedimentation rate (ESR) and levels of C-reactive protein (CRP), are usually elevated in patients with active disease, and the degree of elevation in a given patient tends to correlate with disease activity; however, mild disease activity is sometimes present without such abnormalities. ESR and CRP in RA and the acute phase response are discussed in more detail separately. (See "Biologic markers in the assessment of rheumatoid arthritis", section on 'Erythrocyte sedimentation rate' and "Biologic markers in the assessment of rheumatoid arthritis", section on 'C-reactive protein' and "Acute phase reactants".)
+
+IMAGING
+Patients with rheumatoid arthritis (RA) develop joint space narrowing and bony erosions, which are typically evaluated using plain radiographs of the hands and feet (see 'Plain film radiography' below). These radiographic changes may already be present when first seen by a clinician but more usually become evident over time with ongoing synovitis beyond the first few months of disease. Erosions of cartilage and bone are among the cardinal features of RA. However, they can also occur in some other forms of inflammatory and gouty arthropathy and are therefore not diagnostic of RA in and of themselves. (See "Diagnosis and differential diagnosis of rheumatoid arthritis", section on 'Differential diagnosis'.)
+
+MRI studies and ultrasonography are more sensitive than radiography for the detection of changes resulting from synovitis, but additional research is ongoing to determine the prognostic importance of changes observed with these studies that are not evident radiographically. (See 'MRI' below and 'Ultrasonography' below.)
+
+Plain film radiography — Progressive radiographic changes occur in the affected joints of patients with active disease, including periarticular osteopenia, joint space narrowing, and bone erosions. Deformities, including joint subluxation, and secondary degenerative changes may occur with an active disease course.
+
+Plain radiographs are often normal early in disease, and the early changes evident on plain films may include only soft tissue swelling and periarticular osteopenia (image 3A-C). To be detected by plain radiography, erosions must have eroded through the cortex of the bone around the margins of the joint. In studies done in the late 1980s and early 1990s, erosions in the metacarpophalangeal (MCP) (image 4A-B and image 5) and proximal interphalangeal (PIP) joints (image 6A-B) were identified by plain radiography in 15 to 30 percent of patients in the first year of the disease. By the end of the second year of disease in patients who did not respond to therapy, the cumulative incidence of erosions was 90 percent [25,26]. In some patients, erosions occur first in the ulnar styloid (image 7A-B) or metatarsophalangeal (MTP) joints (image 8A-B). Joint space narrowing may also be present. Radiographic evidence of joint injury in patients with early RA is often greater in the dominant than the nondominant hand [27]. Similar asymmetry in joint damage has long been observed in patients with hemiplegia [28].
+
+With extreme destruction, the severity of erosions may reach a level beyond which further progression cannot be assessed radiographically, despite the presence of ongoing joint damage [29].
+
+MRI — MRI is a more sensitive technique than plain radiography for identifying bone erosions; however, the clinical significance of erosions only detected by MRI awaits elucidation [30]. When radiography and MRI were compared in a group of 55 patients with early arthritis, MRI identified seven times as many erosions in the MCP and PIP joints than plain radiography [31].
+
+MRI also may detect bone erosions earlier in the course of the disease than is possible with plain films [32]. As an example, approximately 45 percent of patients with symptoms for only four months were found to have erosions detected by this method [33]. Decreased signal from the bone marrow on T1-weighted images and enhancement of the marrow with gadolinium administration is interpreted as bone marrow edema. The presence of marrow edema on MRI is predictive of later development of erosive disease [34]. A similarly increased sensitivity of MRI has also been noted for early RA of the forefoot [35].
+
+It is also possible to identify and estimate the quantity of hypertrophic synovial tissue using MRI. The presence of MRI-detected synovial proliferation correlates with the later development of bone erosions [36]. Use of this imaging technique outside of research settings may be hastened by the development of MRI scanners that are designed specifically for imaging the extremities, but clinical indications for the use of such techniques remain uncertain [37,38].
+
+Ultrasonography — Ultrasonography is another sensitive alternative imaging technique for estimating the degree of inflammation and the volume of inflamed tissue. Direct comparison of color Doppler ultrasonography and contrast-enhanced MRI in one study of 29 patients demonstrated agreement regarding the presence or absence of inflammation between the two techniques in 75 percent of the joints of the hands and wrists [39]. Both imaging modalities found features of inflammation in joints that were neither tender nor swollen on physical examination. The clinical importance of these findings remains to be determined. Ultrasonography can also be used to assess the MTP joints, which may become affected early in the course of disease [40]. Ultrasound evaluation for bone erosions and synovitis is described in further detail separately. (See "Musculoskeletal ultrasonography: Clinical applications", section on 'Joints'.)
+
+CLINICAL COURSE
+Rheumatoid arthritis (RA) shows a marked variation of clinical expression in individual patients (table 1). These differences may be apparent in the number of involved joints and pattern of joint involvement, fluctuations in disease activity and ability to achieve remission, and the rate of progression and extent of structural damage. Some patients may have mainly small joints or large joints affected. A given patient may also have only a few or almost all joints involved. In addition, extraarticular disease may be prominent in a subset of patients. (See "Overview of the systemic and nonarticular manifestations of rheumatoid arthritis".)
+
+Patterns of progression — Variation is seen in the course of disease activity and the rapidity of structural damage to joints [41].
+
+Most patients show fluctuation of disease activity over periods lasting weeks to months. This corresponds to an increase or decrease in symptoms of arthritis, a pattern which may recur throughout the course of the disease.
+
+The early initiation of disease-modifying antirheumatic drugs (DMARDs) improves the likelihood of attaining clinical remission, although sustained remission occurs in the minority of patients. Drug-free remission, defined as clinical remission without requiring DMARD therapy, is very rare [42,43]. (See 'Remission' below.)
+
+Disease activity versus structural damage — The concept of disease activity is based upon the state of the underlying inflammatory response and may be distinguished from the destructive process that leads to irreversible damage of the joint (table 2):
+
+Disease activity can (and does) vary. This variation in part reflects the endogenous rhythms of the disease process but is mainly the result of therapeutic interventions. Thus, periods of spontaneous exacerbations and quiescence, characterized by an increase (a "flare") or decrease in symptoms, are modulated by both the beneficial effects of drug therapy and withdrawal of therapy due to loss of efficacy or side effects. The assessment of disease activity in patients with RA is described in detail separately. (See "Assessment of rheumatoid arthritis disease activity and physical function".)
+
+By contrast, structural damage is cumulative and irreversible. The degree of damage is closely linked to inflammation and hence to disease activity, but is also associated with degeneration and repair [44]. As structural damage progresses, the detection of variation in disease activity by clinical examination becomes increasingly difficult. At these later stages, symptoms and signs of inflammation, such as pain, stiffness, tenderness, swelling, and joint effusions, may be caused either by continuing rheumatoid disease or as a secondary result of mechanical and degenerative change.
+
+Remission — Disease remission occurs when there is little or no evidence of clinical disease activity (see below for criteria). However, achieving remission does not entirely preclude the development of further erosive changes. This was illustrated in a retrospective study of 187 patients who were in remission for six months and whose clinical course and radiographic findings were subsequently followed [45]. A majority (52 percent) remained in remission during two years of follow-up. However, despite inapparent clinically active disease, one new erosion in a previously unaffected joint appeared in 14 percent of these patients.
+
+In our experience, reaching and maintaining remission is very rare without DMARDs. As an example, among 191 patients treated with such drugs beginning within a year of disease onset, 48 (25 percent) met criteria for remission after three years of treatment, and 38 (20 percent) after five years of DMARD therapy [46]. The likelihood of achieving remission with DMARD treatment within the first year of disease was greater in patients with less initial disease activity, less disability, lower levels of acute phase reactants, absence of rheumatoid factor (RF) and anti-citrullinated protein/peptide antibodies (ACPA), and less radiographic joint damage.
+
+Attempts to define clinical remission for clinical practice and in clinical trials, in order to understand better the natural history of RA and the effects of therapy, have resulted in provisional definitions of remission by a joint effort of the American College of Rheumatology (ACR) and the European Alliance of Associations for Rheumatology (EULAR; formerly known as European League Against Rheumatism) [47-49]. These definitions take into account that a complete lack of joint pain, swelling, and tenderness may be impossible to achieve in patients who have developed structural damage of the joints or who have other medical conditions, despite actual remission in the rheumatoid disease process. The absence of all such symptoms and findings is not required by the ACR/EULAR criteria, and revised criteria endorse a less stringent patient global assessment cutoff. (See "Assessment of rheumatoid arthritis disease activity and physical function", section on 'Criteria for remission'.)
+
+The ACR/EULAR (2022 revision) definitions of remission include use of the Clinical Disease Activity Index, Simplified Disease Activity Index, or Boolean 2.0 remission (which requires tender joint count swollen joint count, C-reactive protein (in mg/dL) ≤1, and patient global assessment [0-10 scale] ≤2) [49].
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, "The Basics" and "Beyond the Basics." The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+EVALUATION AND DIAGNOSIS
+We suspect rheumatoid arthritis (RA) in any patient presenting with an inflammatory polyarthritis. In such a patient, we perform serologic and radiologic tests to look for evidence confirming the presence of RA.
+
+When to suspect — While the clinical features of RA can be diverse, most patients with chronic RA will have the following features:
+
+Constitutional symptoms – Many patients with RA may present with symptoms associated with an inflammatory process. These symptoms may include unintentional weight loss, asthenia, fatigue, and myalgias.
+
+Morning stiffness – Morning stiffness is the hallmark of an inflammatory arthritis. Morning stiffness is generally characterized by difficulty mobilizing the joints after a prolonged period of rest. Morning stiffness lasting for longer than one hour implies the presence of an inflammatory joint disease. However, this is not specific to RA, and this finding can be present in a spectrum of inflammatory diagnoses. (See "Clinical manifestations of rheumatoid arthritis", section on 'Symptoms and physical findings'.)
+
+Joint manifestations – In general, the patient will notice joint pain and swelling that predominantly affects the small joints of the hands and feet (particularly the metacarpophalangeal [MCP], metatarsophalangeal [MTP], and/or proximal interphalangeal [PIP] joints). However, patients may present with other patterns of joint involvement, including an acute monoarthritis. (See "Clinical manifestations of rheumatoid arthritis", section on 'Upper extremity' and "Clinical manifestations of rheumatoid arthritis", section on 'Lower extremity' and "Clinical manifestations of rheumatoid arthritis", section on 'Palindromic rheumatism'.)
+
+Serologic and radiologic tests are sometimes obtained as part of a broad evaluation of nonspecific complaints and/or of an extraarticular feature. Findings such as joint erosions and RA-associated autoantibodies may become the primary basis for suspecting a diagnosis of RA:
+
+Elevated acute phase reactants – Elevations of the erythrocyte sedimentation rate (ESR) and/or C-reactive protein (CRP) level are consistent with the presence of an inflammatory state, such as RA. Normal acute phase reactants may occur in untreated patients with RA, but such findings are infrequent and should prompt consideration of alternative diagnoses [1].
+
+The degree of elevation of these acute phase reactants varies with the severity of inflammation and synovitis. As an example, an ESR of 50 to 80 is not uncommon in patients with severely active RA. By comparison, an ESR of 20 to 30 can be observed with only a few mildly to moderately active joints. (See "Acute phase reactants".)
+
+Autoantibodies – These include rheumatoid factor (RF) and anti-cyclic citrullinated peptide (CCP) antibodies. (See 'Confirmatory testing' below.)
+
+Radiographic abnormalities – Periarticular osteopenia, joint space narrowing, and bone erosions are late manifestations of RA. When present, these manifestations are most often detected on plain radiographs, although they may also be noted on magnetic resonance imaging (MRI) or ultrasonography. (See 'Confirmatory testing' below.)
+
+Patients who have all or most of the features described above have a high probability of RA. Patients who only have one or two of these features have a low probability of RA and merit a closer examination for alternate diagnoses. (See 'Differential diagnosis' below.)
+
+The presence of extraarticular features (eg, rheumatoid nodules, interstitial lung disease, scleritis) may prompt an evaluation for RA, although these patients should also have many of the features described above. The extraarticular features of RA are described in greater depth elsewhere. (See "Overview of the systemic and nonarticular manifestations of rheumatoid arthritis".)
+
+Establish the presence of inflammatory arthritis — Diagnosing an inflammatory polyarthritis requires a joint examination of the upper and lower extremities to look for evidence of synovitis. Symptomatology alone is not adequate to establish a diagnosis of an inflammatory arthritis. The joint examination and the hallmarks of synovitis are described in detail separately. (See "Evaluation of the adult with polyarticular pain", section on 'Joint examination'.)
+
+RA has a characteristic distribution of joint involvement. In patients with RA, synovitis is typically present in the MCP and PIP joints of the hands. The wrists are also commonly involved, as are the second to fifth MTP joints in the feet. However, any upper- or lower-extremity joint may be affected.
+
+Other patterns of joint involvement may potentially be associated with RA, but for such patients, it is important to exclude other diagnoses for which those patterns may be more characteristic. For example, distal interphalangeal (DIP) involvement strongly suggests a diagnosis of osteoarthritis (OA) or psoriatic arthritis (table 1). (See "Clinical manifestations of rheumatoid arthritis", section on 'Symptoms and physical findings' and 'Osteoarthritis' below and 'Rheumatic' below.)
+
+Potential challenges to identifying synovitis include:
+
+Early disease – Synovitis and tenosynovitis may be subtle initially and evolve to involve a greater number of joint areas. Patients with symptoms that are suspicious but that lack obvious joint swelling may need to be followed closely before the diagnosis can be made through careful examination. Imaging studies may be used to identify more subtle abnormalities earlier in the course of disease; however, imaging evidence of synovitis and tenosynovitis is not specific to RA [2]. (See 'Radiologic studies' below.)
+
+Body habitus – In some patients, the presence of subtle synovitis may be difficult to ascertain due to body habitus. In such patients, imaging studies may be useful to confirm the presence of an inflammatory arthritis. (See 'Radiologic studies' below.)
+
+Confirmatory testing — In a patient suspected of having RA who has a pattern of synovitis consistent with this diagnosis, we conduct additional serologic and radiologic tests to confirm the diagnosis.
+
+Serology — We suggest obtaining both RF and anti-citrullinated peptide antibodies in all patients suspected of having RA.
+
+Rheumatoid factor
+
+Sensitivity and specificity – Estimates of the sensitivity, specificity, and positive predictive value of RF vary depending upon the population examined.
+
+The reported sensitivity of RF in RA (ie, the proportion of patients with RA who are RF positive) ranges from 26 to 90 percent. A meta-analysis reported the overall sensitivity to be 69 percent (95% CI 65-73) [3].
+
+The specificity depends substantially upon the choice of the control group. The overall specificity of RF reported in heterogeneous publications analyzed as part of a meta-analysis was 85 percent [3]. The prevalence of RF in a young healthy population is approximately 4 percent, consistent with a specificity of 96 percent in this group.
+
+High positive RF (ie, above three times the upper limit of normal) is more specific for a diagnosis of RA than low positive RF. However, the specificity of RF drops substantially when examining patients with other rheumatic or inflammatory diagnoses [1]. The prevalence of RF in other conditions is discussed separately. (See "Rheumatoid factor: Biology and utility of measurement", section on 'Clinical disorders associated with rheumatoid factor positivity'.)
+
+Use in patients with a moderate to high pretest probability of rheumatoid arthritis – We suggest against testing patients with joint pain in the absence of synovitis (eg, nonspecific arthralgias, fibromyalgia, OA) because a positive test result is more likely to represent a false-positive result. (See 'When to suspect' above.)
+
+RF testing in a rheumatology clinic practice with a prevalence of RA of 16 percent demonstrated a specificity of 95 to 97 percent, yielding a positive predictive value of approximately 80 percent [4].
+
+Most studies of patients in early arthritis clinics demonstrate that RF helps predict persistent synovitis and/or RA [5]. In patients with “undifferentiated” inflammatory arthritis, the presence of RF was helpful in predicting a diagnosis of RA, with a positive odds ratio of approximately 30 [6].
+
+RF is generally detectable prior to the clinical onset of RA. A retrospective study of stored blood samples collected as part of routine blood donation demonstrated that nearly 30 percent of those who later develop RA have serum RF present for a median of 4.5 years prior to diagnosis [7,8]
+
+Use in patients with a low pretest probability of rheumatoid arthritis – We suggest against testing patients with joint pain in the absence of synovitis (eg, nonspecific arthralgias, fibromyalgia, OA) because a positive test result is likely to represent a false-positive result.
+
+RF is a poor screening test for the general population [9]. Population-based studies have shown that a small number of healthy people with a positive RF develop RA over time, especially if more than one isotype is persistently elevated and if there are high levels of RF [9,10]. Although RF may be found in the circulation prior to the development of RA, most asymptomatic persons with a positive RF do not progress to RA. (See "Rheumatoid factor: Biology and utility of measurement".)
+
+As with any diagnostic test, the predictive value of the RF is directly affected by the estimated likelihood of disease prior to ordering the test (ie, the pretest probability) and, with RF, by the proportion of individuals being tested with a nonrheumatic disorder associated with RF production (table 2).
+
+Anti-citrullinated peptide antibodies
+
+Sensitivity and specificity – Measurement of anti-citrullinated peptide antibodies (ACPA) is useful in the differential diagnosis of early polyarthritis because of the relatively high specificity for RA of these antibodies [11,12]. The sensitivity of current ACPA assays is approximately 70 to 75 percent, while specificity of ACPA for RA is relatively high, usually over 90 percent [3,11,13-19]. (See "Undifferentiated systemic rheumatic (connective tissue) diseases and overlap syndromes".)
+
+High positive ACPA (ie, above three times the upper limit of normal) is more specific for a diagnosis of RA than low positive ACPA [1].
+
+As with RF, ACPA may be present prior to the appearance of symptoms of RA. This phenomenon is discussed separately. (See "Epidemiology of, risk factors for, and possible causes of rheumatoid arthritis".)
+
+Use in patients with a moderate to high pretest probability of rheumatoid arthritis – For patients with an inflammatory, small joint arthritis and with a moderate to high pretest probability of RA, the presence of ACPA testing confirms a diagnosis of RA. (See 'When to suspect' above.)
+
+In a meta-analysis of 37 studies of patients with known or suspected RA, anti-CCP antibody had a sensitivity of 67 percent and a specificity of 95 percent for a diagnosis of RA [3].
+
+Use in patients with a low pretest probability of rheumatoid arthritis – We suggest against measuring ACPA in patients with a low pretest probability of RA. Although ACPA testing is more specific than RF for RA [3,12], it may be detected in several autoimmune rheumatic diseases, including systemic lupus erythematosus, Sjögren's disease, and psoriatic arthritis, usually in association with a deforming or erosive arthritis. ACPA have also been reported in association with tuberculosis, and, less commonly, chronic obstructive pulmonary disease and alpha-1-antrypsin disease [3,14,18,20-43].
+
+Seronegative rheumatoid arthritis — Both RF and ACPA are negative on presentation in up to 50 percent of patients and remain negative during follow-up in 20 percent of patients with RA. Patients who lack both RF and ACPAs may be diagnosed with RA based upon findings otherwise characteristic of RA if appropriate exclusions have been met. For example, presence of a large number of swollen joints in a symmetric, small joint pattern or the presence of other features of RA may help establish the diagnosis in the absence of positive serologic testing.
+
+Ultimately, seronegative RA is a clinical diagnosis and may be difficult to definitively distinguish from other forms of inflammatory arthritis. The diagnosis of seronegative RA may be secure only after monitoring the patient’s response to therapy over an extended period of time. In patients newly diagnosed with seronegative RA, we suggest a careful review of alternate diagnoses prior to initiating pharmacotherapy. (See 'Inflammatory diagnoses' below.)
+
+Radiologic studies
+
+Plain film radiography – We suggest obtaining plain film radiographs of the hands and feet in all patients suspected of having RA (see 'When to suspect' above). Even if they do not assist in establishing the initial diagnosis of RA, plain film radiographs of the hands and feet may also be useful to assess the progression of joint damage over time.
+
+Characteristic findings – Plain radiographs are often normal early in disease. Therefore, radiographic abnormalities are not required to establish a diagnosis of RA.
+
+The early changes evident on plain films may include only soft tissue swelling and periarticular osteopenia (image 1A-C). To be detected by plain radiography, erosions must have eroded through the cortex of the bone around the margins of the joint.
+
+In some patients, erosions occur first in the ulnar styloid (image 2A-B) or MTP joints (image 3A-B). Joint space narrowing may also be present.
+
+In a patient with a moderate to high suspicion of RA, the presence of periarticular osteopenia, joint space narrowing, and bone erosions, or joint subluxation confirms the diagnosis of RA.
+
+Radiologic changes are generally symmetric, except in patients with joint injury or hemiplegia [44,45].
+
+Frequency of bone erosions – In studies done in the late 1980s and early 1990s, prior to the advent of highly effective biologic therapies, erosions in the MCP (image 4A-B and image 5) and PIP (image 6A-B) joints were identified by plain radiography in 15 to 30 percent of patients in the first year of the disease. By the end of the second year of disease in patients who did not respond to therapy, the cumulative incidence of erosions was 90 percent [46,47]. The frequency of joint erosions in the modern era is likely much lower.
+
+Ultrasonography – We suggest ultrasonography when the presence of synovitis cannot be determined by physical examination due to body habitus or inaccessibility of the affected joint. In a patient with a moderate to high suspicion of RA, a symmetric polyarthritis, particularly of the MCP, MTP, and/or PIP joints, confirms a diagnosis of RA. (See 'Establish the presence of inflammatory arthritis' above.)
+Synovial hypertrophy – Ultrasonography is a sensitive imaging technique for estimating the degree of inflammation and the volume of inflamed tissue. Direct comparison of color Doppler ultrasonography and contrast-enhanced MRI in one study of 29 patients demonstrated agreement regarding the presence or absence of inflammation between the two techniques in 75 percent of the joints of the hands and wrists [48]. Both imaging modalities found features of inflammation in joints that were neither tender nor swollen on physical examination.
+
+Bone erosions – Ultrasonography is more sensitive than conventional radiography for the detection of bone erosions; however, it is not routinely used for this purpose, as the clinical significance of erosions that can be detected only on ultrasound is not clear.
+
+In one study, sonography detected 6.5-fold more MCP joint erosions than radiography in early RA and 3.4-fold more erosions in late disease [49]. Moreover, the sonographic erosions corresponded to MRI bone abnormalities.
+
+Ultrasound evaluation for bone erosions and synovitis is described in further detail separately. (See "Musculoskeletal ultrasonography: Clinical applications", section on 'Joints'.)
+
+Magnetic resonance imaging – We suggest MRI when the presence of synovitis cannot be determined by physical examination and ultrasonography is not available. In a patient with a moderate to high suspicion of RA, a symmetric polyarthritis, particularly of the MCP, MTP, and/or PIP joints, supports a diagnosis of RA. (See 'Establish the presence of inflammatory arthritis' above.)
+
+Bone marrow edema – Decreased signal from the bone marrow on T1-weighted images and enhancement of the marrow with gadolinium administration is interpreted as bone marrow edema. The presence of marrow edema on MRI is predictive of later development of erosive disease [50].
+
+Synovial hypertrophy – It is also possible to identify and estimate the quantity of hypertrophic synovial tissue using contrast-enhanced MRI. The presence of MRI-detected synovial proliferation correlates with the later development of bone erosions [51]. Use of this imaging technique outside of research settings may be hastened by the development of MRI scanners that are designed specifically for imaging the extremities [52,53].
+
+Bone erosions – MRI is also a more sensitive technique than plain radiography for identifying bone erosions; however, it is not routinely used for this purpose, as the clinical significance of erosions detected only detected by MRI is unclear [54].
+
+When radiography and MRI were compared in a group of 55 patients with early arthritis, MRI identified seven times as many erosions in the MCP and PIP joints as plain radiography [55]. MRI also may detect bone erosions earlier in the course of the disease than is possible with plain films [56]. As an example, approximately 45 percent of patients with symptoms for only four months were found to have erosions detected by this method [57].
+
+Diagnosis — Clinicians often use the 2010 American College of Rheumatology/European League Against Rheumatology (ACR/EULAR) classification criteria for RA as a guide to diagnosis. However, many patients with RA will not satisfy these criteria early in the course of disease and may still be appropriate candidates for treatment.
+
+Using these criteria, a classification as “definite RA” is based upon the presence of synovitis in at least one joint, the absence of an alternative diagnosis that better explains the synovitis, and the achievement of a total score of at least 6 (of a possible 10) from the individual scores in four domains [58-60]. The highest score achieved in a given domain is used for this calculation. These domains and their values are:
+
+Number and site of involved joints:
+
+2 to 10 large joints (from among shoulders, elbows, hips, knees, and ankles) = 1 point
+
+1 to 3 small joints (from among the MCP joints, PIP joints, second through fifth MTP joints, thumb IP joints, and wrists) = 2 points
+
+4 to 10 small joints = 3 points
+Greater than 10 joints (including at least 1 small joint) = 5 points
+
+Serological abnormality (RF or ACPA)
+
+Low positive (above the upper limit of normal) = 2 points
+
+High positive (greater than three times the upper limit of normal) = 3 points
+
+Elevated acute phase response (ESR or CRP) above the upper limit of normal = 1 point
+
+Symptom duration at least six weeks = 1 point
+
+Using the ACR/EULAR classification system to diagnose RA comes with important caveats:
+
+Ultimately, RA is a clinical diagnosis. A patient with polyarticular gout, for example, could potentially be assigned 6 points using the ACR/EULAR classification system for RA. In this case, it would be incumbent upon the clinician to realize that the presence of tophi and episodic pattern of joint involvement was more consistent with a crystalline arthropathy.
+
+The diagnosis of seronegative RA may be particularly challenging. A diagnosis of seronegative RA may be secure only after monitoring the patient’s response to therapy over an extended period of time. In patients newly diagnosed with seronegative RA, we suggest a careful review of alternate diagnoses prior to initiating pharmacotherapy. A suggested review of systems to evaluate for alternate diagnoses is presented in the table (table 1).
+
+The 2010 ACR/EULAR criteria were developed primarily to identify patients with early RA. These criteria may fail to identify patients who have very early presentations of RA or inactive disease. In these cases, a presumptive diagnosis of RA may depend primarily on the patient’s history or imaging studies.
+
+These issues are discussed in greater detail elsewhere. (See "Clinical manifestations of rheumatoid arthritis" and 'Differential diagnosis' below.)
+
+DIFFERENTIAL DIAGNOSIS
+Joint pain involving the hands is a common clinical presentation for a variety of conditions. Rheumatologists are frequently consulted by other clinicians to evaluate patients with this complaint but who lack the characteristic features of rheumatoid arthritis (RA; eg, synovitis affecting the small joints of the hands, rheumatoid factor [RF] or anti-citrullinated peptide antibody [ACPA] positivity). In such patients, a thorough history and physical may uncover alternate diagnoses that should be considered prior to initiating therapy.
+
+Additionally, a failure to respond to typical RA therapies may also prompt consideration of alternate diagnoses.
+
+One approach to the differential diagnosis is to consider patients in terms of inflammatory versus noninflammatory diagnoses. Inflammatory diagnoses are characterized by the presence of synovitis on examination and are often accompanied by constitutional symptoms and acute phase reactant elevation. Noninflammatory diagnoses are characterized by joint dysfunction in the absence of synovitis, constitutional symptoms, and acute phase reactant elevation.
+
+Some alternate diagnoses that should be considered, along with their characteristic features, are described below.
+
+A suggested review of systems to evaluate for alternate diagnoses is presented in the table (table 1). A basic overview of the approach to a patient with polyarticular pain is described separately. (See "Evaluation of the adult with polyarticular pain".)
+
+Inflammatory diagnoses — These diagnoses are typically considered in patients with synovitis on examination who lack autoantibodies specific for RA, such as RF or ACPA (table 1).
+
+Infectious
+
+Viral polyarthritis – A viral arthritis is typically suspected in a patient who presents with an inflammatory arthritis and concomitant evidence of a viral syndrome.
+
+Viral polyarthritis generally resolves spontaneously. However, several viral infections (eg, hepatitis B virus, Chikungunya) can cause a chronic polyarthritis.
+
+Lyme arthritis – Lyme arthritis should be suspected in a patient who presents with a mono- or oligoarthritis who lives in an area endemic for Lyme disease. The approach to establishing a diagnosis of Lyme disease is discussed elsewhere. (See "Diagnosis of Lyme disease", section on 'Approach to diagnosis'.)
+
+Lyme arthritis is a late manifestation of Lyme disease; half of patients will not remember having been bitten by a tick. Lyme arthritis is characterized by intermittent or persistent inflammatory arthritis in a few large joints, most typically monoarthritis of the knee. The most commonly involved joints, after the knee, are the shoulder, ankle, elbow, temporomandibular joint, and wrist. Migratory arthralgias without frank arthritis may occur during early localized or early disseminated Lyme disease. (See "Musculoskeletal manifestations of Lyme disease".)
+
+Other infectious arthritis – Infectious arthritis should be suspected in a patient presenting with a monoarticular arthritis who is at increased risk of infection (eg, diabetes, chronic immunosuppression). The diagnosis is established by culturing the pathogen from the synovial fluid or from the blood.
+
+An infectious arthritis is usually monoarticular, but polyarthritis can occur. Patients with septic arthritis may or may not appear toxic on examination, depending upon the stage of their infection, the presence of medications that can mask infection (eg, glucocorticoids), and other clinical variables. Peripheral blood leukocytosis with a left shift is common but not invariably present.
+
+A low threshold for suspecting infection is required, particularly in compromised hosts. Patients with RA are at increased risk for joint infections because a damaged joint can serve as a nidus of infection. Synovial fluid changes, including marked granulocytosis and low glucose levels, are similar to those seen in RA. (See "Septic arthritis in adults".)
+
+Rheumatic
+
+Other systemic rheumatic diseases – Early RA may be difficult to distinguish from the arthritis of systemic lupus erythematosus (SLE), Sjögren's disease, inflammatory myopathy (eg, dermatomyositis), and overlap syndromes such as mixed connective tissue disease. In contrast with RA, these disorders are generally characterized by the presence of other systemic features, such as rashes, dry mouth and dry eyes, myositis, or nephritis, and by various autoantibodies not often seen in RA (table 1).
+
+While diagnostic uncertainty in early RA is expected, the diagnosis should become clearer with time.
+
+Morning stiffness, symmetric, erosive arthritis, subcutaneous (“rheumatoid”) nodules, and ulnar deviation of the digits are highly characteristic of RA. However, these features can also be found with other diagnoses:
+
+Morning stiffness is common in all inflammatory arthritides. Symmetric arthritis can be seen in patients with SLE. (See "Clinical manifestations and diagnosis of systemic lupus erythematosus in adults", section on 'Arthritis and arthralgias'.)
+
+An erosive arthritis has been described in some overlap syndromes, particularly those associated with anti-tRNA synthetases and anti-U1 RNP antibodies [61]. (See "Clinical manifestations and diagnosis of mixed connective tissue disease".)
+
+Infrequently, nodules similar to those seen in RA may occur in patients with SLE, and other nodular lesions (eg, gouty tophi) may mimic rheumatoid nodules. (See "Rheumatoid nodules", section on 'Differential diagnosis'.)
+
+Ulnar deviation of the digits that can be manually moved back into normal alignment is a Jaccoud’s arthropathy, which is not found with RA. The joint deformities of Jaccoud's arthropathy are caused by loosening and lengthening of periarticular structures and tendons, whereas the joint deformities of RA are caused by cartilage loss and joint destruction. Jaccoud’s arthropathy occurs in up to 5 to 10 percent of patients with Sjögren's disease or SLE and can also occur in sarcoidosis [62]. (See "Arthritis and other musculoskeletal manifestations of systemic lupus erythematosus" and "Sarcoid arthropathy" and "Clinical manifestations of Sjögren’s disease: Extraglandular disease", section on 'Joints'.)
+
+Crystalline arthritis – Crystalline arthritis (gout and acute or chronic calcium pyrophosphate deposition disease [CPPD; pseudogout]) should be suspected in any patient over the age of 50 presenting with an inflammatory mono- or oligoarthritis. The diagnosis is established by the finding of urate or calcium pyrophosphate crystals, respectively, in synovial fluids.
+
+Crystalline arthritis should also be considered in a patient with a polyarticular arthritis who has a long history of recurrent, self-limited flares that initially affected only one or two joints. The hallmark of a crystalline arthritis is its self-limited nature. Unlike RA, even in the absence of therapy, the flare will remit spontaneously in several weeks. However, since crystalline arthritis is not uncommon, its presence does not exclude the diagnosis of RA.
+
+These diagnoses are discussed in detail separately. (See "Clinical manifestations and diagnosis of gout" and "Clinical manifestations and diagnosis of calcium pyrophosphate crystal deposition (CPPD) disease".)
+
+Polymyalgia rheumatica – Polymyalgia rheumatica (PMR) should be suspected in any patient over the age of 50 presenting with an inflammatory arthritis limited to the shoulder and hips. Unlike RA, PMR is usually associated with marked myalgias in the shoulders and hips, and joint involvement tends to be milder [63]. The diagnosis is established by its rapid response to low-dose glucocorticoids.
+
+In patients initially diagnosed with PMR, persistent or recurrent small joint arthritis with tapering of glucocorticoids and the absence of other findings suggestive of PMR may lead to a change in the diagnosis to RA after several months or even years of treatment.
+
+PMR is discussed in detail separately. (See "Clinical manifestations and diagnosis of polymyalgia rheumatica".)
+
+Reactive arthritis – Reactive arthritis should be suspected in any patient who presents with a monoarthritis or oligoarthritis following a recent infection (eg, urethritis, enteric) [64]. The following findings are more consistent with reactive arthritis than RA:
+
+Asymmetric pattern of joint involvement
+
+Symptoms or signs of enthesopathy (inflammation at the site where a tendon inserts into a bone, eg, the insertion point of the Achilles tendon into the heel)
+
+Keratoderma blennorrhagica (picture 1) or circinate balanitis (picture 2 and picture 3) (see "Reactive arthritis", section on 'Extraarticular signs and symptoms')
+
+Radiologic evidence of sacroiliitis and/or spondylitis
+
+The presence of human leukocyte antigen (HLA) B27
+
+“Sausage” swelling of the digits, caused by inflammation of the tenosynovium (picture 4)
+
+Reactive arthritis is discussed separately. (See "Reactive arthritis".)
+
+Inflammatory bowel disease-associated arthritis – Inflammatory bowel disease (IBD)-associated arthritis should be suspected in a patient with an inflammatory arthritis who has a known or suspected diagnosis of IBD. Less commonly, arthritis may be the presenting symptom of IBD.
+
+While IBD-related arthritis is more commonly a large-joint oligoarticular arthritis or spondyloarthritis with sacroiliitis, patients with IBD may infrequently develop a peripheral polyarthritis with prominent involvement of the metacarpophalangeal (MCP) joints that can be mistaken for RA.
+
+As the spectrum of drugs used for IBD-associated arthritis and RA are similar, differentiating between these diagnoses may not be necessary to initiate pharmacotherapy. This diagnosis is discussed separately. (See "Clinical manifestations and diagnosis of arthritis associated with inflammatory bowel disease and other gastrointestinal diseases".)
+
+Psoriatic arthritis – Psoriatic arthritis is typically diagnosed in a patient who presents with an oligoarthritis who has psoriasis and is seronegative for RF and ACPA.
+
+However, it can be difficult to distinguish psoriatic arthritis from RA, since the arthritis may precede the rash by several years, and a small number of patients with psoriatic arthritis are RF positive. In such cases, the diagnosis may not be clear until the patient develops features that are highly characteristic of a specific diagnosis (eg, pattern of joint erosions in RA).
+
+Because many therapies for these diagnoses overlap, distinguishing these diagnoses is not necessary prior to initiating pharmacotherapy. Psoriatic arthritis is discussed separately. (See "Clinical manifestations and diagnosis of psoriatic arthritis".)
+
+Palindromic rheumatism – Palindromic rheumatism is a form of inflammatory arthritis that sequentially affecting one to several joint areas for hours to days, with symptom-free periods that may last from days to months. A minority of patients with this presentation will eventually evolve into RA [65,66]. The diagnosis is made clinically, based on a characteristic history of joint involvement.
+
+However, unlike RA, palindromic rheumatism is associated with inflammation of the periarticular rather than intraarticular structures. Furthermore, the intense, episodic nature of palindromic rheumatism is similar to what is observed in autoinflammatory diseases, rather than RA. (See "Clinical manifestations of rheumatoid arthritis", section on 'Palindromic rheumatism'.)
+
+Sarcoid arthropathy – Sarcoid arthropathy should be considered in a patient who presents with an inflammatory arthritis and has a prior diagnosis of pulmonary sarcoidosis. The approach to establishing a diagnosis of sarcoid arthropathy is discussed separately. (See "Sarcoid arthropathy", section on 'Diagnostic approach'.)
+
+Chronic arthritis in sarcoidosis may be oligo- or polyarticular and can appear similar to RA in some patients. It most frequently affects the ankles, knees, hands, wrist, and MCP and proximal interphalangeal (PIP) joints.
+
+This disorder is distinguished from RA by the following findings:
+
+Elevated serum concentrations of angiotensin-converting enzyme (ACE) are found in up to 50 percent of patients
+
+A chest radiograph may reveal characteristic findings of sarcoidosis
+
+The pattern of acute arthritis with Lofgren’s syndrome in patients with sarcoidosis is not observed in those with RA
+
+This diagnosis is discussed in detail elsewhere. (See "Sarcoid arthropathy".)
+
+Multicentric reticulohistiocytosis – Multicentric reticulohistiocytosis should be suspected in a patient who presents with a highly destructive form of arthritis that is unresponsive to immunosuppressive therapies [67-72]. This diagnosis may be accompanied by smooth, shiny, erythematous nodules located in the periungual region. The diagnosis is established radiographically, or through biopsy of a skin lesion.
+
+The rapid joint destruction of multicentric reticulohistiocytosis resembles the arthritis mutilans occasionally observed in psoriatic arthritis. Binucleated or multinucleated foreign body type giant cells are present on skin or synovial biopsies in multicentric reticulohistiocytosis [73,74]. In a minority of patients, an underlying malignancy may be present. (See "Cutaneous manifestations of internal malignancy", section on 'Multicentric reticulohistiocytosis'.)
+
+Paraneoplastic and cancer treatment-related disease — Joint pain or frank polyarthritis can occur in association with cancer. The following are some examples:
+
+Hypertrophic osteoarthropathy – Patients with hypertrophic osteoarthropathy, sometimes termed hypertrophic pulmonary osteoarthropathy, typically demonstrate clubbing of the digits, joint pain, and periosteal new bone formation. Additionally, they give a characteristic history suggestive of bone pain and often describe the pain as deep and achy; nocturnal pain is common. Joint effusions may occur.
+
+Hypertrophic osteoarthropathy is discussed in detail separately. (See "Malignancy and rheumatic disorders", section on 'Hypertrophic osteoarthropathy'.)
+
+Myelodysplasia – Patients with myelodysplastic syndrome sometimes develop an inflammatory polyarthritis that mimics RA [75]. The majority of patients are seronegative for RF and few are positive for ACPA or exhibit erosive changes on joint radiography. The arthritis may precede the diagnosis of myelodysplasia in at least half of the patients. In a cohort study of 87 patients with myelodysplastic syndrome, five (6 percent) had inflammatory arthritis that resembled RA [76]. Persistence of anemia, other cytopenias, or elevated acute phase reactants despite control of the arthritis should heighten suspicion of myelodysplasia [75].
+
+This diagnosis is discussed in detail elsewhere. (See "Clinical manifestations, diagnosis, and classification of myelodysplastic syndromes (MDS)".)
+
+Immune checkpoint inhibitor therapy – Cancer therapy that involves use of immune checkpoint inhibitor (ICI) immunotherapy may result in a number of rheumatologic and other adverse effects, including inflammatory arthritis that resembles RA. The joint symptoms may range from mild to severe and can develop at almost any time during ICI therapy. RF and ACPAs are often absent. This diagnosis is discussed in detail elsewhere. (See "Rheumatologic complications of checkpoint inhibitor immunotherapy", section on 'Inflammatory arthritis'.)
+
+Noninflammatory diagnoses — These diagnoses are typically associated with joint pain or dysfunction in the absence of true synovitis.
+
+Osteoarthritis — Osteoarthritis (OA) can be confused with RA in the middle-aged or older patient when the small joints of the hands are involved. However, different patterns of clinical involvement usually permit the correct diagnosis (table 3). The following are examples:
+
+Distribution of joint findings – OA of the fingers typically affects the distal interphalangeal (DIP) joints and is frequently associated with Heberden's nodes in this area. By contrast, RA typically affects the MCP and PIP joints and is not associated with Heberden's nodes.
+
+The carpometacarpal joint of the thumb is typically involved in OA.
+
+Joint examination characteristics – Swelling of the joints is hard and bony in OA. By contrast, soft, warm, boggy, and tender joints are typical of RA.
+
+Presence of stiffness – Stiffness of the joint is a very common feature of RA but is relatively uncommon in OA. Furthermore, the stiffness of RA is characteristically worse after resting the joint (eg, morning stiffness), while the stiffness of OA, if present, is typically worse after any effort and is often described as evening stiffness. Morning stiffness in OA, when present, is usually transient or lasts no more than a few minutes, unlike the more sustained stiffness typical of RA.
+
+Radiographs – Radiographs also help distinguish RA from OA. OA is characterized by narrowing of the joint space due to cartilage loss and osteophytes due to bone remodeling, but not erosions or cysts.
+
+Erosive or inflammatory OA can cause severe and rapidly progressive arthritis in the small joints of the hands, often at middle age. Swelling in the PIPs with central joint erosion may be present. Central erosions (found in the center of the joint space) should be distinguished from the marginal erosions of RA, which are found at the margin of the joint space. Distinction from RA can be made by characteristic findings on radiographs as well as a lack of systemic inflammation and serologic markers.
+
+Rheumatoid factor – OA is classically associated with the absence of RFs and normal levels of acute phase reactants. However, RFs may be present, usually in low titer, consistent with the patient's (older) age.
+
+OA is discussed separately. (See "Clinical manifestations and diagnosis of osteoarthritis".)
+
+Stenosing tenosynovitis — Stenosing tenosynovitis should be suspected in any patient presenting with hand pain associated with triggering or locking of the digits. Stenosing tenosynovitis may be distinguished from RA by eliciting pain over the flexor tendons at the base of the digit and by the absence of synovitis in the joints of the hand.
+
+Narrowing of the flexor tendon sheaths leading to stenosing tenosynovitis is common among patients with diabetes, thyroid disease, or occupational risk factors. Hand pain may be present even in the absence of overt triggering. (See "Trigger finger (stenosing flexor tenosynovitis)".)
+
+Diabetic cheiroarthropathy is a related condition that results in difficulty in the extension of the digits of the hand. This diagnosis is discussed separately. (See "Limited joint mobility in diabetes mellitus".)
+
+Carpal tunnel syndrome — Carpal tunnel syndrome should be suspected in any patient complaining of hand swelling, burning, or numbness, typically at night or in the morning. Carpal tunnel syndrome should also be considered in patients who demonstrate a positive Tinel or Phalen sign, have thenar wasting, and/or demonstrate poor hand dexterity or weakness in the "pinch test." The diagnosis can be confirmed with nerve conduction studies documenting median nerve dysfunction.
+
+Synovitis in the wrist from RA may also cause median nerve entrapment leading to carpal tunnel syndrome. Thus, the presence of carpal tunnel syndrome does not exclude concurrent RA. However, carpal tunnel syndrome is common and observed at higher rates in patients with some comorbid conditions (eg, diabetes).
+
+This diagnosis is discussed separately. (See "Carpal tunnel syndrome: Clinical manifestations and diagnosis".)
+
+Hypermobility syndrome — Although the hypermobility syndromes can bear superficial resemblances to RA due to the presence of polyarthralgia, there are important distinguishing features:
+
+The hypermobility syndromes are associated with hyperextensible joints, and patients lack signs of synovitis.
+
+The hypermobility syndrome is not associated with significant titers of RF or ACPAs or with elevated levels of acute phase reactants.
+
+This diagnosis is discussed in detail elsewhere. (See "Clinical manifestations and diagnosis of hypermobile Ehlers-Danlos syndrome and hypermobility spectrum disorder".)
+
+Fibromyalgia — Fibromyalgia may be distinguished from RA by using the following features:
+
+Fibromyalgia is associated with tender points at nonarticular sites and chronic widespread pain. However, there is no evidence of synovitis, such as swelling, warmth, or diminished joint range of motion, although patients may exhibit joint-line tenderness on examination. (See "Clinical manifestations and diagnosis of fibromyalgia in adults".)
+
+Fibromyalgia is not associated with significant titers of RF or ACPAs or with elevated levels of acute phase reactants.
+
+Although RA is usually not difficult to distinguish from fibromyalgia, diagnostic confusion can arise when assessment of serologies or acute phase reactants is performed and modestly elevated results are observed that are of unclear significance. In addition, a significant minority of patients with RA also develop fibromyalgia. The source of complaints in such patients needs to be carefully assessed to distinguish heightened pain sensitivity from pain related to inflammatory joint disease.
+
+
+SUMMARY AND RECOMMENDATIONS
+
+Initial presentation and typical disease course – The onset of rheumatoid arthritis (RA) is usually insidious, with the predominant symptoms being pain, stiffness, and swelling of many joints. Typically, the metacarpophalangeal (MCP) and proximal interphalangeal (PIP) joints of the fingers, the interphalangeal joints of the thumbs, the wrists, and the metatarsophalangeal (MTP) joints of the toes are sites of arthritis early in the disease. Other joints of the upper and lower limbs are also commonly affected later in the disease course. Onset may occasionally be intermittent or with migratory joint involvement, or may be monoarticular. RA may adversely affect a patient's capacity to perform the activities of daily living. (See 'Initial clinical presentation' above and 'Typical 'classic' RA' above and 'Palindromic rheumatism' above and 'Monoarthritis' above.)
+
+Major symptoms and findings of early disease – The key features of early rheumatoid inflammation are pain and swelling of the affected joints. Painful inflammation is demonstrated either by local tenderness from pressure applied on the joint or by pain on moving the joint. Swelling may be due to synovial hypertrophy or effusion. Synovial thickening is detected by a "boggy" feel to a swollen joint, and effusion by demonstrating fluctuation. (See 'Symptoms and physical findings' above and 'Hands' above and 'Lower extremity' above and 'Axial skeleton' above and 'Cricoarytenoid joint' above.)
+
+Distribution of joint involvement – RA eventually affects the peripheral joints in almost all patients. Involvement of axial and central joints is less common, occurring in 20 to 50 percent of patients. Symmetrical joint involvement is characteristic, although this may be less apparent early in the disease. The pattern of joint involvement may also be diagnostically useful. Squeeze tenderness at the MCP and metatarsophalangeal MTP joints and palpable synovial thickening at these joints are characteristic of RA. (See 'Distribution of involved joints' above.)
+
+Extraarticular features – Extraarticular features of RA, including anemia, fatigue, subcutaneous ("rheumatoid") nodules, pleuropericarditis, obstructive and parenchymal lung diseases, neuropathy, episcleritis, scleritis, splenomegaly, Sjögren's disease, vasculitis, and kidney disease, may occur during the course of the disease. (See 'Extraarticular involvement' above and "Overview of the systemic and nonarticular manifestations of rheumatoid arthritis".)
+
+Laboratory findings – A number of abnormalities are present in the blood and synovial fluid of patients with RA. These include changes reflecting systemic and intraarticular inflammation, and the autoimmune features of the disorder, including the presence of rheumatoid factors (RF) and anti-citrullinated protein/peptide antibodies (ACPA). (See 'Laboratory findings' above.)
+
+Imaging findings – Patients with RA develop joint space narrowing and bony erosions, which are often observed in plain radiographs of the hands and feet. These may already be present when first seen by a clinician but more usually become evident over time with ongoing synovitis beyond the first few months of disease. MRI and ultrasound are more sensitive imaging modalities than plain radiographs. (See 'Imaging' above.)
+
+Variation in clinical course and pattern of presentation – RA shows a marked variation of clinical expression in individual patients (table 1). This difference may be apparent in the number and pattern of joint involvement and whether extraarticular disease is prominent. Variation is also seen in the course of disease activity and the rapidity of structural damage to joints. (See 'Clinical course' above and 'Patterns of progression' above.)
+
+Disease activity versus structural damage – The concept of disease activity is based upon the state of the underlying inflammatory response, and may be distinguished from the irreversible damage of the joint that results from this inflammatory response (table 2). In a minority of patients, disease activity is absent; in this circumstance, the disease is said to be in remission, but typically continues to require disease-modifying antirheumatic drug (DMARD) therapy. (See 'Disease activity versus structural damage' above and 'Remission' above.)

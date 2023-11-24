@@ -1,0 +1,308 @@
+INTRODUCTION
+Heart failure (HF) is a common clinical syndrome caused by a variety of cardiac diseases (table 1) [1-5]. The initial evaluation of the patient with suspected HF will be reviewed here. Evaluation of the etiology and management of HF and evaluation and treatment of acute decompensated HF are discussed separately. (See "Determining the etiology and severity of heart failure or cardiomyopathy" and "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis" and "Approach to diagnosis and evaluation of acute decompensated heart failure in adults" and "Treatment of acute decompensated heart failure: General considerations" and "Overview of the management of heart failure with reduced ejection fraction in adults".) (Related Pathway(s): Heart failure: Diagnosis and classification.)
+
+DEFINITION
+HF is a complex clinical syndrome identified by presence of current or prior characteristic symptoms, such as dyspnea and fatigue, and evidence of cardiac dysfunction as a cause of these symptoms (eg, abnormal left ventricular [LV] and/or right ventricular [RV] filling and elevated filling pressures) [1-5]. From a hemodynamic perspective, HF is a disorder in which the heart cannot pump blood to the body at a rate commensurate with its needs, or can do so only at the cost of high filling pressures [6]. Patients with HF may or may not have associated physical signs, such as those related to fluid retention. HF can result from any structural or functional cardiac disorder that impairs the ability of the ventricle to fill with or eject blood. (See 'Causes and classification' below and "Determining the etiology and severity of heart failure or cardiomyopathy" and "Pathophysiology of heart failure with reduced ejection fraction: Hemodynamic alterations and remodeling" and "Pathophysiology of heart failure: Neurohumoral adaptations".)
+
+There is no single, noninvasive diagnostic test that serves as a gold standard for HF, since it is largely a clinical diagnosis based upon a careful history, physical examination, laboratory and imaging data. While most patients with suspected HF do not require invasive testing for diagnosis, the clinical gold standard for diagnosis of HF is identification of an elevated pulmonary capillary wedge pressure at rest or exercise on an invasive hemodynamic exercise test in a patient with symptoms of HF. (See 'An approach to diagnosis' below and 'Hemodynamic exercise test' below.)
+
+The clinical diagnosis of HF is limited to patients with current or prior symptoms of HF (American College of Cardiology/American Heart Association [ACC/AHA] stages C and D HF) and excludes patients with stage A (at high risk for HF but without structural heart disease or symptoms of HF) or stage B HF (structural heart disease but no symptoms or signs of HF) (table 2). Asymptomatic systolic or diastolic dysfunction are forms of ACC\AHA stage B HF which are not encompassed by the clinical diagnosis of HF but are associated with risk of developing HF. (See "Determining the etiology and severity of heart failure or cardiomyopathy", section on 'Stages in the development of HF' and "Epidemiology of heart failure".)
+
+CAUSES AND CLASSIFICATION
+HF is caused by a number of conditions, including LV dysfunction, RV dysfunction, valvular heart disease, pericardial disease, obstructive lesions in the heart or great vessels, or high-output HF (table 1).
+
+HF caused by LV dysfunction is commonly categorized according to LV ejection fraction (LVEF):
+
+HF with LVEF ≤40 percent is known as HF with reduced ejection fraction (HFrEF).
+
+HF with LVEF of 41 to 49 percent is HF with mid-range ejection fraction (HFmrEF).
+
+HF with LVEF ≥50 percent may be caused by HF with preserved ejection fraction (HFpEF) or a cardiomyopathy (restrictive, hypertrophic, or noncompaction).
+
+HF is often referred to as left-sided failure when caused primarily by left heart pathologies (eg, LV, mitral valve, or aortic valve dysfunction). HF is called right-sided when caused by right heart conditions (eg, pulmonary hypertension or RV, pulmonic valve, or tricuspid valve dysfunction). Left HF and right HF may each occur separately or concurrently. Left HF is a common cause of right HF, and most patients with right HF have some element of left HF.
+
+The functional status of patients with HF is often described using the New York Heart Association (NYHA) classification, with severity of disability ranging from I to IV (table 3). By definition, all patients with HF have current or prior symptoms of HF. Thus, an asymptomatic patient (NYHA class I) can carry a diagnosis of HF only if symptoms of HF were previously present. (See "Determining the etiology and severity of heart failure or cardiomyopathy", section on 'Classification of HF severity'.)
+
+CLINICAL PRESENTATION
+
+Symptoms and associated conditions — Identification of symptoms of HF is a key step in diagnosing HF. While a history alone is insufficient to make the diagnosis of HF, a detailed history remains the single best discriminator to determine the acuity, etiology, and rate of progression of HF, and the history often provides important clues to the cause of HF. (See "Determining the etiology and severity of heart failure or cardiomyopathy".)
+
+Symptoms of HF include those due to excess fluid accumulation (dyspnea, orthopnea, edema, pain from hepatic congestion, and abdominal discomfort due to distention from ascites) and those due to a reduction in cardiac output (fatigue, weakness) that is most pronounced with exertion. Fluid retention in HF is initiated by the fall in cardiac output, leading to alterations in renal function, due in part to activation of the sodium-retaining renin-angiotensin-aldosterone and sympathetic nervous systems. While left-sided heart failure is a major cause of right-sided failure, right-sided failure also has other causes, including pulmonary hypertension and tricuspid valve and pulmonic valve dysfunction (table 1).
+
+In a systematic review that included data from 15 studies of patients with suspected HF, dyspnea was the only symptom or sign with high sensitivity (89 percent), but its specificity was low (51 percent) [7]. Other elements of the history had relatively high specificity but low sensitivity: orthopnea (specificity and sensitivity of 89 and 44 percent) and history of myocardial infarction (89 and 26 percent). However, the sensitivity and specificity of these clinical features are likely to vary among different patient populations.
+
+Important information concerning the acuity of HF is suggested by the presenting symptoms:
+
+Acute and subacute presentations (days to weeks) are characterized primarily by shortness of breath, at rest and/or with exertion. Also common are orthopnea, paroxysmal nocturnal dyspnea, and, with right HF, right upper quadrant discomfort due to acute hepatic congestion, which can be confused with acute cholecystitis. Patients with atrial and/or ventricular tachyarrhythmias may complain of palpitations with or without lightheadedness.
+
+Patients with acute decompensated HF require prompt diagnosis and management. (See "Approach to diagnosis and evaluation of acute decompensated heart failure in adults" and "Treatment of acute decompensated heart failure: General considerations".)
+
+Chronic presentations (months) differ in that fatigue, anorexia, abdominal distension, and peripheral edema may be more pronounced than dyspnea, as dyspnea may be more subtle and exertional in nature. Because patients developing HF tend to gradually withdraw from physical activity, they are less likely to perceive symptoms. It is therefore important to identify patient activity levels and symptoms during those activities. Over time, pulmonary venous capacitance and lymphatic drainage accommodates to the chronic state of volume overload, leading to less or no fluid accumulation in the alveoli, despite the increase in total lung water and high filling pressures. Patients in this setting present with excessive fatigue and low-output symptoms, and some report dyspnea predominantly with exertion rather than at rest or in the supine position (as with acute HF). Anorexia is secondary to several factors including poor perfusion of the splanchnic circulation, bowel edema, and nausea induced by hepatic congestion.
+
+Patients with chronic HF often develop secondary pulmonary hypertension, which can contribute to dyspnea as pulmonary pressures rise with exertion. These patients may also complain of substernal chest pressure, typical of angina. In this setting, elevated RV end-diastolic pressure may cause secondary RV subendocardial ischemia. (See "Pulmonary hypertension due to left heart disease (group 2 pulmonary hypertension) in adults".)
+
+Clinical features such as older age, hypertension, history of coronary artery disease or myocardial infarction, history of atrial fibrillation (AF), obesity, and use of a loop diuretic are associated with increased likelihood of HF [7-9].
+
+Physical examination — The physical examination can provide evidence of the presence and extent of cardiac filling pressure elevation, right-sided failure, ventricular enlargement, pulmonary hypertension, and reduction in cardiac output. Some of the physical examination findings of HF, while not very specific on their own, can be very specific in the setting of typical symptoms of HF, but sensitivity is low, so the absence of physical findings does not exclude HF.
+
+In a study of primary care patients, a physical finding of a displaced apical impulse had the best combination of sensitivity, specificity, and positive and negative predictive value of any physical sign of HF with reduced ejection fraction [10]. However, patients with HF and preserved ejection fraction (HFpEF) typically have a nondilated heart, so displacement of the apical impulse is not a helpful finding for diagnosis of HFpEF. Other strong predictors of HF included a gallop rhythm and elevated jugular venous pressure.
+
+The accuracy of physical signs for the diagnosis of HF was evaluated in the above cited systematic review that included data from 15 studies of patients with suspected HF [7]. Extra heart sounds were highly specific (99 percent) but had low sensitivity (11 percent). In this population, hepatomegaly was also highly specific (97 percent) but had low sensitivity (17 percent). Greater specificity than sensitivity was also seen for cardiomegaly (85 and 27 percent), lung crepitation (81 and 51 percent), edema (72 and 53 percent), and elevated jugular venous pressure (70 and 52 percent).
+
+Vital signs and appearance — A patient’s general appearance and vital signs may suggest presence of HF, particularly if HF is advanced. An irregularly irregular pulse is suggestive of AF, which frequently accompanies HF. (See "The management of atrial fibrillation in patients with heart failure".)
+
+Patients with mild or moderate HF may appear completely normal on physical examination, with normal vital signs. However, many patients with normal cardiac output at rest have an inability to augment cardiac output during exercise without excessive increase in filling pressures, resulting in exertional fatigue and intolerance. Right-sided signs with fluid overload are often the presenting sign.
+
+In contrast, patients with advanced HF may show evidence of decreased tissue perfusion caused by a major decline in cardiac output. Four key findings suggest greater severity of cardiac dysfunction even at steady state: resting sinus tachycardia, narrow pulse pressure, diaphoresis, and peripheral vasoconstriction. The last abnormality is manifested as cool, pale, and sometimes cyanotic extremities (due to the combination of decreased perfusion and increased oxygen extraction). Peripheral vasoconstriction may be absent in patients treated with vasodilators. A decrease in cardiac output should be suspected when the pulse pressure is reduced below 25 mmHg or if the proportional pulse pressure (pulse pressure divided by systolic pressure) is less than 20 to 25 percent. Both the cardiac disease itself and the secondary neurohumoral adaptation contribute to the low-output state. Patients compensate for a fall in cardiac output by increasing sympathetic outflow with resultant shunting of the cardiac output to vital organs.
+
+Pulsus alternans, if present, is virtually pathognomonic of severe LV systolic dysfunction. This phenomenon is characterized by evenly spaced alternating strong and weak peripheral pulses. It is best appreciated by applying light pressure on the peripheral arterial pulse and can be confirmed by measuring the blood pressure. When the cuff pressure is slowly released, phase I Korotkoff sounds are initially heard only during the alternate strong beats; with further release of cuff pressure, the softer sounds of the weak beat also appear. Pulsus alternans can also be appreciated based upon variation in the intensity of the first Korotkoff sound during auscultatory blood pressure assessment. (See "Examination of the arterial pulse", section on 'Pulsus alternans'.)
+
+Volume assessment — There are three major manifestations of volume overload in patients with HF: pulmonary congestion, peripheral edema, and elevated jugular venous pressure. Volume overload with right-sided failure can be secondary to left-sided failure, pulmonary hypertension, or valvular disease.
+
+Pulmonary congestion that may manifest as rales is more prominent in acute or subacute disease. As noted above, chronic HF is associated with increases in venous capacitance and lymphatic drainage of the lungs, and alterations in the alveolar capillary interface that reduce permeability and fluid transit; as a result, rales (crackles) are often absent even though the pulmonary capillary pressure is elevated. This also explains why evidence of pulmonary edema is often absent on chest radiographs. Continued sodium retention in this setting preferentially accumulates in the periphery, although a chronic elevation in pulmonary venous pressure can lead to pleural effusions. (See 'Chest radiograph' below.)
+
+Right-sided failure may be manifested as peripheral edema with swelling of the legs (which is more prominent when the patient has been upright), and ascites, scrotal edema, hepatomegaly, and splenomegaly [11]. In this setting, manual compression of the right upper quadrant to increase venous return may elevate jugular venous pressure above the transient 1 to 3 cm elevations seen in normal individuals. This sign is known as the hepatojugular reflux (also known as the abdominojugular test). (See "Examination of the jugular venous pulse", section on 'Abdominojugular test'.)
+
+Elevated jugular venous pressure is usually present if peripheral edema is due to HF, since it is the high intracapillary pressure that is responsible for fluid movement into the interstitium. With the patient sitting at 45 degrees, jugular venous pressure can be estimated from the height above the right atrium of venous pulsations in the internal jugular vein. The height of external jugular vein pulsations may also be helpful, but care must be taken to avoid spurious interpretation. In some patients, it is necessary to seat the patient completely upright or at a lower angle to see the meniscus of the jugular venous pressure (movie 1). (See "Examination of the jugular venous pulse".)
+
+The accuracy of clinical evaluation of cardiac filling pressures varies among observers, as illustrated by a study of 116 patients undergoing cardiac catheterization [12]. Signs of elevated right heart filling pressure included increased jugular venous pressure, peripheral edema, and ascites. Signs of elevated left heart filling pressure included findings of elevated right heart filling pressure as well as gallops or rales.
+
+Right and left heart filling pressures were accurately estimated by physical examination in 71 and 60 percent of 215 observations. Examination by staff cardiologists was more accurate than by trainees for right heart pressures (82 versus 67 percent) and left heart pressures (71 versus 55 percent).
+
+The use of echocardiography and plasma N-terminal pro-B-type natriuretic peptide (NT-proBNP) values did not provide better accuracy than the clinical examination. The accuracy of estimation of right filling pressure by echocardiographic examination of the inferior vena cava (75 percent) was similar to the accuracy of physical examination. The accuracy of estimates of left heart filling pressures by NT-proBNP (67 percent) and by echocardiography E/e’ ratio (60 percent) were also similar to physical examination. (See 'NT-proBNP' below and 'Echocardiography' below.)
+
+Cardiac examination — Ventricular chamber size can be estimated by precordial palpation. An apical impulse that is laterally displaced past the midclavicular line is usually indicative of LV enlargement. LV dysfunction can also lead to sustained apical impulse, which may be accompanied by a parasternal lift in the setting of RV hypertrophy or enlargement. The S3 may be palpable in severe ventricular failure. (See "Examination of the precordial pulsation".)
+
+An S3 (third heart sound) is associated with left atrial pressures exceeding 20 mmHg and increased LV end-diastolic pressures (>15 mmHg). However, there is appreciable interobserver variability in the ability to detect an S3 that cannot be solely explained by the experience of the observer [13,14]. In addition, in a phonocardiographic study of patients who were undergoing cardiac catheterization, an S3 was not very sensitive (40 to 50 percent) for the detection of an elevated LV end-diastolic pressure or a reduced LV ejection fraction (LVEF); however, an S3 was highly specific (90 percent) for these parameters and for an elevated serum BNP concentration [15]. Similarly, an S3 has a low sensitivity (eg, 4 to 11 percent) but high specificity (eg, 99 percent) for clinical diagnosis of HF [7,8]. (See "Auscultation of heart sounds", section on 'LV gallops'.)
+
+Physical signs of pulmonary hypertension can include increased intensity of P2, a murmur of pulmonary or tricuspid insufficiency, a parasternal lift, and a palpable pulmonic tap (felt in the left second intercostal space). Elevation in central venous pressure accompanying pulmonary hypertension and RV failure often leads to pulsatile hepatomegaly and ascites. (See "Auscultation of heart sounds" and "Auscultation of cardiac murmurs in adults" and "Examination of the precordial pulsation" and "Congestive hepatopathy".)
+
+INITIAL TESTING
+
+Electrocardiogram — Most patients with HF with reduced ejection fraction (HFrEF) have a significant abnormality on an electrocardiogram (ECG). A normal ECG makes LV systolic dysfunction unlikely (98 percent negative predictive value) [16]. An ECG has relatively high sensitivity for identifying patients with HFrEF (eg, 89 percent) but more limited specificity (eg, 56 percent) [7]. In contrast, patients with HF with preserved ejection fraction (HFpEF) commonly display a normal 12-lead ECG, though the presence of atrial fibrillation (AF) or paced rhythm greatly increase the probability that HFpEF is present [9]. (See "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis", section on 'Evaluation'.)
+
+Although the ECG is less predictive of HF than the B-type natriuretic peptide (BNP; or N-terminal pro-BNP [NT-proBNP]) level [7], the ECG may show findings that favor the presence of a specific cause of HF (eg, low voltage in amyloid heart disease) and can also detect arrhythmias (eg, AF) that suggest heart disease and may cause or exacerbate HF. (See "Arrhythmia-induced cardiomyopathy" and "Determining the etiology and severity of heart failure or cardiomyopathy".)
+
+The ECG is particularly important for identifying evidence of acute or prior myocardial infarction or acute ischemia. Ischemia may cause symptoms of dyspnea similar to HF and may also cause or exacerbate HF. (See "Electrocardiogram in the diagnosis of myocardial ischemia and infarction" and "Treatment of acute decompensated heart failure in acute coronary syndromes".)
+
+Initial blood tests — Recommended initial blood tests for patients with symptoms and signs of HF include:
+
+Natriuretic peptide (NP [BNP or NT-proBNP]) levels provide evidence as to whether HF is present. In patients with dyspnea at rest, the negative predictive value of a normal plasma NP level is high. NP levels are often (but not exclusively) elevated in patients with HFrEF, but may be normal in a substantial number of patients with HFpEF. Thus, the presence of an elevated NP level increases the likelihood that HF is present, but a normal level does not exclude it, particularly in patients with a normal LVEF or obesity. Conversely, elevations can be caused by elevated right heart pressures, renal dysfunction, or many systemic diseases. (See "Natriuretic peptide measurement in heart failure" and "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis".)
+
+Cardiac troponin T or I in patients with acute decompensated HF and/or suspected acute coronary syndrome. (See "Troponin testing: Clinical use" and "Diagnosis of acute myocardial infarction" and "Initial evaluation and management of suspected acute coronary syndrome (myocardial infarction, unstable angina) in the emergency department".)
+
+A complete blood count, which may suggest concurrent or alternate conditions. Anemia or infection can exacerbate preexisting HF. (See "Evaluation and management of anemia and iron deficiency in adults with heart failure".)
+
+Serum electrolytes, blood urea nitrogen, and creatinine may indicate associated conditions. Hyponatremia generally indicates severe HF, though other causes should be considered [17]. Renal impairment may be caused by and/or contribute to HF exacerbation. Baseline evaluation of electrolytes and creatine is also necessary when initiating therapy with diuretics and/or angiotensin converting enzyme inhibitors.
+
+Liver function tests, which may be affected by hepatic congestion. In one study, gamma-glutamyltransferase level >2 times the upper limit of normal was the only standard initial blood test that added diagnostic value to the history and physical examination [8]. However, NT-proBNP was the most powerful supplementary test. (See "Congestive hepatopathy".)
+
+Fasting blood glucose to detect underlying diabetes mellitus. (See "Heart failure in patients with diabetes mellitus: Epidemiology, pathophysiology, and management".)
+
+Chest radiograph — The chest radiograph is a useful initial diagnostic test, particularly in the evaluation of patients who present with dyspnea, to differentiate HF from primary pulmonary disease [18-20].
+
+Findings suggestive of HF include cardiomegaly (cardiac to thoracic width ratio above 50 percent), cephalization of the pulmonary vessels, Kerley B-lines, and pleural effusions (image 1A-E). The cardiac size and silhouette may also reveal signs of congenital anomalies (ventricular or atrial septal defect) or valvular disease (mitral stenosis or aortic stenosis). As noted above, due to chronic adaptive changes in the lungs, patients with very high filling pressures and chronic HF will often display clear lung fields on plain chest film. (See 'Volume assessment' above.)
+
+A systematic review of the utility of the chest radiograph to diagnose LV dysfunction concluded that redistribution and cardiomegaly were the best predictors of increased preload and reduced ejection fraction, respectively [19]. Neither finding, however, was sufficient to make a definitive diagnosis of HF. In a multicenter study of 880 patients, alveolar edema, interstitial edema, and cephalization all had a specificity of >90 percent for HFrEF, but only cardiomegaly had a sensitivity >50 percent [20]. A systematic review that included 15 studies also found that chest radiograph evidence of HFrEF was helpful in confirming the diagnosis since it had relatively high specificity (83 percent) though more limited sensitivity (68 percent) [7].
+
+The limitations of a chest radiograph are even more dramatic in patients with HFpEF, where the sensitivity of cardiomegaly is 24 percent and pleural effusion is only 9 percent. In contrast, the same study found that specificity for these findings is excellent (96 and 98 percent, respectively) [9]. (See "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis", section on 'Clinical manifestations'.)
+
+DIAGNOSIS
+The approach to the patient with suspected HF includes the history and physical examination as well as diagnostic tests to help establish the diagnosis, assess acuity and severity, and initiate assessment of etiology. Recommendations for the evaluation of patients with HF were included in the 2013 American College of Cardiology guidelines [17,21], the 2010 Heart Failure Society of America guidelines [22], the 2016 European Society of Cardiology guidelines [23], and the 2017 Canadian Cardiovascular Society consensus conference [24].
+
+The discussion below focuses on diagnosis of HF. Evaluation of the patient with suspected HF should also include assessment of risk factors and potential etiologies of HF as discussed separately. (See "Determining the etiology and severity of heart failure or cardiomyopathy" and "Approach to diagnosis and evaluation of acute decompensated heart failure in adults".)
+
+Diagnosis of HF with preserved ejection fraction (HFpEF) may be more challenging given the presence of normal EF and is discussed in a separate topic. (See "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis".)
+
+When to suspect heart failure — HF should be suspected in individuals with both of the following features based upon clinical evaluation including history, physical examination, and initial testing.
+
+One or more symptoms of HF, such as dyspnea or fatigue; physical signs of HF may or may not be present. (See 'Symptoms and associated conditions' above and "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis", section on 'Clinical manifestations'.)
+
+The symptoms are not clearly and completely caused by a noncardiac condition. Of note, the presence of a noncardiac condition does not exclude HF, as some patients with HF have concurrent conditions such as lung disease.
+
+Evaluation to distinguish cardiac from other causes may include pulmonary function studies and a cardiopulmonary exercise test, as discussed below. (See 'Differential diagnosis' below and "Cardiopulmonary exercise testing in the evaluation of unexplained dyspnea".)
+
+An approach to diagnosis — We suggest the following approach to diagnosis of HF based upon symptoms, signs, and test results (algorithm 1). This approach has not been validated and its sensitivity and specificity have not been determined. (Related Pathway(s): Heart failure: Diagnosis and classification.)
+
+After clinical evaluation (history and physical examination) and initial testing, obtain an echocardiogram to assess LVEF and evaluate causes of HF, including diastolic and systolic dysfunction and valve dysfunction. (See 'Clinical presentation' above and 'Initial testing' above and 'Echocardiography' below.)
+
+If the LVEF cannot be adequately assessed by echocardiogram despite use of microbubble contrast agent, alternative methods for assessment include nuclear methods (radionuclide ventriculography or single-photon emission computed tomography myocardial perfusion imaging, cardiovascular magnetic resonance imaging, and cardiac computed tomography. (See "Tests to evaluate left ventricular systolic function".)
+
+If the LVEF is ≥50 percent, we suggest an approach to evaluation of suspected HFpEF as described separately. (See "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis" and "Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis", section on 'Evaluation'.)
+
+If the LVEF is <50 percent, the next step is to determine which of the following clinical findings are present. E is peak velocity of early LV filling, A is peak velocity of late LV filling, and e' is peak early diastolic velocity of LV myocardium adjacent to the mitral annulus.
+
+Low-specificity/high-sensitivity findings:
+
+-Symptoms: Dyspnea on exertion, fatigue, weight gain
+
+-Signs: Peripheral edema
+
+-Clinical feature: Age >60 years
+
+Intermediate-specificity/intermediate-sensitivity findings:
+
+-Signs: Rales (crackles)
+
+-Chest radiograph: Findings consistent with cardiomegaly or pleural effusion
+
+-ECG: Atrial fibrillation (AF), left atrial enlargement, LV hypertrophy, or pathologic Q waves
+
+-Serum natriuretic peptide:
+
+Age <50: N-terminal pro-B-type natriuretic peptide (NT-proBNP) 125 to 450 pg/mL or BNP 35 to 100 pg/mL
+
+Age 50 to 75: NT-proBNP 450 to 900 pg/mL or BNP 35 to 100 pg/mL
+
+Age >75: NT-proBNP 900 to 1800 pg/mL or BNP 35 to 100 pg/mL
+
+-Clinical feature: Coronary artery disease (including prior myocardial infarction), or moderate valvular regurgitation or stenosis
+
+-Echocardiogram: Left atrial volume index >34 mL/m2, E/A ≥0.9 and <2.1, or E/A ≤0.8 and E >50 cm/s
+
+High-specificity/low-sensitivity findings
+
+-Symptoms: Orthopnea, paroxysmal nocturnal dyspnea
+
+-Signs: Elevated jugular venous pressure, a third heart sound (S3), pulsus alternans, or laterally displaced point of maximal impulse (PMI)
+
+-Chest radiograph: Findings consistent with pulmonary edema (cephalization of pulmonary vessels and Kerley B lines, with or without peribronchial cuffing)
+
+-Serum natriuretic peptide:
+
+Age <50: NT-proBNP >450 pg/mL or BNP >100 pg/mL
+
+Age 50 to 75: NT-proBNP >900 pg/mL or BNP >100 pg/mL
+
+Age >75: NT-proBNP >1800 pg/mL or BNP >100 pg/mL
+
+-Clinical feature: Severe valvular regurgitation or stenosis
+
+-Echocardiogram: LVEF <30 percent, LV end-diastolic dimension >5.8 cm (men) or >5.2 (women); E/e’ ≥15, E/A ≥2.1, or inferior vena cava >2.1 cm with collapse during sniff <50 percent
+
+The number of categories (eg, “Symptoms,” “Signs,” “Clinical feature”) of low-specificity, intermediate-specificity, and high-specificity findings are counted:
+
+If there are only low-specificity findings or only one or two categories of intermediate-specificity findings, we recommend referral to a cardiologist or HF specialist for further evaluation which may include a hemodynamic exercise test. Evaluation in this setting varies depending upon clinical findings and suspected concurrent conditions such as ischemic heart disease. If a diagnosis of HF remains uncertain after noninvasive evaluation, a hemodynamic exercise test is the clinical gold standard for diagnosis of HF. If a hemodynamic exercise test is performed, pulmonary capillary wedge pressure (PCWP) ≥15 mmHg at rest or ≥25 mmHg during exercise is diagnostic for HF.
+
+Many patients with LVEF <50 percent without HF require guideline-directed therapy to reduce cardiovascular risk (particularly those with LVEF ≤40 percent, prior myocardial infarction, and/or hypertension). However, a diagnosis of HF has important therapeutic implications since some pharmacologic agents are indicated for HF and not for asymptomatic LV systolic dysfunction. (See "Overview of the management of heart failure with reduced ejection fraction in adults" and "Primary pharmacologic therapy for heart failure with reduced ejection fraction" and "Secondary pharmacologic therapy for heart failure with reduced ejection fraction" and "Treatment and prognosis of heart failure with mildly reduced ejection fraction".)
+
+If there is at least one high-specificity finding or 3 or more intermediate-specificity findings, HF is diagnosed.
+
+Further evaluation of patients diagnosed with HF is discussed separately. (See "Determining the etiology and severity of heart failure or cardiomyopathy".)
+
+Key tests
+
+Echocardiography — An echocardiogram alone does not establish or exclude the diagnosis of HF but is helpful to identify findings consistent with HF and to identify potential causes of HF (eg, LV systolic dysfunction, LV diastolic dysfunction, valve dysfunction).
+
+Some studies have used depressed LVEF as a means of identifying patients with HF, but this approach is inaccurate since approximately half of patients with HF have a preserved LVEF, and some patients with depressed LVEF do not have the clinical syndrome of HF. While no single echocardiographic parameter is diagnostic of HF, most patients with HF have one or more echocardiographic abnormality (eg, reduced LVEF, diastolic dysfunction, LV hypertrophy, valve stenosis, valve regurgitation, left atrial enlargement, or elevated estimated pulmonary artery systolic pressure).
+
+Important echocardiographic findings include the following:
+
+Atrial and ventricular sizes, which may be helpful in identifying the cause and chronicity of disease. For example, patients with idiopathic dilated cardiomyopathy typically have both left and right atrial and ventricular enlargement (four chamber dilatation) with decreased left systolic ventricular function (image 2 and movie 2 and movie 3 and movie 4). (See "Echocardiographic recognition of cardiomyopathies".)
+
+Global left and right ventricular systolic function (left and right ventricular ejection fraction). (See "Tests to evaluate left ventricular systolic function".)
+
+Evidence of diastolic LV function. (See "Echocardiographic evaluation of left ventricular diastolic function in adults".)
+
+Regional wall motion abnormalities in a coronary distribution are suggestive of coronary heart disease, but segmental abnormalities also occur commonly in patients with dilated cardiomyopathy and other conditions.
+
+Pericardial disease includes thickening suggestive of constrictive pericarditis or effusion, which may or may not be associated with tamponade. (See "Constrictive pericarditis: Diagnostic evaluation" and "Cardiac tamponade".)
+
+Valvular heart disease, as described further in individual valve disease reviews.
+
+Echocardiography also provides a noninvasive assessment of hemodynamic status:
+
+PCWP can be estimated via the ratio (E/Ea or E/e') of tissue Doppler of early mitral inflow velocity (E) to early diastolic velocity of the mitral annulus (Ea or e'). An E/e' ratio >15 suggests a PCWP >15 mmHg. Use and limitations of this method are discussed separately. (See "Echocardiographic evaluation of left ventricular diastolic function in adults", section on 'Tissue Doppler imaging'.)
+
+RV and pulmonary artery pressures can be estimated by the peak velocity of tricuspid regurgitation on Doppler echocardiography. Right atrial pressure may be estimated from evaluating the size of the inferior vena cava and its respiratory variation.
+
+The cardiac output can be estimated by pulsed-wave Doppler from the LV outflow tract [25].
+
+Natriuretic peptide — Measurement of plasma BNP or NT-proBNP is suggested in the evaluation of patients with suspected HF when the diagnosis is uncertain, as recommended in major society guidelines [17,22,23,26]. Natriuretic peptide levels should be interpreted in the context of other clinical information; they may lend weight to the diagnosis of HF or trigger consideration of HF but should NOT be used in isolation to diagnose or exclude HF [17].
+
+In the above cited systematic review that included 15 studies, BNP or NT-proBNP levels had relatively high sensitivity (both 93 percent) and more limited specificity for diagnosis of HF (74 and 65 percent) [7]. BNP or NT-proBNP levels are useful in distinguishing HF from other causes of dyspnea. As noted below, studies developing and validating diagnostic rules for HF have found that the BNP or NT-proBNP levels add greater diagnostic value to the history and physical examination than other initial tests (ECG, chest radiograph, and initial blood tests) [7,8]. Evidence of efficacy and limitations of BNP and NT-proBNP levels in the diagnosis of HF are discussed in detail separately. (See "Natriuretic peptide measurement in heart failure".)
+
+BNP — Most dyspneic patients with HF have values above 400 pg/mL, while values below 100 pg/mL have a very high negative predictive value for HF as a cause of dyspnea [27]. In the range between 100 and 400 pg/mL, plasma BNP concentrations are not very sensitive or specific for detecting or excluding HF. Other diagnoses, such as pulmonary embolism, LV dysfunction without exacerbation, LV hypertrophy, and cor pulmonale, should also be considered in patients with plasma BNP concentrations in this range. AF is associated with higher levels of BNP in the absence of HF. In one analysis, a BNP cutoff of ≥100 pg/mL was associated with a specificity of only 40 percent compared with 79 percent in patients without AF [28]. Using a cutoff of ≥200 pg/mL in patients with AF increased specificity from 40 to 73 percent with a smaller reduction in sensitivity from 95 to 85 percent.
+
+Normal plasma BNP values increase with age and are higher in women than men [29]. Thus, somewhat higher cutoff values may be needed in these settings, although the optimal discriminatory values that should be used have not been determined.
+
+NT-proBNP — In normal subjects, the plasma concentrations of BNP and NT-proBNP are similar (approximately 10 pmol/L). However, in patients with LV dysfunction, plasma NT-proBNP concentrations are approximately fourfold higher than BNP concentrations [30]. (See "Natriuretic peptide measurement in heart failure", section on 'Plasma N-terminal pro-BNP'.)
+
+The optimal values for distinguishing HF from other causes of dyspnea vary with patient age. In a large multicenter study, for patients <50, 50 to 75, and >75 years of age, the optimal plasma NT-proBNP cutoffs for diagnosing HF were 450 pg/mL, 900 pg/mL, and 1800 pg/mL, respectively [31]. Overall, these cutoffs yielded a sensitivity and specificity of 90 and 84 percent, respectively. Across the entire population, NT-proBNP levels below 300 pg/mL were optimal for excluding a diagnosis of HF, with a negative predictive value of 98 percent.
+
+Limitations of BNP and NT-proBNP — There are several important limitations to the use of plasma BNP and NT-proBNP for diagnosis of HF [32]:
+
+Patients may present with more than one cause of dyspnea (such as pneumonia and an exacerbation of HF). Thus, a high plasma BNP or NT-proBNP concentration does not exclude the presence of other diseases.
+
+In some patients with acute decompensated HF, plasma BNP or NT-proBNP levels are not diagnostic.
+
+Right HF and pulmonary hypertension are associated with elevations in plasma BNP and NT-proBNP. However, when right HF is due solely to lung disease and not due to secondary pulmonary hypertension from left-sided heart disease or as part of a global cardiomyopathy, elevated plasma BNP may be misinterpreted since dyspnea in these patients is due to lung disease not left HF.
+
+Plasma BNP and NT-proBNP levels tend to be lower in obese patients and are elevated in patients with renal failure and some acute noncardiac illnesses such as sepsis. Greater increases in NT-proBNP than BNP levels are observed in renal failure.
+
+In patients receiving sacubitril-valsartan, which contains an angiotensin receptor blocker (valsartan) and a neprilysin inhibitor (sacubitril), plasma BNP levels will be elevated due to the inhibition of BNP degradation by the neprilysin inhibitor. NT-proBNP retains its utility as an HF marker since its levels are not affected by the neprilysin inhibitor.
+
+As noted above, BNP and NT-proBNP levels are frequently normal in patients with HFpEF [33-35].
+
+Measurement and interpretation of BNP and NT-proBNP levels is discussed in detail separately. (See "Natriuretic peptide measurement in heart failure".)
+
+Hemodynamic exercise test — A hemodynamic exercise test (right heart catheterization with the PCWP assessed at rest and with exercise) is not required for diagnostic evaluation of most patients with suspected HF. However, in selected patients with suspected HF with uncertain diagnosis despite evaluation as described above (including history and physical examination, laboratory tests, chest radiograph, ECG, and echocardiography), cardiology consultation and right heart catheterization for assessment of cardiac filling pressures at rest and exercise is useful as the clinical gold standard to make or exclude the diagnosis of HF.
+
+If a patient has symptoms consistent with HF and PCWP ≥15 mmHg at rest or ≥25 mmHg during exercise, a diagnosis of HF is confirmed, regardless of LVEF. If these criteria are not met, a diagnosis of HF is not supported, and further evaluation for other causes of dyspnea is required. Pressures are measured at end-expiration. Exercise is performed during right heart catheterization with cycle ergometry (in patients with internal jugular venous access) or arm abduction with weights (in those with femoral venous access), though the latter provides a less robust exercise stress [36].
+
+The role of coronary angiography in patients with HF is discussed separately. (See "Determining the etiology and severity of heart failure or cardiomyopathy", section on 'Detection of coronary artery disease'.)
+
+Additional tests
+
+Exercise testing — In selected patients, exercise testing is helpful in grading the severity of functional impairment and may also detect underlying ischemic heart disease that warrants further evaluation. (See "Stress testing for the diagnosis of obstructive coronary heart disease".)
+
+Cardiopulmonary exercise testing — Cardiopulmonary exercise testing can be useful both in determining the contribution of HF versus other conditions to the patient’s symptoms and in assessing the severity of functional impairment. The signs and symptoms of HF are mimicked by many other conditions (eg, pulmonary disease, anemia). HF is also frequently accompanied by other diseases, which affect the patients’ functional status. Cardiopulmonary exercise testing, which combines standard exercise testing with measurement of ventilatory gas exchange, can be very helpful in clarifying these situations by defining the presence and extent of the cardiovascular component. (See "Cardiopulmonary exercise testing in cardiovascular disease".)
+
+Cardiopulmonary exercise testing is also used to evaluate potential candidates for cardiac transplantation or mechanical circulatory support. (See "Heart transplantation in adults: Indications and contraindications", section on 'Indications for transplantation' and "Treatment of advanced heart failure with a durable mechanical circulatory support device".)
+
+Other diagnostic approaches — A number of other diagnostic approaches have been proposed for HF [7,8,37], but none are universally accepted.
+
+The modified Framingham criteria for HF are commonly used to identify patients with HF (table 4). These criteria generally have excellent specificity but are less sensitive because they largely rely on evidence of congestion that is present at rest. Well-compensated patients who are adequately diuresed will not display many of these signs and symptoms, regardless of LVEF.
+
+Diagnostic rules have been developed that performed well when applied to validation datasets, although their generalizability to various clinical settings is uncertain [7,8].
+
+DIFFERENTIAL DIAGNOSIS
+Many of the symptoms and signs of HF are nonspecific, so other potential causes should be considered. Patients with HF may present with a syndrome of decreased exercise tolerance, fluid retention, or both [17]. Various other causes for such symptoms and signs should also be considered.
+
+Patients with decreased exercise tolerance have symptoms of dyspnea or fatigue with exertion and may also have symptoms at rest.
+
+HF should be distinguished from other causes of dyspnea, including myocardial ischemia, pulmonary disease, and other disorders [38]. Pulmonary function tests may be helpful in evaluating respiratory symptoms. The presence of pulmonary disease does not exclude HF, as some patients have concurrent lung disease and HF. If the cause of dyspnea on exertion is uncertain, a cardiopulmonary exercise test may be helpful. (See "Cardiopulmonary exercise testing in the evaluation of unexplained dyspnea".)
+
+As an example, chronic obstructive pulmonary disease and HF may be difficult to distinguish in some patients. Because of the high prevalence of these disorders, their similar presentations, and their frequent coexistence, it is reasonable to consider both diagnoses, not only in patients presenting with dyspnea for the first time, but also in any patient with one of these diagnoses who presents with a deterioration in respiratory status [39]. This issue is discussed in detail separately. (See "Chronic obstructive pulmonary disease: Diagnosis and staging", section on 'Diagnosis' and "Chronic obstructive pulmonary disease: Diagnosis and staging".)
+
+Causes of fatigue include deconditioning, sleep apnea, and depression. (See "Approach to the patient with dyspnea" and "Approach to the adult patient with fatigue".)
+
+Patients presenting with fluid retention may complain of leg or abdominal swelling. HF should be distinguished from other causes of edema, including venous thrombosis or insufficiency, renal sodium retention, drug side effect (eg, calcium channel blocker), and cirrhosis. Right-sided failure may be present without left-sided failure. (See "Clinical manifestations and evaluation of edema in adults" and "Pathophysiology and etiology of edema in adults".)
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Heart failure in adults".)
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, "The Basics" and "Beyond the Basics." The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+
+SUMMARY AND RECOMMENDATIONS
+
+Definition – Heart failure (HF) is a complex clinical syndrome characterized by current or prior characteristic symptoms, such as dyspnea and fatigue, and evidence of cardiac dysfunction as a cause of these symptoms (table 1). From a hemodynamic perspective, HF is a disorder in which the heart cannot pump blood to the body at a rate commensurate with its needs, or can do so only at the cost of high filling pressures. (See 'Definition' above.)
+
+When to suspect heart failure – HF should be suspected in individuals with one or more symptoms of HF not caused by a noncardiac condition.
+
+Approach to diagnosis – The diagnosis of HF is established from the findings of the following evaluations (algorithm 1):
+
+History – Identification of symptoms of HF is a key step in diagnosing HF. While a history alone is insufficient to make the diagnosis of HF, a detailed history remains the single best discriminator to determine the acuity, etiology, and rate of progression of HF, and the history often provides important clues to the cause of HF. (See 'Symptoms and associated conditions' above.)
+
+Physical examination – The physical examination can provide evidence of the presence and extent of cardiac filling pressure elevation, right-sided failure, ventricular enlargement, pulmonary hypertension, and reduction in cardiac output. (See 'Physical examination' above.)
+
+Echocardiography – An echocardiogram alone does not establish or exclude the diagnosis of HF but is helpful to identify findings consistent with HF and to identify potential causes of HF (eg, left ventricular [LV] systolic dysfunction, LV diastolic dysfunction, valve dysfunction). (See 'Echocardiography' above.)
+
+Natriuretic peptide levels – Natriuretic peptide levels should be interpreted in the context of other clinical information; they may lend weight to the diagnosis of HF or trigger consideration of HF but should NOT be used in isolation to diagnose or exclude HF. (See 'Natriuretic peptide' above.)
+Role of exercise testing – Evaluation to distinguish cardiac from other causes may include a cardiopulmonary exercise test. (See 'Additional tests' above.)
+
+Hemodynamic testing – A hemodynamic exercise test is not required for diagnostic evaluation of most patients with suspected HF. However, in selected patients with suspected HF with uncertain diagnosis despite noninvasive evaluation, cardiology consultation and right heart catheterization for assessment of cardiac filling pressures at rest and exercise is useful as the clinical gold standard to make or exclude the diagnosis of HF. (See 'Hemodynamic exercise test' above.)

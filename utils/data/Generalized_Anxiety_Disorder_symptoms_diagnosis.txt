@@ -1,0 +1,250 @@
+INTRODUCTION
+Generalized anxiety disorder (GAD) is characterized by excessive and persistent worry that is difficult to control, causes significant distress or impairment, and occurs on more days than not for at least six months. Other features include psychological symptoms such as apprehension and irritability, and physical (or somatic) symptoms such as increased fatigue and muscular tension.
+
+This topic addresses the epidemiology, pathogenesis, clinical manifestations, and diagnosis of GAD. Pharmacotherapy for GAD, psychotherapy for GAD, and issues concerning treatment and assessment of comorbid disorders are discussed separately:
+
+
+EPIDEMIOLOGY
+
+Prevalence — Generalized anxiety disorder (GAD) is one of the most common mental disorders in both community and clinical settings. It is associated with increased use of health care services [1,2].
+
+Epidemiologic studies of nationally representative samples in the United States report a past-year prevalence of GAD to be 2.7 to 3.1 percent [3,4] and a lifetime prevalence of GAD of 5.1 [2,5] to 11.9 percent [6]. A review of epidemiological studies in Europe found a past-year prevalence of 1.7 to 3.4 percent [7], and a lifetime prevalence of 4.3 to 5.9 percent [8]. Worldwide, estimates of the lifetime and 12-month prevalence are 3.7 and 1.8 percent, respectively [9].
+
+The disorder is approximately twice as common in females as it is in males [2,6].
+
+Comorbidity — Comorbidity with major depression or other anxiety disorders is commonly observed in GAD.
+
+In a nationally representative survey of United States adults, 66 percent of individuals with current GAD had at least one concurrent psychiatric disorder while 90 percent of individuals with lifetime GAD had at least one comorbid psychiatric disorder [2]. Lifetime comorbidity, worldwide, has been estimated as 81.9 percent [9].
+
+Comorbid disorders can affect the clinical course of GAD [10-12].
+
+Major depressive disorder appears to be the most common comorbidity in individuals with current or lifetime GAD. Comorbid major depression is reported in 39 percent of individuals with current GAD and 62 percent of individuals with lifetime GAD [2,7]. Worldwide, mood disorders have an estimated lifetime comorbidity of 63 percent [9].
+
+Other disorders found to co-occur in individuals with GAD (rates over previous 30 days and lifetime) include [2,13]:
+
+Social phobia – 23 and 34 percent
+
+Specific phobia – 25 and 35 percent
+
+Panic disorder – 23 and 24 percent
+
+GAD may also be associated with increased rates of alcohol and other substance use disorders, posttraumatic stress disorder, and obsessive-compulsive disorder.
+
+GAD is common among patients with “medically unexplained” chronic pain [14] and with chronic physical illness [15].
+
+
+PATHOGENESIS
+
+Biological factors
+
+Genetics – Genetic factors appear to predispose individuals to the development of generalized anxiety disorder (GAD) [16]. GAD shares a common heritability with major depression [17] and with the personality trait of “neuroticism” [18,19]. Other data support variations in subtypes of glutamic acid decarboxylase gene as increasing susceptibility to GAD [20,21], and increased frequency of the serotonin transporter gene-linked polymorphic region SS genotype in individuals with GAD [22].
+
+Furthermore, gene-environment studies have highlighted the importance of early developmental trauma and recent stressful life events and their interaction with genetic markers in the development of GAD and anxiety sensitivity [16].
+
+Neurotransmitter disturbances and other biomarkers – Investigations of disturbances in neurotransmitters and other biomarkers in GAD tend to have been small or unreplicated [23-29].
+
+Evidence of possible neurotransmitter disturbances in individuals with GAD is supported by the following:
+
+Two observational studies including a total of 60 individuals reported elevated levels of norepinephrine metabolites 3-methoxy-4-hydroxyphenylgycol and vanillylmandelic in individuals with GAD versus those without GAD [23,24].
+
+An observational study reported blunted growth hormone response to clonidine in 11 individuals with GAD compared with 14 healthy subjects [25]. This suggests decreased postsynaptic alpha-2 adrenergic receptor sensitivity in individuals with GAD.
+
+In an observational study including 46 individuals with GAD, elevated urinary levels of the serotonin metabolite 5-hydroxyindoleacetic acid appeared to be associated with greater somatic anxiety symptoms, but not psychic anxiety symptoms [24].
+
+Other data suggests the role of acid-sensing ion channels in the amygdala [28] and elevated levels of C reactive protein and other proinflammatory cytokines [29] as potentially involved in the development of GAD.
+
+Neuroimaging and brain metabolism – In individuals with GAD, localized morphologic changes in white matter volume have been reported [30]. In one cohort study, magnetic resonance imaging (MRI) of 22 individuals with GAD were compared with MRI of 22 healthy controls. The diagnosis of GAD was associated with reduced white matter volume in the dorsolateral prefrontal cortex, anterior limb of the internal capsule, and midbrain.
+
+Additionally, alterations in glucose metabolism in the cortex, limbic system, and basal ganglia suggest their role in the development of anxiety. For example, in one study, positron emission tomography (PET) of 18 individuals with GAD were compared with PET of 15 individuals without GAD (control group) [31]. PET scans of individuals with GAD demonstrated a relative increase in glucose metabolism in parts of the occipital, right posterior temporal lobe, inferior gyrus, cerebellum and right frontal gyrus, and an absolute decrease in the basal ganglia versus control group.
+
+In a separate functional MRI study, individuals with GAD showed greater anticipatory activity in the bilateral dorsal amygdala to both aversive and neutral pictures [32]. This suggests an enhanced anticipatory emotional responsiveness in GAD [31,32]. A systematic review of neuroimaging studies found that GAD patients show difficulties in engaging the prefrontal cortex and anterior cingulate cortex during emotional regulation tasks [33].
+
+Cognitive, psychological, and developmental factors
+
+Processing of emotional information – Individuals with GAD show a consistent bias towards generating negative interpretations of ambiguous material [34,35]. Additionally, they tend be vigilant to threatening stimuli, often detecting “threats” rapidly [36], particularly when the threat is presented in verbal-linguistic format (ie, words) rather than pictorial form [37].
+
+These biases appear to diminish with successful treatment with cognitive-behavioral therapy [38] or a selective serotonin reuptake inhibitor [39].
+
+Developmental and personality factors – GAD in adults is associated with a higher than average number of traumatic experiences and other undesirable life events in childhood, compared with individuals without GAD [40]. Childhood maltreatment confers an increased risk of developing GAD following stressful experiences [41].
+
+GAD is more likely to occur in individuals with “behavioral inhibition” (the tendency to be timid and shy in novel situations), than without this trait. Additionally, neuroticism (an enduring tendency to worry and feel anxious, sad, or guilty) is associated with comorbid GAD and major depression [42-44]. (See "Social anxiety disorder in adults: Epidemiology, clinical features, assessment, and diagnosis", section on 'Behavioral inhibition'.)
+
+Cognitive origins of worry – Many explanations of the origin and persistence of the excessive and pervasive worrying that characterize GAD have been proposed. As examples, affected individuals may:
+
+Constantly scan the environment for cues of threat [45]
+
+Develop worrying in an attempt to solve problems [46]
+
+Use worrying to avoid the fear response [47]
+
+Have intolerance of uncertainty or ambiguity [48]
+
+Worry about the uncontrollability and presumed dangerous consequences of worrying [49]
+
+CLINICAL FEATURES AND COURSE
+
+Characteristic symptoms — Individuals with generalized anxiety disorder (GAD) experience excessive worry or anxiety about health, work, interpersonal relationships, or other life events. Generally, these worries seem realistic; however, they are typically out of proportion to the impact of the anticipated event or the object of worry. The symptoms cause distress or impairment in psychosocial functioning. Furthermore, individuals with GAD report greater worries over minor matters (eg, household chores, car repairs, being late for an appointment) than controls [49].
+
+Other presenting symptoms may include restlessness or hyperarousal, fatigue, irritability, poor concentration, sleep disturbance, and muscle tension. These are often chronic and unexplained despite repeated presentation to health care professionals.
+
+Onset — The average age of onset of GAD is 30 years, although the range is broad [50]. While subsyndromal anxiety symptoms are common before the age of 20, full syndromal disorder typically occurs later than other anxiety disorders (eg, separation anxiety disorder, phobias, panic disorder) [51,52].
+
+Studies examining the effect of age of onset on the course of GAD have shown mixed results. While some studies have suggested that earlier age of onset is associated with a more protracted course [53], others find that early-onset GAD does not constitute a more severe subtype [54].
+
+Late-onset generalized anxiety – Late-onset GAD (onset ≥50 years) is thought to represent the most common anxiety disorder among older adult populations [7,55]. Individuals with late-onset GAD are more likely to a report a poorer health-related quality of life than individuals with earlier onset GAD [55-57].
+
+In a community survey including 1974 adults age ≥65 years, nearly 25 percent reported a late onset of generalized anxiety symptoms [58]. Factors associated with late-onset GAD include female sex, chronic physical illness (eg, respiratory, cardiovascular, cognitive), current major depression or phobia, recent adverse life events, negative childhood events (eg, parental loss or separation, parental mental health problems), financial difficulties, and past history of GAD [56,59].
+
+Chronicity of symptoms — GAD is a chronic illness with fluctuating symptom severity. In approximately half of the cases, there are intervening symptom free periods [52].
+
+In one prospective study of 179 individuals with GAD, approximately 60 percent of patients recovered over 12 years (ie, had no more than residual symptoms for eight consecutive weeks), but approximately one-half of recovered patients subsequently relapsed during the 12-year period [60].
+
+In another prospective study involving 142 subjects with GAD followed for 14 years, the severity of anxiety symptoms over time decreased only modestly [61].
+
+However, studies of individuals in community samples suggest a better prognosis than studies of clinical populations. In one 22-year follow-up study of 105 community living individuals with GAD found that less than 20 percent had persistent GAD (defined by the presence of daily symptoms over the previous 12 months) [52].
+
+Effects of illness
+
+Psychosocial effects — GAD is associated with substantial psychosocial impairment across several life domains including occupational, social, and household functioning [62]. In some cases, the level of impairment is greater than is seen in individuals with major depression [63,64].
+
+For example, in a national epidemiologic survey of adult mental health in Germany (n = 4181), the impact of psychiatric symptoms on daily functioning and perceived quality of life was assessed [64]. A greater percentage of respondents with the diagnosis of GAD reported six or more days with impairment (defined as inability to work or carry out everyday activities) over the past month than respondents with major depression or no diagnosis (34 versus 21 versus 2 percent respectively). Furthermore, lower scores on measures of quality of life including general health and mental health (as measured on the 100-point Medical Outcomes Study Short Form-36) were seen in individuals with GAD versus major depression versus no diagnosis (general health: 47 versus 59 versus 68 respectively; mental health: 34 versus 42 versus 51, respectively).
+
+The presence of comorbid disorders such as major depression appear to be associated with more severe and prolonged course of illness and greater functional impairment [6,12,60]. For example, in a national survey, a greater percentage of individuals with both GAD and major depression reported six or more days of impairment in the past month than individuals with either GAD or major depression (48 versus 34 versus 21 percent respectively) [64]. Additionally, the survey showed that a greater percentage of individuals with both disorders had over 50 percent reduction in overall activities than individuals with generalized anxiety or major depression (23 versus 11 versus 8 percent respectively). (See 'Comorbidity' above.)
+
+Systemic effects — GAD is associated with poor cardiovascular health, coronary heart disease [65], and cardiovascular mortality [66]. Relationships between worry and cardiovascular changes include observations that excessive worrying leads to diminished heart rate variability, elevated heart rate, hypertension, and increased antihypertensive use [65]. Additionally, greater severity of worry has been associated with higher rates of fatal and nonfatal coronary heart disease. Evidence to support the contention that worry may be beneficial to cardiovascular function or health promoting behaviors has not been found [65].
+
+Prospective studies suggest that clinically significant anxiety in the midlife period may be an independent risk factor for the development of dementia [67].
+
+SCREENING, ASSESSMENT, AND DIAGNOSIS
+
+Screening — We agree with the United States Preventive Services Task Force (USPSTF) recommendation for screening adults, age 19 to 65 (including pregnant and postpartum persons) for anxiety disorders [68,69]. We typically screen for anxiety using the GAD-7 scale on a yearly basis (table 1).
+
+These recommendations from the USPSTF come on the heels of their recent recommendation to screen for anxiety in children and adolescents age 7 to 18 [70].
+
+The USPSTF report states the following: adequate evidence shows that screening tools (eg, the GAD-7 scale, the Edinburgh Postnatal Depression Scale – Anxiety subsection, the Geriatric Anxiety Scale) can accurately identify anxiety disorders in adults (including pregnant and postpartum persons) [68]. Additionally, adequate evidence shows that psychological interventions to treat anxiety disorders are associated with moderate benefit for reducing anxiety symptoms in adults (10 randomized controlled trials, n = 2075; standardized mean difference -0.41, 95% CI -0.58 to -0.23) [68]. Furthermore, pharmacotherapy appears to provide a small to moderate benefit in reducing anxiety symptoms (12 randomized controlled trials, n = 1868; standardized mean difference -0.18, 95% CI -0.39 to -0.03) [68].
+
+No direct evidence of harms associated with screening for anxiety were found. Evidence for harms associated with detection and early intervention were found to be small for psychotherapy and no greater than moderate for pharmacotherapy.
+
+The conclusion of the USPSTF, based on the current analyses, is that screening for anxiety disorders in adults has a moderate net benefit in improving outcomes such as treatment response or disease remission; however, this assessment is based on indirect evidence as screening programs have not been studied in randomized trials. Evidence is insufficient on screening for anxiety disorders in older (eg, >65 years) adults.
+
+We concur with the suggestion that all individuals screening positive for an anxiety disorder have further evaluation by a professional trained in detecting and treating anxiety disorders (see 'Assessment' below). We also wish to underscore the importance of being alert to the possibility of suicide risk in individuals with anxiety disorders (even if concurrent depression is not apparent), and the need to consider posttraumatic stress disorder in the differential diagnosis following a positive screen for anxiety [71]. (See "Posttraumatic stress disorder in adults: Epidemiology, pathophysiology, clinical features, assessment, and diagnosis".)
+
+Assessment
+
+History — Our primary goal in assessing individuals with anxiety is differentiating anxiety due to generalized anxiety disorder (GAD) from anxiety that may be due to other causes and determining if the anxiety warrants treatment or not. We use history as the primary tool to accomplish these goals.
+
+First, we assess the frequency, character, and severity of symptoms to raise or lower suspicion for the diagnosis of GAD by asking the following questions. Using a symptom scale, such as the GAD-7 scale (calculator 1), can also be helpful to try to quantify the severity of symptoms (see 'Quantifying the severity of symptoms' below):
+
+Does the anxiety concern every day or routine circumstances or events (eg, job responsibility, health of self or family members, finances, misfortunes, or other minor tasks such as household chores)?
+
+Is the anxiety difficult to control?
+
+Are associated symptoms such as restlessness, concentration problems, irritability, tension, or fatigue present?
+
+Have the symptoms been present for more than six months?
+
+Are the symptoms present more days than not?
+
+Do the symptoms cause significant distress to the individual or is there impairment in social, occupational, or other areas of functioning as a result of the anxiety?
+
+In individuals who answer yes to all of the above questions we further consider the diagnosis of GAD and rule out other diagnoses that present with similar or overlapping syndromes and other comorbid diseases. (See 'Diagnostic criteria' below and 'Differential diagnosis' below.)
+
+Individuals who answer no to any of these questions probably do not meet the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria for GAD.
+
+For people who would meet DSM-5 criteria for GAD or have a likely diagnosis of GAD based on the severity and frequency of symptoms as above, we review prior psychiatric history and rule out other psychiatric diagnoses as potential causes of anxiety. We do this by establishing the presence or absence of symptoms that may differentiate between disorders:
+
+Mood symptoms – Dysphoria or elevated mood, sleep disturbance, early morning awakening, irritability, fatigue, guilt, suicidal ideation could suggest depression or mania if they are more prominent than the anxiety.
+
+Specific worries about potential medical illness or somatic symptoms – These suggest a focused anxiety disorder (eg, illness-anxiety disorder) rather than a GAD.
+
+Rapid onset and resolution of symptoms – Symptoms that start rapidly, sharply rise in intensity, peak within an hour, and then decline are suggestive of discrete anxiety attacks which suggests panic disorder rather than GAD.
+
+Presence of recurrent or intrusive thoughts – The presence of these with associated repetitive behaviors that are performed to neutralize the intrusive thoughts suggest a diagnosis of obsessive-compulsive disorder (OCD) rather than GAD.
+
+Recent psychosocial stressor – The presence of recent stressors such as relationship problems, career problems, or loss of a loved one suggest a diagnosis of an adjustment disorder or acute stress disorder as the underlying cause of the anxiety.
+
+These and other psychiatric disorders that can share symptomatology with GAD are discussed in further detail elsewhere. It is also possible for these disorders to coexist with GAD. (See 'Differential diagnosis' below.)
+
+We ask about physical health problems (eg, thyroid disease, asthma) and their effects. We review the individual’s use of prescribed medications (eg, steroids, bronchodilators) as these may be causing or worsening the anxiety. We also ask about alcohol and other substance use or recent abstinence from alcohol or other substances.
+
+Physical examination and laboratory testing in select individuals — For individuals with suspected physical cause of anxiety (eg, individuals with weight loss, cognitive impairment, shortness of breath) and in individuals with later onset of generalized anxiety (eg, older than 50 years) we do a general physical screening examination and laboratory testing to screen for underlying medical disorders. We typically obtain a complete blood count, chemistry panel, serum thyrotropin, urinalysis, electrocardiogram (in patients over 40 with chest pain or palpitations), and urine toxicology. In cases with suspected underlying medical cause, we refer to the appropriate specialist for further evaluation.
+
+In older individuals the co-occurrence of long-term physical illness, chronic insomnia, cognitive impairment, and side effects of prescribed medication can make the diagnosis more difficult. Older adult individuals with GAD may assert that anxiety or fear is a realistic response to their social environment, recent life events, and current challenges.
+
+Quantifying the severity of symptoms — In all individuals with symptoms suspicious for GAD, we use the GAD-7 scale (calculator 1) as a means of measuring the level of anxiety. Additionally, in individuals with confirmed GAD we use the GAD-7 periodically, to monitor symptoms and judge the response to treatment. The GAD-7 has acceptable reliability and validity [72] and is sensitive to change in symptoms [73].
+
+The Penn State Worry Questionnaire is available in a number of languages but does not assess all key symptoms and may be less sensitive to change than the GAD-7 [73].
+
+For hospitalized individuals with active medical disorders, we use the Hospital Anxiety and Depression Scale to assess and monitor the severity of anxiety and depression. It is useful in identifying pathological anxiety, has separate subscales for anxiety and depression, and includes questions that can distinguish symptoms of GAD from anxiety associated with other medical conditions [72].
+
+Diagnostic criteria — We diagnose GAD in individuals with excessive anxiety and worry that occur on more days than not for at least six months, are associated with somatic symptoms (muscle tension, irritability, sleep disturbance), are not due to effects of substances or another medical condition, and cause clinically significant distress or impairment in social, occupation, or other important areas of functioning. In patients who “fall short” of the severity or duration thresholds, further review is advisable, particularly in those who are significantly distressed or impaired in functioning.
+
+Specifically, the DSM-5 diagnostic criteria for GAD are [50]:
+
+A. Excessive anxiety and worry (apprehensive expectation), occurring more days than not for at least six months, about a number of events or activities (such as work or school performance).
+
+B. The individual finds it difficult to control the worry.
+
+C. The anxiety and worry are associated with three (or more) of the following six symptoms (with at least some symptoms having been present for more days than not for the past six months):
+
+Note: Only one item is required in children.
+
+1. Restlessness or feeling keyed up or on edge
+
+2. Being easily fatigued
+
+3. Difficulty concentrating or mind going blank
+
+4. Irritability
+
+5. Muscle tension
+
+6. Sleep disturbance (difficulty falling or staying asleep, or restless, unsatisfying sleep)
+
+D. The anxiety, worry, or physical symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+E. The disturbance is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication) or another medical condition (eg, hyperthyroidism).
+
+F. The disturbance is not better explained by another mental disorder (eg, anxiety or worry about having panic attacks in panic disorder, negative evaluation in social anxiety disorder [social phobia], contamination or other obsessions in OCD, separation from attachment figures in separation anxiety disorder, reminders of traumatic events in posttraumatic stress disorder, gaining weight in anorexia nervosa, physical complaints in somatic symptom disorder, perceived appearance flaws in body dysmorphic disorder, having a serious illness in illness anxiety disorder, or the content of delusional beliefs in schizophrenia or delusional disorder). Because the majority of the anxiety symptoms are not specific to GAD, it is important to exclude the other anxiety disorders before making the diagnosis.
+
+
+The essential feature of diagnostic criteria for GAD in the World Health Organization International Classification of Diseases, 11th revision (ICD-11) is generalized apprehension or excessive worry, together with additional symptoms such as muscular tension, subjective experience of nervousness, difficulty maintaining concentration, irritability, or sleep disturbance. Symptoms have to be present for most days over the preceding several months.
+
+The diagnosis of GAD in children and adolescents is discussed further separately. (See "Anxiety disorders in children and adolescents: Epidemiology, pathogenesis, clinical manifestations, and course".)
+
+Differential diagnosis — Anxiety is a symptom that is seen in many disorders and nonpathological states (eg, stress-related anxiety). To diagnosis GAD, we rule out other disorders that may present with similar symptoms. These include: (See 'Screening, assessment, and diagnosis' above.)
+
+Depression – GAD, major depression, and persistent depressive disorder (“dysthymia”), may share some presenting features such as an insidious onset, protracted course, prominent dysphoria, and anxiety. We differentiate individuals with primary GAD from those with other depressive disorders by the characteristics of the worry and the presence or absence of associated symptoms. For example, individuals with depression tend to brood self-critically about previous events and circumstances, whereas patients with GAD tend to worry about future events. Furthermore, symptoms such as early morning awakening, diurnal variation in mood, marked guilty preoccupations, and suicidal thoughts may be present in depression but are uncommon in GAD. (See "Unipolar depression in adults: Assessment and diagnosis".)
+
+Illness anxiety disorder and somatic symptom disorder – We differentiate symptoms of GAD from illness anxiety disorder and somatic symptom disorder by the content of the worries. For example, while worry about unexplained symptoms may be common in all three of these disorders, worry in GAD usually concerns multiple different aspects of life (physical symptoms, work, interpersonal, academics). This contrasts with individuals with illness anxiety disorder who principally worry about developing an illness but have few or mild physical symptoms. This also contrasts with individuals with somatic symptom disorder who have concerns about specific and, often multiple, somatic symptoms. (See "Illness anxiety disorder: Epidemiology, clinical presentation, assessment, and diagnosis" and "Somatic symptom disorder: Epidemiology and clinical presentation".)
+
+Panic disorder – We use the presence of unexpected or paroxysmal panic attacks in differentiating panic disorder from severe uncontrollable worry associated with GAD. Individuals with panic disorder have paroxysmal panic attacks whereas these are not typical in individuals with GAD. While individuals with either disorder may focus on physical or somatic symptoms, individuals with panic disorder typically have episodic and intense periods of extreme worry about life-threatening acute illnesses, whereas patients with GAD focus more persistently on less specific but more chronic complaints typically involving multiple organ systems. (See "Panic disorder in adults: Epidemiology, clinical manifestations, and diagnosis".)
+
+Adjustment disorder – We differentiate anxiety associated with adjustment disorder from GAD by the presence of an identifiable stressor or stressors occurring within three months of the symptoms in adjustment disorder. In GAD, the symptoms are chronic and while they may be related to chronic stressors of life, when they are within three months of an acute stressor, the diagnosis of adjustment disorder is made.
+
+Obsessive-compulsive disorder – Individuals with GAD may manifest intrusive thoughts and checking behaviors similar to those seen in OCD. However, in GAD the themes are more often related to day to day worries (eg, finances, health, family), while in OCD the compulsive behaviors tend to be related to primal fears such as contamination or harm. Furthermore, in OCD the compulsions tend to be ritualistic or “rule driven” (eg, must be done in a certain way) and either unrelated to the feared outcome (eg, avoiding cracks on the sidewalk to prevent mother’s death) or clearly excessive. This contrasts to GAD in which the checking is usually related to a feared outcome (eg, checking locks to prevent break-ins), and is usually not as time consuming or impairing. (See "Obsessive-compulsive disorder in adults: Epidemiology, clinical features, and diagnosis".)
+
+Nonpathological anxiety – A spectrum of nonpathological anxiety is seen in many individuals. We differentiate nonpathological anxiety from generalized anxiety by the effect of the worry or anxiety on the individual. In GAD, the symptoms cause significant distress or impairment in social, occupational or other areas of functioning. This contrasts with nonpathological anxiety where there is minimal or no effect on these areas of functioning. Subjectivity among individuals can make this differentiation difficult. To accurately differentiate GAD from nonpathological anxiety, we pay careful attention to the details of the history including work and psychosocial history for evidence of distress or impairment secondary to the anxiety. As an example, in an individual with anxiety that does not cause a change in the functioning at work (no missed deadlines, difficulty completing tasks, lateness, or concentration problems) and no other psychosocial changes, we would not be likely to diagnose GAD. In appropriate cases, we obtain collateral information from family members.
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Anxiety and anxiety disorders in adults".)
+
+SUMMARY AND RECOMMENDATIONS
+
+Epidemiology – Generalized anxiety disorder (GAD) is one of the most common psychiatric disorders in community and clinical settings and is associated with increased use of health care services. It is nearly twice as common in females as males. Common comorbidities include depression, panic disorder, and phobia. (See 'Epidemiology' above.)
+
+Clinical manifestations – Individuals with GAD experience worry about typical life experiences such as work, health, and interpersonal relations. The symptoms are out of proportion to the impact of the anticipated event. Other presenting symptoms commonly include hyperarousal, autonomic hyperactivity, irritability, poor sleep, and unexplained pain or muscle tension.
+
+Course – GAD usually has a gradual onset with subsyndromal anxiety commonly presenting before age 20. The average onset of the disorder is 30. Late-onset GAD (eg, ≥50 years) is common and is associated with poor health-related quality of life. (See 'Onset' above.)
+
+GAD tends to be a persistent illness with fluctuating symptom severity. It is associated with substantial psychosocial impairment including occupational, social, and household functioning. The presence of comorbid disorders (eg, depression) is associated with more severe and prolonged course and greater impairment. (See 'Chronicity of symptoms' above and 'Effects of illness' above.)
+
+GAD is associated with poor cardiovascular health, coronary heart disease, and cardiovascular mortality. (See 'Systemic effects' above.)
+
+Screening – We suggest screening for all adults age 19 to 65 years (Grade 2C). Indirect evidence suggests that screening for anxiety disorders in adults may have a moderate net benefit in improving outcomes such as treatment response or disease remission (table 1). (See 'Screening' above.)
+
+Assessment – For patients who present with anxiety, we assess whether the frequency, character, and severity of symptoms are consistent with GAD. We also evaluate for other alternative or comorbid psychiatric and medical conditions that may also contribute to anxiety. In individuals with a suspected physical cause of anxiety (eg, weight loss, confusion) and in individuals with later onset (>50 years old) of generalized anxiety, we do a general physical screening examination and laboratory screening. (See 'Assessment' above.)
+
+Diagnosis – We diagnose GAD in individuals with excessive anxiety and troublesome worry that occur on more days than not for at least six months, are associated with somatic symptoms (muscle tension, irritability, sleep disturbance), are not due to effects of substances or another medical condition, and cause clinically significant distress or impairment in social, occupation, or other important areas of functioning. (See 'Diagnostic criteria' above.)
+
+Differential diagnosis – We differentiate anxiety due to GAD from other disorders that may present with overlapping symptoms (eg, depression, panic disorder, adjustment disorder) primarily by history. Major depression is particularly difficult to distinguish from GAD due to shared symptoms of insidious onset, protracted course, and the presence of dysphoria and anxiety. (See 'Differential diagnosis' above.)

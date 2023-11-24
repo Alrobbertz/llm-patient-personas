@@ -1,0 +1,142 @@
+INTRODUCTION
+Alcohol-associated liver disease (ALD) includes several liver disorders, including acute alcoholic hepatitis, alcohol associated-steatosis, and alcohol-associated cirrhosis. Patients with an alcohol intake of ≥30 grams per day (one standard drink contains 14 grams of alcohol (figure 1)) are at increased risk of cirrhosis, although many individuals will not develop cirrhosis despite heavy alcohol intake.
+
+While pharmacologic options for ALD are limited, avoidance of alcohol remains the cornerstone of treatment for all patients with ALD because alcohol use is an important risk factor for disease progression. For patients with alcohol-associated cirrhosis, abstinence decreases the risk of liver-related complications. In addition, abstinence is required for placement on the liver transplantation waiting list at most transplantation centers.
+
+This topic will discuss the management of alcohol-associated steatosis and alcohol-associated cirrhosis. The pathogenesis, clinical manifestations, and diagnosis of ALD are discussed separately. (See "Pathogenesis of alcohol-associated liver disease" and "Clinical manifestations and diagnosis of alcohol-associated fatty liver disease and cirrhosis".)
+
+Issues related to liver transplantation for patients with ALD are presented separately. (See "Liver transplantation for alcohol-associated liver disease".)
+
+Treatment of alcohol use disorder (AUD) may include monitoring for alcohol use and is presented separately [1]. (See "Alcohol use disorder: Treatment overview".)
+
+The clinical manifestations, diagnosis, and management of alcoholic hepatitis are presented separately. (See "Alcoholic hepatitis: Clinical manifestations and diagnosis" and "Management and prognosis of alcoholic hepatitis".)
+
+The clinical manifestations, diagnosis, and management of cirrhosis are presented separately. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis" and "Cirrhosis in adults: Overview of complications, general management, and prognosis".)
+
+SPECTRUM OF DISEASE
+The spectrum of ALD ranges from alcohol-associated fatty liver or steatosis to alcohol-associated steatohepatitis, and eventually to alcohol-associated cirrhosis. Some patients also develop acute alcoholic hepatitis, and this is discussed separately. (See "Management and prognosis of alcoholic hepatitis".)
+
+Patients with cirrhosis may have compensated or decompensated disease (ie, associated with complications such as hepatic encephalopathy, ascites, or variceal bleeding). In addition, the initial onset of symptoms for some patients with ALD is related to a complication of cirrhosis [2]. Factors that determine whether patients are diagnosed with ALD before developing cirrhosis are unknown. Histologic findings in different stages of ALD are discussed separately. (See "Clinical manifestations and diagnosis of alcohol-associated fatty liver disease and cirrhosis", section on 'Histologic findings'.)
+
+MANAGEMENT
+
+Goals — Treatment goals for patients with ALD include:
+
+Establishing and maintaining abstinence
+
+Stabilizing liver function
+
+For patients with cirrhosis, screening for complications (eg, esophageal varices)
+
+General measures for all patients
+
+Abstinence — The cornerstone of managing ALD is abstinence from alcohol. Patients are referred for treatment for alcohol use disorder (AUD) to establish and maintain abstinence, and therapies for AUD, including pharmacologic and psychosocial approaches, are discussed separately. (See "Alcohol use disorder: Treatment overview" and "Alcohol use disorder: Psychosocial management".)
+
+For patients with ALD, abstinence has been associated with improved outcomes [3-9]:
+
+Steatosis – For patients with alcohol-associated steatosis who have not progressed to cirrhosis, abstinence has been associated with rapid improvement in liver steatosis [10-12]. In a study including 26 patients with alcohol-associated steatosis diagnosed by computed tomography, abstinence was associated with improved or resolved fatty infiltration of the liver after six weeks in all patients, while two patients (8 percent) had complete resolution within one week [10].
+
+Conversely, continued excessive alcohol consumption has been associated with progression to steatohepatitis, liver fibrosis, or cirrhosis [13].
+
+Cirrhosis – For patients with cirrhosis, abstinence has been associated with improvements in fibrosis, in addition to lower hepatic venous pressure gradients [4,9,14]. Data have also suggested improved survival for patients with alcohol-associated cirrhosis who maintain abstinence [3,5,6,8,14-16]. As an example, in a study including 165 patients with alcohol-associated cirrhosis, abstinence was associated with higher survival rates at 1, 5, and 10 years of follow-up compared with continued alcohol use (95, 61, and 31 percent versus 63, 36, and 11 percent, respectively) [5]. Similarly, in a study including 84 patients with alcohol-associated cirrhosis, survival rates after a median of seven years were higher for those who abstained compared with persistent drinking (72 versus 44 percent) [15].
+
+Nutrition — All patients with ALD are assessed for nutritional deficiencies including protein calorie malnutrition and deficiencies of vitamins, minerals, and trace elements. (See "Evaluating nutritional status in adults with cirrhosis".)
+
+Nutritional assessment and supplementation in patients with AUD is discussed separately. (See "Nutritional status in patients with sustained heavy alcohol use".)
+
+For patients with ALD, we agree with society guidelines stating that the general nutrition requirements consist of eating multiple meals per day, including breakfast and a nighttime snack, to achieve the following [17,18]:
+
+Total daily energy intake of 35 kcal/kg of body weight
+
+Total daily protein intake 1.2 to 1.5 g/kg of body weight
+
+For patients who cannot meet the daily intake requirements with their usual diet, enteral nutrition (ie, administration of liquid feeding into the intestine, by mouth or tube) is provided. Oral ingestion is the preferred method of delivery, although tube feedings (nasogastric or nasoduodenal) are used when oral intake does not meet daily requirements.
+
+We select a specific type and quantity of enteral nutrition based on each patient's calorie and protein requirements. Some clinicians may also consult with a dietician to coordinate individualized nutrition plans for their patients.
+
+Whether supplemental nutrition results in lower mortality is uncertain for patients with alcohol-associated cirrhosis because some trials included patients with acute alcoholic hepatitis and various nutritional interventions were used (eg, enteral nutrition, parental nutrition). As an example, in a meta-analysis of 13 trials including 761 patients with alcohol-associated cirrhosis or alcoholic hepatitis, nutritional intervention reduced mortality risk compared with no intervention (22 versus 29 percent; relative risk [RR] 0.80, 95% CI 0.64-0.99) [19].
+
+Nutrition therapy for patients with acute alcoholic hepatitis is discussed separately. (See "Management and prognosis of alcoholic hepatitis", section on 'Nutrition'.)
+
+Immunizations — Vaccinations for hepatitis A virus and hepatitis B virus are given to patients without serologic evidence of immunity. Additional vaccines for patients with chronic liver disease include pneumococcal vaccination and standard immunizations that are given to the general population (eg, influenza) (figure 2 and figure 3). Immunization schedules are described separately. (See "Immunizations for adults with chronic liver disease", section on 'Vaccines in chronic liver disease'.)
+
+Monitoring — For all patients with ALD, clinical and laboratory monitoring includes evaluating patients for symptoms of liver disease progression (eg, jaundice, abdominal pain and distension) and obtaining liver biochemical and function tests (alanine aminotransferase, aspartate aminotransferase, gamma glutamyl transpeptidase, alkaline phosphatase, and total bilirubin), and a platelet count every three months. (See "Clinical manifestations and diagnosis of alcohol-associated fatty liver disease and cirrhosis", section on 'Laboratory tests' and "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Diagnosis'.)
+
+For patients with persistently elevated liver biochemical tests, hepatology consultation is indicated. (See 'Hepatology consultation' below.)
+
+Patients with cirrhosis — For patients with alcohol-associated cirrhosis, the management approach is similar to patients with cirrhosis from any etiology and measures for all patients include (see "Cirrhosis in adults: Overview of complications, general management, and prognosis"):
+
+HCC surveillance – Patients with alcohol-associated cirrhosis are at risk for developing HCC, and surveillance for HCC is discussed separately. (See "Surveillance for hepatocellular carcinoma in adults".)
+
+Vigilance for infection – Patients with cirrhosis are at increased risk of infection, especially if they also have alcohol-associated hepatitis [20]. (See "Management and prognosis of alcoholic hepatitis", section on 'Infection surveillance'.)
+
+Screening for varices – Patients with alcohol-associated cirrhosis are screened for esophageal varices with upper endoscopy, and prophylactic therapy is given to those with varices at increased risk for bleeding. Screening for varices and prophylaxis against bleeding are presented separately. (See "Primary prevention of bleeding from esophageal varices in patients with cirrhosis".)
+
+Liver transplantation evaluation for patients with decompensated cirrhosis – Most patients with decompensated cirrhosis (ie, cirrhosis and ≥1 complication such as ascites, variceal bleeding) and abstinence from alcohol are referred for evaluation at a liver transplantation center. Patient selection for and outcomes of liver transplantation in patients with alcohol-associated cirrhosis are discussed separately [21-23]. (See "Liver transplantation for alcohol-associated liver disease".)
+
+Indications for palliative care for patients with end-stage liver disease from any etiology are discussed separately. (See "Palliative care for patients with end-stage liver disease".)
+
+Hepatology consultation — Consultation with a hepatologist should be obtained for patients with ALD who have persistently elevated liver biochemical tests (ie, ≥2 times the upper limit of normal for aminotransferases and ≥1.5 times the upper limit of normal for alkaline phosphatase). For example, patients with persistently elevated liver biochemical tests despite abstinence from alcohol may have coexisting liver disease, and the approach to evaluating patients with abnormal liver biochemical tests is discussed separately. (See 'Abstinence' above and "Approach to the patient with abnormal liver biochemical and function tests".)
+
+Therapies of uncertain or no benefit — For patients with ALD, we do not use metadoxine [24-26] or silymarin (the active ingredient in milk thistle) [27] because data have not established efficacy. Thus, their role remains uncertain.
+
+Other drugs have been studied for treating ALD, but none of them have been effective. These include propylthiouracil [28], s-adenosylmethionine [29], and colchicine [30].
+
+PROGNOSIS
+
+Disease progression — Alcohol use disorder (AUD) may lead to a spectrum of liver disease, ranging from steatosis to decompensated cirrhosis (ie, cirrhosis and ≥1 complication such as variceal bleeding, ascites). (See 'Spectrum of disease' above.)
+
+Overall, it has been estimated that 8 to 20 percent of patients with alcohol-associated steatosis will eventually progress to cirrhosis [31,32]. While continued alcohol use is a primary risk factor for progressive ALD, other risk factors include [33-35]:
+
+Coexisting liver disease (eg, hepatitis B virus or hepatitis C virus infection)
+
+Obesity
+
+Female sex
+
+Histologic findings of liver inflammation (ie, neutrophils on liver biopsy specimen) [36]
+
+Genetic polymorphism in the PNPLA3 gene (also called adiponutrin) [37,38] (see "Pathogenesis of alcohol-associated liver disease")
+
+Hepatic decompensation is common among patients with alcohol-associated cirrhosis. In a population-based study including 446 patients with alcohol-associated cirrhosis, the risk of complications (ascites, variceal bleeding, or hepatic encephalopathy) was approximately 25 percent after one year and 50 percent after five years [39].
+
+Mortality — Severity of ALD has been associated with increased mortality rates. As an example, in a study of 122 patients with alcohol-associated cirrhosis, five-year mortality rates for patients in Child-Pugh class A, B, and C were 34, 50, and 75 percent, respectively [3]. Other risk factors for mortality included continued alcohol use, coexisting liver disease (eg, hepatitis C virus infection), older age, and tobacco use [3,5,40]. (See "Cirrhosis in adults: Overview of complications, general management, and prognosis", section on 'Child-Pugh classification'.)
+
+While alcohol-associated steatosis in the absence of cirrhosis or alcoholic hepatitis has not been associated with higher overall mortality, alcohol-associated steatosis has been associated with increased liver-related mortality [32,41]. In a national database study including 94 patients with alcohol-associated steatosis and 151 patients with nonalcoholic fatty liver disease (NAFLD) who were followed for a median of nine years, alcohol-associated steatosis was associated with higher liver-related mortality rates compared with NAFLD (36 versus 7 percent) [32].
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Cirrhosis" and "Society guideline links: Alcoholic liver disease".)
+
+SUMMARY AND RECOMMENDATIONS
+
+The spectrum of alcohol-associated liver disease (ALD) ranges from alcohol-associated fatty liver or steatosis to alcohol-associated steatohepatitis, and eventually to alcohol-associated cirrhosis. Patients with cirrhosis may have compensated or decompensated disease (ie, associated with complications such as hepatic encephalopathy, ascites, or variceal bleeding). (See 'Spectrum of disease' above.)
+
+Treatment goals for patients with ALD include (see 'Goals' above):
+
+Establishing and maintaining abstinence from alcohol
+
+Stabilizing liver function
+
+For patients with cirrhosis, screening for complications (eg, varices)
+
+The cornerstone of managing ALD is abstinence from alcohol because abstinence has been associated with improvement in hepatic steatosis, hepatic fibrosis, and survival. (See 'Abstinence' above.)
+
+Patients are referred for treatment for alcohol use disorder (AUD) to establish and maintain abstinence, and therapies for AUD including pharmacologic and psychosocial approaches are discussed separately. (See "Alcohol use disorder: Treatment overview" and "Alcohol use disorder: Psychosocial management".)
+
+For all patients with ALD, the general nutrition requirements consist of eating multiple meals per day, including breakfast and a nighttime snack, to achieve the following (see 'Nutrition' above):
+
+Total daily energy intake of 35 kcal/kg of body weight
+
+Total daily protein intake 1.2 to 1.5 g/kg of body weight
+
+For patients with ALD, vaccinations for hepatitis A virus and hepatitis B virus are given to patients without serologic evidence of immunity. Additional vaccines for patients with chronic liver disease include pneumococcal vaccination and standard immunizations that are given to the general population (eg, influenza) (figure 2 and figure 3). (See 'Immunizations' above.)
+
+For patients with alcohol-associated cirrhosis, the management approach is similar to patients with cirrhosis from any etiology and measures for all patients include (see 'Patients with cirrhosis' above):
+
+Screening for hepatocellular carcinoma.
+
+Screening for esophageal varices.
+
+Patients with decompensated cirrhosis – Most patients with decompensated cirrhosis (ie, cirrhosis and ≥1 complication such as ascites) and abstinence from alcohol are referred for evaluation at a liver transplantation center. Patient selection for and outcomes of liver transplantation in patients with alcohol-associated cirrhosis are discussed separately. (See "Liver transplantation for alcohol-associated liver disease".)
+
+For patients with alcohol-associated steatosis, it has been estimated that up to 20 percent of patients will progress to cirrhosis. Risk factors for progressive disease include continued alcohol use, coexisting liver disease (eg, hepatitis C virus infection), obesity, female sex, and inflammation on liver histology. (See 'Prognosis' above.)

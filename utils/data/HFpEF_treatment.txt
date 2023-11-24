@@ -1,0 +1,285 @@
+INTRODUCTION
+Heart failure with preserved ejection fraction (HFpEF) is a clinical syndrome in which patients have signs and symptoms of HF as the result of high left ventricular (LV) filling pressure despite normal or near normal LV ejection fraction (LVEF; ≥50 percent) [1-5]. Most patients with HFpEF also display normal LV volumes and an abnormal diastolic filling pattern (ie, diastolic dysfunction) [2,6-8]. Patients without signs and symptoms of HF but who have evidence of diastolic dysfunction on echocardiography do not meet the criteria for HFpEF.
+
+HFpEF should be distinguished from other causes of HF with an LVEF ≥50 percent (table 1).
+
+The treatment and prognosis of patients with symptoms of HFpEF will be reviewed here. Issues related to the etiology, prevalence, clinical manifestations, diagnosis, and pathophysiology of HFpEF are discussed separately. The management of asymptomatic patients with evidence of diastolic dysfunction but without symptoms of HF is reviewed elsewhere.
+
+GENERAL MANAGEMENT
+
+Goals of therapy — For patients with HFpEF, the goals of treatment are to reduce HF symptoms, increase functional status, and reduce the risk of hospital admission. There is no clear evidence that pharmacologic therapy, diet, or other therapies reduce the risk of mortality in patients with HFpEF.
+
+Ongoing evaluation and monitoring — The severity of HF symptoms and comorbid conditions (eg, chronic kidney disease) determines the frequency of clinical evaluation, which ranges from one to six months. Each follow-up evaluation should include assessment for changes in symptoms, weight trends, blood pressure readings, new symptoms of comorbid conditions, and medication intolerance. For most patients, electrolytes and kidney function are routinely obtained every six months to assure the safety of diuretic therapy and other medications used to treat HFpEF. (See 'Sodium-glucose co-transporter 2 inhibitors' below and 'Mineralocorticoid receptor antagonists' below.)
+
+For patients with worsening signs or symptoms of HF, it is often necessary to evaluate for cardiac (eg, rhythm disorders, progressive ischemic heart disease) and noncardiac (eg, worsening diabetes, hypothyroidism) causes of HF exacerbation. Further details on the assessment of acutely decompensated HF can be found elsewhere. (See "Approach to diagnosis and evaluation of acute decompensated heart failure in adults".)
+
+For some patients with symptoms and conflicting clinical data (eg, increasing dyspnea, decreasing weight), we obtain a B-type natriuretic peptide (BNP) or N-terminal pro-BNP (NT-proBNP) level, but we do not obtain BNP levels as part of routine monitoring. (See 'Sodium-glucose co-transporter 2 inhibitors' below and 'Mineralocorticoid receptor antagonists' below and "Natriuretic peptide measurement in heart failure", section on 'BNP or NT-proBNP as guide to therapy of HF'.)
+
+Chronic disease management — For patients with HFpEF, chronic disease management programs and self-management education may reduce the risk of hospital admission. These programs are discussed elsewhere. (See "Systems-based strategies to reduce hospitalizations in patients with heart failure", section on 'Specific models of outpatient care' and "Heart failure self-management".)
+
+Exercise, diet, weight loss, and cardiac rehabilitation — In patients with HFpEF, participation in structured exercise programs, cardiac rehabilitation, and dietary interventions is safe and can lead to small improvements in exercise tolerance. The role of exercise, diet, weight loss, and cardiac rehabilitation in the management of patients with HFpEF is discussed separately. (See "Cardiac rehabilitation in patients with heart failure", section on 'For heart failure with preserved or mid-range ejection fraction' and "Pathophysiology of heart failure with preserved ejection fraction", section on 'Normal response to exercise'.)
+
+Asymptomatic diastolic dysfunction — Patients without signs or symptoms of HF who have evidence of diastolic dysfunction on echocardiography are not considered to have the clinical syndrome of HFpEF. The management of patients with asymptomatic diastolic dysfunction is reviewed separately. (See "Asymptomatic left ventricular diastolic dysfunction".)
+
+MANAGEMENT OF ASSOCIATED CONDITIONS
+Conditions commonly associated with HFpEF include hypertension, atrial fibrillation (AF), coronary artery disease, hyperlipidemia, obesity, anemia, diabetes mellitus, chronic kidney disease (CKD), and sleep-disordered breathing [9]. In general, these conditions are managed using approaches similar to those used to treat the general population or other forms of HF; there is no evidence for HFpEF-specific management of these conditions.
+
+When management of a comorbid condition competes with the management of HFpEF, we prefer to use treatments that reduce mortality for the comorbid condition rather than use a HFpEF-specific therapy (eg, angiotensin converting enzyme [ACE] inhibitors are preferred over sacubitril-valsartan for diabetes); none of the HFpEF-specific pharmacotherapies have been shown to reduce mortality. In many patients, the second-line or third-line therapies for a comorbid condition overlap with therapy for HFpEF (eg, sodium-glucose co-transporter 2 [SGLT2] inhibitors), as discussed immediately below and elsewhere in the topic.
+
+Hypertension
+
+Choice of antihypertensive agents – For patients with HFpEF, the choice of antihypertensive agent depends on the absence or presence of comorbid conditions and the severity of hypertension.
+
+Patients without compelling indications for specific antihypertensive therapies – In patients with HFpEF who do not have a compelling indication for a specific antihypertensive therapy, diuretics and mineralocorticoid receptor antagonists (MRAs) can be used for the initial treatment of hypertension (see 'Preferred therapies for symptomatic patients' below). If the patient’s blood pressure is not at goal despite maximum tolerated doses of diuretics and an MRA, we typically add antihypertensive agents known to be safe in patients with HFpEF (eg, sacubitril-valsartan, angiotensin II receptor blocker [ARB], calcium channel blocker). (See 'Secondary therapies' below.)
+
+Patients with compelling indications for specific antihypertensive therapies – Many patients with HFpEF have hypertension and other comorbid conditions (eg, diabetes, CKD) that should be treated with first-line therapies for those conditions (typically ACE inhibitors or ARBs), which should be used before starting HFpEF-specific therapies such as an MRA. (See 'Therapy for patients with HF and elevated BNP' below.)
+
+For persistent hypertension despite optimal comorbid-specific therapies, we typically add antihypertensive agents known to be safe in patients with HFpEF. (See "Treatment of hypertension in patients with diabetes mellitus" and "Overview of hypertension in acute and chronic kidney disease" and 'Secondary therapies' below.)
+
+Blood pressure goals – The typical blood pressure goal for patients with HFpEF is similar to the blood pressure goal for the general population. However, if a patient with HFpEF has uncontrolled symptoms of HF or repeated HF hospitalizations despite reasonable control of blood pressure, we reduce the goal blood pressure. When treating to a lower blood pressure goal, we carefully monitor dose adjustments; patients with HFpEF can have an exaggerated hypotensive response to vasodilator therapy [10,11]. Further details on blood pressure treatment goals can be found elsewhere. (See "Treatment of hypertension in patients with heart failure", section on 'Treatment of hypertension in patients with heart failure with preserved ejection fraction (HFpEF)' and "Goal blood pressure in adults with hypertension", section on 'Patients with heart failure'.)
+
+Atrial fibrillation — Patients with HFpEF and AF are managed according to clinical practice guidelines that apply to all patients with HF [12]. A complete discussion of AF in patients with HFpEF can be found elsewhere. (See "The management of atrial fibrillation in patients with heart failure", section on 'Heart failure with preserved ejection fraction'.)
+
+Diabetes — Despite the beneficial effects of SGLT2 inhibitors in patients with HFpEF, these agents are not considered initial therapy for hyperglycemia in the majority of patients with type 2 diabetes. Initial therapy in most patients with type 2 diabetes should begin with diet, weight reduction, exercise, and metformin (in the absence of contraindications), while long-term hyperglycemic therapy is based on individual needs and often involves multiple agents. We typically consult with the patient’s diabetes care provider before initiating an SGLT2 inhibitor. Patients using insulin or insulin secretagogues (eg, sulfonylureas, glinides) may require a dose reduction with initiation of SGLT2 inhibitors to reduce the risk of hypoglycemia.
+
+More information on the management of patients with diabetes can be found elsewhere. (See "Initial management of hyperglycemia in adults with type 2 diabetes mellitus" and "Management of persistent hyperglycemia in type 2 diabetes mellitus" and "Sodium-glucose cotransporter 2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus".)
+
+Obesity — Patients with HFpEF and obesity should receive appropriate management to achieve weight loss [13]. Trials consistently show that patients assigned to weight loss interventions have improved exercise capacity, though the effect of weight loss interventions on quality of life varied depending on the intervention:
+
+In a trial that included 529 patients with HFpEF and body mass index (BMI) ≥30, patients randomly assigned to treatment with semaglutide for 52 weeks had higher average quality-of-life scores (change in Kansas City Cardiomyopathy Questionnaire 16.6 versus 8.7 points for placebo; 95% CI for the difference 4.8-10.9) and an increase in average six-minute walk distance (21.5 versus 1.2 meters; 95% CI for the difference -11.9 to -9.4) [14]. An exploratory analysis also suggested a lower rate of urgent HF hospitalizations among those assigned to semaglutide (1 versus 12 events; hazard ratio 0.08, 95% CI 0.0-0.42). The mean change body weight was -13.3 percent with semaglutide and -2.6 percent with placebo (estimated difference -10.7 percent; 95% CI -11.9 to -9.4).
+
+In a single-center trial that included 92 patients with HFpEF and obesity (mean BMI 39.3) assigned to caloric restriction alone, exercise alone, both interventions, or neither intervention (ie, attention control), peak oxygen consumption (VO2) increased in patients assigned to caloric restriction (1.3 mL/kg/min; 95% CI 0.8-1.8) or to exercise (1.2 mL/kg/min; 95% CI 0.7-1.7) compared with controls [15]. There were conflicting effects of caloric restriction on improved quality of life, while exercise had no clear effect on quality of life. Both interventions reduced the severity of HF symptoms (ie, New York Heart Association HF class). Patients who received exercise or diet intervention lost weight (-3 kg and -7 kg, respectively) compared with controls.
+
+Additional evidence on the effects of weight loss is discussed separately. (See "Obesity in adults: Overview of management", section on 'Approach to therapy'.)
+
+Chronic kidney disease — Patients with HFpEF and CKD should be treated with best-practices for CKD, which include treatments that reduce the progression of CKD (eg, renin-angiotensin-aldosterone system [RAAS] inhibition and SGLT2 inhibitor therapy). (See "Overview of hypertension in acute and chronic kidney disease".)
+
+Myocardial ischemia — Coronary artery disease (CAD) is common among patients with HFpEF [16,17], and patients with HFpEF with signs or symptoms of ischemia should be managed similarly to other patients suspected of having CAD. There are no prospective trials of revascularization in patients with HFpEF. In a single-center study of patients with HFpEF, revascularization was associated with higher survival and a lower rate of progression to HF with reduced ejection fraction (HFrEF) [16]. The general management of CAD can be found elsewhere. (See "Outpatient evaluation of the adult with chest pain" and "Selecting the optimal cardiac stress test" and "Chronic coronary syndrome: Indications for revascularization".)
+
+Hyperlipidemia — Patients with HFpEF and hyperlipidemia or other risk factors for cardiovascular disease should be treated similarly to the general population for both primary and secondary prevention of cardiovascular events. (See "Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of cardiovascular disease" and "Management of low density lipoprotein cholesterol (LDL-C) in the secondary prevention of cardiovascular disease".)
+
+PHARMACOTHERAPY
+
+Preferred therapies for symptomatic patients — The following therapies are most likely to reduce the risk of HF hospitalization and/or improve HF symptoms in patients with HFpEF compared with other therapies. The management of patients with evidence of diastolic dysfunction but who do not have symptoms of HF is discussed separately. (See "Asymptomatic left ventricular diastolic dysfunction".)
+
+Patients with volume overload — Patients with HFpEF and suspected or documented volume overload require diuretic therapy before initiating other pharmacologic therapies. The type and dose of loop diuretics depends on the severity of volume overload. Once symptoms and volume status are optimally controlled, we create a plan for ongoing diuretic therapy. The approach to diuretic therapy in patients with HF is discussed elsewhere. (See "Use of diuretics in patients with heart failure".)
+
+Therapy for patients with HF and elevated BNP — In patients with HFpEF (LVEF ≥50 percent) who have New York Heart Association (NYHA) class II to III symptoms and who have an elevated B-type natriuretic peptide level (BNP; ie, BNP >100 pg/dL or N-terminal pro-BNP [NT-proBNP] >300 pg/dL), we suggest treatment with both a sodium-glucose co-transporter 2 (SGLT2) inhibitor and a mineralocorticoid receptor antagonist (MRA) rather than no HFpEF-specific therapy, either treatment alone, or other agents (eg, sacubitril-valsartan, angiotensin converting enzyme [ACE] inhibitors). Our approach to the selection of an initial agent, use of a second agent, and use in patients with preexisting therapies for diabetes and/or chronic kidney disease (CKD) is guided by the following general principles:
+
+We typically start the SGLT2 inhibitor first and then add the MRA two weeks later if the patient tolerates initial therapy. We do not withhold a second agent if HF symptoms resolve or if the BNP decreases in response to initial therapy. However, there are no direct data to suggest that use of both therapies has an additive effect in reducing the risk of HF hospitalization. (See 'Sodium-glucose co-transporter 2 inhibitors' below and 'Mineralocorticoid receptor antagonists' below.)
+
+Regardless of which agent is used first, we monitor for intolerance to the initial agent for approximately two weeks before starting a second agent.
+
+In patients in whom starting an SGLT2 inhibitor or an MRA would interfere with an existing treatment, we only start a HFpEF-specific therapy if the benefit of the HFpEF-specific therapy is greater than the benefit of the therapy that it would replace. The need to consider this tradeoff is commonly encountered in patients with diabetes and/or CKD:
+
+In patients who already receive treatment for type 2 diabetes, an SGLT2 inhibitor should be added to treat HFpEF if its addition does not replace a medication that is more effective for the treatment of diabetes and does not increase the risk of hypoglycemia. We recommend consulting with the patient’s diabetes care provider before making any change to the patient’s hyperglycemic regimen. (See "Management of persistent hyperglycemia in type 2 diabetes mellitus", section on 'Established cardiovascular or kidney disease' and 'Sodium-glucose co-transporter 2 inhibitors' below.)
+
+For patients with untreated diabetes, initial pharmacologic therapy to reduce glucose levels depends on the degree of hyperglycemia. SGLT2 inhibitors have less glycemic efficacy than other agents, but they are an option for patients who have contraindications or intolerance to preferred first-line therapies. Further information on the role of SGLT2 inhibitor treatment for patients with diabetes can be found elsewhere. (See "Initial management of hyperglycemia in adults with type 2 diabetes mellitus", section on 'Established cardiovascular or kidney disease' and "Sodium-glucose cotransporter 2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus".)
+
+In patients with diabetes and/or CKD who take an ACE inhibitor or angiotensin II receptor blocker (ARB), an MRA can be added to existing therapy with an ACE inhibitor or ARB but should not replace therapy with an ACE inhibitor or ARB. The preference for renin-angiotensin-aldosterone system [RAAS] inhibitor therapy over MRA therapy is based on the long-term benefits of RAAS inhibitors in the treatment of diabetes and CKD (eg, reduction in the risk of mortality, stroke, progression of kidney disease); MRA therapy for HFpEF is only associated with a reduction in HF hospitalizations. (See "Treatment of diabetic kidney disease", section on 'Severely increased albuminuria: Treat with angiotensin inhibition' and "Treatment of hypertension in patients with diabetes mellitus" and "Overview of hypertension in acute and chronic kidney disease" and 'Mineralocorticoid receptor antagonists' below.)
+
+Our suggestion for SGLT2 inhibitors and MRAs as first-line therapies for patients with HFpEF is based upon clinical trials demonstrating that these agents reduce the risk of hospitalization in this population. As examples:
+
+SGLT2 inhibitors – In trials that included patients with HFpEF, SGLT2 inhibitors reduced the risk of HF hospitalization and improved quality of life but did not clearly reduce the risk of mortality. The benefit of SGLT2 inhibitors must be weighed against the risk of recurrent urinary tract infections and genital infections.
+
+In a trial (EMPEROR-preserved) of patients with an LVEF >40 percent, NYHA class II to IV HF symptoms, and an elevated NT-proBNP level, patients randomly assigned to treatment with empagliflozin had a lower risk of HF hospitalization (9 versus 12 percent in the placebo group; hazard ratio [HR] 0.71, 95% CI 0.6-0.83) [18]. The risk of cardiovascular death was similar between the empagliflozin and placebo groups (7 versus 8 percent; HR 0.91, 95% CI 0.76-1.09). Treatment with empagliflozin was associated with a higher rate of urinary tract infections (10 versus 8 percent with placebo treatment; odds ratio [OR] 1.24, 95% CI 1.04-1.49) and genital infections (2.2 versus 0.7 percent; OR 3.1, 95% CI 1.9-5.01).
+
+In a prespecified subgroup analysis, empagliflozin had a similar effect in patients who were or were not treated with an MRA at baseline.
+
+A limitation of the trial was the large number of patients with an LVEF less than 50 percent (33 percent of the sample), who by definition do not have HFpEF.
+
+In the SOLOIST-HF trial, recently hospitalized patients with type 2 diabetes and either HFpEF (20 percent of patients) or HFrEF were randomly assigned to treatment with sotagliflozin (a combined SGLT2/SGLT1 inhibitor) or placebo [19]. At a median follow-up of 7.7 months, the primary endpoint of cardiovascular death, hospitalization, or urgent visit for HF was lower in the sotagliflozin group (51 versus 76 events per 100 patient-years; HR 0.67, 95% CI 0.52-0.85). The effect was driven entirely by a reduction in hospitalization and urgent visits for HF (40 versus 64 events per 100 patient-years; HR 0.64, 95% CI 0.49-0.83). The two groups had a similar risk of urinary tract infection (4.8 versus 5.1 percent in the placebo group).
+
+In a preplanned subgroup analysis of patients with HFpEF (ie, LVEF ≥50 percent), sotagliflozin therapy reduced the risk of the primary outcome (31 versus 64 events per 100 patient-years; HR 0.48, 95% CI 0.27-0.86).
+
+In a separate trial (PRESERVED-HF), patients with an LVEF ≥45 percent (median LVEF 60 percent), NYHA class II to IV HF symptoms, and an elevated NT-proBNP level were randomly assigned to treatment with dapagliflozin or placebo [20]. After 12 weeks of observation, patients assigned to dapagliflozin had a greater change in the Kansas City Cardiomyopathy clinical summary score than did patients assigned to placebo (6-point difference; 95% CI 2-9 points) and a greater increase in six-minute walk distance (20-meter difference; 95% CI 5.6-34.7 meters). The proportion of patients with an LVEF <50 percent (ie, not meeting the criterion for HFpEF) was not reported.
+
+MRA – In trials that included patients with HFpEF, MRAs reduced the risk of HF hospitalization but did not clearly reduce the risk of mortality. The benefit of MRA therapy must be weighed against the risk of hyperkalemia.
+
+Evidence to support this approach comes from the Treatment of Preserved Cardiac Function Heart Failure with an Aldosterone Antagonist (TOPCAT) trial and from subgroup analyses that studied regional differences in trial procedures [21].
+
+The TOPCAT trial randomly assigned 3445 patients with symptomatic HF and LVEF ≥45 percent (median 56 percent) to receive either spironolactone or placebo. The composite primary outcome (death from cardiovascular causes, aborted cardiac arrest, or hospitalization for HF) was lower but not statistically different with spironolactone compared with placebo (18.6 and 20.4 percent, respectively; HR 0.89, 95% CI 0.77-1.04). Hospitalization for HF was less frequent in the spironolactone group (12.0 percent) compared with the placebo group (14.2 percent; HR 0.83, 95% CI 0.69-0.99), but other components of the primary outcome occurred at similar rates in the two treatment groups. Total deaths and total hospitalizations were similar in the spironolactone and placebo groups.
+
+When compared with the control group, the spironolactone group had a higher rate of hyperkalemia (19 versus 9 percent) and a higher rate of increased creatinine levels (10 versus 7 percent).
+
+In subgroup analyses focused on regional effects, the efficacy of spironolactone was greater in the Americas (primary outcome 27 versus 32 percent with placebo) when compared with Russia/Georgia (9 versus 8 percent with placebo). In addition, compliance was higher in the Americas when compared with Russia/Georgia (canrenone levels 30 versus 3 percent, respectively) [22,23]. These differences suggest poorer adherence to the trial procedures outside of the Americas and raise questions about the veracity of the HFpEF diagnosis in this cohort as well. In a post hoc analysis of the trial that excluded Russia/Georgia, spironolactone reduced the risk of the primary outcome (27.3 versus 31.8 percent; HR 0.82, 95% CI 0.69-0.98).
+
+Sodium-glucose co-transporter 2 inhibitors — The dosing and precautions for SGLT2 inhibitors in patients with HFpEF are discussed below. Our approach to selecting pharmacotherapy is reviewed above. (See 'Preferred therapies for symptomatic patients' above.)
+
+Dosing – We prefer to use empagliflozin 10 mg daily or dapagliflozin 10 mg daily. If the patient is already taking another SGLT2 inhibitor, we continue therapy with that agent rather than start empagliflozin or dapagliflozin; we believe the SGLT inhibitors have a class effect for the treatment of HFpEF.
+
+Precautions – SGLT2 inhibitors should be avoided in patients with the following characteristics:
+
+All patients with type 1 diabetes mellitus.
+
+Presence of type 2 diabetes mellitus with prior diabetic ketoacidosis (DKA) or a condition predisposing to DKA (including pancreatic insufficiency, drug or alcohol addiction, prolonged fasting). (See "Sodium-glucose cotransporter 2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus".)
+
+SGLT2 inhibitors should be used with caution in the following scenarios:
+
+Volume depletion or symptomatic hypotension.
+
+Estimated glomerular filtration rate (eGFR) <20 mL/min/1.73 m2, end-stage kidney disease, or rapidly declining renal function.
+
+History of complicated urinary tract infections or genitourinary infections.
+
+Presence of risk factors for foot amputation (including those with neuropathy, foot deformity, vascular disease, and/or history of previous foot ulceration). Patients taking SGLT2 inhibitors should be monitored for signs and symptoms of foot ulceration.
+
+Mineralocorticoid receptor antagonists — The dosing and precautions for MRAs in patients with HFpEF are discussed below. Our approach to selecting pharmacotherapy is reviewed above. (See 'Preferred therapies for symptomatic patients' above.)
+
+Dosing and precautions – Since the evidence for MRA efficacy in patients with HFpEF is weaker than the evidence for MRA efficacy in patients with HFrEF, we dose MRAs more cautiously in patients with HFpEF, using lower serum potassium thresholds for initiation, titration, and discontinuation.
+
+To initiate an MRA, the patient's serum potassium should be ≤4.7 mEq/L and eGFR must be ≥30 mL/min/1.73 m2. To uptitrate the MRA dose, the patient's serum potassium should be ≤4.7 mEq/L.
+
+For spironolactone tablets, the initial dose is 12.5 mg once daily, which is titrated as tolerated every two weeks to the maximum tolerated dose. The goal dose is 25 to 50 mg, provided there is no dose-limiting hyperkalemia, worsening renal function, or hypotension (algorithm 1).
+
+For eplerenone, the initial dose is 25 mg once daily, which is titrated in four weeks to 50 mg, as tolerated.
+
+When administering an MRA, the dose is commonly limited by hyperkalemia, while the effect on systolic blood pressure is mild (eg, mean decrease of 3 mmHg in TOPCAT).
+
+Factors that may cause hyperkalemia should be avoided, particularly if the serum potassium level is >4.5 mEq/L (table 2). If the serum potassium level is >5.0 mEq/L (on a nonhemolyzed sample), the dose of MRA should be reduced (or discontinued if the patient is on an initial dose). The choice of dose reduction or discontinuation depends on the circumstances causing hyperkalemia, which include the MRA dose (if the dose is high, then dose reduction may be reasonable), the presumptive cause of elevated potassium level (MRA or other cause), and the ability to closely monitor follow-up values. If simultaneous MRA and ACE inhibitor (or ARB) use was the likely cause of hyperkalemia, the choice to stop the MRA or ACE inhibitor is based on the indication for the ACE inhibitor.
+
+Secondary therapies — We do not routinely use the following medications for the treatment of HFpEF, though ACE inhibitors and ARBs are used as first-line therapy for patients with diabetes and CKD. Compared with the preferred therapies for HFpEF listed above, these medications do not clearly reduce the risk of HF hospitalizations.
+
+Sacubitril-valsartan – For patients with HFpEF and LVEF ≤55 percent whose volume status is well-treated with diuretics but who have persistent HF symptoms and evidence of poorly controlled blood pressure (ie, >135/80 mmHg) despite optimal SGLT2 inhibitor and MRA therapy, we suggest sacubitril-valsartan as an additional blood pressure therapy (algorithm 2).
+
+•Evidence – Sacubitril-valsartan may reduce the risk of HF hospitalization in patients with HFpEF who are hypertensive, but the risk of adverse effects (eg, hypotension) and high cost relative to other antihypertensive medications outweigh the small benefits of sacubitril-valsartan therapy [24]. Our approach differs from the US Food and Drug Administration (FDA) label, which suggests a broader indication for use of sacubitril-valsartan in patients with both HFpEF and HFrEF based on primary and secondary analyses of the PARAGON-HF trial [24-27].
+
+-The PARAGON-HF trial compared clinical outcomes with sacubitril-valsartan versus valsartan in 4796 patients with NYHA class II to IV HF, LVEF ≥45 percent (median 57 percent), and elevated natriuretic peptide levels [24]. At a median follow-up of 35 months, treatment with sacubitril-valsartan had an uncertain effect on reducing the rate of the primary composite outcome (death and HF hospitalizations) when compared with treatment with valsartan (13 versus 15 per 100 patient-years; rate ratio [RR] 0.87, 95% CI 0.75-1.01). There were fewer hospitalizations for HF in the sacubitril-valsartan group; however, this finding was of borderline statistical significance (10 versus 12 per 100 patient years; RR 0.85, 95% CI 0.72-1.00). There were no significant differences between the two groups in death from cardiovascular causes (8.5 versus 8.9 percent; HR 0.95, 95% CI 0.79-1.16) or in all-cause mortality (14 and 15 percent).
+
+One limitation of the trial was the inclusion of patients with an LVEF <50 percent (25 percent of the sample), who do not meet the definition of HFpEF.
+
+Patients in the sacubitril-valsartan group had a higher incidence of hypotension and angioedema, and lower incidence of hyperkalemia and adverse renal outcomes (death from renal failure, end-stage kidney disease, or a decrease in eGFR of ≥50 percent from baseline). The mean systolic blood pressure at eight months was 4.5 mmHg (95% CI 3.6-5.4) lower in the sacubitril-valsartan group, but this difference was not correlated with potential treatment effect.
+
+-In a trial that was released after the PARAGON-HF trial, random assignment to sacubitril-valsartan reduced BNP levels but did not result in significant improvements in six-minute walk distance, quality of life, or NYHA class when compared with standardized medical care [28]. In the absence of a clear benefit on mortality, HF readmissions (as above), functional capacity, and quality of life, we do not consider a change in BNP a reason to use sacubitril-valsartan.
+
+Dosing – The starting dose of sacubitril-valsartan is 24/26 mg twice daily. The dose can be increased to a maximum of 97/103 mg twice daily, as tolerated (algorithm 2).
+
+Precautions
+
+-To start sacubitril-valsartan or to increase its dose, the potassium should be <4.7 mEq/L and eGFR >30 mL/min/1.73 m2.
+
+-Sacubitril-valsartan should not be used in patients with a prior history of angioedema or in patients with significant hyperkalemia associated with an ACE inhibitor or ARB. (See "ACE inhibitor-induced angioedema", section on 'Future use of related drugs'.)
+
+-For patients taking an ACE inhibitor, we discontinue it 36 to 48 hours prior to initiating sacubitril-valsartan. For patients in whom sacubitril-valsartan will replace an ARB or other antihypertensive agent, sacubitril-valsartan can replace the next scheduled dose of that agent.
+
+-Electrolytes and kidney function should be assessed two weeks after starting or changing the dose of sacubitril-valsartan.
+
+ACE inhibitors – We do not use ACE inhibitors as a primary treatment for HFpEF, though many patients with HFpEF may have an indication for treatment with an ACE inhibitor (eg, diabetes, acute myocardial infarction, CKD) [29,30].
+
+The clinical efficacy of an ACE inhibitor in patients with HFpEF was assessed in the PEP-CHF trial, which included 850 patients ≥70 years of age with an LVEF >40 percent and echocardiographic evidence of diastolic dysfunction [31]. The patients were randomly assigned to an ACE inhibitor (perindopril) or placebo. Overall, there was no impact of ACE inhibitor on the primary endpoint (12 versus 13 percent in the placebo group; HR 0.92, 95% CI 0.7-1.21) or on HF hospitalizations (15 versus 17 percent in the placebo group; HR 0.86, 95% CI 0.6-1.2). The patients treated with perindopril had significant improvements in functional class and six-minute walk distance.
+
+Angiotensin II receptor blockers – We do not use ARB monotherapy as a primary treatment for HFpEF; sacubitril-valsartan is likely more effective than ARB monotherapy based on the results of the PARAGON-HF trial, as described above [24]. However, ARB monotherapy is a first-line therapy for the treatment of hypertension in many patients with diabetes or CKD. (See 'Diabetes' above and 'Chronic kidney disease' above and 'Therapy for patients with HF and elevated BNP' above.)
+
+Placebo-controlled trials have not established the efficacy of ARB monotherapy therapy as a preferred treatment for HFpEF:
+
+In the CHARM-Preserved trial, 3023 patients with symptomatic HF (nearly all NYHA class II or III) and an LVEF >40 percent and controlled blood pressure were randomly assigned to either candesartan (mean dose at six months: 25 mg) or placebo [32]. The mean LVEF was 54 percent. At a median follow-up of 37 months, there was a small but uncertain difference in the incidence of hospitalizations for HF (16 versus 18 percent; adjusted HR 0.84, 95% CI 0.70-1.00) and a similar incidence of cardiovascular death (11 percent in both groups). Compared with HFpEF patients in the community, CHARM-Preserved included more men and more patients with mildly depressed LVEF (40 to 49 percent).
+
+In the I-PRESERVE trial, 4128 patients with symptomatic HF (nearly all NYHA class II or III), controlled blood pressure, and an LVEF ≥45 percent were randomly assigned to either daily irbesartan 300 mg or placebo [33]. The mean LVEF was 59 percent. At a mean follow-up of 49.5 months, there was no significant difference in the primary endpoint of death from any cause or hospitalization for a cardiovascular cause. There were also no significant differences in secondary outcomes, which included death or hospitalization for HF, death from any cause, hospitalization for a cardiovascular cause, and quality of life.
+
+Beta blockers – We do not use beta blockers as a primary treatment for HFpEF, but beta blockers may be used to treat chronic coronary syndromes, to control heart rate in AF, or to treat hypertension. (See "Beta blockers in the management of chronic coronary syndrome" and "Management of atrial fibrillation: Rhythm control versus rate control".)
+
+An individual patient-level meta-analysis of 11 randomized controlled trials of beta blockers that included patients with HFpEF found no evidence of benefit in the small subgroup of patients in sinus rhythm with LVEF ≥50 percent [34]. There was no consistent benefit from beta blockers among patients with AF. The effects of beta blockers in patients in sinus rhythm varied according to baseline LVEF:
+
+For patients with baseline LVEF of ≥50 percent, beta blocker therapy did not reduce all-cause mortality (HR 1.79, 95% CI 0.78-4.10) or cardiovascular death (HR 1.77, 95% CI 0.61-5.14).
+
+For patients with baseline LVEF of 40 to 49 percent, all-cause mortality was nominally but not statistically significantly lower with beta blocker therapy (HR 0.59, 95% CI 0.34-1.03). Beta blocker therapy significantly reduced cardiovascular death (HR 0.48, 95% CI 0.24-0.97).
+
+For patients with baseline LVEF <40 percent, beta blocker therapy significantly reduced all-cause mortality (eg, for LVEF 35 to 39 percent; HR 0.67, 95% CI 0.50-0.90). Beta blocker therapy also reduced cardiovascular death (HR 0.72, 95% CI 0.52-0.99).
+
+Calcium channel blockers – In patients with HFpEF, calcium channel blockers are generally used as a third- or fourth-line therapy for hypertension.
+
+Ineffective therapies — Organic nitrates, phosphodiesterase-5 inhibitors, and digoxin are ineffective for the treatment of HFpEF. These agents may be used to treat other conditions (eg, angina in chronic coronary syndrome, rate control in AF).
+
+Nitrates – Evidence of efficacy is lacking, and a randomized trial found that use of isosorbide mononitrate may reduce physical activity levels in patients with HFpEF.
+
+In the Nitrate’s Effect on Activity Tolerance in Heart Failure with Preserved Ejection Fraction (NEAT-HFpEF) trial, 110 patients with HFpEF were randomly assigned to a four-week regimen of isosorbide mononitrate (escalating from 30 to 60 mg to 120 mg once daily) or placebo, with subsequent crossover to the other group for four weeks [35]. In patients assigned to receive isosorbide mononitrate, daily activity levels were significantly lower than with placebo (mean difference -439 accelerometer units; 95% CI -792 to -86). The daily activity level with the 120 mg dose of isosorbide mononitrate was similar to placebo (mean difference -381 accelerometer units; 95% CI -780 to 17; p = 0.06). Activity levels decreased significantly with increased doses of isosorbide mononitrate. There were no significant differences in six-minute walk distance, quality-of-life scores, or NT-proBNP levels between treatment groups.
+
+Phosphodiesterase-5 inhibitors – While a prospective trial of sildenafil suggested an improvement in hemodynamic and morphologic markers of HFpEF severity [36], two subsequent trials of sildenafil did not show an improvement in exercise tolerance:
+
+The RELAX trial was a multicenter, randomized, double-blind, placebo controlled study of sildenafil (20 mg three times per day, uptitrated to 60 mg three times per day) that enrolled 216 patients with HFpEF [37]. The patients had LVEF >50 percent and elevated BNP or invasively measured pulmonary capillary wedge pressure. At 24 weeks, sildenafil had no effect on exercise capacity or clinical status.
+
+Another trial that only enrolled patients with HFpEF and pulmonary hypertension also showed no benefit with sildenafil compared with placebo [38].
+
+Digoxin – While digoxin is used for the management of AF with poorly controlled ventricular rate in people with HFpEF, it is not an effective therapy for symptomatic HFpEF.
+
+The DIG ancillary trial, a parallel study to the DIG trial, evaluated the role of digoxin in patients with HF and an LVEF >45 percent [39,40]. At a mean follow-up of 37 months, digoxin had no effect on all-cause or cause-specific mortality, or all-cause or cardiovascular hospitalization [39].
+
+Similarly, a registry study of 7374 patients hospitalized for HF with an LVEF ≥50 percent found no association between digoxin initiation and 30-day or six-year readmission or mortality rates [41].
+
+DEVICE-BASED THERAPIES
+
+Interatrial shunt device – In patients with HFpEF, placement of an interatrial shunt device can reduce left atrial pressure at rest and during exercise [42,43]. However, we do not routinely perform this procedure in patients with HFpEF; a trial that studied the long-term effects of this procedure did not show a benefit and suggested possible harm [44].
+
+In a trial that included 626 patients with an LVEF ≥40 percent and a pulmonary capillary wedge pressure ≥25 mmHg during exercise, patients were randomly assigned to placement of an interatrial shunt device or to a sham procedure [44]. After 24 months of observation, the rates of death (1 percent in both groups), stroke (1 versus 0 events in the sham procedure group), worsening HF (0.28 versus 0.25 events per patient year), and change in quality-of-life scores (Kansas City Cardiomyopathy Questionnaire at 12 months 10 versus 9 points) were similar between the two groups. While the risk of safety events was nonsignificantly higher in the shunt device group (38 versus 31 percent), the risk of serious events (ie, cardiac death, myocardial infarction, cardiac tamponade, or cardiac surgery) was higher in the shunt device group (4 versus 1 percent). Subgroup analyses did not confirm the presence of harm or benefit for any of the groups tested.
+
+Implantable hemodynamic monitoring – For highly selected patients with HFpEF who have refractory New York Heart Association (NYHA) class II to III HF symptoms and multiple hospitalizations despite traditional chronic disease management, a remote, wireless, pulmonary artery (PA) pressure monitoring device is an option. The use of this device is highly individualized based on the patient’s comorbidities and disease severity, as well as their values and preferences.
+
+Remote PA pressure monitoring requires implantation of a small, remote sensor in the PA during a procedure similar to a right heart catheterization. Once home, the patient uses a pillow with a built-in receiver to obtain daily PA pressure readings, which are then transmitted and displayed to the patient’s team. The goal of monitoring is to manage the patient’s volume status using trends in PA pressures as a surrogate measure of ventricular filling pressures. One study suggested that changes in PA pressure occurred prior to an exacerbation of HF by 19±17 days for patients with HFpEF and by 29±22 days for patients with HFrEF [6].
+
+Trials that tested the efficacy of PA pressure monitoring show that hemodynamic monitoring may reduce HF admissions. However, these studies were not limited to patients with HFpEF and had methodologic issues (eg, enrollment and event adjudication during the COVID-19 pandemic, violation of trial protocols, lack of blinding) that limit their generalizability. The trials include:
+
+In a trial that included 348 patients with HF (approximately 72 percent with HFrEF), NYHA class III HF symptoms, and a previous HF hospitalization, patients assigned to remote hemodynamic monitoring had a lower rate of HF hospitalizations (events per patient year [EPPY] 0.38 versus 0.68 in the control group; hazard ratio [HR] 0.56, 95% CI 0.38-0.84) and higher quality of life scores (Kansas City Cardiomyopathy Questionnaire score 7.1 versus -0.1 points; difference 7.1, 95% CI 1.1-12.8) but similar rates of mortality (0.14 EPPY) [45]. N-terminal-pro-B-type natriuretic peptide decreased in the group assigned to remote hemodynamic monitoring (median 2377 to 1708 pg/mL) but not in the control group (1907 to 1607 pg/mL). The treatment assignment was not blinded, which may have introduced bias. The effect of remote hemodynamic monitoring on HF hospitalizations was not clearly different between patients with LVEF <40 or ≥40 percent (p-interaction 0.48).
+
+In a trial that included patients with NYHA class II to IV HF symptoms and HFpEF or HFrEF (LVEF was >50 percent in 32 percent), patients randomly assigned to remote PA pressure monitoring had a nonsignificant reduction in the rate of HF hospitalizations (0.41 versus 0.50 EPPY in the usual care group; HR 0.83, 95% CI 0.68-1.01). The rate of mortality was similar between the two groups (0.094 versus 0.086 EPPY in the control group; HR 1.09, 95% CI 0.7-1.7) [46]. However, in a prespecified sensitivity analysis of events that occurred prior to the declaration of the COVID-19 pandemic, treatment guided by a PA pressure monitor significantly reduced the risk of HF hospitalizations (0.38 versus 0.53 EPPY; HR 0.72, 95% CI 0.57-0.92).
+
+In a prespecified subgroup analysis of patients with an LVEF >40 percent, the combined rate of all-cause mortality, HF hospitalizations, and urgent HF visits (the primary outcome) was similar between the PA pressure monitoring group and the control group (0.44 versus 0.52 EPPY; HR 0.85, 95% CI 0.64-1.14). The effect of PA pressure monitoring on HF hospitalizations was not reported for this subgroup, nor were the results of the COVID-19 sensitivity analysis.
+
+In the CHAMPION trial of patients with HFpEF or HFrEF (LVEF was ≥40 percent in 22 percent) and NYHA class III HF symptoms, patients randomly assigned to remote PA pressure monitoring had a lower risk of HF-related hospitalizations at six months (31 versus 44 percent in the usual care group; HR 0.70, 95% CI 0.60-0.84) [47]. There was a 1.5 percent rate of device- or system-related complications. In an exploratory subgroup analysis of patients with an LVEF ≥40 percent, device-guided management reduced the rate of HF-related hospitalization (0.18 versus 0.33 EPPY; HR 0.54, 0.38-0.7) [48]. Notably, the sponsor of the study gave treatment advice to providers of patients in the treatment arm, which may have biased the results of the trial toward the treatment group [49].
+
+Pacing – In patients with HFpEF, trials of pacing interventions were either not effective or had positive effects and small sample size. Thus, patients with HFpEF should only undergo pacemaker implantation or pacemaker programming appropriate for any existing rhythm abnormality. (See "Permanent cardiac pacing: Overview of devices and indications".)
+
+Patients included in trials of pacing differ considerably based on the intended effect of pacing (eg, augmentation of cardiac output with exercise, increasing backup heart rate at rest). Trials of pacing in patients with HFpEF include:
+
+In a single-center trial that included 29 patients with stage C HFpEF and chronotropic incompetence (ie, low heart-rate reserve), all patients underwent insertion of a dual-chamber pacing system with exertional rate-adaptive atrial pacing, and exercise performance was evaluated in cross-over design [50]. Peak oxygen consumption (VO2) was similar whether the system was on or off (10.7 versus 10.4 mL/kg/min; difference 0.3 mL/kg/min, 95% CI -0.5 to 1.0). Adverse events related to the pacing system occurred in 21 percent of participants.
+
+In a single-center trial that included 107 patients with stage B or C HFpEF with a preexisting AAI or biventricular pacing system, patients assigned to a backup pacing rate determined by an equation ("personalized accelerated pacing") had improved quality of life when compared with a lower rate limit set to 60 beats per minute (Minnesota Living with Heart Failure Score 26 to 9 versus 19 to 27, p<0.001) [51]. Clinical events were less common in the personalized accelerated pacing group (4 versus 17). The trial's small sample size, incomplete blinding, and subjective outcome limit the broad application of this approach.
+
+PROGNOSIS
+In patients with HFpEF, morbidity and mortality rates are higher than in the general population, and the most common cause of death is cardiovascular.
+
+Morbidity – Morbidity outcomes in HFrEF and HFpEF are similar [52-57]. These include the rate and frequency of hospitalization for HF, symptomatic status as measured by abnormalities in myocardial oxygen consumption, six-minute walk distance, Minnesota Living with Heart Failure questionnaire scores, and other quality-of-life indicators. Therefore, patients with HFpEF have a morbidity burden equivalent to that in patients with HFrEF.
+
+Mortality – The prognosis of patients with HFpEF (ie, symptomatic HF) is less well defined than that of patients with HFrEF. Population-based data from hospitalized patients have shown similar mortality rates in patients with HFpEF and HFrEF [53,58]. However, a large meta-analysis that included community-based studies and trials observed lower mortality in HFpEF compared with HFrEF (adjusted hazard ratio [HR] 0.68, 95% CI 0.64-0.71) [59]. Since diastolic dysfunction is common in subjects in the age group at risk for HFpEF, it is possible that HFpEF may be over-diagnosed in patients with echocardiographic evidence of diastolic dysfunction and a clinical syndrome that mimics HF (but not due to HF) such as pulmonary disease, obesity, kidney disease, or deconditioning.
+
+Independent predictors of mortality in patients with HFpEF in different studies include older age, male sex, New York Heart Association (NYHA) class, lower LVEF, the extent of coronary artery disease, peripheral artery disease, diabetes, impaired renal function, the degree of diastolic dysfunction as assessed by Doppler echocardiography, elevated plasma natriuretic peptide levels, pulmonary hypertension, right ventricular dysfunction, AF, and increased red cell distribution width [60-66].
+
+Causes of death – The proportions of cardiovascular and noncardiovascular deaths among patients with HFpEF have varied among trials and epidemiologic studies, with higher proportions of noncardiovascular deaths in population-based studies [67].
+
+The mode of death was evaluated in patients with symptomatic HFpEF (NYHA class II to IV HF with LVEF ≥45 percent) enrolled in the I-Preserve trial [68]. The annual mortality rate was 5 percent. Sixty percent of deaths were cardiovascular (26 percent sudden, 14 percent HF, 5 percent myocardial infarction, and 9 percent stroke), 30 percent were noncardiovascular (including cancer and infection/sepsis), and 10 percent were of unknown cause.
+
+In a community-based study that did not include trial participants, the rate of noncardiovascular death was substantially higher, likely reflecting the greater frailty and higher comorbidity burden seen in patients in the general population compared with trial participants [69].
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Heart failure in adults".)
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, "The Basics" and "Beyond the Basics." The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+
+SUMMARY AND RECOMMENDATIONS
+
+General management – For patients with heart failure with preserved ejection fraction (HFpEF), the goals of treatment are to reduce HF symptoms, increase functional status, and reduce the risk of hospital admission. (See 'General management' above.)
+
+Management of associated conditions – Conditions commonly associated with HFpEF include hypertension, atrial fibrillation (AF), coronary artery disease, hyperlipidemia, obesity, anemia, diabetes mellitus, chronic kidney disease, and sleep-disordered breathing [9]. In general, these conditions are managed using an approach similar to the approaches used to treat the general population or other forms of HF. (See 'Management of associated conditions' above.)
+
+Preferred pharmacotherapies for symptomatic patients – The following therapies are most likely to reduce the risk of HF hospitalization and/or improve HF symptoms in patients with HFpEF compared with other therapies.
+
+Patients with volume overload – Patients with HFpEF and suspected or documented volume overload require diuretic therapy before initiating other pharmacologic therapies. The type and dose of loop diuretics depends on the severity of volume overload. This is discussed separately. (See "Use of diuretics in patients with heart failure".)
+
+Patients with HF symptoms and elevated BNP – For most patients with HFpEF who have New York Heart Association (NYHA) class II to III symptoms and an elevated B-type natriuretic peptide (BNP; ie, BNP >100 pg/dL or N-terminal pro-BNP [NT-proBNP] >300 pg/dL), we suggest treatment with both a sodium-glucose co-transporter 2 (SGLT2) inhibitor and a mineralocorticoid receptor antagonist (MRA) rather than no HFpEF-specific therapy (Grade 2B). We also suggest both agents rather than either drug alone or treatment with other agents (eg, sacubitril-valsartan, angiotensin II receptor blockers [ARBs], angiotensin converting enzyme [ACE] inhibitors, or calcium channel blockers [CCBs]) (Grade 2C). (See 'Therapy for patients with HF and elevated BNP' above.)
+
+We typically start the SGLT2 inhibitor first and then add the MRA two weeks later if the patient tolerates initial therapy. We do not withhold a second agent if HF symptoms resolve and/or BNP decreases in response to initial therapy. (See 'Therapy for patients with HF and elevated BNP' above.)
+
+Our suggestion for SGLT2 inhibitors and MRAs as first-line therapies for patients with HFpEF is based upon clinical trials demonstrating that these agents reduce the risk of hospitalization in this population; a mortality benefit has not been demonstrated. No trials have examined whether combination therapy has an additive benefit compared with either agent alone. (See 'Therapy for patients with HF and elevated BNP' above.)
+
+The dosing and precautions for SGLT2 inhibitors and MRAs are reviewed in detail above. (See 'Sodium-glucose co-transporter 2 inhibitors' above and 'Mineralocorticoid receptor antagonists' above.)
+
+Secondary pharmacotherapies – By contrast, clinical trials evaluating other agents (sacubitril-valsartan, ARBs, ACE inhibitors, CCBs) in this population have not demonstrated a clinically meaningful benefit, and these drugs are not routinely used in this setting except in the following circumstances (see 'Secondary therapies' above):
+
+For patients with HFpEF who have poorly controlled hypertension and persistent HF symptoms despite optimal SGLT2 inhibitor and MRA therapy, we suggest adding sacubitril-valsartan (Grade 2C). (See 'Secondary therapies' above.)
+
+For patients with comorbid diabetes and chronic kidney disease (CKD), ACE inhibitors and ARBs may be used as first-line therapy, as discussed separately.
+
+Device-based therapies – We do not routinely use device-based therapies (eg, interatrial shunt device, remote pulmonary artery pressure monitor) for the treatment of patients with HFpEF. (See 'Device-based therapies' above.)

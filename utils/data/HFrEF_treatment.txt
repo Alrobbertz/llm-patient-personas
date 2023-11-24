@@ -1,0 +1,393 @@
+INTRODUCTION
+Heart failure (HF) is a common clinical syndrome with symptoms caused by impairment of one or both ventricles to provide adequate cardiac output at a normal filling pressure due to a structural or functional cardiac disorder [1]. Patients with symptoms of HF and left ventricular ejection fraction (LVEF) ≤40 percent are classified as having HF with reduced ejection fraction (HFrEF); this classification identifies patients for whom treatment with a regimen of medical therapy may reduce the severity of symptoms, morbidity, and mortality associated with HF.
+
+This topic presents the pharmacologic therapy of HFrEF in patients with New York Heart Association class II or III HF symptoms [1,2]. (Related Pathway(s): Heart failure: Primary pharmacologic therapy for compensated heart failure with reduced ejection fraction (HFrEF).)
+
+Patients with reduced systolic dysfunction who are asymptomatic or who have severe refractory symptoms of HF are reviewed elsewhere. (See "Management and prognosis of asymptomatic left ventricular systolic dysfunction" and "Management of refractory heart failure with reduced ejection fraction".)
+
+Patients with mildly reduced ejection fraction are discussed separately. (See "Treatment and prognosis of heart failure with mildly reduced ejection fraction".)
+
+Other aspects of management of patients with HFrEF are presented separately and include:
+
+An overview of management of HFrEF. (See "Overview of the management of heart failure with reduced ejection fraction in adults".)
+
+Secondary pharmacologic therapy for HFrEF. (See "Secondary pharmacologic therapy for heart failure with reduced ejection fraction".)
+
+Management of acute HF. (See "Treatment of acute decompensated heart failure: Specific therapies" and "Treatment of acute decompensated heart failure: General considerations".)
+
+Management of pregnant patients with HF or those who are breastfeeding. (See "Management of heart failure during pregnancy".)
+
+GOALS OF THERAPY
+In patients with HF symptoms and reduced LVEF (HFrEF), the goals of therapy are to reduce symptom severity, decrease the risk of mortality and morbidity, and attenuate or possibly reverse the process of adverse remodeling of the LV.
+
+DIURETIC THERAPY
+In patients with HFrEF who have signs and symptoms of volume overload, we treat with diuretics to achieve and maintain optimal fluid balance. Diuretics can be used in combination with neurohormonal therapy. The approach to diuretic therapy in patients with HF is discussed separately. (See "Use of diuretics in patients with heart failure".)
+
+REGIMEN FOR PATIENTS WITH MILD TO MODERATE SYMPTOMS
+
+Primary components of therapy — In patients with HFrEF who have New York Heart Association (NYHA) class II to III HF symptoms (table 1), we suggest combination therapy with one agent from each of the following classes of medications, rather than other combinations of therapy:
+
+Renin-angiotensin-aldosterone system antagonist, with a preference for an angiotensin receptor-neprilysin inhibitor (ARNI; ie, sacubitril-valsartan) (algorithm 1).
+
+Beta blocker.
+
+Mineralocorticoid receptor antagonist (MRA).
+
+Sodium-glucose co-transporter 2 (SGLT2) inhibitor.
+
+This therapeutic regimen is based upon indirect evidence derived from clinical trials that typically compared a single therapy with placebo plus background therapy. There are no trials that directly compare various regimens, and background therapy was not optimal in successive trials of HF pharmacotherapy, which limits indirect comparisons. However, in large trials, each component of this regimen reduced morbidity and mortality compared with placebo.
+
+The specific agents used for therapy and the approach to achieving optimal therapy and avoiding adverse effects are described in a table (table 2) and in the sections below. (See 'Management of specific agents' below.)
+
+This approach to therapy is consistent with professional guidelines [1]. In the absence of trials that directly compare one regimen with another, the overall effect of combination therapy can only be inferred indirectly:
+
+A network meta-analysis of trials of pharmacologic therapy for patients with HFrEF suggested that a regimen of an ARNI, beta blocker, MRA, and SGLT2 inhibitor reduced the risk of all-cause mortality compared with placebo (hazard ratio [HR] 0.39, 95% CI 0.31-0.49) [3]. When a regimen of ARNI, beta blocker, MRA, and SGLT2 inhibitor was compared with a regimen of ARNI, beta blocker, MRA, and vericiguat, the regimen with the SGLT2 inhibitor had a lower hazard ratio without clear evidence of superiority (HR 0.82, 95% CI 0.66-1.01). However, this study has significant limitations particular to network meta-analyses (eg, indirect comparisons between treatments).
+
+Further evidence for each component of primary therapy is discussed elsewhere in this topic. (See 'Sacubitril-valsartan, ACE inhibitor, or ARB' below and 'Beta blocker' below and 'Mineralocorticoid receptor antagonist' below and 'Sodium-glucose co-transporter 2 inhibitors' below.)
+
+Evidence on other agents for the treatment of HFrEF is discussed separately. (See "Secondary pharmacologic therapy for heart failure with reduced ejection fraction".)
+
+Sequence of therapy — We typically add each drug sequentially, rather than all at once, to allow for identification of the source of any adverse effect or intolerance. In general, we use a sequence of therapy that follows the order in which these agents were studied (ie, ARNI, beta blocker, MRA, and, finally, SGLT2 inhibitor). However, patient characteristics (potassium, blood pressure, HF severity) can allow for a different sequence of therapy, and some experts advocate for initiation of more than one drug at the same time.
+
+Our rationale extends from the sequence of trials of HFrEF in which newer agents were studied in patients already taking other effective agents (eg, MRAs were studied in patients already taking an angiotensin converting enzyme [ACE] inhibitor or ARB and a beta blocker). The choice of drug within each class is described elsewhere in this topic. (See 'Sacubitril-valsartan, ACE inhibitor, or ARB' below and 'Beta blocker' below and 'Mineralocorticoid receptor antagonist' below and 'Sodium-glucose co-transporter 2 inhibitors' below.)
+
+Adding an agent before dose optimization — We start additional agents prior to maximizing the dose of any given primary therapy for HFrEF unless there is a clinical need to increase the dose of a renin-angiotensin-aldosterone system [RAAS] inhibitor, beta blocker, or MRA (eg, uncontrolled hypertension, rate control for atrial fibrillation). Though trials that established the efficacy of the RAAS inhibitors and beta blockers targeted high doses of these agents (table 2), the addition of other agents (ie, MRAs, SGLT2 inhibitors) may have a greater effect on reducing mortality in HFrEF than does an increase in dose.
+
+This approach has not been formally tested in a trial, and only retrospective studies evaluate whether the effect of dose is greater than the effect of starting additional agents:
+
+In a registry study, patients who took a RAAS inhibitor and beta blocker at 50 to 99 percent of their target dose had lower rates of mortality and hospitalization than patients who took only one class of medication at or above its target dose [4].
+
+Further information on dosing of medications for the treatment of HFrEF is discussed elsewhere in this topic. (See 'Management of specific agents' below.)
+
+Time course for initiation — The primary therapies for HFrEF should be started over the shortest time course possible but in a manner that allows for assessment of the tolerance of each agent. In general, we start each of the primary agents for the treatment of HFrEF within two to three months of initiating therapy. This approach is primarily motivated by the rapid onset of beneficial effects of the primary therapies for HFrEF, which are evident within weeks to months of starting therapy.
+
+Managing common limitations to optimal therapy — The side effects and intolerances that limit use of the primary therapies for the treatment of HFrEF are both agent-specific and the result of interactions between agents. If the adverse effects of the primary agents for HFrEF treatment do not resolve after changing the dose or agent to another primary therapy, secondary therapies for HFrEF may be required. The common limitations to therapy are discussed in detail elsewhere in this topic, while the secondary therapies for HFrEF are discussed separately. (See 'Management of adverse drug effects' below and "Secondary pharmacologic therapy for heart failure with reduced ejection fraction".)
+
+Duration of therapy — Pharmacologic therapy for treatment of HFrEF is generally continued indefinitely, even in patients with recovery of systolic function [5]. In small trials, patients whose therapy was withdrawn had worsening of signs and symptoms of HF compared with patients who continued therapy:
+
+Risk of drug withdrawal in patients with persistent LV systolic dysfunction – In patients who have ongoing HFrEF, we continue therapy without cessation. The approach to patients with decompensated HF is described separately. (See "Treatment of acute decompensated heart failure: Specific therapies", section on 'Approach to long-term therapy in hospitalized patients'.)
+
+This approach is primarily motivated by the efficacy of these agents as described in major trials and upon small trials in which patients whose therapy was withdrawn exhibited harm:
+
+The risk of worsening HF from withdrawal of angiotensin system blocker was illustrated by a randomized controlled trial in patients treated with an ACE inhibitor [6]. After at least 10 weeks of quinapril therapy, 224 patients with NYHA functional class II or III HFrEF were randomly assigned to continue quinapril or to receive placebo for 16 weeks. Compared with patients continuing an ACE inhibitor, patients withdrawn to placebo had worse NYHA functional class (worsened in 18 versus 9 percent), exercise tolerance, symptoms of HF, and quality of life. Progressive worsening of HF began four to six weeks after ACE inhibitor withdrawal.
+
+Three small, uncontrolled observational studies suggested a high risk of worsening HF after beta blocker withdrawal in patients with HFrEF with dilated cardiomyopathy [5]. In the largest of these studies, long-term beta blocker therapy (mean duration greater than one year) in 26 patients was associated with improved NYHA class (3.3 to 1.8) and LVEF (25 to 41 percent) [7]. Subsequent beta blocker therapy withdrawal in 24 patients (mean observation time 7.7 months) was associated with worsened NYHA class (1.8 to 2.8) and LVEF (41 to 32 percent), and there were four deaths. Resumption of beta-blocker therapy in 12 patients was associated with improved NYHA class (3.3 to 2.0) and LVEF (23 to 33 percent).
+
+Risk of drug withdrawal after recovery of LV systolic dysfunction – In patients with HFrEF that has improved and who do not have adverse drug effects, we do not stop pharmacologic therapy for HFrEF; there is a risk of recurrent HF and adverse remodeling after withdrawal of treatment for HFrEF even in patients with recovery of LV systolic function. Reliable predictors of durable recovery of ventricular systolic function have not been established.
+
+The risk of recurrent HFrEF after cessation of therapy was illustrated by an open-label, pilot trial in 51 asymptomatic patients with prior dilated cardiomyopathy in whom LVEF had improved from <40 percent to ≥50 percent; 25 patients were randomly assigned to treatment withdrawal and 26 to continued treatment [8]. During the initial six months, among the withdrawal group, 11 (44 percent) met the primary endpoint of relapse (reduction in LVEF of more than 10 percent and to less than 50 percent, an increase in LV end-diastolic volume by more than 10 percent and to greater than the normal range, a two-fold rise in N-terminal pro-B-type natriuretic peptide level and to more than 400 ng/L, or clinical evidence of HF), compared with none of those assigned to continue treatment. After six months, 25 of the 26 patients initially assigned to continue therapy switched to withdraw therapy; during the subsequent six months, nine patients (36 percent) met the primary endpoint of relapse.
+
+MANAGEMENT OF SPECIFIC AGENTS
+Patients with New York Heart Association (NYHA) class II to III HF symptoms and LVEF ≤40 percent should be evaluated for therapy with one agent from each of the following classes of agents:
+
+Sacubitril-valsartan, ACE inhibitor, or ARB — In patients with a history of NYHA class II to III symptoms and LVEF ≤40 percent who are appropriately treated for volume overload and who are otherwise clinically well-compensated, we recommend initial therapy with sacubitril-valsartan rather than an angiotensin converting enzyme (ACE) inhibitor, angiotensin II receptor blocker (ARB) monotherapy, or vasodilating agents from other classes (algorithm 1). In general, we only begin sacubitril-valsartan in patients who have a systolic blood pressure ≥100 mmHg and who can reliably afford the drug. Other vasodilator therapies, except for vasodilating beta blockers and mineralocorticoid receptor antagonists (MRAs), should be discontinued to allow for therapy with sacubitril-valsartan.
+
+In similar patients who cannot tolerate sacubitril-valsartan (eg, hypotension) or cannot obtain it reliably, we recommend treatment with an ACE inhibitor or ARB rather than other vasodilating agents from other classes.
+
+In patients who cannot tolerate an angiotensin receptor-neprilysin inhibitor (ARNI), ACE inhibitor, or ARB for other reasons (eg, hyperkalemia, kidney dysfunction), hydralazine-isosorbide dinitrate or another agent may replace one of these agents (algorithm 1 and table 3). The approach to such patients is discussed separately. (See "Secondary pharmacologic therapy for heart failure with reduced ejection fraction", section on 'Inability to take primary pharmacologic therapy'.)
+
+The details of management of patients who cannot tolerate vasodilator therapy for HFrEF is discussed elsewhere in this topic. (See 'Management of adverse drug effects' below.)
+
+This approach is consistent with professional guidelines and both direct and indirect evidence that ARNI therapy has the greatest efficacy relative to ACE inhibitors, ARBs, and hydralazine-isosorbide dinitrate [1]. However, all of these agents have beneficial effects compared with no therapy. (See 'Evidence' below and "Secondary pharmacologic therapy for heart failure with reduced ejection fraction", section on 'Add isosorbide dinitrate plus hydralazine in select patients'.)
+
+General cautions — We typically do not start or continue therapy with sacubitril-valsartan, ACE inhibitor, or ARB in the following scenarios (table 4):
+
+Hypotension or decompensated heart failure – In general, before starting an ARNI, ACE inhibitor, or ARB therapy, the systolic blood pressure should be ≥90 mmHg and there should be no signs of worsening or severely decompensated HF.
+
+Chronic or acute kidney disease and hyperkalemia – Sacubitril-valsartan, ACE inhibitors, and ARBs should be cautiously started at the lowest doses in patients who have a estimated glomerular filtration rate (eGFR) <30 mL/min per 1.73 m2 and should not be initiated or dose-increased if the potassium level is greater than 5.0 mEq/L (algorithm 1).
+
+Angioedema – Sacubitril-valsartan and ACE inhibitors can cause angioedema via their inhibitory effect on the kallikrein system, which increases bradykinin. Prior angioedema, regardless of its cause, is an absolute contraindication to treatment with sacubitril-valsartan. Studies suggest that the rate of angioedema with ARB therapy is similar to that of other antihypertensives [9,10].
+
+Use in pregnancy and during breastfeeding – Sacubitril-valsartan, ACE inhibitors, and ARBs are contraindicated during pregnancy due to the potential for teratogenicity. Some of these agents may be used during lactation. (See "Management of heart failure during pregnancy", section on 'Avoid angiotensin inhibition'.)
+
+Simultaneous use of multiple renin-angiotensin-aldosterone system (RAAS)-neprilysin inhibitors – Agents from this class (ie, ACE inhibitors, ARBs, ARNI, aliskiren); should not be used in combination; only one agent should be used at any given time. The simultaneous use of multiple agents from this class of drugs is associated with an increased risk of toxicity [11-14].
+
+Bilateral renal artery stenosis – Patients with bilateral renal artery stenosis (or stenosis to a solitary functioning kidney) can initiate treatment with an angiotensin system blocker (sacubitril-valsartan, ACE inhibitor, or single agent ARB) with careful monitoring for a decline in GFR. (See "Treatment of bilateral atherosclerotic renal artery stenosis or stenosis to a solitary functioning kidney", section on 'Medical therapy'.)
+
+Transition to sacubitril-valsartan from an ACE inhibitor or ARB – The transition to sacubitril-valsartan from an ACE inhibitor or ARB requires attention to the following:
+
+-Transition between an ACE inhibitor and sacubitril-valsartan – Sacubitril-valsartan should not be administered to patients who have taken an ACE inhibitor within the previous 36 hours (algorithm 2) due to the risk of angioedema (see above). This is true for starting sacubitril-valsartan in patients already taking an ACE inhibitor and for starting an ACE inhibitor in patients already taking sacubitril-valsartan.
+
+-Transition from an ARB to sacubitril-valsartan – As noted in the prescribing information for sacubitril-valsartan, the valsartan in sacubitril-valsartan is more bioavailable than the valsartan in other marketed tablet formulations; 26, 51, and 103 mg of valsartan in the sacubitril-valsartan tablet are equivalent to 40, 80, and 160 mg of valsartan in other marketed tablet formulations, respectively [15].
+
+If changing from ARB monotherapy to sacubitril-valsartan, no washout period is required; the next dose of ARB can be substituted for an equivalent dose of sacubitril-valsartan (algorithm 2).
+
+Dosing — The initial doses and target doses for sacubitril-valsartan, ACE inhibitor, and ARBs are listed in the table (table 2). We suggest that the RAAS-neprilysin inhibitor agent and beta blocker undergo titration together; the effects of a RAAS-neprilysin inhibitor on hemodynamics, kidney function, and potassium levels should not preclude therapy with a beta blocker or MRA [16]. (See 'Primary components of therapy' above.)
+
+Monitoring — Monitoring for sacubitril-valsartan, ACE inhibitor, or ARB includes baseline and follow-up blood tests (serum potassium, blood urea nitrogen, serum creatinine) at one to two weeks following drug initiation or after any dose increase. Any increase in dose should be continued only as tolerated without symptomatic hypotension, hyperkalemia, or a significant decline in kidney function.
+
+After the target dose or the maximally tolerated dose is attained, blood tests are checked periodically (eg, every three to six months), depending on the patient's stability and kidney function. Close monitoring is particularly important in patients with kidney disease or bilateral renal artery stenosis. (See "Renal effects of ACE inhibitors in heart failure" and "Treatment of bilateral atherosclerotic renal artery stenosis or stenosis to a solitary functioning kidney".)
+
+During sacubitril-valsartan therapy, serum N-terminal pro-B-type natriuretic peptide (NT-proBNP) level may be clinically helpful in specific clinical scenarios. BNP levels should not be measured in patients taking sacubitril-valsartan. Sacubitril-valsartan causes elevation of BNP levels via its inhibition of neprilysin. Since NT-proBNP is not degraded by neprilysin, its levels are not increased by neprilysin inhibition:
+
+In the PARADIGM-HF trial, patients randomized to ARNI had higher BNP levels but lower NT-proBNP levels at four weeks and eight months compared with those in the ACE inhibitor group [17].
+
+Similarly, in the PIONEER-HF trial, there were smaller reductions in BNP but greater reductions in NT-proBNP in the patients treated with ARNI compared with those treated with ACE inhibitor [16].
+
+The role of natriuretic peptide measurement in diagnosis and monitoring of HF is discussed separately. (See "Natriuretic peptide measurement in heart failure".)
+
+Evidence — Large, randomized trials have demonstrated the efficacy of sacubitril-valsartan, ACE inhibitors, and ARBs for the treatment of patients with NYHA class II to III HF symptoms who have an LVEF <40 percent. There is less evidence for the use of these agents in patients who have either NYHA class I or class IV HF symptoms or an LVEF >40 percent, except in patients with a recent myocardial infarction (MI).
+
+Sacubitril-valsartan – In stable patients with NYHA class II to III HF, sacubitril-valsartan reduced the risk of mortality or rehospitalization and improved quality of life compared with an ACE inhibitor, while among less stable patients assigned to sacubitril-valsartan while hospitalized, sacubitril-valsartan reduced the risk of rehospitalization:
+
+A trial (PARADIGM-HF) in patients with HFrEF found that sacubitril-valsartan reduced the risk of mortality and hospitalization for HF compared with a similar dose of the ACE inhibitor enalapril [18]. In this trial, 8442 patients with HFrEF (predominantly NYHA functional class II or III) were randomly assigned to receive either high-dose sacubitril-valsartan (ie, 97/103 mg twice daily) or enalapril (10 mg twice daily) after a run-in phase of enalapril and then sacubitril-valsartan. At baseline, most patients in both treatment groups were receiving recommended pharmacologic treatment for chronic HF (including over 90 percent receiving beta blockers).
+
+In patients assigned to sacubitril-valsartan, there was a lower risk of death compared with enalapril (17.0 versus 19.8 percent; hazard ratio [HR] 0.84, 95% CI 0.76-0.93) and a lower risk of hospitalization for HF (12.8 versus 15.6 percent; HR 0.79, 95% CI 0.71-0.89). In addition, patients assigned to sacubitril-valsartan had higher health-related quality of life as measured by the Kansas City Cardiomyopathy Questionnaire [19].
+
+The sacubitril-valsartan group had higher rates of hypotension and nonserious angioedema but lower rates of renal impairment, hyperkalemia, and cough compared with the enalapril group.
+
+Notably, the patients enrolled in PARADIGM-HF were able to tolerate a relatively high dose of enalapril or sacubitril-valsartan, and approximately 6 percent of patients failed the run-in phase with either enalapril or with sacubitril-valsartan. During follow-up, the mean total daily dose of enalapril (19 mg) and sacubitril-valsartan (375mg) were close to their respective starting doses (ie, 20 mg and 400 mg daily).
+
+In the PIONEER-HF trial, 881 patients hospitalized with acute HF were randomly assigned to receive either sacubitril-valsartan or enalapril following hemodynamic stabilization and were then observed for eight weeks for changes in NT-proBNP (the primary outcome) and the occurrence of clinical events (secondary outcomes) [16]. Most (90 percent) of the patients enrolled had NYHA class II or III heart HF symptoms. Patients treated with sacubitril-valsartan had a larger decrease in NT-proBNP levels (-47 versus -24 percent; ratio of changes between groups 0.71, 95% CI 0.63-0.81). The two groups had a similar risk of mortality, and the sacubitril-valsartan group had a reduction in the risk of rehospitalization (8 versus 14 percent; HR 0.56, 95% CI 0.37-0.84). Rates of worsening renal function, hyperkalemia, symptomatic hypotension, and angioedema did not differ significantly between the two groups. Thus, treatment with sacubitril-valsartan before hospital discharge demonstrated greater reduction of NT-proBNP and a possible reduction in the risk of rehospitalization.
+
+ACE inhibitors – In multiple large, prospective, placebo-controlled randomized trials, ACE inhibitors have demonstrated a significant reduction in mortality and readmission [20-25] as well as alleviation of symptoms [26-28]. These trials typically used a strategy of increasing the dose to the maximally tolerated dose.
+
+These benefits were summarized by a meta-analysis of five trials (three starting during the first one to three weeks post-MI) involving 12,763 patients with LVEF ≤35 percent or <40 percent and/or clinical HF; approximately 20 percent of the subjects were taking a beta blocker. ACE inhibition had the following benefits compared with placebo [24]:
+
+A lower total mortality (23 versus 27 percent for placebo; odds ratio [OR] 0.80, 95% CI 0.74-0.87). Most of the mortality benefit was due to fewer deaths from progressive HF. This benefit of treatment was apparent soon after the start of treatment and continued to increase after more than four years.
+
+A lower rate of readmission for HF (14 versus 19 percent; OR 0.67, 95% CI 0.61-0.74).
+
+A lower incidence of MI (9 versus 11 percent; OR 0.79, 95% CI 0.70-0.89), but no difference in stroke.
+
+We favor higher targets for ACE inhibitor doses based on the approach used in trials that established the efficacy of ACE inhibitor and on lower quality data that directly compared various doses of ACE inhibitor (table 2). The data include:
+
+One trial tested the hypothesis of low versus high doses of the ACE inhibitor lisinopril and found that patients assigned to high-dose lisinopril had a lower risk of all-cause mortality or hospitalization (80 versus 84 percent; HR 0.88, 95% CI 0.82-0.96) and a similar risk of mortality (43 versus 45 percent; HR 0.92, 95% CI 0.82-1.03) [29].
+
+In a meta-analysis that included eight trials, there was a signal for improved outcomes with high-dose ACE inhibitors but there was marked uncertainty for the outcome of mortality (relative risk [RR] 0.94; 0.87-1.02) and all-cause hospitalization (RR 0.94; 0.86-1.02) [30]. Another meta-analysis arrived at similar conclusions [31].
+
+ARBs – The benefits of single-agent ARB therapy for HFrEF were demonstrated in randomized trials. Compared with placebo, ARBs are likely effective, and, compared with ACE inhibitors, the effects are similar. Higher doses of ARBs are more likely to be effective than lower doses.
+
+A systematic review included nine randomized trials that compared ARB therapy with placebo [11]. ARBs most likely reduced total mortality (RR 0.87, 95% CI 0.76-1.00) and total hospitalizations (RR 0.94, 95% CI 0.88-1.01) [11].
+Pooled results of trials that compared ARBs with ACE inhibitors in patients with HFrEF showed similar rates of mortality (RR 1.05, 95% CI 0.91-1.22) with a point estimate that favored ACE inhibitors [11]. There were also no significant differences in stroke, MI, hospitalizations for HF, or total hospitalizations. Drug withdrawals due to adverse effects were less common with ARBs compared with ACE inhibitors (RR 0.63, 95% CI 0.52-0.76).
+
+The trials of ARBs typically increased the dose of the agent under study to a prespecified target. In addition, the HEAAL trial compared low with high doses of irbesartan and found similar risks of mortality between the two groups (35 versus 33 percent; HR 0.94, 95% CI 0.94-1.04) and higher rates of rehospitalization in the low-dose group (26 versus 23 percent; HR 0.87, 95% CI 0.76-0.98) [32].
+
+Beta blocker — We recommend treatment with metoprolol succinate, carvedilol, sustained release carvedilol, or bisoprolol rather than with other beta blockers. The initial doses are described in a table (table 2).
+
+Beta blockers are commonly initiated after optimal treatment for volume overload and soon after the patient has started an ARNI, ACE inhibitor, or ARB monotherapy.
+
+Certain groups of patients may be more likely than others to tolerate specific beta blockers:
+
+Hypertension and hypotension – Carvedilol may have more effect on blood pressure than the other preferred beta blockers because of its alpha-1 antagonist properties. Conversely, metoprolol succinate and bisoprolol may have less blood pressure effect compared with carvedilol.
+
+Asthma – In patients with HFrEF and asthma, it is important to formally assess the patient for asthma; the symptoms of HF are similar to the symptoms of asthma. (See "Asthma in adolescents and adults: Evaluation and diagnosis".)
+
+In patients with moderate to severe asthma who have HFrEF, we typically initiate treatment with a low dose of either metoprolol succinate or bisoprolol. We do not use carvedilol in patients with asthma who have mild persistent or worse symptoms. (See "An overview of asthma management", section on 'Categories of asthma severity'.)
+
+This approach is based the pharmacology (ie, high beta-1 selectivity of metoprolol and bisoprolol, nonselective beta-1 and beta-2 antagonism with carvedilol) of these agents and studies that suggest intolerance and adverse effects of nonselective beta blockade on pulmonary mechanics in patients with asthma:
+
+In a systematic review of randomized trials that included patients with asthma, patients who were acutely exposed to beta blocker therapy had an increased risk of symptoms, a decline in forced expiratory volume in one second (FEV1), and decreased response to inhaled bronchodilators when compared with those exposed to placebo [33]. There was a dose-response relationship, and beta-1 selective beta blockers were better tolerated than nonselective agents.
+
+In patients with asthma and HFrEF, only 50 percent tolerated treatment with carvedilol [34].
+
+Chronic obstructive pulmonary disease – Patients with chronic obstructive pulmonary disease (COPD) may take metoprolol succinate, bisoprolol, or carvedilol for treatment of HFrEF. The available evidence suggests that these beta blockers do not pose a safety risk in patients with COPD, even if there is a bronchospastic component [34,35].
+
+Cautions — Relative contraindications to beta blocker therapy include the following:
+
+Bradycardia or second- or third-degree atrioventricular (AV) block – If the patient has second- or third-degree AV block and does not have a pacemaker, beta blocker therapy is relatively contraindicated. However, the patient should be evaluated for appropriate placement of pacemaker, implantable cardioverter-defibrillator, or cardiac resynchronization device. If a pacemaker is appropriate, a beta blocker may be started after the pacemaker is placed.
+
+The indications for pacemaker, resynchronization, and defibrillator device implantation are discussed separately. (See "Overview of pacemakers in heart failure" and "Cardiac resynchronization therapy in heart failure: Indications and choice of system" and "Primary prevention of sudden cardiac death in patients with cardiomyopathy and heart failure with reduced LVEF".)
+
+Severe heart failure – In patients with persistent NYHA class IV HF symptoms (table 1) or Stage D HF (table 5), beta blockers should be rarely used and only by experienced heart failure specialists; these patients are at risk of decompensation caused by the negative inotropic effect of beta blockers [2]. Though a small fraction of patients enrolled in trials of beta blockers had class IV HF symptoms, the favorable results of these trials are most applicable to patients with class II or III HF symptoms who comprised most of these trials (table 2). (See 'Evidence' below.)
+
+Dosing — Therapy should begin at a low dose (table 2), and the dose should be doubled at intervals of two weeks or more until the target dose is reached or symptoms become limiting. Every effort should be made to achieve the target dose, since the benefit appears to be dose-dependent or related to the degree of beta blockade. We do not adjust the dose to a particular target heart rate; there is no proven value of this strategy. However, even low doses appear to be of benefit and should be used when higher doses are not tolerated. Not uncommonly, a dose that was not well tolerated during initial uptitration may be tolerated at a later time or with a slower rate of uptitration.
+
+The evidence for our approach to dosing is discussed elsewhere in this topic. (See 'Evidence' below.)
+
+Monitoring — The patient should be informed that beta blockers may lead to an increase in symptoms for one to two weeks. Patients should weigh themselves daily and call the clinician if there has been a 1 to 1.5 kg weight gain that persists for three or more days. Weight gain alone may be treated with diuretics, but resistant edema or more severe decompensation may require dose reduction or cessation (possibly transient) of the beta blocker. Patients who cannot tolerate a low dose of a beta blocker may have advanced HF, which requires a different approach to therapy. (See "Clinical manifestations and diagnosis of advanced heart failure".)
+
+Evidence — In patients with HFrEF who have NYHA functional class II to III HF, randomized trials of specific beta blockers (carvedilol, sustained-release carvedilol, sustained-release metoprolol succinate, and bisoprolol) have demonstrated that these agents reduce the risks of mortality and hospitalization and decrease the severity of HF symptoms:
+
+Reduction of mortality and readmission – These benefits were illustrated by a meta-analysis that included 22 trials involving more than 10,000 patients with an LVEF <35 to 45 percent, almost all of whom had NYHA functional class II or III HF and treatment with an ACE inhibitor [36]. The following findings were noted:
+
+Beta blockers significantly reduced total mortality at one year (OR 0.65, 95% CI 0.53-0.80) and two years (OR 0.72, 95% CI 0.61-0.84) compared with placebo. Beta blocker therapy saved 3.8 lives in the first year per 100 patients treated.
+
+Beta blockers also reduced hospitalization for HF (OR 0.64, 95% CI 0.53-0.79), with an absolute benefit of four fewer hospitalizations in the first year per 100 patients treated.
+
+Similar findings were noted in a meta-analysis limited to large randomized trials [37].
+
+Comparative efficacy of beta blockers – Limited data are available on the comparative efficacy of carvedilol, sustained-release carvedilol, metoprolol succinate, and bisoprolol, and the available evidence does not lead us to prefer one of these agents over another:
+
+A meta-analysis compared the effects of vasodilating beta blockers, primarily carvedilol, with nonvasodilating beta blockers (largely bisoprolol) [38]. Vasodilating beta blockers were associated with a greater survival benefit than nonvasodilating agents (45 versus 27 percent); this difference was greater in patients with nonischemic cardiomyopathy. However, this analysis included a trial (COMET) that compared carvedilol with metoprolol tartrate, which may overestimate the relative benefit of carvedilol.
+
+Effect of dose – We consider the design of randomized trials of beta blockers to be the strongest evidence for the use of high doses of beta blockers (table 2). Ancillary evidence from post hoc analyses and meta-analyses of beta blocker trials also supports the strategy of increasing the dose to a maximally tolerated dose. The evidence includes the following:
+
+In a meta-analysis of beta blocker trials, heart rate reduction was associated with the risk of death (5 beat/min reduction ratio of relative risks 0.83; 95% CI 0.71-0.84), while beta blocker dose was not clearly associated with the risk of death [39]. This finding indirectly suggests that a higher dose of beta blocker was more effective than a lower dose. This result was confirmed by another meta-analysis [40].
+
+In a trial that compared placebo, low-, medium-, or high-dose carvedilol, the secondary endpoint of mortality occurred in 16, 6, 7, and 1 percent of patients, respectively [41]. The primary endpoints of performance on a six-minute walk test and treadmill were similar between the groups.
+
+Mineralocorticoid receptor antagonist — We suggest eplerenone rather than spironolactone (table 2). This preference is based on a lower risk of endocrine side effects (eg, gynecomastia, impotence in males) with eplerenone. However, if cost is a barrier to treatment with eplerenone, spironolactone is a reasonable first choice.
+
+We typically initiate MRA therapy soon after initiation of a RAAS-neprilysin inhibitor and a beta blocker, while allowing enough time to assess the effect of these other agents on renal function, hyperkalemia, and overall clinical stability.
+
+Cautions and side effects — Initiation of MRA therapy is limited to patients whose serum potassium and renal function can be carefully monitored and who have baseline serum potassium <5.0 mEq/L and an eGFR ≥30 mL/min per 1.73 m2. During MRA therapy, the serum potassium should not exceed 5.5 mEq/L without an appropriate change in dose. (See 'Dosing and monitoring' below.)
+
+Risk factors for hyperkalemia – Risk factors for hyperkalemia among patients treated with an MRA include renal dysfunction, older age, more severe HF, diabetes mellitus (DM), higher baseline serum potassium concentration, volume depletion, renal dysfunction, certain medications (eg, other potassium-sparing diuretics), and certain herbal extracts (eg, noni juice, alfalfa juice (table 6)) [42-49].
+
+Periodic monitoring for hyperkalemia is required for all patients; normal renal function alone does not reliably exclude the possibility of hyperkalemia with MRA therapy. (See 'Dosing and monitoring' below.)
+
+Side effects – The endocrine side effects of spironolactone include gynecomastia, breast pain, menstrual irregularities, impotence, and decreased libido; these side effects result from nonselective binding to androgen and progesterone receptors. Eplerenone has a similar side effect profile but has greater specificity for the mineralocorticoid receptor, which reduces the risk of endocrine side effects (10 versus 1 percent for eplerenone) [50].
+
+In our experience and based on the available date, we believe that MRAs rarely cause renal dysfunction [51-53].
+
+Dosing and monitoring — Initial and target doses for spironolactone and eplerenone are included in a table (table 2). The dose of spironolactone or eplerenone should be reduced if serum potassium levels rise. We use the following approach to adjust MRA therapy to the potassium level:
+
+If the serum potassium level is 5.5 to 6.0 mEq/L, the dose should be decreased (eg, spironolactone dose from 50 to 25 mg/day, or from 12.5 every other day to stop) [49,54].
+
+If the serum potassium level is >6.0 mEq/L or renal function is worsening, MRA therapy should be discontinued and appropriate management of hyperkalemia or worsening renal function are required. (See "Treatment and prevention of hyperkalemia in adults", section on 'Determining the urgency of therapy' and "Cardiorenal syndrome: Prognosis and treatment", section on 'Management'.)
+
+After resolution of hyperkalemia (potassium level <5.0 mEq/L) and stabilization of renal function for least 72 hours, restarting at reduced dose may be considered, depending upon the risk of recurrent hyperkalemia and/or renal insufficiency. Specific approaches to minimizing the risk of hyperkalemia are described in a table (table 5) [47].
+
+In the RALES, EPHESUS, and EMPHASIS-HF trials, serious hyperkalemia (serum potassium >6 mEq/L) occurred in 2 to 5.5 percent of patients receiving an MRA [42-44,54].
+
+Evidence — Randomized controlled trials demonstrate that spironolactone and eplerenone reduce the risk of mortality in selected groups of patients with HFrEF [43,54,55]:
+
+Class III or IV HF – The efficacy and safety of spironolactone (25 to 50 mg daily) was compared with placebo in the randomized controlled RALES trial which enrolled 1663 patients with NYHA class III or IV HF and LVEF ≤35 percent [43]. All patients were receiving loop diuretics, nearly all patients were receiving an ACE inhibitor, and the majority were taking digitalis; approximately 10 percent were taking a beta blocker. The study was stopped because of significant benefits at an average follow-up of 24 months: a 30 percent reduction in overall mortality with spironolactone (35 versus 46 percent for placebo; RR 0.70, 95% CI 0.60-0.82), reductions in death from HF and sudden death, and a 35 percent reduction in hospitalization for HF [43]. The benefit of spironolactone was evident at three months and persisted for the two-year duration of the study. Other effects of spironolactone included improved NYHA functional class, reductions in systolic and diastolic blood pressure, reduced incidence of hypokalemia (0.5 versus 10 percent for placebo) and a dose-related increase in the risk of hyperkalemia.
+
+Class II HF – The efficacy of eplerenone compared with placebo in patients with less symptomatic HF was demonstrated in the randomized, controlled EMPHASIS-HF trial [54]. The study enrolled 2737 patients with NYHA class II HF and either an LVEF ≤30 percent or LVEF between 31 and 35 percent with a QRS duration >130 ms. The patients had been hospitalized for a cardiovascular reason (approximately half had been hospitalized for HF) within six months or had elevated plasma level of BNP. Nearly all were receiving an ACE inhibitor or ARB as well as a beta blocker. The study was stopped prematurely at 21 months due to evidence of benefit with eplerenone, including a significantly reduced mortality rate (13 versus 16 percent; HR 0.76, 95% CI 0.62-0.93) and lower rate of death from cardiovascular causes (HR 0.76, 95% CI 0.61-0.94). Patients receiving eplerenone also had a significantly lower rate of the primary outcome of death from cardiovascular causes or hospitalization for HF (18 versus 26 percent in the placebo group; HR 0.63, 95% CI 0.54-0.74). Hospitalizations for HF and for any cause were also reduced in the eplerenone group.
+
+Post-MI with HF or diabetes – The efficacy of eplerenone versus placebo in 6632 patients post-MI was evaluated in the EPHESUS trial, which included study subjects who had an MI 3 to 14 days previously and an LVEF ≤40 percent (mean 33 percent) with evidence of HF (present in 90 percent) or DM [44]. Most of the subjects in EPHESUS were also receiving treatment with an ACE inhibitor or ARB (87 percent) and a beta blocker (75 percent). At 16 months, patients treated with eplerenone had a significantly reduced rate of all-cause mortality (14.4 versus 16.7 percent; RR 0.85, 95% CI 0.75-0.96), which was entirely due to a reduction in cardiovascular mortality (12.3 versus 14.6 percent). Eplerenone was also associated with significant reductions in sudden cardiac death, which accounted for approximately one-half of the mortality benefit, and hospitalizations for HF. The mortality benefit with eplerenone was significant by 30 days after randomization (3.2 versus 4.6 percent) [55]. Gynecomastia, impotence, or breast pain occurred with equal frequency in both groups (1.0 versus 1.1 percent).
+
+Sodium-glucose co-transporter 2 inhibitors — We suggest therapy with dapagliflozin or empagliflozin rather than other SGLT2 inhibitors (table 2). Patients may start an SGLT2 inhibitor prior to the use of a RAAS-neprilysin inhibitor, beta blocker, or MRA. However, the effects of SGLT2 inhibitor treatment (eg, diuretic effect causing lower blood pressure) should not prevent therapy with one of these agents.
+
+Contraindications and precautions — SGLT2 inhibitors should be avoided in the following clinical settings (see "Sodium-glucose cotransporter 2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus", section on 'Contraindications and precautions'):
+
+Presence of type 1 DM.
+
+Presence of type 2 DM with prior diabetic ketoacidosis (DKA) or a condition predisposing to DKA (including pancreatic insufficiency or drug or alcohol addiction).
+
+Patients with type 2 DM treated with an SGLT2 inhibitor should receive education on the symptoms and risks of DKA and appropriate steps to take if symptoms or signs occur, including discontinuing the SGLT2 inhibitor and seeking immediate medical attention [56]. Temporary discontinuation of SGLT2 inhibitors and monitoring for ketoacidosis are recommended in situations known to predispose to ketoacidosis (such as prolonged fasting due to illness or perioperative state). For patients who are scheduled to undergo surgery, it may be appropriate to temporarily discontinue dapagliflozin at least three days prior to surgery [56]. (See "Sodium-glucose cotransporter 2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus", section on 'Diabetic ketoacidosis'.)
+
+SGLT2 inhibitors should be used with caution in the following scenarios:
+
+Volume depletion or symptomatic hypotension.
+
+eGFR <20 mL/min per 1.73 m2, end-stage kidney disease, or rapidly declining renal function.
+
+History of complicated urinary tract infections or genitourinary infections.
+
+Presence of risk factors for foot amputation (including those with neuropathy, foot deformity, vascular disease, and/or history of previous foot ulceration). Patients taking SGLT2 inhibitors should be monitored for signs and symptoms of foot ulceration.
+
+Dosing — The doses of the preferred SGLT2 inhibitors for the treatment of HFrEF (table 2) are dapagliflozin 10 mg once daily, empagliflozin 10 mg once daily, and canagliflozin 100 mg daily [57-60]. Higher doses may be used for the treatment of patients with HFrEF and type 2 DM.
+
+Evidence — In randomized trials that included patients with HFrEF who were treated with a RAAS-neprilysin inhibitor, beta blocker, and MRA, treatment with an SGLT2 inhibitor reduced the risk of mortality and rehospitalization compared with placebo. There is likely a class effect of these agents, but we prefer to use agents specifically studied in patients with HFrEF. The agents studied include:
+
+Dapagliflozin – The DAPA-HF trial found that the SGLT2 inhibitor dapagliflozin added to optimized pharmacologic therapy (including MRA, if indicated) and device therapy (including cardiac resynchronization therapy [CRT], if indicated) reduced all-cause mortality and worsening HF in adults with NYHA functional class II, III, or IV HFrEF with or without DM [57]. 4744 patients were randomly assigned to dapagliflozin 10 mg once daily or placebo, with median follow-up of 18.2 months.
+
+The primary outcome (composite of worsening HF or cardiovascular death) was reduced with dapagliflozin compared with placebo (16.3 versus 21.2 percent; HR 0.74, 95% CI 0.65-0.85). A worsening HF event (hospitalization or an urgent visit for HF) occurred in 237 patients (10.0 percent) in the dapagliflozin group and in 326 patients (13.7 percent) in the placebo group (HR 0.70, 95% CI 0.59-0.83). Hospitalization for HF was also significantly reduced with dapagliflozin (9.7 versus 13.4 percent; HR 0.70, 95% CI 0.59-0.83).
+
+All-cause mortality was significantly reduced with dapagliflozin compared with placebo (11.6 versus 13.9 percent; HR 0.83, 95% CI 0.71-0.97). Death from cardiovascular causes was also significantly reduced with dapagliflozin (9.6 versus 11.5 percent; HR 0.82, 95% CI 0.69-0.98).
+
+Findings in patients without DM were similar to those in patients with DM. The frequency of adverse events including volume depletion, renal dysfunction, and major hypoglycemia were similar in the two treatment groups. However, a patient-level meta-analysis combining this trial with the EMPEROR-Reduced trial found no significant differences in the effect on renal composite outcome between the two trials (pooled HR 0.62, 95% CI 0.43-0.90) [61]. The renal composite outcome was defined as first occurrence of 50 percent or greater sustained decline in eGFR, end-stage renal disease (sustained eGFR <10 or 15 mL/min per 1.73 m2 [lower cut-off if baseline eGFR <30 mL/min per 1.73 m2], chronic dialysis treatment, or receiving a renal transplant), or renal death.
+
+Empagliflozin – The EMPEROR-Reduced trial found that the SGLT2 inhibitor empagliflozin added to optimized pharmacologic therapy (including MRA, if indicated) and device therapy (including CRT, if indicated) reduced hospitalization for HF as well as a composite outcome of cardiovascular death or hospitalization for HF in adults with NYHA functional class II, III, or IV HFrEF with or without DM [58]. 3730 patients were randomly assigned to empagliflozin 10 mg daily or placebo, with median follow-up of 16 months.
+
+The primary outcome (composite of hospitalization for HF and cardiovascular death) was reduced with empagliflozin compared with placebo (19.4 versus 24.7 percent; HR 0.75, 95% CI 0.65-0.86), and this effect was seen in patients with and without DM. The rate of hospitalization for HF was also reduced with empagliflozin (13.2 versus 18.3 percent; HR 0.69, 95% CI 0.59-0.81).
+
+Death from cardiovascular causes was not significantly different in the two groups (7.6 versus 8.1 percent; HR 0.92, 95% CI 0.75-1.12). All-cause mortality was also not significantly different (13.4 versus 14.2 percent; HR 0.92, 95% CI 0.77-1.10). However, a meta-analysis (combining this trial with the DAPA-HF trial) found no significant differences in these outcomes between the two trials, and pooled analysis showed significant reductions in mortality (HR 0.87, 95% CI 0.77-0.98) and cardiovascular death (HR 0.86, 95% CI 0.76-0.98) [61].
+
+The annual rate of decline in eGFR was lower in the empagliflozin group than in the placebo group (–0.55 versus –2.28 mL/min per 1.73 m2 per year), and the risk of serious adverse renal outcomes (composite of chronic dialysis, renal transplantation, or profound sustained reduction in the eGFR) was lower in empagliflozin-treated patients (1.6 versus 3.1 percent; HR 0.50, 95% CI 0.32-0.77).
+
+Canagliflozin – In the CHIEF-HF trial, 417 patients who had either HF with preserved ejection fraction (HFpEF; 60 percent) or HFrEF and either type 2 DM or no DM were randomly assigned to canagliflozin or placebo [62]. The primary outcome of the trial was a measure of HF symptoms (ie, Kansas City Cardiomyopathy Questionnaire Total Symptom Score [KCCQ TSS]), and patients assigned to canagliflozin had higher KCCQ TSS than patients assigned to placebo (difference in scores at 12 weeks 4.3 points; 95% CI 0.8-7.8). Subgroup analyses showed that the beneficial effect of canagliflozin on quality of life was similar for patients with HFpEF, HFrEF, type 2 DM, and patients without DM. The trial was stopped early due to a lack of funding.
+
+Other SGLT2 inhibitors – It remains to be determined whether sotagliflozin or other SGLT2 inhibitors (eg, ertugliflozin) have similar effects in patients with HFrEF without type 2 DM, though there is likely a class effect of the SGLT2 inhibitors [63].
+
+SPECIAL POPULATIONS
+
+Primary therapy in inpatients — The approach to medical therapy in patients with HFrEF who are hospitalized is discussed separately. (See "Treatment of acute decompensated heart failure: Specific therapies", section on 'Approach to long-term therapy in hospitalized patients'.)
+
+Pregnancy and lactation — The treatment of HFrEF in pregnancy and during lactation is discussed separately. (See "Management of heart failure during pregnancy".)
+
+COVID-19 — Standard indications for use of sacubitril-valsartan, angiotensin converting enzyme inhibitors, or single-agent angiotensin II receptor blockers for treatment of HFrEF apply to patients with coronavirus disease 2019 (COVID-19). Although there was speculation that elevated ACE2 levels caused by renin-angiotensin-aldosterone system inhibitors might impact susceptibility to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) because ACE2 is a receptor for this virus, there is no evidence that treatment with these drugs worsens the clinical course of SARS-CoV-2 infection. (See "COVID-19: Issues related to acute kidney injury, glomerular disease, and hypertension", section on 'Renin angiotensin system inhibitors'.)
+
+MANAGEMENT OF ADVERSE DRUG EFFECTS
+
+Hypotension — Hypotension that limits or prevents pharmacologic therapy for HFrEF should be evaluated and appropriately managed. Since many patients with HFrEF have low blood pressure, we generally alter the drug regimen only for symptoms or signs of hypoperfusion that include:
+
+Decrease in exercise tolerance or increase in fatigue
+
+Presyncope or falls
+
+Worsening kidney function
+
+Common causes of hypotension include:
+
+Overdiuresis or dehydration
+
+Vasoactive medications
+
+Change in heart rhythm
+
+Intercurrent infection
+
+Nonadherence to the prescribed regimen
+
+Worsening HF despite therapy
+
+In patients who have systolic blood pressure less than 90 to 100 mmHg prior to treatment or who have hypotension that is most likely caused by HFrEF pharmacotherapy, we typically start with the lowest dose or reduce the dose of a single agent, respectively, before stopping agents.
+
+Patients who are unable to tolerate primary HFrEF therapies due to hypotension should be assessed for other signs of advanced HF, treated with an agent within the same class that has less of a vasodilating effect (eg, metoprolol succinate rather than carvedilol), or evaluated for treatment with a secondary pharmacologic therapy for HFrEF. (See "Clinical manifestations and diagnosis of advanced heart failure", section on 'When to suspect advanced heart failure' and "Secondary pharmacologic therapy for heart failure with reduced ejection fraction".)
+
+Management of excessive diuresis — Diuretics and the diuretic effect of sodium-glucose co-transporter 2 (SGLT2) inhibitors can cause hypovolemia. Primary therapies with a diuretic effect include angiotensin receptor-neprilysin inhibitors (ARNIs), mineralocorticoid receptor antagonists (MRAs), and SGLT2 inhibitors.
+
+Hyperkalemia — Hyperkalemia should be treated and the cause(s) identified and addressed before initiating or intensifying therapy with an ARNI, angiotensin converting enzyme [ACE] inhibitor, ARB, or MRA. Typically, a serum potassium >5.0 mEq/L should be managed before starting or intensifying therapy, and a serum potassium >5.5 mEq/L (or >5.0 mEq/L with electrocardiogram signs of hyperkalemia) should prompt reduction in dose or cessation of therapy. The specific approach for each drug is described in their respective sections:
+
+ARNIs, ACE inhibitors, and ARBs (See 'Monitoring' above.)
+
+MRAs (See 'Dosing and monitoring' above.)
+
+Worsening renal function — Treatment with an ACE inhibitor, ARNI, or ARB has a variable effect on the glomerular filtration rate (GFR) in patients with HFrEF: some patients have no change in GFR, some have worsening renal function, and some have improved GFR. Measures to reduce the risk of worsening renal function include avoidance of concomitant therapy with nephrotoxic drugs (eg, nonsteroidal antiinflammatory drugs [NSAIDs]) and avoidance of volume depletion (which may occur with excessive diuresis). Other potential causes of worsening renal function (including bilateral renal artery stenosis or intrinsic kidney disease) should be evaluated and treated. (See "Chronic kidney disease resulting from atherosclerotic renal artery stenosis" and "Overview of the management of acute kidney injury (AKI) in adults".)
+
+Worsening heart failure — In patients with worsening HF who recently had a change to their pharmacologic regimen, the agent recently changed should be stopped or the dose decreased. The drugs most commonly associated with worsening HF are the beta blockers. If mild fluid overload develops during beta blocker therapy, this should be promptly treated with increased diuretic therapy [1]. If symptoms of fluid overload do not resolve with increased diuretic, the beta blocker dose should be reduced or held. Management of beta blocker therapy in patients with acute decompensated HF is discussed separately. (See "Treatment of acute decompensated heart failure: Specific therapies", section on 'Approach to long-term therapy in hospitalized patients'.)
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Heart failure in adults".)
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, “The Basics” and “Beyond the Basics.” The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on “patient info” and the keyword(s) of interest.)
+
+
+SUMMARY AND RECOMMENDATIONS
+
+Diuretic therapy – In patients with heart failure with reduced ejection fraction (HFrEF) who have signs and symptoms of volume overload, we treat with diuretics to achieve and maintain optimal fluid balance. (See 'Diuretic therapy' above.)
+
+Primary components of therapy – In patients with HFrEF who have New York Heart Association (NYHA) class II to III symptoms (table 1), we suggest combination therapy with one agent from each of the following classes rather than other combinations (table 2) (Grade 2C) (see 'Primary components of therapy' above):
+
+Angiotensin receptor blocker-neprilysin inhibitor (ARNI; ie, sacubitril-valsartan)
+
+Beta blocker
+
+Mineralocorticoid receptor antagonist (MRA)
+
+Sodium-glucose co-transporter 2 (SGLT2) inhibitor (regardless of comorbid diabetes status)
+
+Selecting a specific agent within each category
+
+ARNI, ACE inhibitor, or ARB – For most patients, we recommend initial therapy with sacubitril-valsartan rather than an angiotensin converting enzyme (ACE) inhibitor, angiotensin II receptor blocker (ARB) monotherapy, or vasodilating agents from other classes (algorithm 1) (Grade 1B). In general, we begin sacubitril-valsartan in patients who have a systolic blood pressure ≥100 mmHg and who can reliably afford the drug. Other vasodilator therapies, except for vasodilating beta blockers and MRAs, should be discontinued to allow for therapy with sacubitril-valsartan. (See 'Sacubitril-valsartan, ACE inhibitor, or ARB' above.)
+
+For patients who cannot tolerate sacubitril-valsartan (eg, due to hypotension) or cannot reliably access it, we recommend treatment with an ACE inhibitor or ARB rather than other vasodilating agents from other classes (Grade 1B).
+
+For patients who cannot tolerate an ARNI, ACE inhibitor, or ARB for other reasons (eg, hyperkalemia, kidney dysfunction), hydralazine plus isosorbide dinitrate may be used as an alternative. (See "Secondary pharmacologic therapy for heart failure with reduced ejection fraction", section on 'Renin-angiotensin/neprilysin blocker intolerance'.)
+
+Beta blocker – We recommend treatment with metoprolol succinate, carvedilol, sustained-release carvedilol, or bisoprolol rather than with other beta blockers (Grade 1B). The initial doses are described in a table (table 2).
+
+Beta blockers are commonly initiated after optimal treatment for volume overload and soon after the patient has started an ARNI, ACE inhibitor, or ARB monotherapy. (See 'Beta blocker' above.)
+
+Mineralocorticoid receptor antagonist – We suggest eplerenone rather than spironolactone (Grade 2C). This preference is based on a lower risk of endocrine side effects (eg, gynecomastia, impotence in males) with eplerenone. However, if cost is a barrier to treatment with eplerenone, spironolactone is a reasonable first choice.
+
+We typically initiate MRA therapy soon after initiation of a renin-angiotensin-aldosterone system (RAAS)-neprilysin inhibitor and a beta blocker, while allowing enough time to assess the effect of these other agents on renal function, hyperkalemia, and overall clinical stability. (See 'Mineralocorticoid receptor antagonist' above.)
+
+SGLT2 inhibitor – We suggest therapy with dapagliflozin or empagliflozin rather than other SGLT2 inhibitors (Grade 2C).
+
+Patients may start an SGLT2 inhibitor prior to the use of a RAAS-neprilysin inhibitor, beta blocker, or MRA. However, the effects of SGLT2 inhibitor treatment (eg, diuretic effect causing lower blood pressure) should not prevent therapy with one of these agents. (See 'Sodium-glucose co-transporter 2 inhibitors' above.)
+
+Sequence of therapy – We typically add each drug sequentially, rather than all at once, to allow for identification of the source of any adverse effect or intolerance. In general, we use a sequence of therapy that follows the order in which these agents were studied (ie, ARNI, beta blocker, MRA, and, finally, SGLT2 inhibitor). However, patient characteristics (potassium, blood pressure, HF severity) can allow for a different sequence of therapy, and some experts advocate for initiation of more than one drug at the same time. (See 'Sequence of therapy' above.)
+
+Adding an agent before dose optimization – We start additional agents prior to maximizing the dose of any given primary therapy for HFrEF unless there is a clinical need to increase the dose of a RAAS inhibitor, beta blocker, or MRA (eg, uncontrolled hypertension, rate control for atrial fibrillation). (See 'Adding an agent before dose optimization' above.)
+
+Time course for initiation – The primary therapies for HFrEF should be started over the shortest time course possible but in a manner that allows for assessment of the tolerance of each agent. In general, we start each of the primary agents for the treatment of HFrEF within two to three months of initiating therapy. (See 'Time course for initiation' above.)
+
+Duration of therapy – Pharmacologic therapy for treatment of HFrEF is generally continued indefinitely, even in patients with recovery of systolic function. (See 'Duration of therapy' above.)

@@ -1,0 +1,315 @@
+INTRODUCTION
+Alcohol-associated liver disease (ALD) includes several liver disorders, including alcoholic hepatitis, alcohol-associated steatosis, alcohol-associated steatohepatitis, and alcohol-associated cirrhosis. Patients with excessive alcohol intake (eg, ≥30 grams per day [one standard drink contains 14 grams of alcohol (figure 1)]) are at increased risk of cirrhosis, although many individuals will not develop cirrhosis despite alcohol consumption. Unfortunately, among those who do develop liver disease, symptoms have often presented only after severe, life-threatening liver disease has already developed.
+
+This topic will review the clinical manifestations and diagnosis of alcohol-associated steatohepatitis and alcohol-associated cirrhosis. The pathophysiology and management of ALD are discussed separately. (See "Pathogenesis of alcohol-associated liver disease" and "Management of alcohol-associated steatosis and alcohol-associated cirrhosis".)
+
+Issues related to liver transplantation for patients with ALD are presented separately. (See "Liver transplantation for alcohol-associated liver disease".)
+
+Treatment of alcohol use disorder is presented separately. (See "Alcohol use disorder: Treatment overview".)
+
+The clinical manifestations, diagnosis, and management of alcoholic hepatitis are presented separately. (See "Alcoholic hepatitis: Clinical manifestations and diagnosis" and "Management and prognosis of alcoholic hepatitis".)
+
+EPIDEMIOLOGY
+
+Prevalence — Alcohol use disorder is common worldwide, with an estimated lifetime prevalence of 18 percent among adults in the United States. In a large study using data from the National Health and Nutrition Examination Survey, the prevalence of alcohol-associated fatty liver disease among adults in the United States was 4 percent [1]. Mortality related to alcohol-associated liver disease (ALD) in the United States was estimated at 5.5 per 100,000 persons in 2012 [2,3]. (See "Risky drinking and alcohol use disorder: Epidemiology, clinical features, adverse consequences, screening, and assessment".)
+
+Rates of ALD are higher in areas with greater per capita alcohol consumption compared with areas with low levels of consumption. Areas with high rates of alcohol consumption and ALD include Eastern Europe, Southern Europe, and the United Kingdom [4]. Environmental factors such as colder climate and fewer sunlight hours have been linked to increased alcohol consumption [5]. Alarm over the rising impact of ALD has provoked national response in the United Kingdom to address this crisis [6], in addition to concern from the World Health Organization [7] and international thought leaders [8]. Moreover, alcohol consumption in late adolescence increases the risk of severe liver disease later in life [9].
+
+The coronavirus disease 2019 (COVID-19) pandemic has been associated with a marked increase in hospitalizations related to alcohol-associated liver disease [10]. While underlying reasons have not been fully characterized, this trend has been attributed to disruption of services for alcohol rehabilitation, in addition to economic and psychologic stress related to the pandemic. Issues related to liver disease in adults with COVID-19 are discussed separately. (See "COVID-19: Issues related to liver disease in adults".)
+
+Risk factors — The primary risk factor for alcohol-associated liver disease is alcohol consumption above the threshold that puts an individual at risk for health consequences (ie, risky alcohol use). The thresholds for alcohol consumption vary based on patient age, patient biologic sex, and drinking pattern [11]. This is discussed in more detail separately. (See "Risky drinking and alcohol use disorder: Epidemiology, clinical features, adverse consequences, screening, and assessment", section on 'Terminology'.)
+
+However, many individuals whose alcohol consumption exceeds these thresholds do not develop liver disease. Other factors associated with increased risk of alcohol-associated liver injury have included [12-14]:
+
+Tobacco use [15]
+
+Higher body mass index
+
+Coexisting conditions (eg, chronic viral hepatitis, nonalcohol-associated fatty liver disease [NAFLD])
+
+Metabolic and lifestyle factors have been linked to risk of alcohol-associated cirrhosis. In a case-control study including 1293 patients with alcohol-associated cirrhosis and 754 individuals with similar lifetime alcohol exposure but without liver disease, patients with cirrhosis were more likely to have diabetes (odds ratio [OR] 3.09, 95% CI 2.02-4.72) and higher premorbid body mass index (OR 1.06, 95% CI 1.03-1.09) [16]. On multivariate analysis, patients with cirrhosis were less likely to be coffee drinkers or tea drinkers (OR 0.64, 95% CI 0.50-0.83 and OR 0.70, 95% CI 0.51-0.95, respectively). If these findings are confirmed, lifestyle interventions such as weight loss may be used to reduce the risk of alcohol-associated cirrhosis (see "Benefits and risks of caffeine and caffeinated beverages", section on 'Cirrhosis'). The pathogenesis of ALD including genetic factors is discussed separately. (See "Pathogenesis of alcohol-associated liver disease".)
+
+NATURAL HISTORY
+The spectrum of ALD ranges from alcohol-associated fatty liver or steatosis to alcohol-associated steatohepatitis, and eventually to alcohol-associated cirrhosis that may lead to hepatocellular carcinoma. Hepatic steatosis is seen in approximately 90 percent of heavy drinkers and is typically macrovesicular [17-19]. It may be seen within two weeks of regular alcohol ingestion and resolves rapidly with abstinence [20,21]. In a study of four patients with normal baseline liver biopsies, ingestion of 98 to 138 grams of alcohol per day resulted in moderate to marked steatosis in all four after 16 to 18 days [20]. It has been estimated that a third of patients with steatosis will develop hepatic inflammation (steatohepatitis) if they continue to drink [22]. ALD is increasing in many parts of Asia [23].
+
+Once steatohepatitis has developed, the risk of cirrhosis is increased compared with simple steatosis. In one study, over a five-year period, cirrhosis developed in 16 percent of patients with steatohepatitis and in 7 percent of patients with simple steatosis [24]. Higher rates of progression to cirrhosis are seen among patients with steatohepatitis who continue to drink or who present with symptomatic alcoholic hepatitis (up to 50 percent for both groups) [25-28]. Overall, it is estimated that 8 to 20 percent of patients with steatosis will eventually progress to cirrhosis [29].
+
+Hepatic decompensation is common among patients with alcohol-associated cirrhosis. In a population-based study from Denmark that included 446 patients with alcohol-associated cirrhosis, the risk of complications (ascites development, variceal bleeding, or hepatic encephalopathy) was approximately 25 percent after one year and 50 percent after five years [30]. Once hepatic decompensation develops, the expected five-year transplant-free survival rate is 60 percent for those who stop drinking alcohol and 30 percent for those who continue to drink alcohol [25,31-33].
+
+CLINICAL MANIFESTATIONS
+The clinical manifestations of ALD depend on the severity of disease. Patients with simple steatosis are often asymptomatic, patients with alcoholic hepatitis typically present with jaundice, and patients who have developed cirrhosis may have peripheral stigmata of liver disease or signs of hepatic decompensation [34]. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Clinical manifestations'.)
+
+The clinical manifestations in patients with alcoholic hepatitis are reviewed separately. (See "Alcoholic hepatitis: Clinical manifestations and diagnosis", section on 'Clinical manifestations'.)
+
+Signs and symptoms — Patients with alcohol-associated fatty liver are typically asymptomatic [35]. Patients who have developed cirrhosis may report jaundice, weakness, peripheral edema, abdominal distension, or symptoms of gastrointestinal bleeding, such as hematemesis or melena. Patients with hepatic encephalopathy may note disturbances in their sleep pattern and confusion. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Clinical manifestations' and "Cirrhosis in adults: Overview of complications, general management, and prognosis", section on 'Major complications' and "Hepatic encephalopathy in adults: Clinical manifestations and diagnosis", section on 'Clinical manifestations'.)
+
+Formal health-related, quality-of-life metrics in patients with all forms of liver disease, including alcohol-associated liver disease, are increasingly being employed [36].
+
+Physical examination findings — Physical examination findings in patients with ALD range from a normal physical examination to evidence of cirrhosis with hepatic decompensation (table 1). Patients with steatosis may have a normal examination or hepatomegaly. Patients who have developed cirrhosis may have stigmata of chronic liver disease (eg, spider angiomata, palmar erythema, gynecomastia). With hepatic decompensation, patients may develop ascites, peripheral edema, or hepatic encephalopathy. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Physical examination' and "Cirrhosis in adults: Overview of complications, general management, and prognosis", section on 'Major complications'.)
+
+Patients with ALD often have coexisting dysfunction in other organs and may have signs of cardiomyopathy, neuropathies, pancreatic dysfunction, and skeletal muscle wasting. (See "Alcohol-induced cardiomyopathy", section on 'Clinical manifestations' and "Overview of the chronic neurologic complications of alcohol", section on 'Clinical features' and "Chronic pancreatitis: Clinical manifestations and diagnosis in adults", section on 'Clinical manifestations'.)
+
+Laboratory tests — There are several characteristic laboratory abnormalities in patients with ALD, but none are diagnostic (table 2). The classic finding is moderately elevated aminotransferases, with an aspartate aminotransferase (AST) to alanine aminotransferase (ALT) ratio >1 (and often >2).
+
+Liver test abnormalities — Serum aminotransferase levels may be normal or moderately elevated in the setting of alcohol-associated fatty liver disease and alcohol-associated cirrhosis [37,38]. The AST elevation is usually less than eight times the upper limit of normal, and the ALT elevation is typically less than five times the upper limit of normal. The degree of elevation does not correlate with the severity of the underlying liver disease [35].
+
+Unlike other forms of liver disease in which the serum ALT level often is higher than the serum AST level, the most common pattern of liver biochemical test abnormalities in ALD is a disproportionate elevation of the AST compared with the ALT, resulting in a ratio greater than one [37-41]. As an example, in a study that included 38 patients with ALD, the mean AST was 92 international units/L, and the ALT was 80 international units/L (AST to ALT ratio of 1.2) [42]. The relatively lower elevation of serum ALT has been ascribed in part to hepatic deficiency of pyridoxal 5'-phosphate in patients with alcohol use disorder, which is a cofactor for the enzymatic activity of ALT [41]. According to this hypothesis, the altered ratio reflects a failure to appropriately increase the ALT, rather than a disproportionate elevation in AST.
+
+An AST to ALT ratio >1 is occasionally seen in patients with nonalcoholic steatohepatitis (NASH) and is frequently seen in patients who have developed nonalcohol-associated cirrhosis. However, if the ratio is greater than two, the transaminase elevations are likely due to ALD since values greater than two are rarely seen in other forms of liver disease [39,40]. In a study of 271 patients with biopsy-confirmed liver disorders, more than 90 percent of the patients whose AST to ALT ratio was ≥2 had ALD [43]. The percentage increased to greater than 96 percent when the ratio was ≥3. (See "Approach to the patient with abnormal liver biochemical and function tests", section on 'Laboratory tests'.)
+
+The gamma-glutamyl transpeptidase (GGT) is often elevated in patients with ALD [38,44]. In a study that included 123 patients with alcohol use disorder, all of the patients with liver disease had elevations of the GGT approximately 8 to 10 times the upper limit of normal [44]. The GGT elevations persisted after eight weeks of abstinence. However, GGT elevations are not specific for ALD. For example, elevated GGT levels may be seen in patients with biliary or pancreatic disease and in patients taking certain medications such as barbiturates and phenytoin. (See "Enzymatic measures of cholestasis (eg, alkaline phosphatase, 5'-nucleotidase, gamma-glutamyl transpeptidase)", section on 'Gamma-glutamyl transpeptidase'.)
+
+Elevated bilirubin levels are frequently seen in patients with decompensated cirrhosis from any cause, including ALD. Elevation of the bilirubin in a patient who does not have cirrhosis should raise concern for alcoholic hepatitis. Patients who are malnourished or who have cirrhosis may have low albumin levels. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Laboratory findings' and "Alcoholic hepatitis: Clinical manifestations and diagnosis", section on 'Laboratory tests' and "Tests of the liver's biosynthetic capacity (eg, albumin, coagulation factors, prothrombin time)", section on 'Albumin'.)
+
+Hematologic abnormalities — Hematologic findings in patients with ALD may include thrombocytopenia, anemia, an elevated mean corpuscular volume (MCV), a decreased lymphocyte count, an elevated erythrocyte sedimentation rate (ESR), and an elevated international normalized ratio (INR) [37,45]. Macrocytosis suggests longstanding disease and may result from vitamin B12 or folate deficiency, alcohol toxicity, or increased lipid deposition in red cell membranes. Similarly, thrombocytopenia may result from primary bone marrow hypoplasia (which can be due to alcohol and is usually brief) or splenic sequestration (due to portal hypertension and an enlarged spleen). (See "Hematologic complications of alcohol use".)
+
+In one study that included 40 patients with alcohol-associated liver disease, the following mean laboratory test results were noted [45]:
+
+Hemoglobin and hematocrit: 12 g/dL and 33.7 percent, respectively
+
+MCV: 91.6 fL
+
+Lymphocyte percentage: 24.8 percent
+
+ESR: 25.9
+
+INR: 1.6
+
+Other abnormalities — Additional laboratory findings that may be seen in patients who have progressed to cirrhosis include hyponatremia and an elevated creatinine in patients with hepatorenal syndrome. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Laboratory findings' and "Hepatorenal syndrome", section on 'Clinical presentation'.)
+
+Radiographic imaging — Transabdominal ultrasound, abdominal computed tomography, and abdominal magnetic resonance imaging may show signs of hepatic steatosis or cirrhosis in patients with ALD. (See 'Imaging studies' below.)
+
+DIAGNOSIS
+Alcohol-associated liver disease may be suspected in a patient with a compatible history who has elevated serum aminotransferases, a suggestion of fatty liver on imaging tests, or is found to have steatosis on liver biopsy. Liver tests are generally normal or modestly elevated, and jaundice is unusual. The diagnosis is established after excluding other causes of fatty liver or cirrhosis [46,47]. (See 'When to consider alcohol-associated liver disease' below.)
+
+Our approach to the diagnosis of alcohol-associated liver disease is generally consistent with society guidelines [12,48,49]. (See 'Society guideline links' below.)
+
+The evaluation includes:
+
+Obtaining a very detailed history to quantify alcohol use and drinking patterns and to identify other potential sources of hepatic injury (see 'History' below).
+
+Performing a physical examination to identify stigmata of chronic liver disease (see 'Physical examination' below).
+
+Obtaining laboratory tests to look for signs of hepatic inflammation and to assess hepatic synthetic function, including (see 'Standard laboratory evaluation' below):
+
+Liver blood tests – Serum aminotransferases, bilirubin, alkaline phosphatase, gamma-glutamyl transaminase
+
+Complete blood count
+
+Serum albumin level
+
+Coagulation studies – Prothrombin time, international normalized ratio (INR)
+
+Obtaining laboratory tests to identify other causes of chronic hepatic injury, including (see 'Tests for other causes of liver disease' below):
+
+Hepatitis B surface antigen, anti-hepatitis B core antibody
+
+Antibodies to hepatitis C virus (HCV)
+
+Serum ferritin and transferrin saturation for hemochromatosis
+
+Total IgG or gamma-globulin level, antinuclear antibody, anti-smooth muscle antibody, anti-liver/kidney microsomal-1 (anti-LKM-1) antibodies for autoimmune hepatitis
+
+Clinical and laboratory features are often adequate for establishing the diagnosis of ALD in a patient with a history of excessive alcohol use, provided the patient does not have risk factors for other causes of liver disease and testing for other common causes of liver disease is negative. In a study of patients with chronically elevated liver biochemical tests, the sensitivity and specificity of clinical findings for diagnosing ALD were 91 and 97 percent, respectively, when liver biopsy was used as the gold standard [50].
+
+Liver imaging may provide evidence of hepatic steatosis or cirrhosis, but it is not able to differentiate ALD from other causes. Ultrasound is always indicated to confirm that the liver is homogeneous and to exclude other causes of abnormal liver tests (eg, biliary obstruction, hepatic mass). More detailed liver imaging (eg, computed tomography [CT] or magnetic resonance imaging [MRI]) is obtained for patients with suspected cirrhosis or ultrasound evidence of biliary tract obstruction (eg, jaundice, elevation of liver tests in a cholestatic pattern). (See 'Imaging studies' below.)
+
+A liver biopsy may be required if the diagnosis remains uncertain following a noninvasive evaluation. In addition, it can establish the severity of liver disease. (See 'Liver biopsy' below.)
+
+There is increasing interest in clinical trials for the disease, which has generated more rigorous, standardized criteria for establishing a diagnosis of alcoholic hepatitis, which should allow more consistent inclusion and characterization of patients in therapeutic trials [51,52]. These include: onset of jaundice within prior eight weeks; ongoing consumption of >40 (female) or 60 (male) grams alcohol per day for six months or more, with less than 60 days of abstinence before the onset of jaundice; aspartate aminotransferase >50, aspartate aminotransferase/alanine aminotransferase >1.5-fold, and both values <400 International Units/L; serum bilirubin (total) >3 mg/dL; and liver biopsy confirmation in patients with confounding factors. In addition, stratification should be based on severity as assessed by Maddrey discriminant function >32, assuming a control prothrombin time of 12 seconds and Model for end stage liver disease (MELD) score >20. In addition, the authors have defined common data elements and end points to be assessed in an effort to further standardize clinical trial design for experimental therapies [51].
+
+When to consider alcohol-associated liver disease — Alcohol-associated liver disease should be suspected in patients with a history of significant alcohol consumption who present with:
+
+Abnormal aminotransferases (particularly if the aspartate aminotransferase [AST] is greater than the alanine aminotransferase [ALT])
+
+Hepatomegaly
+
+Radiographic imaging suggesting hepatic steatosis or fibrosis/cirrhosis
+
+A liver biopsy showing steatosis or cirrhosis
+
+Several definitions have been proposed for what constitutes significant alcohol consumption [53]. We define significant alcohol consumption as an average consumption of >210 grams of alcohol per week in men or >140 grams of alcohol per week in women over at least a two-year period. This is generally consistent with guidelines from the National Institute on Alcohol Abuse and Alcoholism and the United Kingdom [54,55].
+
+A standard drink in the United States (12 oz [360 mL] of beer, 5 oz [150 mL] of wine, 1.5 oz [45 mL] of 80-proof spirits) contains approximately 14 grams of alcohol (figure 1), so the limits above roughly translate to >15 drinks per week for men and >10 drinks per week for women.
+
+History — The history should include questioning to assess a patient's alcohol use and to elicit risk factors for other causes of liver disease. Obtaining an accurate alcohol use history in patients with suspected alcohol-associated liver disease can be difficult since many patients do not readily admit to heavy alcohol use. In some cases, speaking with the patient's family or friends may help in obtaining a more accurate history. Patients should be asked about their pattern of alcohol use, the type of alcohol consumed, and the amount of alcohol ingested. Several screening tools exist to identify patients with alcohol use disorder. (See "Screening for unhealthy use of alcohol and other drugs in primary care", section on 'Screening tests' and 'Differential diagnosis' below and "Approach to the patient with abnormal liver biochemical and function tests".)
+
+To identify risk factors for other causes of liver disease, the patient should also be carefully questioned about medication use (including herbal supplements and over-the-counter medications), possible parenteral exposures to viral hepatitis (including transfusions, intravenous and intranasal drug use, tattoos, and sexual activity), occupational exposures to hepatotoxins, family history of liver disease, and whether the patient has a history of diseases that may be associated with liver disease (such as the metabolic syndrome, celiac disease, or autoimmune disorders). (See "Approach to the patient with abnormal liver biochemical and function tests", section on 'History'.)
+
+Physical examination — Patients with suspected alcohol-associated liver disease (ALD) should be examined for hepatomegaly and signs of chronic liver disease such as spider angiomata, ascites, splenomegaly, and gynecomastia. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Physical examination'.)
+
+Physical findings in patients with ALD may vary from normal to evidence of cirrhosis or hepatic decompensation (table 1). Patients with ALD may also have extrahepatic manifestations of alcohol use disorder such as cardiomyopathy, neuropathies, pancreatitis, and skeletal muscle wasting. As a result, a thorough physical examination should be carried out to identify problems outside of the liver. (See "Overview of the risks and benefits of alcohol consumption", section on 'Alcohol effect on specific conditions' and "Alcohol-induced cardiomyopathy" and "Overview of the chronic neurologic complications of alcohol".)
+
+Laboratory tests — Laboratory testing in patients with suspected ALD includes testing for evidence of hepatitis and liver synthetic dysfunction. In addition, patients should be tested for other causes of liver disease that may coexist with ALD or may offer alternative explanations for a patient's liver disease. There are several characteristic laboratory abnormalities in patients with ALD, but none are diagnostic (table 2). (See 'Laboratory tests' above.)
+
+Standard laboratory evaluation — Laboratory tests that should be obtained in patients with suspected ALD include liver tests (serum aminotransferases, bilirubin, alkaline phosphatase, gamma-glutamyl transaminase), a complete blood count, serum albumin, and coagulation studies (prothrombin time, INR). In addition, patients with ascites should undergo paracentesis to confirm that the ascites is due to portal hypertension (serum-to-ascites albumin gradient ≥1.1 g/dL [11 g/L]). (See 'Laboratory tests' above and "Evaluation of adults with ascites", section on 'Determining the cause of the ascites'.)
+
+There are no laboratory tests that reliably differentiate ALD from other causes of liver disease. However, an AST to ALT ratio >2 is highly suggestive of ALD. (See 'Liver test abnormalities' above.)
+
+Tests for other causes of liver disease — Patients with suspected ALD should also be tested for other causes of hepatitis that may be responsible for the patients liver disease or may coexist with ALD. The combination of alcohol use with other liver diseases such as hereditary hemochromatosis, nonalcoholic steatohepatitis, chronic viral hepatitis, and autoimmune liver disease can lead to an accelerated rate of fibrosis compared with the disorders in isolation [56].
+
+In order to rule out other common causes of chronic hepatitis, patients should be tested for the following:
+
+Hepatitis B surface antigen, anti-hepatitis B core antibody
+
+Antibodies to hepatitis C virus
+
+Serum ferritin and transferrin saturation for hemochromatosis
+
+Total IgG or gamma-globulin level, antinuclear antibody, anti-smooth muscle antibody, anti-liver/kidney microsomal-1 (anti-LKM-1) antibodies for autoimmune hepatitis
+
+Ferritin production and the plasma ferritin concentration are increased in the absence of iron overload in certain liver diseases, including ALD and acute or subacute hepatitis (from any cause) [57]. As a result, in patients with acute or subacute hepatitis testing should be deferred until the patient has recovered from the acute episode. In addition, the serum transferrin saturation in ALD may reach or exceed 60 percent, perhaps because alcohol suppresses liver transferrin synthesis. As a result, if ferritin levels or the transferrin saturation are high, additional testing for hemochromatosis is indicated. (See "Approach to the patient with suspected iron overload", section on 'Diagnosis' and "Approach to the patient with suspected iron overload".)
+
+Additional testing will depend upon the patient's symptoms and risk factors for other causes of liver disease and may include testing for (see "Approach to the patient with abnormal liver biochemical and function tests"):
+
+Nonalcoholic fatty liver disease (see "Epidemiology, clinical features, and diagnosis of nonalcoholic fatty liver disease in adults")
+
+Wilson disease (see "Wilson disease: Clinical manifestations, diagnosis, and natural history", section on 'When to suspect Wilson disease')
+
+Alpha-1 antitrypsin deficiency (see "Clinical manifestations, diagnosis, and natural history of alpha-1 antitrypsin deficiency", section on 'Evaluation and diagnosis')
+
+Hyperthyroidism (see "Diagnosis of hyperthyroidism", section on 'Clinical manifestations')
+
+Celiac disease (see "Epidemiology, pathogenesis, and clinical manifestations of celiac disease in adults", section on 'Clinical manifestations')
+
+Primary biliary cholangitis (see "Clinical manifestations, diagnosis, and prognosis of primary biliary cholangitis", section on 'Clinical manifestations')
+
+Primary sclerosing cholangitis (see "Primary sclerosing cholangitis in adults: Clinical manifestations and diagnosis", section on 'Clinical manifestations')
+
+In some cases, if the clinical picture is only partially consistent with ALD (eg, liver disease in a patients with moderate alcohol use or an AST to ALT ratio <1), but no alternative causes are identified noninvasively, a liver biopsy may be required. (See 'Liver biopsy' below.)
+
+Imaging studies — Imaging studies can be used to assess for hepatic parenchymal changes, but they cannot confirm that the changes are the result of ALD. Ultrasound, CT, and MRI can be used to diagnose fatty change, cirrhosis, or neoplastic diseases of the liver. They can also rule out obstructive biliary pathology.
+
+Ultrasound — Ultrasound can detect hepatic steatosis, but will miss many patients with <30 percent steatosis [58,59]. Ultrasonography in patients with fatty liver may reveal a liver with a hyperechoic texture [58-60]. In patients with fibrosis, the ultrasound may reveal a coarse echo pattern. If cirrhosis has developed, nodules may be seen, causing an irregular outline of the liver surface.
+
+Studies of ultrasound for evaluation of hepatic steatosis and fibrosis have found the following:
+
+In a study of 235 patients with suspected liver disease, the sensitivity of a hyperechoic pattern on ultrasound for hepatic steatosis was 64 percent, with a specificity of 97 percent [58]. Among patients with ≥30 percent steatosis, the sensitivity was 91 percent, with a specificity of 93 percent.
+
+In a study that included 35 patients with significant hepatic fibrosis (advanced fibrosis or cirrhosis), the sensitivity of ultrasound for significant fibrosis was 57 percent [59]. Among patients with established cirrhosis, the sensitivity was 71 percent. The overall specificity was 88 percent.
+
+Computed tomography — Hepatic steatosis is readily detected by CT scan [61]. Liver attenuation in patients with hepatic steatosis is lower than that seen in the spleen. On non-contrast-enhanced images, the attenuation value of normal liver is between 45 and 65 HU and is typically 8 HU higher than that of the spleen. However, in patients with hepatic steatosis, the attenuation value of the liver is typically 10 to 25 HU less than the spleen. With severe steatosis, liver attenuation may be less than unenhanced hepatic venous structures. The relative densities of the liver and spleen are highly variable on contrast-enhanced CT, so the diagnosis of steatosis is based on non-contrast-enhanced images.
+
+CT findings in patients with cirrhosis may include atrophy of the right lobe of the liver, hypertrophy of the caudate lobe, hypertrophy of the lateral segment of the left lobe, parenchymal nodularity, attenuation of hepatic vasculature, splenomegaly, venous collaterals, and ascites [62]. In some cases, the liver may be diffusely atrophic or hepatomegaly may be seen.
+
+In a study that included 35 patients with cirrhosis (20 patients), alcoholic hepatitis alone (one patient), or hepatic steatosis (14 patients) along with 10 control patients, CT scan had a sensitivity for cirrhosis of 78 percent and for fatty liver of 81 percent. There was only one control patient with false-positive results (specificity of 90 percent).
+
+Magnetic resonance imaging and spectroscopy — Gradient echo magnetic resonance (MR) pulse sequences are sensitive for detecting hepatic steatosis [61]. Water and fat are imaged in and out of phase. With in-phase imaging, the signal intensities are additive, whereas when out-of-phase, the signal intensities cancel each other out. If there is a significant amount of intracellular fat, the signal intensity on the out-of-phase images will be lower than that seen on the in-phase images. In a study of 33 patients with diabetes (and thus at risk for nonalcohol-associated fatty liver disease), the sensitivity of in-phase and out-of-phase MRI for hepatic steatosis was 95 percent, with a specificity of 98 percent [63]. On T1-weighted and T2-weighted images, focal hepatic steatosis may result in higher signal intensity compared with normal liver.
+
+Regenerative nodules in patients with cirrhosis may appear hypointense, isointense, or hyperintense related to the background liver on T1-weighted images [62]. On T2-weighted images, the signal intensity of the regenerative nodules does not increase (unlike hepatocellular carcinoma). The nodules on T2-weighted images are often hypointense or isointense.
+
+On MRI, specific features that are suggestive of alcohol-associated cirrhosis versus cirrhosis from viral hepatitis include a higher volume index of the caudate lobe, smaller size of regenerative nodules of the liver, and more frequent visualization of the right posterior hepatic notch [64]. In a study that included 23 patients with chronic hepatitis, diffusion-weighted MRI had a sensitivity for detecting advanced fibrosis or cirrhosis of 83 percent, with a specificity of 80 percent.
+
+MR spectroscopy is a specialized MRI sequence that allows assessment of the chemical composition of tissue. Proton MR spectroscopy can be used to quantify lipid content [65]. It has been used to estimate hepatic fat volume fractions and correlates well with histology [66]. However, the technique is not widely available.
+
+An experimental tool for diagnosing ALD is hepatic phosphorus 31 MR spectroscopy, which can calculate hepatic energy metabolism and phospholipid membrane metabolism [67]. Patients with cirrhosis from alcohol have lower phosphodiester to adenosine triphosphate (ATP) ratios than patients with cirrhosis from other causes [68].
+
+Other noninvasive methods to detect fibrosis — Other methods for the detection of hepatic fibrosis, including transient elastography and magnetic resonance elastography, are discussed in detail elsewhere. (See "Noninvasive assessment of hepatic fibrosis: Overview of serologic tests and imaging examinations".)
+
+Liver biopsy
+
+Patients who may need a liver biopsy — Clinical and laboratory features are often adequate for establishing the diagnosis of ALD in a patient with a history of significant alcohol use, provided the patient does not have risk factors for other causes of liver disease and testing for other common causes of hepatitis is negative. However, a liver biopsy may be required if the diagnosis remains uncertain following a noninvasive evaluation. In addition, it can establish the severity of liver disease.
+
+The decision to perform a biopsy should consider the confidence of the clinical diagnosis and the role that the biopsy findings would have in guiding therapeutic options. As a general rule, a biopsy may be indicated in:
+
+Any patient with serum aminotransferase elevations that persist for more than six months without a clear explanation, even if the patient is asymptomatic.
+
+Patients who have elevated aminotransferases and evidence of clinically significant hepatic dysfunction (eg, abnormal prothrombin time, hypoalbuminemia). If a coagulopathy is present, transjugular biopsy is usually safer than percutaneous biopsy. (See "Transjugular liver biopsy".)
+
+Patients in whom the diagnosis of ALD is uncertain based on clinical and laboratory findings.
+
+Patients who may have more than one cause of liver disease (such as alcohol and hepatitis C virus) in whom a liver biopsy may help determine the relative contribution of these factors (picture 1).
+
+Patients in whom a more detailed understanding of prognosis is desired. (See "Management of alcohol-associated steatosis and alcohol-associated cirrhosis", section on 'Prognosis'.)
+
+Histologic findings — Early changes in patients with ALD seen under the electron microscope include accumulation of membrane-bound large droplet (macrovesicular) steatosis, proliferation of smooth endoplasmic reticulum, and gradual distortion of mitochondria [69]. This is most often seen in the pericentral region of hepatic lobules (zone 3) [70]. Fat accumulation can be seen easily by light microscopy; inflammatory changes are minimal at this stage apart from occasional lipogranulomata in pericentral zones [71].
+
+Fat in ALD is typically macrovesicular and composed of neutral triglycerides. However, small droplets of triglycerides may resemble microvesicular fat (and indeed are sometimes referred to as such on pathology reports) but are not the same as the lipid droplets that form microvesicular fat in other disorders such as acute fatty liver of pregnancy (picture 2), tetracycline toxicity, and Reye's syndrome. Microvesicular fat in these conditions (which is composed of free fatty acids that are hepatotoxic) can only be detected by special stains and not on standard light microscopy.
+
+Steatosis may progress to steatohepatitis. As with steatosis, inflammation is typically first seen in zone 3. As the disease progresses, the histologic changes may extend to the portal tracts. The findings may vary among patients with regard to their extent and severity. The presence of neutrophils is a hallmark of alcohol-associated steatohepatitis and is unusual in chronic viral hepatitis. Their role in pathogenesis is discussed separately. (See "Pathogenesis of alcohol-associated liver disease".)
+
+Mallory-Denk bodies (previously called Mallory bodies or Mallory's hyaline) are eosinophilic accumulations of intracellular protein aggregates within the cytoplasm of hepatocytes (picture 4B). They represent condensations of intracellular "intermediate filaments" or cytokeratins that are normal components of the hepatocyte cytoskeleton [72]. The mechanisms underlying Mallory-Denk body formation in ALD are unclear. Furthermore, they are not specific for alcohol-associated steatohepatitis and can be seen in nonalcoholic steatohepatitis (NASH) [73], Indian childhood cirrhosis (thought in part to be due to high copper intake), starvation, after jejunoileal bypass surgery, or after the use of certain drugs (such as amiodarone or perhexiline). (See "Epidemiology, clinical features, and diagnosis of nonalcoholic fatty liver disease in adults".)
+
+Mallory-Denk bodies do not appear to have a pathogenic role in the hepatic injury. However, their presence is an important marker of alcohol-induced injury. In a large, multicenter Veterans Administration study, Mallory-Denk bodies were detected in 76 percent of those with alcoholic hepatitis and in 95 percent of those who also had cirrhosis [74].
+
+Alcohol-associated fibrosis, like the other lesions seen in ALD, first appears in zone 3 and may progress to become panlobular, particularly in those who continue to drink [75]. Early zone 3 fibrosis, also called hyaline necrosis, predicts a high likelihood of eventual cirrhosis [76,77]. Since patients with alcohol use disorder often deny having a drinking problem, the presence of zone 3 fibrosis can sometimes be used to convince a patient who drinks heavily that his or her drinking is a problem and that eventual progression to end-stage liver disease is virtually certain with continued alcohol use.
+
+The term "fibrosis" in this setting denotes the accumulation of scar or extracellular matrix and is potentially reversible in the absence of continued alcohol use. By contrast, true cirrhosis (picture 3A-B) is characterized by the presence of regenerative nodules and is generally thought to be irreversible, even in the absence of further alcohol ingestion. Cirrhosis in ALD may be micronodular or macronodular [78,79]. In addition, some patients with micronodular cirrhosis will later progress to macronodular cirrhosis [79]. (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Etiologies and classification'.)
+
+DIFFERENTIAL DIAGNOSIS
+There are numerous causes of hepatic steatosis and cirrhosis other than ALD. In particular, nonalcoholic steatohepatitis should be considered since its clinical and histologic features are very similar to those seen in patients with ALD.
+
+Differential diagnosis of hepatic steatosis — The differential diagnosis of hepatic steatosis includes [80]:
+
+Alcohol-associated liver disease
+
+Nonalcoholic fatty liver disease (NAFLD)
+
+Hepatitis C virus infection (particularly genotype 3)
+
+Wilson disease
+
+Lipodystrophy
+
+Starvation
+
+Parenteral nutrition
+
+Abetalipoproteinemia
+
+Medications (amiodarone, tetracycline, methotrexate, tamoxifen, glucocorticoids, valproate, anti-retroviral agents for HIV)
+
+Reye syndrome
+
+Acute fatty liver of pregnancy
+
+HELLP (hemolytic anemia, elevated liver enzymes, low platelet count) syndrome
+
+Inborn errors of metabolism (LCAT deficiency, cholesterol ester storage disease, Wolman disease)
+
+Some of these entities may be suggested by the patient's medical and social history. Other causes may be suspected based upon the patient's age such as abetalipoproteinemia, Reye syndrome, and inborn errors of metabolism, which are seen in children, or Wilson disease, which is typically seen in patients under the age of 40 years. Other causes may be suggested by the physical examination such as Kayser-Fleischer rings in patients with Wilson disease.
+
+Based on the likelihood of a given diagnosis, specific testing can be performed to narrow the differential diagnosis. (See 'Laboratory tests' above.)
+
+Differential diagnosis of cirrhosis — Many causes of chronic liver disease may result in cirrhosis, including chronic viral hepatitis, hemochromatosis, primary biliary cholangitis, primary sclerosing cholangitis, and autoimmune hepatitis. As with hepatic steatosis, a specific etiology for a patient's cirrhosis can often be determined through a combination of history, physical examination findings, and laboratory evaluation (table 3). (See "Cirrhosis in adults: Etiologies, clinical manifestations, and diagnosis", section on 'Determining the cause of cirrhosis'.)
+
+Differentiating alcohol-associated from nonalcoholic liver disease — Nonalcoholic fatty liver disease (NAFLD) is the primary consideration in patients who deny alcohol use disorder but have clinical features suggestive of alcohol-associated liver disease (such as elevated aminotransferases in the absence of serum markers of viral hepatitis).
+
+However, it can be difficult to distinguish NAFLD from alcohol-associated liver disease based upon clinical or histologic features [81]. Some histologic features of NAFLD (such as macrovesicular steatosis and inflammation with Mallory-Denk bodies) are indistinguishable from alcohol-associated liver disease (picture 4A-B) [73,82]. On the other hand, features more common in alcohol-associated liver disease than in NAFLD include canalicular cholestasis, marked ductular reaction, acute inflammation in the portal regions, and periportal fibrosis [83]. Steatosis is not always seen in alcohol-associated liver disease, whereas NAFLD is generally associated with a greater degree of steatosis and nuclear vacuolization.
+
+The presence of obesity does not help differentiate alcohol-associated fatty liver disease from NAFLD. While obesity is a known risk factor for NAFLD, it can also increase the risk of developing steatosis in heavy drinkers [31].
+
+A predictive model (the alcohol-associated liver disease to NAFLD index [ANI]) has been proposed to distinguish alcohol-associated from nonalcoholic liver disease [84]. The model is based upon aminotransferase levels, mean corpuscular volume (MCV), body mass index (BMI), and sex:
+
+ANI = -58.5 + 0.637 (MCV) + 3.91 (AST/ALT) – 0.406 (BMI) + 6.35 for men
+An ANI greater than zero favors a diagnosis of alcohol-associated liver disease, whereas an ANI less than zero favors a diagnosis of NAFLD. The probability of the patient having alcohol-associated liver disease rather than NAFLD is then calculated using the value obtained for the ANI:
+
+Probability = eANI/(1+eANI)
+The ability of the model to accurately categorize patients ranged from good to excellent in validation cohorts [84].
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Cirrhosis" and "Society guideline links: Alcoholic liver disease".)
+
+SUMMARY AND RECOMMENDATIONS
+
+Clinical features – The clinical manifestations of alcohol-associated liver disease depend on the severity of disease (table 1). (See 'Clinical manifestations' above.)
+
+Physical examination findings – Patients with steatosis may have a normal examination or hepatomegaly. Patients who have developed cirrhosis may have stigmata of chronic liver disease (eg, spider angiomata, palmar erythema, gynecomastia). With hepatic decompensation, patients may develop ascites, peripheral edema, or hepatic encephalopathy.
+
+Laboratory tests – There are several characteristic laboratory abnormalities in patients with alcohol-associated liver disease, but none is diagnostic (table 2). The classic finding is moderately elevated aminotransferases, with an aspartate aminotransferase (AST) to alanine aminotransferase (ALT) ratio >1 (and often >2). (See 'Laboratory tests' above.)
+
+Imaging – Ultrasound, computed tomography, and magnetic resonance imaging may demonstrate hepatic parenchymal changes, but they cannot confirm that the changes are the result of alcohol-associated liver disease (See 'Imaging studies' above.)
+
+Diagnostic evaluation – Alcohol-associated liver disease may be suspected in a patient with a compatible history who has elevated serum aminotransferases, a suggestion of fatty liver on imaging tests, or is found to have steatosis on liver biopsy. (See 'When to consider alcohol-associated liver disease' above.)
+
+Clinical and laboratory features are often adequate for establishing a diagnosis of alcohol-associated liver disease. The evaluation includes (see 'Diagnosis' above):
+
+Obtaining a history to quantify alcohol use and identify other potential sources of hepatic injury (see 'History' above)
+
+Performing a physical examination to identify stigmata of chronic liver disease (see 'Physical examination' above)
+
+Obtaining laboratory tests to look for signs of hepatic inflammation and to assess hepatic synthetic function (see 'Standard laboratory evaluation' above)
+
+Obtaining laboratory tests to identify other causes of hepatic injury (see 'Tests for other causes of liver disease' above)
+
+A liver biopsy may be required if the diagnosis of alcohol-associated liver disease remains uncertain following a noninvasive evaluation. In addition, it can establish the severity of liver disease. (See 'Liver biopsy' above.)

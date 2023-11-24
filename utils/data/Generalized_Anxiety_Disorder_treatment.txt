@@ -1,0 +1,207 @@
+INTRODUCTION
+Generalized anxiety disorder (GAD) is characterized by excessive worry and anxiety that are difficult to control, cause significant distress and impairment, and occur on more days than not for at least six months [1].
+
+GAD is a relatively common disorder, most often with an adult onset and chronic course [2-6]. GAD can cause significant impairments in daily functioning, diminished quality of life, and high health care costs [7,8]. The disorder can be effectively treated with cognitive-behavioral therapy, medication, or a combination of the two modalities [9].
+
+This topic describes the initial and subsequent management decisions and the pharmacologic treatment of GAD. The epidemiology, pathogenesis, clinical manifestations course, assessment, diagnosis, and psychosocial treatment of GAD are discussed elsewhere. (See "Generalized anxiety disorder in adults: Cognitive-behavioral therapy and other psychotherapies" and "Generalized anxiety disorder in adults: Epidemiology, pathogenesis, clinical manifestations, course, assessment, and diagnosis".)
+
+INITIAL MANAGEMENT DECISIONS
+
+Determining need for treatment — Once a patient has been diagnosed with generalized anxiety disorder (GAD), the next step is to determine, based on clinical assessment of severity, extent of distress or impairment, and patient preference, whether treatment of the disorder is needed. The main objective of treatment is to reduce symptoms of anxiety and thereby improve functioning.
+
+Patients with a mild subtype of GAD whose symptoms do not interfere significantly with functioning may reasonably elect to forgo treatment initially. Clinical follow-up with the patient at least every three months is important to monitor the course of the disorder. If symptoms are worsening or if daily functioning is affected, we recommend treatment.
+
+For individuals with GAD with comorbid substance use disorder, we address both disorders as treating either one individually will leave the individual more vulnerable to relapse from either disorder. (See "Treatment of co-occurring anxiety-related disorders and substance use disorders in adults", section on 'Generalized anxiety disorder'.)
+
+Choosing between medication and CBT — The main options for the management of anxiety are medications with anxiolytic effects and cognitive-behavioral therapy (CBT). For individuals with GAD who warrant treatment, the choice of treatment is individualized and one of shared decision making. Some individuals have a strong preference for one treatment over another. Specifically, some patients may be concerned about the side effects of medications and prefer to try CBT first; other patients may be concerned about the availability or time commitment required for therapy and thus opt for medications [10]. In our clinical experience, some patients with GAD, for example, individuals with comorbid depressive symptoms, may be too symptomatic to fully engage and participate in CBT. In these cases, we prefer initial treatment with pharmacotherapy. Although the combination of pharmacotherapy and CBT may be more beneficial than either alone, we find that most patients benefit from one or the other and typically reserve adding a second modality if symptoms persist. Selection of pharmacotherapy is discussed below. (See 'Initial Pharmacotherapy' below.)
+
+Various pharmacotherapies and CBT are effective treatments for GAD [9,11-23]. Head-to-head trials comparing contemporary antianxiety medications and CBT in adults are limited; meta-analyses making indirect comparisons suggest that their benefits are roughly equivalent [14]. However, methodologic concerns and heterogeneity in the studies limit the comparison of effect sizes [15]. Nevertheless, multiple trials have demonstrated their efficacy compared with placebo or no treatment:
+
+Pharmacologic management – Systematic review and meta-analyses have shown benefits for pharmacologic treatments of GAD [16-25]. For example, a meta-analysis including 89 trials and over 25,000 individuals with GAD compared treatment with over 20 active drugs versus placebo [16]. Most agents modestly improved anxiety with reductions ranging approximately from one to four points in the Hamilton Anxiety Rating scale (a 14-item, 56-point scale). Efficacy trials of specific agents are discussed below. (See 'Initial Pharmacotherapy' below.)
+
+Cognitive-behavioral therapy – Meta-analyses of clinical trials have shown CBT to be effective in the treatment of GAD compared with no treatment, other control conditions (ie, waitlist, psychological placebo, or treatment as usual), or other psychotherapies [14,15,26-29]. Additionally, response rates to CBT for GAD are found to be nearly 50 percent at posttreatment and follow-up (ranging from 1 to 84 months). As examples:
+
+A meta-analysis of 65 randomized and nonrandomized controlled trials with 7739 participants with GAD found that CBT was superior to no treatment (effect size = 0.82) [14].
+
+A meta-analysis of 79 trials involving over 11,000 individuals found that psychotherapy (typically CBT) was more effective than control conditions (waitlist, psychological placebo, or treatment as usual; effect size = 0.76, 95% CI 0.61-0.91, p <0.001) [15].
+
+In a systematic review of 87 studies reporting response rates to CBT for various anxiety disorders, the response rate (clinically significant improvement, variably defined) for GAD was 47 and 48 percent at posttreatment and follow-up, respectively) [30]. (See 'Cognitive-behavioral therapy' below.)
+
+Evidence suggests that the combination of pharmacotherapy and CBT may be better than either alone, although the data are indirect for adults. As an example, a trial compared sertraline, CBT, the combination, or placebo in 488 children and adolescents (7- to 17-year-olds) with separation anxiety, generalized anxiety, or social phobia [11]. After 12 weeks, more patients assigned to combination treatment experienced substantive improvements in GAD symptoms (according to the Clinician Global Impression-Improvement scale) compared with either alone (81 versus 60 percent for CBT and 55 percent for sertraline) or placebo (24 percent). The number of adverse events, including suicidal and homicidal ideation, did not differ across the groups.
+
+COGNITIVE-BEHAVIORAL THERAPY
+We suggest cognitive-behavioral therapy (CBT), either as monotherapy or in combination with pharmacotherapy as the psychosocial treatment of generalized anxiety disorder (GAD). Treatment of GAD with CBT, including administering CBT and components of CBT, as well as treatment with other psychotherapies is discussed elsewhere. (See 'Choosing between medication and CBT' above and "Generalized anxiety disorder in adults: Cognitive-behavioral therapy and other psychotherapies".)
+
+INITIAL PHARMACOTHERAPY
+
+SRIs as preferred initial therapy — Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) are the preferred initial pharmacotherapy in the treatment of generalized anxiety disorder (GAD). Serotonergic reuptake inhibitors (SRIs) have been shown to be effective in the treatment of anxiety symptoms associated with GAD [16-25]. SRIs have less propensity to cause sedation or cognitive side effects than other antidepressant options (eg, tricyclic antidepressants [TCAs]) and less risk of dependence than benzodiazepines. (See 'Limited role of alternatives to SRIs as initial treatment' below.)
+
+The selection among SRIs is based on the medication side effect profile, drug-drug interactions, and/or patient treatment history/preference. For example, in an individual who is sensitive to weight gain, we avoid citalopram and choose fluoxetine; in an individual concerned with sexual dysfunction, we avoid paroxetine and chose duloxetine. Side effects of antidepressants are in the table provided (table 1).
+
+SRIs agents and their administration in the treatment of GAD are discussed below. (See 'Administration of SRI' below.)
+
+Trials have generally shown that all SRIs studied have similar efficacy. Response rates are approximately 60 to 70 percent for SRI versus 40 percent for placebo. There is a paucity of data available directly comparing different SRIs (including SSRIs versus SNRIs) for GAD [31,32].
+
+SSRIs – In clinical trials, paroxetine [17-19], sertraline [20,21], citalopram, and escitalopram [22,24,25] have been found to be more effective in anxiety reduction than placebo. Uncontrolled trials and our clinical experience suggest other SSRIs (eg, fluoxetine and fluvoxamine) are effective for GAD as well.
+
+The largest trial compared paroxetine at two fixed doses (20 and 40 mg/day) with placebo in 566 patients with GAD [18]. After eight weeks of treatment, both doses of paroxetine resulted in a greater reduction of anxiety symptoms than placebo (as measured by the Hamilton Rating Scale for anxiety [HAM-A]). Additionally, 62 and 68 percent, respectively, of the paroxetine treated group responded to treatment versus 46 percent of the placebo group. Rates of remission (defined as ≤7 on the HAM-A) followed the same pattern: 30 and 36 percent for patients receiving 20 and 40 mg/day of paroxetine groups, respectively, compared with 20 percent for patients receiving placebo.
+
+A systematic review concluded that five patients with GAD would need to be treated with antidepressants (rather than placebo) for one patient to achieve a clinical response (ie, number needed to treat = 5) [23].
+
+Randomized trials have shown SSRIs maintain efficacy for at least six months [33]. Our clinical experience has been that they work for a much longer time in this chronic condition.
+
+SNRIs – In network meta-analysis [16] and randomized trials, the SNRIs venlafaxine (extended-release [XR]) [34-37] and duloxetine [38-41] have been shown to improve anxiety in individuals with GAD. As examples:
+
+In a trial of 541 individuals with GAD, venlafaxine XR at fixed doses of 75 and 150 mg/day resulted in greater improvement than placebo on all primary measures (HAM-A, Hospital Anxiety and Depression scale [HADS], and Clinical Global Impression of improvement scale) at 8 and 24 weeks [37].
+
+In a meta-analysis of eight trials including nearly 2400 individuals, those treated with duloxetine had greater improvements on the anxiety subscale of the HADS (mean difference 2.3, 95% CI 1.8-2.9) and the psychic anxiety factor score of the HAM-A (mean difference 2.2, 95% CI 1.6-2.7) versus placebo [40].
+
+Longer-term trials have demonstrated efficacy for as long as six months [38,42].
+
+Administration of SRI — We typically start SSRI and SNRI at the lowest initial dose (table 2) to avoid initial insomnia, agitation, or other early side effects; in some cases, adjunctive therapy is temporarily warranted to manage such side effects (see 'Adjunctive therapy for early side effects' below). The dose is increased after one week to the lower end of the therapeutic dose range if tolerated (table 2). In some settings (eg, inpatient), increasing dose every three to four days to a therapeutic dose range is warranted. Time to onset of clinically meaningful action for an SRI varies by patient, but averages approximately four weeks. We generally maintain the initial therapeutic dose for four to six weeks to allow time for effect. If the patient does not show a robust response, we increase the SRI in one-week increments until sufficient improvement is seen or the maximum recommended or highest tolerated dose is reached. In individuals who show gradual improvement, we continue to monitor for up to 12 weeks at the maximum tolerated dose.
+
+As an example, treatment with sertraline can be initiated at 25 mg per day. After a week, sertraline can be increased to a therapeutic dose of 50 mg/day to 100 mg/day and continued for a total of four to six weeks. If the patient does not experience a robust clinical response, sertraline can be titrated up in increments of 50 mg every one to two weeks to a maximum of 200 mg/day. (See "Selective serotonin reuptake inhibitors: Pharmacology, administration, and side effects", section on 'Dose'.)
+
+Common side effects include sexual dysfunction, gastrointestinal abnormalities (nausea and diarrhea), insomnia, sedation, weight gain, dizziness, and sweating. In individuals treated with venlafaxine, increases in blood pressure can be seen. In these cases, blood pressure should be monitored weekly (table 2). (See "Serotonin-norepinephrine reuptake inhibitors: Pharmacology, administration, and side effects" and "Selective serotonin reuptake inhibitors: Pharmacology, administration, and side effects".)
+
+Adjunctive therapy for early side effects — SSRIs and SNRIs can produce side effects that interfere with the patient’s quality of life and medication adherence. Thus, side effects need to be recognized and managed early in treatment. Individual medications vary in their side effect profile (table 1).
+
+Early adverse effects of SRI treatment include agitation and insomnia which can often lead to discontinuation of the medication before it has had time to effectively treat the primary anxiety associated with GAD. Our approach to addressing early SRI-induced insomnia or agitation is as follows:
+
+Individuals without a history of substance use or disorder – In individuals without a history of substance use or substance use disorder, a benzodiazepine (eg, lorazepam 1 to 2 mg/day in divided doses) can be added. Many individuals get relief of side effects at this dose; however, when further titration is needed, we typically titrate by 1 mg every two to three days in divided doses while monitoring for further improvement of side effects. We are particularly cautious and attentive to dosing when using benzodiazepines due to their risk of dependence. We use the lowest dose that is effective. We continue the benzodiazepine for four to six weeks (or until the individual responds to the SRI) and then taper the benzodiazepine by 25 percent per week (eg, lorazepam 0.5 mg per week) (table 3).
+
+Individuals with a substance use disorder – In individuals with a history of a substance use disorder, we typically augment the SRI with a nonaddictive, sedating medication such as hydroxyzine (an antihistamine with efficacy for insomnia in GAD [43]) or gabapentin. We typically continue the medication for four to six weeks and then taper off if irritability and insomnia are improved.
+
+Limited role of alternatives to SRIs as initial treatment — Other medications including benzodiazepines, buspirone, pregabalin, mirtazapine, and TCAs have been studied as initial treatment for GAD [16,23]. These medications have been shown to improve symptoms of anxiety; however, we generally do not use them as first-line treatment due to prominent side effects, risk of dependence, or limited data supporting their use as initial monotherapy.
+
+In select cases, for example in individuals with severe anxiety that precludes waiting for the SRI to begin to show clinically meaningful effect (see 'Administration of SRI' above), we typically begin a different antianxiety medication concurrent with the SRI. The choice of this medication is based on the patient’s history. Most often we use either hydroxyzine (in individuals with a substance use disorder) or a benzodiazepine (in individuals without a history of substance use disorder). Our practice is to continue this medication for four to six weeks or until the SRI begins to show effect.
+
+In most cases, however, we reserve use of these medications for patients who have suboptimal response to an adequate trial of medication. (See 'No response to SRI treatment' below.)
+
+SUBSEQUENT MANAGEMENT
+We define response as a reduction in symptoms to the extent that they have minimal effect on quality of life. Nonresponse refers to minimal or no change in symptoms with treatment. Symptom reduction that falls between a complete response and nonresponse is considered a partial response. Our subsequent management depends, in part, on response to initial treatment. An algorithm of the treatment for generalized anxiety disorder (GAD) can be found here (algorithm 1).
+
+Suboptimal response
+
+Adjunctive CBT — For individuals with suboptimal response (eg, partial or no response) to initial pharmacologic management, we suggest adjunctive cognitive-behavioral therapy (CBT).
+
+CBT uses reasoning exercises or real experience to facilitate symptom reduction and improve functioning. (See "Generalized anxiety disorder in adults: Cognitive-behavioral therapy and other psychotherapies".)
+
+Trials evaluation the pharmacologic augmentation of CBT show mixed results. While some studies suggest that augmentation of pharmacotherapy with CBT can lead to a greater reduction in symptoms of GAD compared with medications alone, others suggest no difference and have methodologic issues limiting their value [11,44,45]. However, in one trial, 488 adolescents between ages 7 and 17 years old with anxiety disorders including GAD were treated with CBT, sertraline, sertraline plus CBT, or placebo [11]. The percentages of children who were rated as improved or very much improved on the Clinician Global Impression-Improvement scale were 81 percent for combined treatment, 60 percent for cognitive therapy, 55 percent for sertraline, and 24 percent for placebo.
+
+Pharmacologic management
+
+No response to SRI treatment — For individuals who are unresponsive to the initial serotonergic reuptake inhibitor (SRI) agent in addition to adjunctive CBT, we suggest tapering off of the first agent and titrating another SRI. In our clinical experience, an inadequate response to one SRI does not predict failure of a second SRI in GAD. We select the second SRI using the same factors as the first (eg, side effect profile, drug-drug interactions, and patient history and preference).
+
+Partial response to SRI treatment — For individuals with a partial response to SRI treatment, in addition to adjunctive CBT, we recommend augmentation of the SRI with buspirone. Subsequent pharmacologic management of GAD is discussed below. (See 'Adjunctive CBT' above and 'Approach for most individuals' below.)
+
+Approach for most individuals — For most individuals with a partial response to SRI we augment the SRI with buspirone. In individuals who do not respond to buspirone, we use gabapentin as our next choice.
+
+Buspirone – Buspirone is believed to act as a partial agonist at serotonin (5-HT1A) receptors. Initial dose is 10 mg/day; this can be increased by 10 mg every one to two weeks to a maximum dose of 60 mg/day (table 2). With titration at this rate, buspirone is generally well tolerated. The medication should be given a trial of four to six weeks at the maximally tolerated dose before concluding it is ineffective.
+
+A meta-analysis of eight clinical trials in patients with GAD found buspirone to reduce anxiety symptoms compared with placebo [46], offering similar efficacy to benzodiazepines without the risk of dependence. In another clinical trial 44 individuals with GAD were first treated with the benzodiazepine, lorazepam, for five weeks and then randomly assigned to receive 15 mg/day of buspirone or placebo, with a tapering off of the benzodiazepine [47]. After eight weeks, patients receiving buspirone experienced a reduction in anxiety symptoms comparable to lorazepam and greater than individuals receiving placebo. Additionally, buspirone was associated with fewer side effects than lorazepam.
+
+Gabapentin – In most cases, gabapentin is our next choice of augmentation of SRI treatment in patients who show partial response to initial treatment. Pregabalin is another option; however, due to the greater potential of addiction and dependence to pregabalin, we typically use gabapentin. Gabapentin and pregabalin have shown efficacy in the treatment of anxiety disorders however limited data are available [48-50].
+
+Dose and therapeutic range of gabapentin and pregabalin are on the provided table (table 2).
+
+Individuals with mood instability — In individuals who have not fully responded to initial treatment and in whom there are clinically significant mood fluctuations (eg, hypomania or irritability), we occasionally augment the SRI with agents that have mood stabilizing properties, such as valproate or lamotrigine. Very limited data support use of these agents in the treatment of anxiety disorders [51,52].
+
+Unresponsive to multiple agents
+
+Choice of medication — In our clinical experience, a substantial proportion of patients with GAD do not improve or have residual symptoms despite multiple trials of medications and augmenting agents [17,35]. Selection among alternative agents for such patients is influenced by patient characteristics, treatment history, medication profiles, and patient preference (table 2). As an example, in an individual with prominent sleep disturbance, we might choose mirtazapine for its effects on sleep induction. In an individual with depressed mood, we might use vortioxetine or imipramine. Due to the possibility of dependence or abuse of medications or side effects such as tardive dyskinesia (TD) we generally consider using benzodiazepines and antipsychotics after all other options have been ineffective or exhausted. The interventions vary widely in supporting evidence and safety.
+
+Other antidepressants — Antidepressants other than SRIs have shown efficacy in the treatment of GAD and can be used as alternative therapy in those without response to first-line agents and augmentation. We typically use these agents as monotherapy (ie, switch patients off their ineffective regimen to one of these) in order to limit polypharmacy and associated side effects. However, in patients with a partial response to their regimen, we may add one of these agents.
+
+Mirtazapine – A sedating antidepressant, mirtazapine is used as monotherapy or adjunctive treatment for GAD in individuals with prominent insomnia. While clinical trials of mirtazapine in GAD are insufficient to determine its efficacy, promising findings were seen in a small, open-label trial of refractory anxiety with insomnia [53,54]. Sedation and weight gain are two prominent side effects. (See "Atypical antidepressants: Pharmacology, administration, and side effects", section on 'Mirtazapine'.)
+
+Imipramine – A tricyclic antidepressant (TCA), has been shown to be efficacious in treatment of patients with GAD, including those without comorbid depression or panic disorder [23]. Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) are generally preferred over TCAs because the latter have an increased risk of cardiotoxicity in overdose and less acceptable tolerability profiles [6]. (See "Tricyclic and tetracyclic drugs: Pharmacology, administration, and side effects".)
+
+Vilazodone, vortioxetine – Clinical trials have found vilazodone, an SSRI and a 5-HT1A receptor partial agonist, to be as efficacious as other SRIs in GAD [55,56]; in our clinical experience vilazodone has no unique advantages compared with other SSRIs. Vortioxetine has shown mixed results compared with placebo in clinical trials for GAD [56,57]. (See "Serotonin modulators: Pharmacology, administration, and side effects", section on 'Vilazodone' and "Serotonin modulators: Pharmacology, administration, and side effects", section on 'Vortioxetine'.)
+
+Antipsychotics — Another potential pharmacologic treatment strategy for treatment-resistant GAD is the use of the second-generation antipsychotic (SGA) medications. We usually use SGAs, for example, quetiapine or aripiprazole, adjunctively as augmentation of antidepressants. However, they can be used as monotherapy in patients who have had little to no response to prior drug trials.
+
+As an example, quetiapine can be started at 25 mg/day and titrated by 25 to 50 mg every one to two weeks to a maximum dose of 300 mg/day if tolerated [58]. (See "Second-generation antipsychotic medications: Pharmacology, administration, and side effects".)
+
+Randomized trials support the use of SGAs, particularly quetiapine, as part of an augmentation strategy or as monotherapy in treating anxiety [59]. However, adverse effects associated with SGAs, including TD, extrapyramidal symptoms, adverse metabolic effects, and sedation have limited their use in GAD. Additionally, they have been associated with lengthening of the QTc interval, which can lead to syncope, arrhythmia, or sudden cardiac arrest. Our practice is to use these only after other alternatives have been exhausted. (See "Schizophrenia in adults: Maintenance therapy and side effect management", section on 'Side effect management' and "Congenital long QT syndrome: Epidemiology and clinical manifestations" and "Acquired long QT syndrome: Definitions, pathophysiology, and causes".)
+
+Benzodiazepines — In select individuals with GAD who are refractory to multiple prior medication and augmentation trials, we use benzodiazepines as augmentation or monotherapy. We avoid benzodiazepines in individuals with a history of substance use, misuse of medications, or depression because of concerns about dependence and worsening mood symptoms.
+
+Selecting and starting a benzodiazepine — The unique pharmacologic properties of individual benzodiazepines (eg, rapidity of onset, persistence of active drug or metabolite in the body) have clinical significance in their selection. These differences are summarized in a table for the most widely used benzodiazepines, along with clinically important pharmacologic characteristics related to the use and abuse of benzodiazepines (table 3) [60,61]. We tend to preferentially use diazepam or clonazepam as our first choice in the treatment of GAD due to their rapid onset and long half-life (ie, less likely to precipitate withdrawal after repetitive use and discontinuation). (See 'Adverse effects and withdrawal considerations' below.)
+
+Clinical trials and meta-analyses have shown benzodiazepines to be effective in reduction of anxiety and associated symptoms for GAD [16,62-65]. Generally they lead to a reduction of emotional and somatic symptoms within minutes to hours depending on the specific medication. However, due to the potential for abuse and dependence of benzodiazepines we use them after other options have been ineffective or exhausted (table 3) [62,66]. (See 'Unresponsive to multiple agents' above.)
+
+Benzodiazepines are generally started at a low dose and titrated up based on response. As examples:
+
+Clonazepam can be started at 0.25 to 0.5 mg orally once or twice daily and titrated up to 1 mg two or three times daily based on response and side effects.
+
+Diazepam can be started at 2.5 to 5 mg orally once or twice daily and titrated up to 10 mg two or four times daily based on response and side effects.
+
+A table provides information on benzodiazepines’ dosing, comparative potency, onset, metabolism, and elimination half-life (table 3).
+
+Meta-analyses and other trials have found benzodiazepines to be effective in the treatment of GAD while being better tolerated than antidepressants [16,62,67]. For example, in a meta-analysis of 15 trials and over 1000 individuals, benzodiazepines were found to improve symptoms of anxiety (as measured by the Hamilton Rating Scale for anxiety) versus placebo (mean difference -2.29, 95% CI -3.19 to -1.39) at up to 26 weeks. Additionally, in a trial comparing diazepam, venlafaxine, and placebo in 540 patients with GAD, while response rates were similar between groups, discontinuation due to adverse effects were more frequent in individuals taking venlafaxine XR than diazepam [68].
+
+Adverse effects and withdrawal considerations — Side effects of benzodiazepines include impairment of psychomotor performance, amnesia, dependence, withdrawal symptoms after long-term treatment, and rebound anxiety after short-term treatment [69]. Withdrawal and cognitive or learning impairment are more likely for persons taking higher doses.
+
+The onset of withdrawal in individuals who have used benzodiazepines regularly or daily for prolonged periods is driven by the elimination half-life of the medication. Benzodiazepines with shorter elimination half-lives (eg, alprazolam, lorazepam, and oxazepam) are more likely to produce acute withdrawal on abrupt cessation after prolonged use. Benzodiazepines with longer elimination half-lives (eg, clorazepate, diazepam, flurazepam, prazepam, and clonazepam) usually produce more delayed and somewhat attenuated withdrawal symptoms. (See "Benzodiazepine use disorder", section on 'Withdrawal'.)
+
+Antihistamines — We use hydroxyzine in individuals who have not responded to multiple prior medications and augmentation trials. We typically use 25 to 50 mg orally up to four times daily as monotherapy or adjunctive treatment.
+
+In a meta-analysis of five trials with 884 patients, hydroxyzine appeared efficacious for GAD, though the analysis suggested a high risk of bias [43]. Hydroxyzine was found to be more sedating than benzodiazepines and buspirone, and thus potentially useful for treating insomnia associated with GAD.
+
+COMPLEMENTARY TREATMENTS
+Complementary and alternative treatments for anxiety disorders include physical, cognitive, and spiritual activities for anxiety disorders.
+
+In addition to pharmacotherapy or cognitive-behavioral therapy, we suggest aerobic exercise for treatment of generalized anxiety disorder (GAD) in patients who are medically capable. In particular, high-intensity exercise appears to be more effective than low-intensity as a complement to first-line therapy for GAD [70]. Mindfulness-based stress reduction and yoga may also be helpful, as they have also been shown to reduce symptoms of generalized anxiety relative to education control conditions [71,72].
+
+The outcomes of these activities on anxiety are discussed in detail elsewhere. (See "Complementary and alternative treatments for anxiety symptoms and disorders: Physical, cognitive, and spiritual interventions" and "Complementary and alternative treatments for anxiety symptoms and disorders: Herbs and medications".)
+
+DURATION OF TREATMENT
+
+Pharmacotherapy — If effective, antidepressant treatment for generalized anxiety disorder (GAD) should be continued for at least 12 months [73,74]. In a randomized trial, 136 patients with GAD who experienced reduced anxiety during six months of treatment with venlafaxine extended-release (XR) were assigned to medication continuation treatment or placebo for an additional six months [74]. Patients continuing venlafaxine XR had a much lower rate of relapse during the second six months than patients receiving placebo (9.8 versus 53.7 percent). Incidence rates of side effects during the second six months compared with the first six months were lower, did not differ statistically between drug and placebo patients, and included no new side effects.
+
+If the patient experiences a relapse following termination of an effective medication, the length of treatment can be extended. After two relapses when tapering off the medication, ongoing maintenance treatment is suggested.
+
+Cognitive-behavioral therapy — Duration of cognitive-behavioral therapy (CBT) depends on the severity of symptoms, presence of comorbidity, patient resistance to treatment, therapist competence, and number of components incorporated. Typically, this ranges from 10 to 15 sessions however individuals are encouraged to continue to use CBT skills as a form of relapse prevention.
+
+There is some evidence that booster sessions (monthly) following CBT for anxiety disorders is associated with greater maintenance of therapeutic benefits [75], although this has not been specifically studied in the context of GAD. (See "Generalized anxiety disorder in adults: Cognitive-behavioral therapy and other psychotherapies", section on 'Relapse prevention'.)
+
+SOCIETY GUIDELINE LINKS
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Anxiety and anxiety disorders in adults".)
+
+INFORMATION FOR PATIENTS
+UpToDate offers two types of patient education materials, “The Basics” and “Beyond the Basics.” The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on “patient info” and the keyword(s) of interest.)
+
+Basics topic (see "Patient education: Generalized anxiety disorder (The Basics)")
+
+SUMMARY AND RECOMMENDATIONS
+
+Decision to treat – The main objective of treatment of generalized anxiety disorder (GAD) is to reduce symptoms of anxiety and thereby improve functioning. Individuals with mild GAD that does not interfere with daily functioning may reasonably elect to forgo treatment initially. We typically follow-up every three months to see if worsening symptoms warrant treatment. (See 'Determining need for treatment' above.)
+
+Options for therapy – Pharmacotherapy and cognitive-behavioral therapy (CBT) are both effective initial options for treatment of GAD. The choice between them is individualized and made through shared decision making. (See 'Choosing between medication and CBT' above.)
+
+Details on the administration of CBT for GAD are discussed in detail elsewhere. (See "Generalized anxiety disorder in adults: Cognitive-behavioral therapy and other psychotherapies".)
+
+Initial pharmacotherapy – For patients who opt for pharmacotherapy, we suggest initial treatment with a serotonergic reuptake inhibitor (SRI) rather than other medications (Grade 2C). The selection of a specific SRI can be customized to the patient based on the side effect profile, drug-drug interactions, and/or patient treatment history/preference (table 2). (See 'SRIs as preferred initial therapy' above.)
+
+Early adverse effects of SRI treatment include agitation and insomnia which can often lead to discontinuation of the medication before it has had time to effectively treat GAD symptoms. When early adverse effects occur, we typically treat with short-term use of benzodiazepines or hydroxyzine. (See 'Adjunctive therapy for early side effects' above.)
+
+Management of suboptimal response – For most patients with suboptimal response to initial SRI treatment (either no response or partial response) we suggest CBT augmentation if not already done (Grade 2C).
+
+Our pharmacologic approach depends on whether there was partial response or no response to initial treatment (algorithm 1). (See 'Subsequent management' above.)
+
+For individuals with no response, we suggest a trial of a different SRI rather than other medications (Grade 2C). (See 'No response to SRI treatment' above.)
+
+For most individuals with partial response, we suggest augmentation of the SRI with buspirone rather than other agents (Grade 2C). Gabapentin is a reasonable second choice of augmenting agent.
+
+For individuals with significant mood instability, irritability, or hypomania, medications that have mood stabilizing effects such as lamotrigine or valproate are reasonable options. (See 'Partial response to SRI treatment' above.)
+
+For individuals unresponsive to multiple agents, options include tricyclic antidepressants (ie, imipramine), non-SRI antidepressants (ie, vilazodone, mirtazapine), and the antihistamine hydroxyzine. We occasionally use second-generation antipsychotics, such as aripiprazole or quetiapine, or benzodiazepines in the treatment of refractory GAD. (See 'Unresponsive to multiple agents' above.)
+
+Limited role for benzodiazepines – Benzodiazepines are effective for GAD and are commonly used. However, due to their potential for abuse and dependence, we reserve long-term benzodiazepines for patients who cannot use other options or have refractory GAD. (See 'Benzodiazepines' above.)
+
+Complementary treatments – Aerobic exercise, mindfulness-based stress reduction, and yoga have been shown to be an effective augmenting treatment for patients with GAD. For this reason, as well as the general physical and mental health benefits of exercise, we encourage aerobic exercise for patients with anxiety disorders who are able to do so. (See 'Complementary treatments' above.)
+
+Duration of therapy – For individuals who experience a good clinical response to pharmacologic treatment of GAD, we suggest continuing treatment for at least 12 months to prevent relapse or recurrence (Grade 2B). CBT typically ranges from 10 to 15 sessions; however, individuals with a robust response may benefit from monthly booster sessions. (See 'Duration of treatment' above.)
