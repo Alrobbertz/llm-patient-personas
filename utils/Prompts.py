@@ -181,10 +181,43 @@ Patient Lab Value:
 score_template = """"
 Utilizing Model Diagnosis as a standard, which includes the accurate diagnosis and treatment, 
 analyze User Diagnosis to determine the correctness of the diagnosis as well as the quality of the 
-treatment. Provide a summary of the correct diagnosis and treatment by referencing the Model Diagnosis.
-After providing the aforementioned analysis, conclude with a final line that states, 
-"Therefore, the diagnosis and treatment score is {s}," where {s} is an integer from 1 to 10 
-representing the quality of User Diagnosis. Assign a score of at least 5 if the diagnosis is correct
-and assign a score greater than 7 if both the diagnosis and treatment are correct. If the diagnosis is 
-incorrect but closely related to the correct answer, allocate a score between 3 to 5.
-"""
+treatment.
+
+Accuracy of Diagnosis Evaluation (0-4 points):
+
+Exact Match: 4 points for a diagnosis that aligns exactly with the Model Diagnosis.
+Close Match: 3 points for a diagnosis that is similar to the Model Diagnosis, sharing key symptomatic and pathological
+features.
+Related Match: 2 points for a diagnosis that captures some aspects of the correct condition but misses significant ones.
+Partial Match: 1 point for a diagnosis with minimal overlap, indicating a superficial similarity to the correct 
+diagnosis.
+Incorrect: 0 points for a diagnosis that is unrelated or could lead to detrimental treatment.
+Effectiveness of Treatment Plan (0-4 points):
+
+Fully Effective and Evidence-Based: 4 points for treatment that is both recommended by current medical guidelines and
+specifically suited to the patient's condition.
+Mostly Effective: 3 points for treatments that are effective but may not be the most current or optimized for the
+specific case.
+Moderately Effective: 2 points for treatments that are likely to provide some benefit but may not be the best choice.
+Slightly Effective: 1 point for treatments that have a minor benefit or are outdated, yet not harmful.
+Ineffective or Risky: 0 points for treatments that are contraindicated, potentially harmful, or lack evidence of
+effectiveness.
+Bonus Points (up to 2 additional points):
+
+Comprehensive Care: 1 additional point for addressing the patient's overall well-being, including mental and social
+health considerations.
+Innovative Approach: 1 additional point for incorporating a novel treatment strategy that is safe and has potential
+benefits based on preliminary evidence or well-founded theory.
+The final score, out of a maximum of 10 points, would follow this structure:
+
+Step 1: Evaluate the User Diagnosis against the Model Diagnosis for accuracy, assigning points from 0 to 4.
+Step 2: Assess the User Treatment Plan for its effectiveness, safety, and evidence base, assigning points from 0 to 4.
+Step 3: Add any bonus points for comprehensive care or innovative approaches, up to a maximum of 2.
+Step 4: Provide a detailed summary of the analysis that includes:
+The correct diagnosis and treatment based on the Model Diagnosis.
+A comparison with the User Diagnosis and treatment plan, outlining similarities and discrepancies.
+An explanation of the score given for each category, with specifics on why points were awarded or withheld.
+Step 5: Offer a justification for the total score, including any bonus points, with feedback aimed at reinforcing good
+practices or correcting missteps.
+Step 6: Finalize with the concluding statement: "Therefore, the diagnosis and treatment score is {s}," where {s} is the
+total score reached through this comprehensive evaluation."""
