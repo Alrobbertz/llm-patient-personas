@@ -209,10 +209,11 @@ The User diagnosis and Actual diagnosis can be considered a similar if they are 
 capitalization, acronymization, and exact spelling), for example:
 generalized anxiety and Generalized_Anxiety_disorder, heart failure with reduced ejection fraction and HFrEF, or
 diabetes T2 and type_2_diabetes should all be considered matches. 
-If User diagnosis and Actual Diagnosis are not similar, return: Sorry, that is not what this patient's condition. 
+If User diagnosis and Actual Diagnosis are not similar, return: Sorry, that is not this patient's condition. 
 Keep Trying! 
-Please be discriminatory when user diagnosis is vague. For example, diabetes and type 2 diabetes, and heart failure and 
-HFrEF should not be considered similar, as the user did not specify the type of diabetes or heart failure.   
+Please be VERY discriminatory when user diagnosis is vague and could mean multiple conditions. 
+For example, diabetes and type 2 diabetes, and heart failure and HFrEF should not be considered similar, 
+as the user did not specify the type of diabetes or heart failure.   
  
 User diagnosis: {user}
 
