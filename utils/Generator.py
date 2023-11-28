@@ -20,7 +20,8 @@ from utils.Prompts import *
 
 
 class Patient:
-    condition = random.choice(['Asthma'])
+    condition = random.choice(['Asthma', 'Alcohol_Associated_Liver_Disease', 'COVID', 'Generalized_Anxiety_Disorder',
+                               'HFpEF', 'HFrEF', 'Migraine', 'Rheumatoid_Arthritis', 'Type_2_Diabetes'])
     gender = random.choice(['Male', 'Female'])
     demeanor = random.choice(['very kind, outgoing, has a tendency to overshare'])
 
@@ -51,9 +52,23 @@ class Patient:
                 return_direct=False,
             ),
             Tool.from_function(
-                coroutine=self.score_diag,
+                coroutine=self.score_treatment,
                 func=None,
                 description="Used when presented with a diagnosis for a medical condition.",
+                name="Treatment",
+                return_direct=True,
+            ),
+            Tool.from_function(
+                coroutine=self.generate_exam,
+                func=None,
+                description="Always use when keyword <exam> is prepended to the question",
+                name="Exam",
+                return_direct=True,
+            ),
+            Tool.from_function(
+                coroutine=self.diag_eval,
+                func=None,
+                description="Always use when keyword <diagnosis> is prepended to the question",
                 name="Diag",
                 return_direct=True,
             ),
@@ -201,21 +216,51 @@ class Patient:
         )
         return agent_executor
 
-    async def score_diag(self, user_diagnosis):
+    async def generate_exam(self, exam):
+        gpt_3_5 = ChatOpenAI(model_name='gpt-3.5-turbo-16k', openai_api_key=os.environ['OPENAI_API_KEY'],
+                             temperature=0.0)
+        if self._physical_exam is None:
+            await self.get_physical_exam()
+        if self._diagnostic_exam is None:
+            await self.get_diagnostic_exam()
+        # Retrieve patient diagnostic/physical exam findings
+        patient_exam_findings = self._physical_exam + '\n' + self._diagnostic_exam
+        # Instantiate template variables and prompt, create chain and invoke
+        chat_prompt = ChatPromptTemplate.from_messages([("system", exam_template)])
+        chain = chat_prompt | gpt_3_5
+        exam_out = await chain.ainvoke({"disease_state": self.condition, "exam": exam,
+                                        "context": patient_exam_findings, 'gender': self.gender})
+        return exam_out.content
+
+    async def diag_eval(self, user_diagnosis):
         # Create Model
         model = ChatOpenAI(
-            model_name='gpt-3.5-turbo-16k', 
-            openai_api_key=os.environ['OPENAI_API_KEY']
+            model_name='gpt-3.5-turbo-16k',
+            openai_api_key=os.environ['OPENAI_API_KEY'],
+            temperature=0.7
         )
-        # Fetch Recommended Diagnosis and Treatment
-        llm_diagnosis = await self.get_diagnostic_exam()
-        llm_treatment = await self.get_treatment_plan()
+        chat_prompt = ChatPromptTemplate.from_messages([("system", diagnosis_eval_template)])
+        chain = chat_prompt | model
+        score_out = await chain.ainvoke({"model": self.condition,
+                                         "user": user_diagnosis})
+        return score_out.content
 
-        # Construct Prompt
-        score_diagnosis_prompt = score_template + "\n User Diagnosis: " + user_diagnosis + "\n Model Diagnosis: " \
-                                + llm_diagnosis + '. \n' + llm_treatment
-        # Run Model
-        return model.predict(score_diagnosis_prompt)
+    async def score_treatment(self, user_treatment):
+        # Create Model
+        model = ChatOpenAI(
+            model_name='gpt-3.5-turbo-16k',
+            openai_api_key=os.environ['OPENAI_API_KEY'],
+            temperature=0.7
+        )
+        # Fetch Recommended Treatment
+        if self._treatment_plan is None:
+            await self.get_treatment_plan()
+
+        chat_prompt = ChatPromptTemplate.from_messages([("system", score_template)])
+        chain = chat_prompt | model
+        score_out = await chain.ainvoke({"model": self._treatment_plan,
+                                         "user": user_treatment})
+        return score_out.content
 
 
 class LabGenerator:
