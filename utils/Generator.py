@@ -54,7 +54,7 @@ class Patient:
             Tool.from_function(
                 coroutine=self.score_treatment,
                 func=None,
-                description="I will ALWAYS use the Treatment tool when I see the keyword <treatment>",
+                description="Used when presented with a treatment for a medical condition. I will ALWAYS use the Treatment tool when I see the keyword <treatment>",
                 name="Treatment",
                 return_direct=True,
             ),
