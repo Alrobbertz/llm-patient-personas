@@ -1,6 +1,7 @@
 import os
 import logging
 import chainlit as cl
+import asyncio
 from utils.constants import openai_key, INTRODUCTION
 from utils.Generator import Patient
 
@@ -28,8 +29,15 @@ async def on_action(action):
 
     # Start new interaction
     PATIENT = Patient()
-    await cl.Message(content=f"I'll present a new set of symptoms").send()
+    await cl.Message(content=f"I'll send in the next patient.").send()
     res = await PATIENT.get_patient_info()
+    
+    # Run calls that aren't immediately needed in background. If tool is called that requires 
+    # these before finished, await used in tool function to force completion
+    asyncio.create_task(PATIENT.get_diagnostic_exam())
+    asyncio.create_task(PATIENT.get_physical_exam())
+    asyncio.create_task(PATIENT.get_treatment_plan())
+    
     await cl.Message(content=res).send()
 
     # Optionally remove the action button from the chatbot user interface
@@ -46,7 +54,7 @@ async def main():
     
     # Create Starting Interface/User Directions
     await cl.Message(content=INTRODUCTION).send()
-    await cl.Message(content=f"I'll present a new set of symptoms. This may take a couple minutes, please be patient...").send()
+    await cl.Message(content=f"I'll send in the next appointment once they arrive. This may take a couple minutes, please be patient...").send()
 
     # Create new Random Condition and Symptoms
     PATIENT = Patient()
