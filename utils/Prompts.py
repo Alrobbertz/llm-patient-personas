@@ -3,8 +3,10 @@ __all__ = [
     "patient_template",
     "physical_template",
     "diagnostic_template",
+    "exam_template",
     "treatment_template",
     "labs_template",
+    "diagnosis_eval_template",
     "score_template",
 ]
 
@@ -89,18 +91,19 @@ Gender: <insert {gender} here>
 Height: <insert random human height value in feet and inches here>
 Weight: <insert random human weight value in pounds here>
 Blood pressure: <insert appropriate value in mm Hg here>
+Body Temperature: <insert appropriate value in fahrenheit here>
 Heart Rate: <insert appropriate value in beats per minute here>
 Pain Level: <insert value between 0-9 here>
 Patient History: <insert made up medical history here, but do not say or include the words 
-{disease_state}>
-Family History: <insert made up family history here, potentially related to {disease_state} but do 
-not say or include the words {disease_state}>
+of the patient's disease state {disease_state}>
+Family History: <insert fabricated family history here, potentially related to {disease_state} but do 
+not give any family members the same disease state as the patient>
 Current signs and symptoms: <insert 2 to 6 signs/symptoms found in {context} but do not say or 
-include the words '{disease_state}'>
+include the words of the patient's disease state>
 Current Medications: <insert a few OTC or prescription medications but do not include any 
 medications that are used to treat {disease_state}>
 Additional Notes: <add some additional details to make the patient seem realistic, but do not say or 
-include the words '{disease_state}'>
+include the words of the patient's disease state>
 """
 
 physical_template = """
@@ -146,6 +149,27 @@ say or include the words '{disease_state}', list none if there are none in the {
 sure this doesn't contradict the patient template>
 """
 
+exam_template = """
+A medical student is conducting a physical and diagnostic exam to try and diagnose a virtual {gender} patient's 
+disease/condition. The student will indicate what exam they would like to perform below, you will review the medical
+patient's physical and diagnostic findings below and return the relevant exam findings. If the student asks for exam
+findings that are not found in the patient's physical and diagnostic findings or are otherwise irrelevant, please 
+provide an answer that is within normal bounds for a {gender} patient with {disease_state}. Report only the exam 
+findings, do not provide additional commentary and never say the disease state in your report.
+
+Patient physical and diagnostic findings: {context}
+
+Exam student would like to perform: {exam}
+
+Return the findings to the user in the following format:
+{exam} findings: <insert {exam} finding here, make sure it is an appropriate finding for a patient with 
+{disease_state} and consistent with the Patient physical and diagnostic findings above. Never say the words 
+{disease_state}. If info from Patient physical and diagnostic findings is not relevant to the student's requested 
+exam then say '{exam} findings: no abnormal findings'>
+
+{exam} findings:
+"""
+
 treatment_template = """
 You are a medical doctor that is develops treatment plans for {gender} medical patients with 
 {disease_state}. You will use the treatment context below to help you create a treatment plan for 
@@ -176,6 +200,23 @@ Return the values to the user in the following format:
 best of your ability>
 
 Patient Lab Value:
+"""
+
+diagnosis_eval_template = """
+If the User diagnosis and Actual diagnosis below are both similar, return: That is the correct diagnosis, great 
+job!
+The User diagnosis and Actual diagnosis can be considered a similar if they are generally the same (disregard 
+capitalization, acronymization, and exact spelling), for example:
+generalized anxiety and Generalized_Anxiety_disorder, heart failure with reduced ejection fraction and HFrEF, or
+diabetes T2 and type_2_diabetes should all be considered matches. 
+If User diagnosis and Actual Diagnosis are not similar, return: Sorry, that is not what this patient's condition. 
+Keep Trying! 
+Please be discriminatory when user diagnosis is vague. For example, diabetes and type 2 diabetes, and heart failure and 
+HFrEF should not be considered similar, as the user did not specify the type of diabetes or heart failure.   
+ 
+User diagnosis: {user}
+
+Actual Diagnosis: {model}
 """
 
 score_template = """"
@@ -220,4 +261,11 @@ An explanation of the score given for each category, with specifics on why point
 Step 5: Offer a justification for the total score, including any bonus points, with feedback aimed at reinforcing good
 practices or correcting missteps.
 Step 6: Finalize with the concluding statement: "Therefore, the diagnosis and treatment score is {s}," where {s} is the
-total score reached through this comprehensive evaluation."""
+total score reached through this comprehensive evaluation.
+
+User Diagnosis:
+{user}
+
+Model Diagnosis:
+{model}
+"""
