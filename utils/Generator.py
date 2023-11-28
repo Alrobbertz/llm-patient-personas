@@ -47,9 +47,9 @@ class Patient:
             Tool.from_function(
                 coroutine=self.lab_generator.generate_lab_value,
                 func=None,
-                description="Used to run diagnostics and labs for a given medical patient.",
+                description="Always use when keyword <lab> is prepended to the question",
                 name="Lab",
-                return_direct=False,
+                return_direct=True,
             ),
             Tool.from_function(
                 coroutine=self.score_treatment,
