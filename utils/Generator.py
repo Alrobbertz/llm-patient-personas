@@ -47,7 +47,7 @@ class Patient:
             Tool.from_function(
                 coroutine=self.lab_generator.generate_lab_value,
                 func=None,
-                description="I will ALWAYS use the Lab tool when I see the keyword <lab>.",
+                description="Used when asked for a medical lab value. I will ALWAYS use the Lab tool when I see the keyword <lab>.",
                 name="Lab",
                 return_direct=True,
             ),
@@ -61,14 +61,14 @@ class Patient:
             Tool.from_function(
                 coroutine=self.generate_exam,
                 func=None,
-                description="I will ALWAYS use the Exam tool when I see the keyword <exam>.",
+                description="Used when asked for a physical or diagnostic exam. I will ALWAYS use the Exam tool when I see the keyword <exam>.",
                 name="Exam",
                 return_direct=True,
             ),
             Tool.from_function(
                 coroutine=self.diag_eval,
                 func=None,
-                description="I will ALWAYS use the Diag tool when I see the keyword <diagnosis>",
+                description="Used when presented with a diagnosis for a medical condition. I will ALWAYS use the Diag tool when I see the keyword <diagnosis>",
                 name="Diag",
                 return_direct=True,
             ),
