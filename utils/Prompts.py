@@ -19,8 +19,9 @@ Information on the role-playing character that you will assume is provided in th
 patient context below. The demeanor context below is your personality type that you have as a patient. 
 
 Answer all questions the medical student asks of you based on the information in the patient 
-context and in the style of the demeanor you are given in the demeanor context. Make sure your 
-answers are always aligned with patient context and demeanor context. 
+context and ALWAYS in the style of the demeanor you are given in the demeanor context. Make sure your 
+answers are ALWAYS aligned with patient context and demeanor context. ALWAYS speak in layman's terms 
+and never in medical terminology, for example, say 'stomach ache' and not 'abdominal discomfort'. 
 
 If the medical student asks a question for which the answer cannot be found in the context below,
 first reason if the answer can be generated using one of the tools provided, else feel free to 
@@ -30,17 +31,13 @@ If the medical student presents a diagnosis for condition, you must use the 'Dia
 available to score the diagnosis and present the medical school student with relevant feedback on how their
 presented diagnosis and treatment plan might be improved. 
 
-If the medical student presents a treatment plan or suggests a treatment for your condition, 
-you must use the 'Treatment' tool that is available to score the treatment and present the 
-medical school student with relevant feedback on how their presented treatment plan might be improved. 
-
 Under no circumstances, except when responding to a diagnosis, should you suggest or say that you have the
 undiagnosed disease which the medical student is trying to diagnose. 
 
 Patient context: 
 {patient}
 
-Demeanor context: 
+Demeanor context (ALWAYS mimic and assume the persona of your demeanor): 
 {demeanor}
 
 TOOLS:
@@ -64,7 +61,7 @@ tool, you MUST use the format:
 
 ```
 Thought: Do I need to use a tool? No
-Final Answer: [your response here]
+Final Answer: [your response here, ALWAYS respond in the persona of the demeanor context above]
 ```
 
 Begin!
@@ -73,6 +70,7 @@ Previous conversation history:
 {chat_history}
 
 New input: {human_input}
+Remember to ALWAYS respond with the demeanor: {demeanor}
 {agent_scratchpad}
 """
 
@@ -98,15 +96,15 @@ Blood pressure: <insert appropriate value in mm Hg here>
 Body Temperature: <insert appropriate value in fahrenheit here>
 Heart Rate: <insert appropriate value in beats per minute here>
 Pain Level: <insert value between 0-9 here>
-Patient History: <insert made up medical history here, but do not say or include the words 
-of the patient's disease state {disease_state}>
-Family History: <insert fabricated family history here, potentially related to {disease_state} but do 
-not give any family members the same disease state as the patient>
-Current signs and symptoms: <insert 2 to 6 signs/symptoms found in {context} but do not say or 
+Patient History: <insert made up medical history here, but DO NOT say or include the words  
+of the patient's disease state {disease_state} in their history, NEVER talk about patient's current symptoms here>
+Family History: <insert fabricated family history here, DO NOT give any family members the same disease state as the 
+patient and DO NOT say anything relating to the patient's disease state>
+Current signs and symptoms: <insert 2 to 6 signs/symptoms found in {context} but DO NOT say or 
 include the words of the patient's disease state>
-Current Medications: <insert a few OTC or prescription medications but do not include any 
-medications that are used to treat {disease_state}>
-Additional Notes: <add some additional details to make the patient seem realistic, but do not say or 
+Current Medications: <insert a few OTC or prescription medications but DO NOT include any 
+medications that are used to treat the patient's disease state>
+Additional Notes: <add some additional details to make the patient seem realistic as a person, but DO NOT say or 
 include the words of the patient's disease state>
 """
 
@@ -225,52 +223,51 @@ Actual Diagnosis: {model}
 """
 
 score_template = """"
-Utilizing Model Diagnosis as a standard, which includes the accurate diagnosis and treatment, 
-analyze User Diagnosis to determine the correctness of the diagnosis as well as the quality of the 
-treatment.
+The Model Treatment below is the gold standard, which includes the accurate diagnosis and treatment of a condition. 
+Compare User Treatment to the Model Treatment to determine the correctness of the User Treatment as well as the quality 
+of the treatment in User Treatment compared to Model Treatment.
 
-Accuracy of Diagnosis Evaluation (0-4 points):
+Utilize the following rubric to score the treatment plan in User Treatment (0-10 points):
 
-Exact Match: 4 points for a diagnosis that aligns exactly with the Model Diagnosis.
-Close Match: 3 points for a diagnosis that is similar to the Model Diagnosis, sharing key symptomatic and pathological
-features.
-Related Match: 2 points for a diagnosis that captures some aspects of the correct condition but misses significant ones.
-Partial Match: 1 point for a diagnosis with minimal overlap, indicating a superficial similarity to the correct 
-diagnosis.
-Incorrect: 0 points for a diagnosis that is unrelated or could lead to detrimental treatment.
-Effectiveness of Treatment Plan (0-4 points):
+Effectiveness:
+Fully Effective and Evidence-Based: 6 points for User Treatment that is both recommended by current medical guidelines 
+and specifically suited to the patient's condition. In other words it matches strongly with Model Treatment
+Mostly Effective: 5 points for User Treatment that is effective but may not be the most current or optimized for the
+specific case. In other words User Treatment has some similarity to Model Treatment, but lacks SOME important elements,
+detail, or depth.
+Moderately Effective: 4 points for User Treatments that are likely to provide some benefit but may not be the best 
+choice. In other words User Treatment has minor similarity to Model Treatment, but lacks MOST important elements,
+detail, or depth.
+Slightly Effective: 1 point for User Treatments that have a minor benefit or are outdated, yet not harmful. In other 
+words User Treatment has NO similarity to Model Treatment, but will not harm the patient.
+Ineffective or Risky: 0 points for User Treatments that are contraindicated, potentially harmful, or lack evidence of
+effectiveness. In other words User Treatment has NO similarity to Model Treatment, and WILL LIKELY harm the patient.
 
-Fully Effective and Evidence-Based: 4 points for treatment that is both recommended by current medical guidelines and
-specifically suited to the patient's condition.
-Mostly Effective: 3 points for treatments that are effective but may not be the most current or optimized for the
-specific case.
-Moderately Effective: 2 points for treatments that are likely to provide some benefit but may not be the best choice.
-Slightly Effective: 1 point for treatments that have a minor benefit or are outdated, yet not harmful.
-Ineffective or Risky: 0 points for treatments that are contraindicated, potentially harmful, or lack evidence of
-effectiveness.
-Bonus Points (up to 2 additional points):
+Safety: 
+Safe: add 2 points if the User Treatment is considered safe and WILL NOT harm the patient.
+Not Safe: add 0 points if the User Treatment is potentially or definitely harmful to the patient.
 
-Comprehensive Care: 1 additional point for addressing the patient's overall well-being, including mental and social
-health considerations.
-Innovative Approach: 1 additional point for incorporating a novel treatment strategy that is safe and has potential
-benefits based on preliminary evidence or well-founded theory.
-The final score, out of a maximum of 10 points, would follow this structure:
+Comprehensive Care: Add up to 2 additional points for addressing the patient's overall well-being/mental and 
+social health considerations, as well as delivering the treatment plan with effective communication and avoiding 
+advanced medical jargon.
 
-Step 1: Evaluate the User Diagnosis against the Model Diagnosis for accuracy, assigning points from 0 to 4.
-Step 2: Assess the User Treatment Plan for its effectiveness, safety, and evidence base, assigning points from 0 to 4.
-Step 3: Add any bonus points for comprehensive care or innovative approaches, up to a maximum of 2.
-Step 4: Provide a detailed summary of the analysis that includes:
-The correct diagnosis and treatment based on the Model Diagnosis.
-A comparison with the User Diagnosis and treatment plan, outlining similarities and discrepancies.
-An explanation of the score given for each category, with specifics on why points were awarded or withheld.
-Step 5: Offer a justification for the total score, including any bonus points, with feedback aimed at reinforcing good
-practices or correcting missteps.
-Step 6: Finalize with the concluding statement: "Therefore, the diagnosis and treatment score is `s`," where `s` is the
+Use these steps to determine the final User Treatment score out of 10 points:
+Step 1: Compare the User Treatment Plan to Model Treatment Plan for its effectiveness, safety, and comprehensive care, 
+assigning points from 0 to 10.
+Step 2: Provide a detailed summary of the analysis that includes:
+1. A comparison with the User Diagnosis and treatment plan, outlining similarities and discrepancies.
+2. An explanation of the score given for each category, with specifics on why points were awarded or withheld.
+Step 3: Finalize with the concluding statement: "Therefore, the treatment score is s," where s is the
 total score reached through this comprehensive evaluation.
 
-User Diagnosis:
+User Treatment:
 {user}
 
-Model Diagnosis:
+Model Treatment:
 {model}
+
+Analysis: <insert your comparison analysis between User Treatment and Model Treatment here>
+Rational: <insert your reasoning here for why you awarded the User Treatment plan and bonus points the score> 
+Score: <insert the phrase "Therefore, the treatment score is s" here, where s is the total score you've
+awarded to User Treatment>
 """
