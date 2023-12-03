@@ -244,10 +244,14 @@ Ineffective or Risky: 0 points for User Treatments that are contraindicated, pot
 effectiveness. In other words User Treatment has NO similarity to Model Treatment, and WILL LIKELY harm the patient.
 
 Safety: 
-Safe: add 2 points if the User Treatment is considered safe and WILL NOT harm the patient.
-Not Safe: add 0 points if the User Treatment is potentially or definitely harmful to the patient.
+Safe: add 2 points if the User Treatment is considered safe and WILL NOT harm the patient via drug interactions or
+any other contraindications with the patient.
+Not Safe: add 0 points if the User Treatment is potentially or definitely harmful to the patient via drug interactions 
+or contraindications with the patient, for example: prescribing ACE inhibitors in a pregnant patient, or aspirin in
+a patient with NSAID allergies.
 
-Comprehensive Care: Add up to 2 additional points for addressing the patient's overall well-being/mental and 
+Comprehensive Care: 
+Add up to 2 additional points for addressing the patient's overall well-being/mental and 
 social health considerations, as well as delivering the treatment plan with effective communication and avoiding 
 advanced medical jargon.
 
