@@ -26,6 +26,10 @@ STATE = "QA"
 # Current Patient Model
 PATIENT = None
 
+# Define a maximum input length
+MAX_INPUT_LENGTH = 5000
+
+
 # =========================================================
 #                       CALLBACKS
 # =========================================================
@@ -40,18 +44,19 @@ async def on_action(action):
     logging.info(f"Patient Condition: {PATIENT.condition}")
     await cl.Message(content=f"I'll send in the next patient.").send()
     res = await PATIENT.get_patient_info()
-    
+
     # Run calls that aren't immediately needed in background. If tool is called that requires 
     # these before finished, await used in tool function to force completion
     asyncio.create_task(PATIENT.get_diagnostic_exam())
     asyncio.create_task(PATIENT.get_physical_exam())
     asyncio.create_task(PATIENT.get_treatment_plan())
-    
+
     await cl.Message(content=res).send()
 
     # Optionally remove the action button from the chatbot user interface
     # await action.remove()
     await cl.Message(content="Use these buttons to direct the conversation:", actions=actions).send()
+
 
 @cl.action_callback("question_answer")
 async def on_action(action):
@@ -62,6 +67,7 @@ async def on_action(action):
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Default Question/Answer Agent").send()
 
+
 @cl.action_callback("lab_generator")
 async def on_action(action):
     global STATE
@@ -70,6 +76,7 @@ async def on_action(action):
     STATE = "LAB"
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Generate Lab Results").send()
+
 
 @cl.action_callback("exam_generator")
 async def on_action(action):
@@ -80,6 +87,7 @@ async def on_action(action):
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Exam Generation").send()
 
+
 @cl.action_callback("score_diagnosis")
 async def on_action(action):
     global STATE
@@ -88,6 +96,7 @@ async def on_action(action):
     STATE = "DIAG"
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Test Your Diagnosis").send()
+
 
 @cl.action_callback("score_treatment")
 async def on_action(action):
@@ -98,29 +107,32 @@ async def on_action(action):
     logging.info(f"Updated State to: {STATE}")
     await cl.Message(content=f"Switching to Test Your Treatment Plan").send()
 
+
 # =========================================================
 #                  MAIN CHAT FUNCTIONS
 # =========================================================
 
+
 @cl.on_chat_start
 async def main():
     global PATIENT
-    
+
     # Create Starting Interface/User Directions
     await cl.Message(content=INTRODUCTION).send()
-    await cl.Message(content=f"I'll send in the next appointment once they arrive. This may take a couple minutes, please be patient...").send()
+    await cl.Message(
+        content=f"I'll send in the next appointment once they arrive. This may take a couple minutes, please be patient...").send()
 
     # Create new Random Condition and Symptoms
     PATIENT = Patient()
     logging.info(f"Patient Condition: {PATIENT.condition}")
     res = await PATIENT.get_patient_info()
-    
+
     # Run calls that aren't immediately needed in background. If tool is called that requires 
     # these before finished, await used in tool function to force completion
     asyncio.create_task(PATIENT.get_diagnostic_exam())
     asyncio.create_task(PATIENT.get_physical_exam())
     asyncio.create_task(PATIENT.get_treatment_plan())
-    
+
     await cl.Message(content=res).send()
 
     # Add Buttons
@@ -129,27 +141,27 @@ async def main():
 
 @cl.on_message
 async def main(message: cl.Message):
-    # Should Check here what STATE we're in - I'm imagining a finite state machine
-    # Select the Chain we want to use based on the STATE we're in.        
-    match STATE:
-        case "QA":
-            chatbot = await PATIENT.get_chatbot()
-            res = await chatbot.ainvoke({"input": message.content})
-            res = res["output"]
-        case "LAB":
-            res = await PATIENT.lab_generator.generate_lab_value(message.content)
-        case "EXAM":
-            res = await PATIENT.generate_exam(message.content)
-        case "DIAG":
-            res = await PATIENT.diag_eval(message.content)
-        case "TREATMENT":
-            res = await PATIENT.score_treatment(message.content)
-
-    # Do any post processing here
-    message = res
+    if len(message.content) > MAX_INPUT_LENGTH:
+        res = f"Your input is too long. Please keep it under {MAX_INPUT_LENGTH} characters."
+    else:
+        # Should Check here what STATE we're in - I'm imagining a finite state machine
+        # Select the Chain we want to use based on the STATE we're in.
+        match STATE:
+            case "QA":
+                chatbot = await PATIENT.get_chatbot()
+                res = await chatbot.ainvoke({"input": message.content})
+                res = res["output"]
+            case "LAB":
+                res = await PATIENT.lab_generator.generate_lab_value(message.content)
+            case "EXAM":
+                res = await PATIENT.generate_exam(message.content)
+            case "DIAG":
+                res = await PATIENT.diag_eval(message.content)
+            case "TREATMENT":
+                res = await PATIENT.score_treatment(message.content)
 
     # Send the message response
-    await cl.Message(content=message).send()
+    await cl.Message(content=res).send()
     await cl.Message(content="Use these buttons to direct the conversation:", actions=actions).send()
 
 
