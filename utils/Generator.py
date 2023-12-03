@@ -23,7 +23,12 @@ class Patient:
     condition = random.choice(['Asthma', 'Alcohol_Associated_Liver_Disease', 'COVID', 'Generalized_Anxiety_Disorder',
                                'HFpEF', 'HFrEF', 'Migraine', 'Rheumatoid_Arthritis', 'Type_2_Diabetes'])
     gender = random.choice(['Male', 'Female'])
-    demeanor = random.choice(['very kind, outgoing, has a tendency to overshare'])
+    demeanor = random.choice(['very kind, outgoing, has a tendency to overshare',
+                              'very curt, withholds information, ALWAYS gives short answers to questions (5-10 words)',
+                              'ONLY speaks spanish',
+                              'After responding to human input, ALWAYS asks multiple questions about your own answer.\n'
+                              'For example:\n''Human: How long have you been experiencing symptoms?\n'
+                              'AI: About three weeks. Is that a long time? Is that bad? Should I have come in sooner?'])
 
     def __init__(self):
         self.query_dict = {
