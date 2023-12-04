@@ -42,8 +42,11 @@ async def on_action(action):
     # Start new interaction
     PATIENT = Patient()
     logging.info(f"Patient Condition: {PATIENT.condition}")
+    logging.info(f"Patient Demeanor: {PATIENT.demeanor}")
     await cl.Message(content=f"I'll send in the next patient.").send()
     res = await PATIENT.get_patient_info()
+    # Hide some Patient Information
+    res = res.split("Patient History:")[0]
 
     # Run calls that aren't immediately needed in background. If tool is called that requires 
     # these before finished, await used in tool function to force completion
@@ -125,7 +128,10 @@ async def main():
     # Create new Random Condition and Symptoms
     PATIENT = Patient()
     logging.info(f"Patient Condition: {PATIENT.condition}")
+    logging.info(f"Patient Demeanor: {PATIENT.demeanor}")
     res = await PATIENT.get_patient_info()
+    # Hide some Patient Information
+    res = res.split("Patient History:")[0]
 
     # Run calls that aren't immediately needed in background. If tool is called that requires 
     # these before finished, await used in tool function to force completion

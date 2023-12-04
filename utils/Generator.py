@@ -20,17 +20,20 @@ from utils.Prompts import *
 
 
 class Patient:
-    condition = random.choice(['Asthma', 'Alcohol_Associated_Liver_Disease', 'COVID', 'Generalized_Anxiety_Disorder',
+    
+    def __init__(self):
+        
+        self.condition = random.choice(['Asthma', 'Alcohol_Associated_Liver_Disease', 'COVID', 'Generalized_Anxiety_Disorder',
                                'HFpEF', 'HFrEF', 'Migraine', 'Rheumatoid_Arthritis', 'Type_2_Diabetes'])
-    gender = random.choice(['Male', 'Female'])
-    demeanor = random.choice(['very kind, outgoing, has a tendency to overshare',
+        self.gender = random.choice(['Male', 'Female'])
+        self.demeanor = random.choice(['very kind, outgoing, has a tendency to overshare',
                               'very curt, withholds information, ALWAYS gives short answers to questions (5-10 words)',
                               'ONLY speaks spanish',
                               'After responding to human input, ALWAYS asks multiple questions about your own answer.\n'
                               'For example:\n''Human: How long have you been experiencing symptoms?\n'
                               'AI: About three weeks. Is that a long time? Is that bad? Should I have come in sooner?'])
 
-    def __init__(self):
+        
         self.query_dict = {
             'patient_info': f'clinical manifestations or signs and symptoms of {self.condition}',
             'physical': f'physical exam findings for {self.condition}',
