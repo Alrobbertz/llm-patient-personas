@@ -84,22 +84,22 @@ class Patient:
 
     async def get_patient_info(self, text=None):
         if self._patient_info is None:
-            self._patient_info = await self.generator(0.9, patient_template, 'patient_info', 2)
+            self._patient_info = await self.generator(0.9, patient_template, 'patient_info', 3)
         return self._patient_info
 
     async def get_physical_exam(self):
         if self._physical_exam is None:
-            self._physical_exam = await self.generator(0.0, physical_template, 'physical', 2)
+            self._physical_exam = await self.generator(0.0, physical_template, 'physical', 3)
         return self._physical_exam
 
     async def get_diagnostic_exam(self):
         if self._diagnostic_exam is None:
-            self._diagnostic_exam = await self.generator(0.0, diagnostic_template, 'diagnostic', 2)
+            self._diagnostic_exam = await self.generator(0.0, diagnostic_template, 'diagnostic', 3)
         return self._diagnostic_exam
 
     async def get_treatment_plan(self):
         if self._treatment_plan is None:
-            self._treatment_plan = await self.generator(0.0, treatment_template, 'treatment', 3)
+            self._treatment_plan = await self.generator(0.0, treatment_template, 'treatment', 5)
         return self._treatment_plan
 
     async def get_chatbot(self):
