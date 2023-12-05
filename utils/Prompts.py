@@ -99,7 +99,7 @@ Pain Level: <insert value between 0-9 here>
 Patient History: <insert made up medical history here, but DO NOT say or include the words  
 of the patient's disease state {disease_state} in their history, NEVER talk about patient's current symptoms here>
 Family History: <insert fabricated family history here, DO NOT give any family members the same disease state as the 
-patient and DO NOT say anything relating to the patient's disease state>
+patient and NEVER say anything relating to the disease state here>
 Current signs and symptoms: <insert 2 to 6 signs/symptoms found in {context} but DO NOT say or 
 include the words of the patient's disease state>
 Current Medications: <insert a few OTC or prescription medications but DO NOT include any 
