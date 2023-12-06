@@ -28,7 +28,6 @@ class Patient:
         self.gender = random.choice(['Male', 'Female'])
         self.demeanor = random.choice(['very kind, outgoing, has a tendency to overshare',
                               'very curt, withholds information, ALWAYS gives short answers to questions (5-10 words)',
-                              'ONLY speaks spanish',
                               'After responding to human input, ALWAYS asks multiple questions about your own answer.\n'
                               'For example:\n''Human: How long have you been experiencing symptoms?\n'
                               'AI: About three weeks. Is that a long time? Is that bad? Should I have come in sooner?'])
